@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#122f37">
+  <meta name="description" content="A story-based General Conference game for youth. Six topics, thirty clues, and a conversation for every team.">
+  <title>Willowbrook Ward Conference Story Challenge</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="game-content.js" defer></script>
+  <script src="game-core.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to game</a>
+  <div class="page-shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Willowbrook Ward Conference Story Challenge home"><span class="brand-mark" aria-hidden="true">✦</span><span class="brand-title">Willowbrook Ward Conference Story Challenge</span></a>
+      <div class="top-actions"><span class="event-label">OCTOBER 2026</span><button class="text-button" id="guideButton">How to play</button><button class="icon-button" id="fullscreenButton" aria-label="Enter full screen" title="Full screen">⛶</button></div>
+    </header>
+    <main id="main" tabindex="-1">
+      <section id="setup" class="setup-view">
+        <div class="welcome-grid">
+          <div class="welcome-copy">
+            <p class="eyebrow"><span class="tiny-star">✦</span> REMEMBER THE STORY. LIVE THE MESSAGE.</p>
+            <h1>Good stories.<br>Better <em>conversations.</em></h1>
+            <p class="intro">A little friendly competition. A lot to take with you. Explore six conference topics together, one story at a time.</p>
+            <div class="feature-row"><span>6 topics</span><span>30 clues</span><span>Every team answers</span></div>
+            <button id="practiceButton" class="text-button practice-link">Try a practice clue <span aria-hidden="true">↗</span></button>
+          </div>
+          <div class="topic-mosaic" aria-label="Six topics: Follow Christ, Know Your Worth, Find Guidance, Find Strength, Keep Promises, Help Others" id="topicMosaic"></div>
+        </div>
+        <section class="setup-card card" aria-labelledby="setupTitle">
+          <div class="setup-heading"><div><p class="eyebrow">MAKE IT YOUR GAME</p><h2 id="setupTitle">Gather your teams.</h2></div><p>One screen. Paper or whiteboards.<br>No player accounts needed.</p></div>
+          <form id="setupForm">
+            <div class="setup-options">
+              <label class="field">Number of teams<select id="teamCount"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option selected>6</option></select></label>
+              <label class="field">Activity length<select id="sessionLength"><option value="40">40 minutes · 12 clues</option><option value="50" selected>50 minutes · 18 clues</option><option value="70">60–70 minutes · all 30</option></select></label>
+              <label class="checkbox-field"><input id="balancedSelection" type="checkbox" checked><span>Start with balanced topics<small>First 12 picks cover every topic twice.</small></span></label>
+            </div>
+            <div id="teamFields" class="team-fields"></div>
+            <div class="setup-bottom"><button type="submit" class="button primary" id="startButton">Start the challenge <span aria-hidden="true">→</span></button><p>Full points, half points, or a fresh idea.<br> Keep the discussion going.</p></div>
+          </form>
+          <div id="resumePanel" class="resume-panel" hidden><div><strong>Pick up where you left off.</strong><p id="resumeDescription"></p></div><button id="resumeButton" class="button secondary">Resume game</button></div>
+        </section>
+        <div class="welcome-footer"><span>A game made for your youth group.</span><span>Remember · Connect · Apply</span></div>
+      </section>
+      <section id="game" hidden>
+        <div class="game-toolbar"><div><p class="eyebrow" id="roundLabel"></p><h1 id="gameHeading" class="board-title">Choose your next story.</h1></div><div class="session-clock"><button id="sessionPause" class="text-button" aria-label="Pause activity clock">Ⅱ</button><div><span id="sessionTime">50:00</span><small>ACTIVITY TIME LEFT</small></div></div></div>
+        <div id="scoreboard" class="scoreboard" aria-label="Team scores"></div>
+        <section id="boardView">
+          <div class="selection-strip"><span id="selectionHint"></span><span class="all-answer"><span aria-hidden="true">✦</span> Every team answers</span></div>
+          <div class="board-scroll"><div id="boardGrid" class="board-grid" aria-label="Category and points board"></div></div>
+          <div class="board-bottom"><p id="coverageNote"></p><div><button id="undoButton" class="text-button" disabled>↶ Undo last clue</button><button id="finalButton" class="button secondary">Final connection <span aria-hidden="true">→</span></button></div></div>
+          <p id="targetNote" class="target-note" hidden></p>
+        </section>
+        <section id="clueView" hidden aria-labelledby="clueHeading"></section>
+        <section id="finalView" hidden></section>
+        <section id="closingView" hidden></section>
+        <div class="host-toolbar"><span class="save-state" id="saveStatus" role="status">Progress saves on this browser.</span><div><button id="scoresButton" class="text-button">Edit scores</button><button id="exportButton" class="text-button">Save a backup</button><button id="homeButton" class="text-button">Game setup</button></div></div>
+      </section>
+      <p id="notice" class="notice" role="status" hidden></p>
+    </main>
+    <footer class="site-footer"><span>October 2026 General Conference · A youth activity</span><div><button id="importButton" class="text-button">Load a backup</button><button id="printButton" class="text-button">Print host guide</button></div></footer>
+  </div>
+  <dialog id="modal" aria-labelledby="modalTitle"><div class="modal-heading"><h2 id="modalTitle"></h2><button id="modalClose" class="icon-button" aria-label="Close dialog">×</button></div><div id="modalBody"></div></dialog>
+  <input id="importFile" type="file" accept="application/json,.json" hidden>
+  <div id="printGuide" class="print-guide"></div>
+</body>
+</html>
