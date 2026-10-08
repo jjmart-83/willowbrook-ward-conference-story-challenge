@@ -1,0 +1,1042 @@
+{
+  "checkedDate": "2026-10-05",
+  "speakerContactSheet": "assets/speakers/review/full-conference-review.jpg",
+  "sourceTalks": [
+    {
+      "talkId": "alfred-kyungu",
+      "duration": 467.649887,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "4ccc10011a79f534ef016615f37989850b2e6f2002f0cb802aaf018d89893e35",
+      "cueCount": 136,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/alfred-kyungu.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "005fea0b6d7bfc249021b1e37b73e4e2f4a793eaf43926cbc9551d87de65bfe8",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "andrea-munoz-spannaus",
+      "duration": 495.746032,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "6d9bda1d65b93db451b3f7f0180972d91bd07123e8486cae56087a7c82b3d624",
+      "cueCount": 172,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/andrea-munoz-spannaus.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "b8d29b90dfac6f583eee0794f16ae60bb009f2892cc45fdf6cd3d2f99d7eb482",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "partial-name-review"
+    },
+    {
+      "talkId": "christian-c-chigbundu",
+      "duration": 514.321995,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "9299d6f5094b433cdcee38dd82c9502655c5ec21e5c8d64ff4f923b437939b6e",
+      "cueCount": 165,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/christian-c-chigbundu.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "831ef1105a84b2855573ffd05298a6426b22bebd36ee16780ac4b1475ad9f05c",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "ciro-schmeil",
+      "duration": 503.269297,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "bb2a639cc33109d124d191d097f39c98816735cdd6e38e421f1d745995fb0157",
+      "cueCount": 170,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/ciro-schmeil.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "201b2c5c76b259569835d9995cbf12be882f5cd923f06efe532fdb40ba05ca1d",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "clark-g-gilbert",
+      "duration": 720.166893,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "f331cbb4d6124d5a17c6e5ff23eb288cbe79958e609692b3b39284c594c2c16a",
+      "cueCount": 245,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/clark-g-gilbert.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "8bee348046c03f0321bb147eeffcc48beb39a4991d23415f0df3048827714f75",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "d-todd-christofferson",
+      "duration": 766.885442,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "cdd6d0e08c0f9112bb3a40dad619cf61804ebd8115f693950ee76a77b0302fd5",
+      "cueCount": 283,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/d-todd-christofferson.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "11ea5ae4ca3884270a81fa25259e0a21a021478d08efba110a1e2659b3de2380",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "dale-g-renlund",
+      "duration": 627.588934,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "98dec2cd8f12957a30f74594623096780a0ad099e7ef896eed07f766381de6cd",
+      "cueCount": 228,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/dale-g-renlund.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "7bab79507ea886e8d2b1a9c752cade969811759c1fc12b10f5a093189c95fec3",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "dallin-h-oaks",
+      "duration": 800.902676,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "d8621496982586c0458630e4e7c900725015f129cf06ee0ce40f71ad276ef903",
+      "cueCount": 235,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/dallin-h-oaks.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "5592a233942470f7db22b87a5cee363cb11afb92759d25d9a580fb4740b9e3d9",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "dallin-h-oaks-temples",
+      "duration": 197.717914,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "539fc3b37c4b333da8132b333d4737ca1bd66c51a95cb8c7286e4961b1eb98d9",
+      "cueCount": 55,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/dallin-h-oaks-temples.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "b8e53f54a3a11876b6ca802b8064bea4c701bc53a3fa30ac096deab053de0a1b",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "david-a-bednar",
+      "duration": 743.874467,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "8e93f14a803e0ed2b63c4121aa62ceeae6800ef8d291e4c089d339729d17cdb8",
+      "cueCount": 256,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/david-a-bednar.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "4cbcc96c9e0c4b91201e01d606d145194f14d854c7ef9694c57e0822f2e063d3",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "dieter-f-uchtdorf",
+      "duration": 746.776961,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "921ceec084c4a992866a9e112ab7e9e3f92cc450c7308ed0baff3764fab5fc02",
+      "cueCount": 231,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/dieter-f-uchtdorf.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "67479cff2c96c049503c88fe5a85ca35f8343e5d365cad3b2136b0054939aea2",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "edward-dube",
+      "duration": 540.792744,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "dc7d15169347c4d0c1f6185a6a9999dbc0e35d904911af00b4121e16d522049a",
+      "cueCount": 152,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/edward-dube.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "db6e384ffb7d6536980b172b19af092cd10eac387b5fad45222d54e3401801a6",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "gabriel-w-reid",
+      "duration": 519.987664,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "888c86299b0c9795b800f1ae7be379f26b3a6c8e19c7b50fee6548ec86a7e9e4",
+      "cueCount": 196,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/gabriel-w-reid.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "d80bda4262b5ecda33a8d422e1ebf69e6f3504d6db8075cddf4ce07b95ef706c",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "gary-e-stevenson",
+      "duration": 676.304399,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "bbdebcb79eb9bced4bcc4aebd76fbc5cc2691bd524a0990bd7bd11be4983bce3",
+      "cueCount": 227,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/gary-e-stevenson.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "f5e6efb1ce48d8bd5c6d7fb2c39864040d24a98bc635692b66b22456e077f0e7",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "gerrit-w-gong",
+      "duration": 683.502585,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "e64bd3921a8e46cd8a5363034f3ed166e70dddbabdf2168f1e9d60d93819cc6c",
+      "cueCount": 228,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/gerrit-w-gong.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "d9adccee9e14d7c75671cf7e87d41846ea792fff8ce494aeea0cd22418de5da0",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "gerald-causse",
+      "duration": 704.029025,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "6007d76c3c209525a172dc05b7373b3d29bdce0476ebfc21fff00dffae25683e",
+      "cueCount": 242,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/gerald-causse.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "9c264c906d0bce8a47a07d69de8e0073dafa352581c9c37f224efd94a5b3a3f3",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "henry-b-eyring",
+      "duration": 686.08,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "cc0e1ee61f239cf4c649b2bd6cb231adbf70dea9e1063220e48dfe3ffb7d6116",
+      "cueCount": 191,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/henry-b-eyring.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "d4f1ac9793cb7a6f624aa1887df97dc9ae4607580acb34d73b5438e5a5e021a0",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "hutch-u-fale",
+      "duration": 527.27873,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "bd8be192d051f40f706db756fcb53b0ef0e0332bc0f4417dc58fdbfd2cd4373c",
+      "cueCount": 192,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/hutch-u-fale.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "46f2fa22b05a9af1647f5e8d572a3379771b8c67b4fb513f0ac7f7683b645391",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "manual-time-override"
+    },
+    {
+      "talkId": "james-g-o-fantone",
+      "duration": 503.896236,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "87f969e6f915d6ce7f75c94c154dc3e3e9f92af9f08393a31ca77fc37fc383c0",
+      "cueCount": 164,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/james-g-o-fantone.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "87a200e3503bf159559bf277c0aef515341ae8fd56ca1ded4ff977e1b7d6adaa",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "jeremiah-j-morgan",
+      "duration": 486.62059,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "fa7243199a7d3cf7cf619b6e6e8bd6bbf449d26040a1c41f1f8b3ac229e77d9b",
+      "cueCount": 181,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/jeremiah-j-morgan.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "6653b7e37f67405fca6693933096a2fb93fe516e3261eb2d7ac3279b3df2fc54",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "kevin-j-hathaway",
+      "duration": 491.38068,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "bc1c1761e6a296a2af859b624208aa7e82ef4eb5162a567cd8763db8a9041f7e",
+      "cueCount": 176,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/kevin-j-hathaway.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "49cdb22ec98d9d670154136af321fcb66e1c2dbdd3aba72966c003548274b4e4",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "matthew-j-eyring",
+      "duration": 486.876009,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "d94f165e67a4d28ba9115a7f68ee22fc131512018f591ae52b8d7cd6b9b30025",
+      "cueCount": 172,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/matthew-j-eyring.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "ea6aca0ab3bca107544ffd1be96ca51cc7d045b399c5c711c1199296d88bb909",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "michael-a-dunn",
+      "duration": 514.856054,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "4f77a51458694eb879a326380432e69b81b8a507e864f08f5e47a421182c37f0",
+      "cueCount": 178,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/michael-a-dunn.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "23d48aafb658bdf5a05e56abbfdaf9bdecd7cdb042db3724b7d19cde4935e1da",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "moises-villanueva",
+      "duration": 481.14068,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "10630b17f2ec43dcc2687d4aee21edd9c1d449720f6958ea58b3832fa93da154",
+      "cueCount": 155,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/moises-villanueva.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "9dc5dd08b09f2699bc47cdb78227cb15a9b1fca966044cdfd40a087d58b811ee",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "neil-l-andersen",
+      "duration": 672.333787,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "afba4e7be1c61e8b2f9702ae0e64439910ef6185dde8e1939d3724583bbd7910",
+      "cueCount": 222,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/neil-l-andersen.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "4a669a1d69354d510a878dee4043febecfed77c8677a6616e7a4a3650270a525",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "patricio-m-giuffra",
+      "duration": 454.112653,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "68bc7d382e83bc09ba43bf03a095b6afe460b277eb62a9b2b22069ae028fd0c1",
+      "cueCount": 152,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/patricio-m-giuffra.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "f0cd2462d6426cd5f956225a451e7eb56c8331211662badd4038b5397d9f10bc",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "patrick-kearon",
+      "duration": 679.531973,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "c8ec13d2b75a31f336f433020e79450f78e4008d532d08740cb6c045845abc5b",
+      "cueCount": 215,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/patrick-kearon.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "53a591ba27ffaac214c52a86fbc0705f7e6ff4fe6e23c4386b7523e7a17f11a4",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "paul-h-sinclair",
+      "duration": 495.792472,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "c06b7e82052a9c8544ec0106406c2da4bab983306ff145e6915b24ae84e01a88",
+      "cueCount": 162,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/paul-h-sinclair.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "f4fc65c31351276119f0926610d797b94df320fdee032d2b620ac226ae9d7359",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "quentin-l-cook",
+      "duration": 708.673016,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "9850a4c97f1748c5e2e30ef43b966b9ea6e2e10a0933ceec464ae8b3da7584c4",
+      "cueCount": 268,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/quentin-l-cook.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "4d75de6075015e11248ab6c3d0d24ff57d02b3133e4d4dc7d2bbaba3a75d90c9",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "ronald-a-rasband",
+      "duration": 671.962268,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "ad1ec2d125a2da1bba44ba6b2a46a37a0bb1e36b4f6234f3a3f24fdbf972e863",
+      "cueCount": 212,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/ronald-a-rasband.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "05778c4d600f511ed14f442bcdc020b85c88d1fe8ba5cf044004a0bc30900ef6",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "rosemary-k-chibota",
+      "duration": 492.123719,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "59e05ccfde4836ad3c3e83ebdf8a0833fcc942a523900a966dd08d09d6ef7bda",
+      "cueCount": 156,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/rosemary-k-chibota.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "affe22cce7f7aa119bce55a3cc16f76897c16ead0be7c724a350a0bb81266041",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "sean-douglas",
+      "duration": 494.910113,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "3b1b3af90040b32618220762b9a043a28fadd941407e3928e99d19ac9575199e",
+      "cueCount": 177,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/sean-douglas.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "cc2a759c3b0fa5c6f6a87f00dab3e1ab2005fd21ab3218dc8e2e92587a80d9ae",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "tamara-w-runia",
+      "duration": 524.051156,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "2909b3ecf9d4edda0bad04808093c3f097cf383441fe1ba6a28eb0f0b693b781",
+      "cueCount": 220,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/tamara-w-runia.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "c8eb0ee05f53f757920df636eb8cd383d4e89108a1af29da3a29a6ed01052756",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "thabo-lebethoa",
+      "duration": 491.77542,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "9203ed11287962910ec50305ff61ae6a64ff51675832f17ad9af4f35a2d92e4a",
+      "cueCount": 165,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/thabo-lebethoa.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "ba54f809c3dba0a30141f448c979e939ef035274edefbbb2af4cfea2ad93b167",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "timothy-l-farnes",
+      "duration": 550.521905,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "609adfcc4041951736aaac359fd9d059d7f38fa1e980021bce11561b99b6d1fe",
+      "cueCount": 217,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/timothy-l-farnes.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "299323d2335147b53e972e97ba0d85e2a6bfbb933b748682e730b30f2557f655",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "ulisses-soares",
+      "duration": 641.892426,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "511f64a5dad653fc23634045c6660c9f3f249b8be07d19ac336ae60feadd72d4",
+      "cueCount": 213,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/ulisses-soares.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "8921f0fb6f46bc1a3f06c1180c80819885fd4be78477fcf914a70b2affa2d0ee",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    },
+    {
+      "talkId": "vaiangina-sikahema",
+      "duration": 535.661134,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "captionSha256": "c59b0f4e91bcf4438123178c8a3ce891196a2c403b19e36205d0e98636f0648d",
+      "cueCount": 204,
+      "pairedCaptionsIdentical": true,
+      "image": "assets/speakers/vaiangina-sikahema.jpg",
+      "imageDimensions": [
+        1280,
+        720
+      ],
+      "imageSha256": "35b477dc15ec01afcaa6dae400e4e721b9eb2f8648cd2b467acc20a9ec716bf3",
+      "imageReadable": true,
+      "imageVisuallyReviewed": true,
+      "imageStatus": "name-and-title-detected"
+    }
+  ]
+}

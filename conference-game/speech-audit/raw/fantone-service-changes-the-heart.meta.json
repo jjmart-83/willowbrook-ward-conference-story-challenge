@@ -1,0 +1,16 @@
+{
+  "clipId": "fantone-service-changes-the-heart",
+  "clipSha256": "910bb54cc7191f97f82220ac044a78211275ec5aaab0c7b91b1f470d5fc07ede",
+  "sourceFingerprint": "a7683f8ddb6da4b878ad1f049fc7a92096fa25aaf6b0c4bbebba42def7a50aae",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:24.092873+00:00"
+}

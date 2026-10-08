@@ -1,0 +1,16 @@
+{
+  "clipId": "gong-small-temple-ordinances",
+  "clipSha256": "d5765d5a2292efaada7c44ad54aed7a41ad4d24f3f9503e2fbdcd21d1e895c8a",
+  "sourceFingerprint": "8130663f23da03ba129cea1bf316a289a3514f109951162aa167b7568c9015cd",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:13.521312+00:00"
+}

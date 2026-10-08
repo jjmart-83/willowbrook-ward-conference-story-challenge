@@ -1,0 +1,16 @@
+{
+  "clipId": "sikahema-value-access-to-prophetic-words",
+  "clipSha256": "3bfd5112734a6712dd9a0be17679c3ced1b7b56625a5014f9773c065251800ce",
+  "sourceFingerprint": "c61ce55c74364d93ac7de51023ee06a58291e6324c334c79d65accfce86cf1c8",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:23:19.888720+00:00"
+}

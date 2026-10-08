@@ -1,0 +1,30 @@
+:root { color-scheme: light; font: 17px/1.5 "Segoe UI", sans-serif; color: #18383c; background: #f3f3ed; }
+body { margin: 0; }
+header, main { max-width: 1280px; margin: auto; padding: 28px; }
+header { padding-bottom: 8px; }
+nav { display: flex; gap: 24px; flex-wrap: wrap; margin-bottom: 32px; }
+a { color: #135e68; text-underline-offset: 3px; }
+h1 { font: 700 clamp(2rem, 4vw, 3.5rem)/1.15 Georgia, serif; margin: 12px 0; }
+h2 { margin: 5px 0 12px; font-size: 1.3rem; }
+p { margin: 10px 0; }
+.eyebrow { letter-spacing: .12em; font-size: .75rem; font-weight: 700; }
+.status-note { background: #e4ece6; padding: 14px 18px; border-radius: 10px; }
+.filters { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr 1fr; gap: 16px; }
+label { font-size: .8rem; font-weight: 700; }
+input, select { box-sizing: border-box; display: block; width: 100%; padding: 12px; margin-top: 6px; border: 1px solid #a1b3b0; border-radius: 6px; background: #fff; color: inherit; font: inherit; }
+.clip-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+article { padding: 20px; background: #fff; border: 1px solid #d5ded7; border-radius: 12px; }
+video { width: 100%; margin: 12px 0; background: #101f24; aspect-ratio: 16 / 9; border-radius: 6px; }
+.attribution, .range { font-size: .85rem; color: #52686b; }
+.tags { display: flex; gap: 7px; flex-wrap: wrap; }
+.tag { font-size: .75rem; border-radius: 4px; padding: 3px 8px; background: #e8f0e9; }
+.priority-high { background: #f6ddda; color: #793023; }
+.priority-medium { background: #f7ecd0; color: #624c17; }
+.source-links { display: flex; gap: 16px; font-size: .8rem; flex-wrap: wrap; }
+.source-links button { border: 1px solid #a1b3b0; border-radius: 4px; padding: 5px 9px; background: white; color: #135e68; cursor: pointer; font: inherit; }
+.context { margin: 16px 0; padding: 12px; background: #f0f4ef; border-radius: 6px; font-size: .85rem; }
+.context summary { cursor: pointer; font-weight: 700; }
+.context ul { padding-left: 20px; }
+[hidden] { display: none !important; }
+@media (max-width: 850px) { .filters { grid-template-columns: 1fr 1fr; } .clip-grid { grid-template-columns: 1fr; } }
+@media (max-width: 500px) { header, main { padding: 18px; } .filters { grid-template-columns: 1fr; } }

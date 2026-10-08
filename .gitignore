@@ -1,0 +1,20 @@
+# Original downloads are preserved as hashed GitHub release attachments.
+# Captions and descriptions remain in Git with the project.
+/talks/**/*.mp4
+/talks/**/*.m4a
+/talks/**/*.jpg
+
+# Reproducible previews, models, temporary audio, and browser profiles.
+/conference-game/assets/clip-frames/
+/conference-game/speech-audit/models/
+/conference-game/speech-audit/**/*.wav
+/conference-game/speech-audit/**/*.log
+__pycache__/
+*.pyc
+*.partial
+*.partial.mp4
+/.qa/
+
+# The Pages workflow builds these outputs from conference-game/.
+/github-pages/
+/Conference-Story-Challenge-GitHub-Pages.zip

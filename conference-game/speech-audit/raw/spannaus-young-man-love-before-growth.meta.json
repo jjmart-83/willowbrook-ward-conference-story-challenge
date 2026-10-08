@@ -1,0 +1,16 @@
+{
+  "clipId": "spannaus-young-man-love-before-growth",
+  "clipSha256": "f6d276d2ff057fb20992b8a844ca4bc923fa66825b35727b524b5298169b169d",
+  "sourceFingerprint": "8523082f9ba81dcea8e3275a9074f91d1c0faad11ff1fce0c0bbe4371b3d4c1a",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:43.792588+00:00"
+}

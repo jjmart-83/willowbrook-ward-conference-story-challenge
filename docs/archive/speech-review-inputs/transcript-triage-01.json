@@ -1,0 +1,681 @@
+{
+  "schemaVersion": 1,
+  "clips": [
+    {
+      "id": "kyungu-peaceful-replacements",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The full peace-language explanation and replacement list are present; the ending continues into a partly garbled weapons-of-war analogy beyond the intended list, so inspect that transition.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Rather than choosing words and the language that escalate feelings of anger, disappointment and frustration, let us use words that encourage understanding and peace. We must choose language that strengthen confidence and preserves relationships. words such",
+        "ending": "sorry. Please forgive me. I forgive you. Let us start again. I don't want this to divide us. As the converted lemonade buried the weapons of war for peace. We too can bear with the language."
+      },
+      "baseTranscriptSha256": "1a324217f6d9c3d34da222e38b4718edfe3247565b7e96d8cc70d60082f4ce6c"
+    },
+    {
+      "id": "kyungu-heart-and-peace",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Doctrine, following Christ, repentance, prayer, and respectful speech are present; the opening invitation is garbled and the ending begins a new peace quotation, so inspect both boundaries without treating recognition errors as proven cuts.",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "that has filled our heart with the true doctrine of Christ, which has the power to change our language, and help us speak more as peacemakers today, tomorrow, and always. As we follow Jesus Christ, we",
+        "ending": "brings people together. Let us speak with one respect, When we speak with each other, let us qualify for its blessings by using the language of peacemakers. The Savior promised, \"Peace I live on with you.\""
+      },
+      "baseTranscriptSha256": "7296b58c8c3f4417f3e465a73964fc0842a9a1c4e2f93198a3cf027170f1ec43"
+    },
+    {
+      "id": "spannaus-divine-identity",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The divine-identity address, individual work, and joy from loving and trusting God are complete; the final short introduction to seven suggestions is a coherent transition.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "Dear young women, I testify that you are beloved daughters of heavenly parents with a divine nature and an eternal destiny. Each of you has a crucial and important work to do here on earth. That",
+        "ending": "person, but if you choose to love God and Jesus Christ and to trust them, doing that work will bring you the same great joy. I would like to share seven ways that will help you."
+      },
+      "baseTranscriptSha256": "393dce231bfb31da2015fe238f373ec6cb1588b473c6a6d8b23b782c25a0935a"
+    },
+    {
+      "id": "spannaus-spirit-and-sacrament",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The Spirit-guided choice, sacrament promise, and daily request for companionship are complete; the next repentance item starts and stops at \"at the end of the day as\".",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "I would like to share seven ways that will help you in this endeavor. I invite you to listen to the Spirit to choose one to focus on over the next few weeks. One, partake of",
+        "ending": "the promise that as you keep your covenants, the Holy Ghost will be your constant companion, begin each day by asking the Father for that companionship. repent daily and at the end of the day as"
+      },
+      "baseTranscriptSha256": "6e9e2ee05cafd2c765c54a5c14f866b86a5dc20d2a13845a0803cbb360b3e8e1"
+    },
+    {
+      "id": "spannaus-gps-known-and-loved",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The freeway/GPS incident and the complete assurance that full knowledge does not reduce the Lord's love are present; the following young-man introduction is a whole sentence.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "I want to illustrate this concept with an experience. On my way to the dentist, I put the address in my phone. While I was driving on the freeway, the GPS thought I was on a",
+        "ending": "He knows your challenges and how to turn your weaknesses into strengths. He knows everything and knowing everything about you does not make him love you less. Once a young man came running kneeling before Jesus."
+      },
+      "baseTranscriptSha256": "c70532eac8291d093ebc6831707a10a199da4b83e6e08a1dc017dddf850a3235"
+    },
+    {
+      "id": "spannaus-young-man-love-before-growth",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The young man's question, Jesus' loving look before correction, and patient opportunities to improve are complete; the ending begins another address, \"I testify to you,\" without its testimony.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Once a young man came running kneeling before Jesus Christ and asking him, \"What can I do to gain eternal life?\" The young man said he had always obey the commandments. Would Jesus know what else",
+        "ending": "same perfect love for you. Part of the love and mercy is giving us many opportunities and being patient as we learn and work on our list of aspirations. Dear young women, I testify to you."
+      },
+      "baseTranscriptSha256": "def9990d6b92e87c3309474e9e80f4bea7b8feccde93bd8b5fe3e4e9ed9828bf"
+    },
+    {
+      "id": "chigbundu-sacrament-during-the-week",
+      "contentAssessment": "uncertain",
+      "inspectionRecommended": true,
+      "reason": "The sacrament promises and weekday change are present, but the crucial opening relationship-to-the-Savior phrase is badly garbled; the ending also enters the next covenant section. Stronger recognition is needed before claiming missing content.",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "The sacrament, the sacred ordinance that strengthens our nation would deceive you. During the sacrament, we make promises to take upon the name of Jesus Christ, to always remember Him and to keep His commandment. As",
+        "ending": "keep his commandment, our lives are gradually refined and reshaped. Our why me questions will be replaced by what can I learn and what can I change? False, covenant, making covenant and staying in the covenant."
+      },
+      "baseTranscriptSha256": "320e206769c6d04e60f8a48c749e78fcb6f7bc3852ea9097708e986597fdf24e"
+    },
+    {
+      "id": "chigbundu-prayer-and-burdens",
+      "contentAssessment": "uncertain",
+      "inspectionRecommended": true,
+      "reason": "The cancer visit and the \"may not always be removed\" burden qualification remain recognizable, but the woman's testimony of the Savior's love and both boundaries are severely garbled; inspect with a stronger transcript rather than infer an audio cut.",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "who turned to have identified that in prayer. When I saw a serious ability, I attended the state conference in Cudivua. After the start today, I thought session, the state president and I decided to visit",
+        "ending": "in faith, our spiritual immunity will be strengthened. The body will carry, it may not always be removed, but our backs will be built to carry the load placed upon its thoughts, sacrament. Is that correct?"
+      },
+      "baseTranscriptSha256": "288ca7af8334ffa2d75c7a1d91d61192c33ce2b076833a45fa5453a393ca9e34"
+    },
+    {
+      "id": "chigbundu-missionary-scripture-plan",
+      "contentAssessment": "uncertain",
+      "inspectionRecommended": true,
+      "reason": "The Book of Mormon encouragement, trainer study plan, and happier missionary are present; the no-longer-wants-home line is misrecognized as \"sent to Him,\" and prior/next teaching fragments surround the story. These are recognition and boundary concerns, not proof of a missing answer.",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "and troubles of the world. Once I was a mission leader, I received a new missionary. And I welcome interview this young missionary began to cry and asked to be sent home. When I asked why,",
+        "ending": "as a missionary. He said, and I quote, \"I am happy now, And do not want to be sent to Him any longer. My friends, I invite you to send the scripture Give it a gentle."
+      },
+      "baseTranscriptSha256": "37294b0ec6c07454b9c7672288a1b6473d3666cd2b516484d6442118c7daf888"
+    },
+    {
+      "id": "schmeil-covenants-and-yoke",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The covenant definition, agreed conditions, Christ's invitation, and yoke/burden connection are complete despite name garbling; the ending starts the next baptism-covenant sentence and stops after \"we\".",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "We show our faith in Christ by making and keeping covenants with God. A covenant is a sacred promise between God and His children. God gives the conditions for the covenant, and His children agree to",
+        "ending": "For my yoke is easy and my burden is light. It is true covenants that we become yoked with the savages of Christ and our burdens become lighter. The Babsum covenants is the first covenants we"
+      },
+      "baseTranscriptSha256": "aa57e44749cf55e015a17797d398319466c9ad01ad3ba35acca06ceca33421b0"
+    },
+    {
+      "id": "schmeil-sacrament-willingness",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The baptism context, willingness rather than perfection, all three promises, and Spirit/strength result are present; the final Renlund introduction ends before the warning it announces.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "The Babson covenant is the first covenant we make with God. We then make a new covenant with Him each week as we partake of the sacrament during our Sunday worship wherein we renew promises made",
+        "ending": "we have the promise to always have His Spirit with us. The sacrament is essential to have the spirit and the strength to continue on the covenant path. Elder Deo Jirellen has reminded and warned us."
+      },
+      "baseTranscriptSha256": "08276b22157a8ede749f78df0b092cfd045e48ae98ef30b51633abe081309841"
+    },
+    {
+      "id": "schmeil-haggai-priorities",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The temple rebuilding problem, repentance, and modern answer of a relationship with Father and Son through covenants are complete; the final new sentence stops at \"eager to bless\".",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "The sacrament also prepares us to make and keep a temple covenants. We can draw insight about the importance and the blessings of the temple covenants as we read the account of Prophet Haggai in the",
+        "ending": "our covenants. He will magnify our efforts as we consider our ways and make the proper adjustments to make and keep covenants with Him. God knows what is best for us and he's eager to bless"
+      },
+      "baseTranscriptSha256": "e633bc3567f13874e7ca440b8a106d5324d04ec202b911fa67c9ce2245e29bb9"
+    },
+    {
+      "id": "gilbert-retort-without-charity",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The angry retort, lost Spirit, failure to help, and missing love/charity are explicit; the ending starts the next method and cuts after \"truth with love\".",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "I failed to see this with a friend who had at one time been spiritually faithful, but was now attacking the church. My frustration came not just because of his bitterness, but because I knew he",
+        "ending": "I lost the spirit, and I failed to help my struggling friend. That day I stood for truth, but I did it without love and without charity. A second way to stand for truth with love."
+      },
+      "baseTranscriptSha256": "a070dbeef75b7705505720f67e4a5debae24d8b6bfe181fcc0a64cf601188c87"
+    },
+    {
+      "id": "gilbert-five-visitors-wait",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The five visitors, prompting to wait, extended listening, accepted invitation, and teaching from love are complete; the brief final third-principle sentence is a coherent transition.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "A second way to stand for truth with love is to first find common ground. A stake president once brought me a long list of ministering visits. I suggested he choose just one home given our",
+        "ending": "initially respond, built common ground, which allowed me later to teach from a place of love. As with the Savior, we love Him because He loved us first. The third principle is to be a light."
+      },
+      "baseTranscriptSha256": "b39838092a2a06bd2db63ace62b4dca881b7f59bc366635b85187a2d993064cf"
+    },
+    {
+      "id": "christofferson-gambling-opportunity-cost",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Current decisions, future effects, and gambling's lost money/time/relationships are complete; the ending starts \"Perhaps you think you're\" and leaves that new thought unfinished.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "At different times, President Dalin H. Oaks has reminded us that as we make current decisions, we should be asking, \"Where will this lead?\" What is the effect on our future of the decisions we make",
+        "ending": "thing, we lose the opportunity to do another. What is the opportunity cost of gambling? What do you forego in terms of money or time, relationships, worthwhile pursuits? Where does it lead? Perhaps you think you're..."
+      },
+      "baseTranscriptSha256": "f80c5a20aa69dd9051ac5a998092fef4d0ad34c961cff85a65322041807ac3b4"
+    },
+    {
+      "id": "christofferson-resources-for-good",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Accountability, productive contribution, and redirecting time/resources from gambling to good are complete; the ending begins a new beatitude and stops after \"hunger and thirst\".",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Today, I am pleading with all of us to live life on a higher plane. God has granted life and agency to each of us, and each of us is accountable to Him for how we",
+        "ending": "time and resources saved thereby for doing good. The Lord counsels us to be anxiously engaged in a good cause and bring to pass much righteousness. Indeed, blessed are all they who do hunger and thirst."
+      },
+      "baseTranscriptSha256": "1c06ce9b361c0accb506927311dd093ed7a0f093bdd66e99d7e3aa417dc61f22"
+    },
+    {
+      "id": "renlund-trust-and-peace",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "God's constancy, tribulation, and peace/joy through a covenant relationship are complete; an extra final claim that faith frees us from uncertainty begins the next explanation. Inspect trimming or continuing that claim so its meaning is not isolated.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "How often the Lord reassured the children of Israel and reassures us of His constancy, declaring, \"I will never break my covenant with you.\" Perhaps you've been served more than your share of cold oatmeal. Perhaps",
+        "ending": "Christ, He promises spiritual peace no matter our circumstances. We can experience joy in our here and now because of Him and through our covenant relationship with Him. Faith in Jesus Christ frees us from uncertainty."
+      },
+      "baseTranscriptSha256": "a914a5d46b64765ce36a4f263662dfed5d9835c2b4e21f204f1dbf688236082d"
+    },
+    {
+      "id": "renlund-remember-mercies",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Remembering and pondering mercies, seeing the bigger picture, and trusting promises are complete; the ending begins the next personal story with \"one of many\".",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "One of the purposes of the Book of Mormon is to show us what great things the Lord hath done, that we may know the covenants of the Lord, that we are not cast off forever.",
+        "ending": "already done, and remember his goodness and mercy. We're better positioned to grasp the bigger picture and to rely on his promises to us. We can trust him. I remember learning a lesson, one of many,"
+      },
+      "baseTranscriptSha256": "a572d2d46346f4dc308463f0ca2663025df443abf3c5cb37bdccfb6a90f21677"
+    },
+    {
+      "id": "renlund-oatmeal-full-context",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Both heart transplants, recovery, oatmeal not hot/milk not cold, depleted coping, and the bigger-picture lesson are complete; the final \"same trap\" application closes naturally.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "In the late 1980s, Mr. Martin developed severe heart failure. Despite the most advanced medications available, his heart couldn't adequately support his circulation. He would die without a heart transplant. He became my team's patient, and",
+        "ending": "him, and seemingly dismissed the miracle he'd experienced. He lost sight of the bigger picture, both where he had been and the promise the future now held. Me too, can easily fall into the same trap."
+      },
+      "baseTranscriptSha256": "8f4d505609cd268d4147b671dbee6c7c88c0fd3ee992c976a3f269be2c477efd"
+    },
+    {
+      "id": "renlund-linda-no-asterisk",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Linda's imagined exception, recognition of inclusion, and reassurance of no excluding asterisk are complete; the ending starts a Joseph Smith quotation before its teaching.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "I remember learning a lesson, one of many, from my younger sister, Linda. She said that she'd read her scriptures and see remarkable blessings promised by the Lord. In her mind, though, she saw a big",
+        "ending": "no asterisk excluding you from God's richest blessings. If you think there is, take out a big eraser and obliterate that asterisk. You can rely on God's promises. The Prophet Joseph Smith taught that Jesus Christ"
+      },
+      "baseTranscriptSha256": "7d945a0565994a0d3be4c725dcde153c36fb74c9e93b96a0d72169b6c0bfdba9"
+    },
+    {
+      "id": "oaks-faith-small-daily-steps",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Concerns and doubts, drawing closer to Christ, and daily prayer/scriptural learning are present with a complete final sentence; a small interior ASR omission does not obscure the intended practical teaching.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "We all have present or future concerns or struggles we are trying to overcome. These may include questions or doubts. Whatever they are, the way to overcome them is to get closer to our Savior, Jesus",
+        "ending": "way. on developing your faith in God and the mission of His Son, Jesus Christ. Strong faith requires more than strong desire. It means daily trying one step at a time with prayer and scriptural learning."
+      },
+      "baseTranscriptSha256": "5c022e9b8bfdbf12e841168fc122e029b0dc9c52b1010407f08f6b220db1be7b"
+    },
+    {
+      "id": "oaks-patience-and-timing",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The lengthy process, patience with self and others, humility, and trust in God's timing and promises are complete; neither boundary suggests a missing target sentence.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "We are all a work in progress. We are all at different places on what President Nelson called the covenant path. We need to be patient with one another and occasionally, even with ourselves. Overcoming uncertainty",
+        "ending": "strengthening humility. Hold on to the first article of faith, even if something else is uncertain. And while you wait, wait upon the Lord, which includes trusting in his timing as well as in his promises."
+      },
+      "baseTranscriptSha256": "39268c6dc70657b4b9673a5b1204813563137125e4a6c5e77bf54a529a8ddbe4"
+    },
+    {
+      "id": "oaks-closing-study-ponder-act",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The study/ponder/act invitation and promise to receive more are complete; an isolated trailing \"really\" may be recognition noise or the start of the next thought, so inspect the ending before editing.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "As the talks of this conference are published, we invite all to study and ponder them prayerfully and to act in faith on the principles they explain. The Lord has promised unto him that receiveth I",
+        "ending": "this conference are published, we invite all to study and ponder them prayerfully and to act in faith on the principles they explain. The Lord has promised unto him that receiveth I will give more. really."
+      },
+      "baseTranscriptSha256": "30c20c1f1b5c9e1e75c8a52e12733cdef8b3d03487788260375b7a307d2ad8b8"
+    },
+    {
+      "id": "oaks-closing-covenant-destiny",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The restored-gospel testimony, covenant path, Father's desired destiny, and closing amen are complete; the transcript ends naturally.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "I close with my testimony. This is the restored gospel of Jesus Christ in His church of Jesus Christ of Latter-day Saints. Truth is to be found here, truth about the teachings of the Lord, and",
+        "ending": "the Lord, and truth about the covenant path that will lead us to our destiny, the destiny desired by our Heavenly Father. Of all this, I testify to you in the name of Jesus Christ, amen."
+      },
+      "baseTranscriptSha256": "8f6495ad9ee5c658f1eddf842da45e8edcaacc7165ed15ef4966ebddeadc286e"
+    },
+    {
+      "id": "bednar-covenants-direction-faithfulness",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Purpose, direction, strength, honoring covenants, and required ongoing faithfulness are complete; the following Godhead statement is a whole sentence, and the separate no-fault qualification is not this clip's target.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "The covenants and ordinances of the Savior's restored gospel are spiritual credentials that can open wide the heavenly windows of opportunity to receive in our life's divine purpose direction and strength. \"God promises his sons and",
+        "ending": "laws and ordinances of the gospel of Jesus Christ. Ongoing faithfulness is required for those credentials to be valid and for promised blessings to be received.\" The Holy Ghost is the third member of the Godhead."
+      },
+      "baseTranscriptSha256": "3f5a7a2c63cdf35d207a0b761c030f35ed800e117e39727859b2df9b8a447e1d"
+    },
+    {
+      "id": "bednar-eternal-blessings-and-unknown-details",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Both the admission of unknown details/timing and the assurance that another person's agency cannot remove promised eternal blessings are complete; the final King Benjamin introduction is a coherent sentence.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "Now, you may ask, how can this be the case if a temple marriage does not endure? The revealed doctrine of the Church of Jesus Christ of Latter-day Saints does not address all details of and",
+        "ending": "blessings will be received. No faithful disciple will ultimately be deprived of any eternal blessing God has promised because of another individual's unrighteous exercise of moral agency. I conclude with a reassuring testimony of King Benjamin."
+      },
+      "baseTranscriptSha256": "bed4835e28ddba2c0971744cafb54dbe9f8b4a76d4c89144be12722c1bf5be91"
+    },
+    {
+      "id": "bednar-passport-story",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The damaged passport, rejection, maintenance lesson, and no-guarantee limit are complete; the final sentence announces analogy limitations without giving them here. Inspect that ending and retain the separately supplied no-fault and authorized-stamp companions.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "I began with a short story. Once a man wanted to visit family members in a distant country, he planned his trip packed his suitcase and traveled by airplane to the city where his relatives lived.",
+        "ending": "a valid passport provided the opportunity for the man to enter the country. But the passport alone did not guarantee he actually would be allowed to enter the country. Of course, this simple analogy has limitations."
+      },
+      "baseTranscriptSha256": "39bee005a633ddfb17b95861218c10bd9c9f94acdee55940b88bbb2f5f04c323"
+    },
+    {
+      "id": "bednar-passport-authorized-stamp",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The authorized passport stamp and verifying witness of the Holy Spirit of Promise for covenant/ordinance blessings are complete; the ending begins a gratitude sentence and stops after \"sacred\".",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Just as the man in my passport story needed an authorized stamp in his passport to enter a foreign country, so each of us needs the verifying witness of the Holy Spirit of promise. In order",
+        "ending": "verifying witness of the Holy Spirit of promise. In order for us to receive the eternal blessings associated with the covenants and ordinances of the Savior's gospel.\" Each of us should ever be grateful for sacred,"
+      },
+      "baseTranscriptSha256": "ad1d6391a5bbed4cf17dfb36b54981b766da0e7448435c1a6e58db7b495dd1ec"
+    },
+    {
+      "id": "bednar-passport-adversity-limit",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The essential no-fault adversity qualification explicitly says promises are not diminished and covenants not invalidated; the ending then begins an unfinished priesthood-ordinance sentence.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Of course, this simple analogy has limitations. Unlike damage to a physical passport, the adversities and afflictions we experience through no fault of our own do not diminish God's promises to us or invalidate our covenants.",
+        "ending": "damage to a physical passport, the adversities and afflictions we experience through no fault of our own do not diminish God's promises to us or invalidate our covenants. For disciples of Jesus Christ receiving priesthood ordnance."
+      },
+      "baseTranscriptSha256": "84bed3f55976194e761eb5627282ea6809e8c30365c44e7e3e54e81f15249969"
+    },
+    {
+      "id": "uchtdorf-baptism-covenant-people",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Individual baptism, joining a covenant people, bearing burdens, mourning/comforting, and walking together are complete; a prior-sentence fragment precedes baptism and the next scripture discussion stops at \"how much of\".",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "can use eternally. Baptism is the gate through which we enter this straight and narrow path. We must enter that gate one by one. Baptism is an individual ordinance. However, it is also a unifying one.",
+        "ending": "say humbly, gratefully, and with quiet confidence that we want to follow our beloved Savior Jesus Christ, and we want to walk that path together. When I read the scriptures, I'm impressed with how much of"
+      },
+      "baseTranscriptSha256": "f327a33b3b0274fb6c0e744e4a47cbac39968357e08b1fddcb4939e27ac82ca0"
+    },
+    {
+      "id": "uchtdorf-sacrament-not-alone",
+      "contentAssessment": "uncertain",
+      "inspectionRecommended": true,
+      "reason": "Renewal, collective participation, and having Christ and each other are present, but every occurrence of sacrament becomes \"segment\" in base ASR; the ending also stops within a new invitation. Stronger recognition should resolve the subject before judging a content error.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "My dear brothers and sisters, the segment can become a fresh starting point for our personal relationship with God and for a greater Christ-centered unity in our lives. Have you ever noticed that the segment is",
+        "ending": "the same covenants. The segment is a weekly reminder, a sacred reminder, that we are not alone. We have the Savior, and we have each other. Wherever you are, I invite you to join the Christ"
+      },
+      "baseTranscriptSha256": "3df227b08fdb1e11f5e2effbdb1b031b8abb51bebc33845d18c2f9143664446a"
+    },
+    {
+      "id": "uchtdorf-great-grandchildren-baptism",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The two great-grandchildren's baptism, choosing Christ, and name/commandment/service promises are complete; the ending begins a look-back to a further memory beyond the selected account.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "It is such a joy to be with you today. Recently, Sister Octa and I attended the baptism of two of our great-grandchildren. We rejoiced with them as they chose to follow Jesus Christ and made",
+        "ending": "Him. By entering the waters of baptism, they literally followed not only the Savior's example, But also the example of siblings, cousins, parents, and many trusted friends. My heart fills with gratitude when I think back."
+      },
+      "baseTranscriptSha256": "50b16857cd64e45ad866033d0bf0aed34fc8f3cf14e99448d894a20286703055"
+    },
+    {
+      "id": "dube-come-before-perfection",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Coming before perfection, surrender, and perfection after resurrection through the Lord for those who love/obey are complete; the ending starts a new airport story and stops at a person's name.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Consider moralizing invitation. Yay, come unto Christ and be perfected in Him. Deny yourselves of all ungodliness. Three key truths to note. One, come, it's an action. We choose to move from our current place to",
+        "ending": "is pending. It can come in full only after the resurrection and only through the Lord. It awaits all who love him and keep his commandments. Last June, on the way to the airport, President Bragg,"
+      },
+      "baseTranscriptSha256": "a046cd699486a6911108f4953ab075f8d89b995d846418f03ad27ba4be927b6c"
+    },
+    {
+      "id": "dube-uncertain-faith-and-invitation",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The former missionary's uncertainty, Christ's joy, and invitation to find a person or friend are complete; the ending begins the next lose-yourself application without finishing its result.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "One of our former missionaries wrote me recently and said, \"As for my faith, my testimony is not as certain as it once was.\" To him, and to all who feel that same egg I invite",
+        "ending": "person and invite him over here to come unto Christ by exercising faith to follow his teachings or invite a friend to meet with the missionaries as you lose yourself in helping him or he come."
+      },
+      "baseTranscriptSha256": "2a95abb175354cb5343bb2ed24bcb3938ae58adbbc44cb6c8fbbeeaebb65d416"
+    },
+    {
+      "id": "reid-mango-tree-love",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Teachers' love, knowing children personally/by name, and the Savior-love connection are complete; \"mangletree\" leaves the mango-tree setting uncertain in ASR, and the ending starts the next Australia reminiscence. Do not substitute the garbled tree word as an accepted answer.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Many of my earliest primary classes were held beneath the shade of a mangletree. Our teachers faithfully prepared each lesson, but what I remember most is how they loved us. They knew us personally, even by",
+        "ending": "pattern of the master teacher because the impact of a gospel teacher is not just the message, it is the love of the messenger. My wife and I will always cherish our time in the Australia,"
+      },
+      "baseTranscriptSha256": "a8f784c00d6216e596f3dce5add55b238bc91ed8bd1a6aa503741b46d65e1015"
+    },
+    {
+      "id": "reid-growing-with-the-master",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The reassurance to reluctant teachers, love for the Master, gradual help, and teaching/loving like Christ are complete; the ending cuts the closing prayer after \"whom we\".",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Brothers and sisters, if you are wondering whether you are good enough to teach the gospel of Jesus Christ, the answer is yes. Not because you know everything, not because you have every teaching skill, not",
+        "ending": "and that love will make your teaching more like his. To teach like the Savior, we must love like the Savior. This is my prayer and invitation in the name of the Master Teacher whom we"
+      },
+      "baseTranscriptSha256": "8f98e5d872aed32261f2d02fbcd102c2591a20e403d82271c6f7ea485be3c988"
+    },
+    {
+      "id": "stevenson-farm-stand-peaches",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The farm stand's peaches and family fruit memory are explicit; the opening carries a prior-thought fragment before the clean \"When I was young\" setup. The final Book of Mormon invitation is a whole transition, not a missing story answer.",
+      "openingConcern": true,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "balance, to be happy and bless others. When I was young like you, I loved fruit, and our family tradition of buying fresh fruit from farm stands during harvest, one stand was known for its delicious",
+        "ending": "Here I am with my dad next to a fruit display. Even today I love seeing and tasting delicious and unique fruits from your countries. Now we're all hungry, let's read a book of Mormon story."
+      },
+      "baseTranscriptSha256": "04416b91fd5d414ef3286ae90abc837079717d8ec6d539ff88e14361668d65d9"
+    },
+    {
+      "id": "stevenson-taste-by-living",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Seeing, feeling, smelling, and then tasting fruit are distinguished and applied to living gospel truths for joy; the closing introduction to three fruits is a coherent transition.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "Think for a moment about your favorite fruits. Are they pineapples, bananas, and grapes, or mangoes, strawberries, and coconuts? We can hold the fruit, feel it, and look at it. We might smell it and guess",
+        "ending": "is the same. We learn them at home, at primary and through the scriptures. They become sweet to us as we live them, bringing us happiness and joy. Let me share three fruits of the gospel."
+      },
+      "baseTranscriptSha256": "173d8c25b32c6cd16a357be4e430e53ce38e2ae379f814be56d8c0ce3c49a603"
+    },
+    {
+      "id": "stevenson-identity-strength-and-kindness",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Divine identity, personal knowledge, gifts, strength, kindness, and seeing others as siblings are complete; a prior-list fragment opens the clip and the next application ends at \"when you see\".",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "that I love. First, we are children of a loving Heavenly Father. Latter-day saints know that we once lived with Heavenly Father who knows everything and loves everyone. Whereas children, Heavenly Father knows us personally. This",
+        "ending": "knowledge makes us stronger. This knowledge also makes us kinder to others knowing that everyone around us is our brother or sister. I am so grateful that you share this fruit with others when you see."
+      },
+      "baseTranscriptSha256": "1400106c88f6a7f26c8f8710d77a4eafa35797968bbefc3865e76d9f002a2363"
+    },
+    {
+      "id": "stevenson-spirit-warns-comforts-testifies",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Baptism/confirmation, the Holy Ghost's warning/comfort/witness roles, and the complete Father-love song are present; the short listener acknowledgement is a whole sentence.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "Finally, a most delicious fruit for Latter-day Saints is the gift of the Holy Ghost, his constant companionship. When you turn eight years old following your baptism, you receive this gift by the lane on of",
+        "ending": "Know My Father Lives and Loves Me To,\" the spirit whispers this to me and tells me it is true, and tells me it It is true. To my young friends, you've been especially good listeners."
+      },
+      "baseTranscriptSha256": "5cdbec49aad87d57fbd75ace698dd6cdb21a35f3cb651a40fedfbb4b35b4d9af"
+    },
+    {
+      "id": "gong-holy-spirit-of-promise-and-faithfulness",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The verifying/sealing role and the essential limit for unhonored or unwanted covenants are complete; the closing five-elements introduction is a whole sentence.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "When the Holy Spirit of promise witnesses and confirms the efficacy of ordinances and covenants, they become binding in time and eternity. In his sacred role as Holy Spirit of promise, the Holy goes witnesses to",
+        "ending": "not honor in faith in action, do not choose her desire, or perhaps even disregard her mock to be binding upon us on earth or in heaven. With this doctrinal foundation, let us consider five elements."
+      },
+      "baseTranscriptSha256": "fb9c13fbd81ef4402fbfdfddb9b8af62b8a338f229740a87a190952e72205cf7"
+    },
+    {
+      "id": "gong-small-temple-ordinances",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Both board-answer nouns, ordinances and covenants, are expressly neither big nor small, followed by gratitude; the ending starts an unfinished appeal after \"wherever we live\".",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "I once heard Elder Gong, \"We're happy to have a temple, but sorry, it's a small temple.\" I said, \"Dear brother, dear sister, ordinances are not big or small, covenants are not big or small, please",
+        "ending": "a temple as big or small, elaborate or plain. Let us always only speak with love and gratitude for holiness to the Lord, the house of the Lord. Please, dear brothers and sisters, wherever we live,"
+      },
+      "baseTranscriptSha256": "5e1050c76c7170a10aac74b5801006ea06b06bce5e084a611a92b8ab784fcdad"
+    },
+    {
+      "id": "gong-children-buy-temple-clothing",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Children saving for their widowed mother's temple clothing, her years of worship, burial request, and resurrection conclusion are complete; the final worship invitation is a complete sentence.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "I know a family of modest means. At their widowed mother's request, the children saved and purchased their mother her own ceremonial temple clothes. Their mother loved using her own temple clothing as she regularly attended",
+        "ending": "mother passed away, the family honored their mother's request by burying her in her temple clothes. dear mother was ready to enter eternity prepared for the glorious resurrection. Dear brothers and sisters, come worship and rejoice."
+      },
+      "baseTranscriptSha256": "28a071655e8e46812634d1f9b5e55c907bab4eca81aeb0b58a9e9389185af509"
+    },
+    {
+      "id": "causse-magazine-prompting-and-peace",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Prayer, the kitchen-table magazine prompting, the reassuring scripture, peace, and witnessing of Christ are complete despite the magazine-name spelling; the ending starts the later calling account and stops at \"and\".",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Eighteen years ago, Valerie and I received a telephone call from President Thomas S. Monson during which he called me to serve as a General Authority 70. We accepted in faith knowing that this calling would",
+        "ending": "peace to my heart. I realized that my primary responsibility was simply to bear witness of the Savior. Everything else will be in His hands. 11 months ago, I was reminded of that same promise and"
+      },
+      "baseTranscriptSha256": "1803fa4c60609ea762c0aa8b4161f68f1178a570b297c945f268dd88664bbc99"
+    },
+    {
+      "id": "causse-testimony-and-love",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Sharing testimony and expressing sincere Christlike love as witness are complete; humility is misrecognized as \"humidity\" and the ending begins a new exhortation without its object. This is a recognition/boundary concern, not evidence the main teaching is absent.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Our testimony is not a talent to be hidden, it is a gift to be shared, with grateful hearts and in the spirit of humidity and love. Testimony and love are deeply connected gifts that echo",
+        "ending": "of bearing testimony of Jesus Christ. Whenever we express Christlike love to those around us, we bear witness of Him, the source of all perfect love. Brothers and sisters, I hope you will fill your lives."
+      },
+      "baseTranscriptSha256": "100fc4cd36dc578688b1939a57c648557e36cd4251e04a2acf986827e09c7144"
+    },
+    {
+      "id": "causse-results-of-sharing-witness",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Stronger testimony, closeness to the Lord, redemption, and blessing/ministering to others are complete; the final sentence begins Alma's story and stops at \"remembers\".",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Brothers and sisters, do you realize that your testimony can literally change lives, your own and the lives of others? As you share it freely, your own testimony will grow stronger. You will draw closer to",
+        "ending": "and feel more deeply the power of His redemption. In turn, you will become instruments in His hands to bless and minister to those around you. At a moment of deep anguish, the young Alma remembers."
+      },
+      "baseTranscriptSha256": "034f17bf61f0b70c79ad61562f1cf9653eb28e7810cd291a8657e62d91dbb441"
+    },
+    {
+      "id": "h-eyring-help-without-removing-challenges",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The hymn's aid/strength promises and the explicit statement that challenges are not promised removal are present; the final mother-reference is a complete setup sentence and does not remove the qualification.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "Fear not I am with thee, O be not dismayed, for I am by God and will still give the aid. I'll strengthen thee healthy and cause thee to stand, upheld by my righteous, omnipotent hand.\"",
+        "ending": "our lives and the lives of those we live. It is important to realize that the promise is not for the removal of challenges. My wise mother taught me that when I was a little boy."
+      },
+      "baseTranscriptSha256": "5c3f8eb293199ef816ecac5efe1ee8f58be82b660f0b4deed871531556814e3f"
+    },
+    {
+      "id": "h-eyring-pray-notice-reach-out",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Praying for people, noticing a face/name, reaching out, and simple comfort as evidence of God's knowledge/love are complete; the final discouraged-missionary statement is a whole transition.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "You have prayed in faith consistently for your family members or friends to know who the Lord would have you help for Him. As a face or a name has come into your mind, you have",
+        "ending": "them. Even your simple attention was a comfort that you felt prompted to reach out to them was evidence to them that the Lord knew and loved them. Many of you have recognized a discouraged missionary."
+      },
+      "baseTranscriptSha256": "015faaafeb3b30a6f718ca4e72d4fdef78a185c40f50ea3921fa5f12bad0dc30"
+    },
+    {
+      "id": "fale-baby-pictures-unearned-love",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The baby-picture question, \"Nothing\" answer, enduring parental/divine love, return-home invitation, and Spirit's witness are complete; the opening has a prior explanatory fragment, while the final family-example transition is a whole sentence.",
+      "openingConcern": true,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "father teaches us about his love. While at a church meeting last year, I received an impression to do what the teacher was doing. So in the text, I asked my wife to find a baby",
+        "ending": "always turn to your Father in heaven. There were tears in tender hearts as the Holy Spirit bore witness that this was true. I referenced my children, but for you it might be a special love."
+      },
+      "baseTranscriptSha256": "685e40b5bd55a42e6e128d1db9abd1ccaaa625e93ceb87a2176c2616b90ee97c"
+    },
+    {
+      "id": "fale-labels-repentance-and-belonging",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Rejecting divisive labels, repentance rather than judging, and making sure no one is alone are complete; a prior-point fragment opens the clip and the next point cuts after \"pernicious lie\".",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "become more like him. Second, when we understand God's love for us and for the rest of his children, we become immune to the divisive and misleading labels of our fallen world, both the labels that",
+        "ending": "best is yet before us. We are forever willing to love and to make sure that no one is ever sitting, standing, or walking alone. Third, understanding our Father's love protects us from the pernicious lie"
+      },
+      "baseTranscriptSha256": "9684dd8ab4d3013d4cab6137d8a87bbb51472cd9b52e200abcf81fec3e518604"
+    },
+    {
+      "id": "fantone-school-form-name-mistake",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The school paperwork mistake and adding the daughter's name to fix it are complete; the ending starts the reflection that follows without completing it. The covenant/service application is intentionally in its companion clip.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "My dear brothers and sisters, after my wife and I completed our service as mission leaders in the Philippine Santi Poly mission, our youngest daughter made a special request. She asked to complete her 11th grade",
+        "ending": "fix. You see, our youngest daughter's name is Amanda James Fantoni. So I simply added Amanda right before my own name, and the error was quickly fixed. Later, in a quiet moment of reflection, A profuse."
+      },
+      "baseTranscriptSha256": "c20602806128d56f3fa114d271292f4dcc5e920035e795f64226c5d56837f53b"
+    },
+    {
+      "id": "fantone-taking-name-through-covenant-service",
+      "contentAssessment": "uncertain",
+      "inspectionRecommended": true,
+      "reason": "Affiliation versus becoming like Christ, lifelong determination to serve, and service to others as service to God are present; the covenant wording is repeatedly split into \"coven and,\" and the ending starts an unfinished childhood story. Confirm the garbled covenant phrase with stronger recognition, not a substitute alias.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "The Savior's invitation is not merely for us to add His name to our name like a badge of religious affiliation. The Savior, why? Some draw near to me with their lips, but their hearts are",
+        "ending": "provided a divine key. When ye are in the service of your fellow beings, ye are only in the service of your God. I was blessed to grow up in a home, where serving others was"
+      },
+      "baseTranscriptSha256": "a5f67f92bd4107f24a4bb06b6655831b8b590fa2cbb973660ab53b12a2944685"
+    }
+  ]
+}

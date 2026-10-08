@@ -1,0 +1,16 @@
+{
+  "clipId": "runia-sculpture-help-and-christ",
+  "clipSha256": "08dd7731f4fb49dbc6615d1628c59b878b945c890fcb8a87af6c18ef5cf7a0ce",
+  "sourceFingerprint": "2c47b61fd680acfa0b055fa2cf910146565d3047c3c9ab78fdc9a6453658159e",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:23:05.311200+00:00"
+}

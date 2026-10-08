@@ -1,0 +1,16 @@
+{
+  "clipId": "reid-growing-with-the-master",
+  "clipSha256": "36bebd10755f7beabbdddd238a1b7ee8faadf87b0c44d20f131089895d6ecd14",
+  "sourceFingerprint": "15ab744143f5ca3f53cff50abfadcf19beccf952211a328c743148c445800390",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:09.492742+00:00"
+}

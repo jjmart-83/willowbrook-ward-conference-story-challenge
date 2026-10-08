@@ -1,0 +1,16 @@
+{
+  "clipId": "chigbundu-missionary-scripture-plan",
+  "clipSha256": "82e55a209e9851fe3541ea1cfcdcc08b5bf981fac392bbb7d765f55fbde74e78",
+  "sourceFingerprint": "48d02735200dc26c92b727a2a974592382ca3be64ca806d551e503c3f4174b3e",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\.cache\\whisper\\ggml-large-v3.bin",
+  "modelSha256": "64d182b440b98d5203c4f9bd541544d84c605196c4f7b845dfa11fb23594d1e2",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cpu",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:46:59.359635+00:00"
+}

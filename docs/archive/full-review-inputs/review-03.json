@@ -1,0 +1,2257 @@
+{
+  "schemaVersion": 1,
+  "reviewedDate": "2026-10-05",
+  "reviewMethod": "Fresh reading of every English SRT cue, compared with Conference Review.md, every story-catalog entry for these speakers, and all matching story-board cards. Suggested intervals are caption-derived review cuts with modest breathing room; no independent audio listening is claimed.",
+  "talks": [
+    {
+      "talkId": "patricio-m-giuffra",
+      "captionSha256": "68bc7d382e83bc09ba43bf03a095b6afe460b277eb62a9b2b22069ae028fd0c1",
+      "cueCount": 152,
+      "summary": "Giuffra teaches trust in God through tithing and fast offerings, beginning with a woman who feared that paying tithing was beyond her means. Her prayer, the missionaries' prayer and fasting, and her subsequent faithful offerings illustrate willing obedience; the account does not report an increase in her income. He explains that commandments express love, draw us closer to Christ, and protect us from sin, while explicitly preserving the reality of hardship and God's own timing. He also connects sacrifice with preparation for consecration and temple covenants.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Explains both the motive for obedience and its spiritual results, followed immediately by the qualification that trials remain.",
+          "sourceRanges": [
+            {
+              "start": 238,
+              "end": 293
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "none",
+          "reason": "God knowing individual circumstances supports reassurance, but this address does not develop divine identity or explain how it changes treatment of others.",
+          "sourceRanges": [],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "The missionaries seek counsel, pray and fast; the woman's prayer is followed by the missionaries' reported peace and assurance. It provides a specific seeking-and-recognizing example rather than an exhaustive test for revelation.",
+          "sourceRanges": [
+            {
+              "start": 108,
+              "end": 189
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Acknowledges financial hardship, illness, loss, and uncertainty even during obedience, then teaches trust in the Lord's knowledge, time, and way.",
+          "sourceRanges": [
+            {
+              "start": 264,
+              "end": 293
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "Connects tithing and sacrifice with consecration and covenants in the house of the Lord that deepen a relationship with Jesus Christ.",
+          "sourceRanges": [
+            {
+              "start": 351,
+              "end": 380
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The missionaries' patient repeated teaching and support for the woman illustrate care. Fast offerings are mentioned, but the talk does not develop a practical service pattern comparable with Farnes or Chibota.",
+          "sourceRanges": [
+            {
+              "start": 32,
+              "end": 62
+            },
+            {
+              "start": 108,
+              "end": 211
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "giuffra-worker",
+          "suitability": "Strong prayer-and-trust account; preserve the woman's financial difficulty and the absence of a reported income miracle."
+        },
+        {
+          "storyId": "giuffra-mite",
+          "suitability": "Brief named scripture reference inside the counsel, suitable for recognition only; details of the widow's offering are not retold."
+        },
+        {
+          "storyId": "giuffra-businesses",
+          "suitability": "Aggregate examples of greater stability through faith and diligent effort, useful with the explicit trials-and-timing qualification; do not invent one named family."
+        }
+      ],
+      "qualifications": [
+        "Keep the speaker's explicit statement that obedience does not remove trials alongside claims about blessings.",
+        "The woman's later offering envelopes establish her continued practice, not a stated financial outcome.",
+        "Material improvements are the speaker's observations, not a promise of a particular income, job, or schedule for every participant.",
+        "The captions substantially garble names and the temple/consecration quotation. Use paraphrases until the wording is checked against audio or the official text."
+      ],
+      "corrections": [],
+      "catalogCorrections": [
+        {
+          "storyId": "giuffra-mite",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 108,
+              "end": 136
+            }
+          ],
+          "new": [
+            {
+              "start": 108,
+              "end": 144
+            }
+          ],
+          "reason": "The final words of the mission president's counsel continue through the cue ending at 143.28; the original search window ends before that complete counsel."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "giuffra-commandments-love-and-trials",
+          "title": "Obedience expresses love and still includes trials",
+          "kind": "teaching",
+          "topics": [
+            "following",
+            "hope"
+          ],
+          "start": 237.5,
+          "end": 293.4,
+          "rationale": "Answers the daily-discipleship assignment with closeness to Christ and protection from sin, then preserves the crucial qualification about hardship and God's timing.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "a principle that has become very",
+          "tailCueText": "his own time and way. President Russell"
+        },
+        {
+          "id": "giuffra-woman-prayer-and-faithfulness",
+          "storyId": "giuffra-worker",
+          "title": "She prays for help and continues faithfully",
+          "kind": "story",
+          "topics": [
+            "following",
+            "revelation",
+            "hope"
+          ],
+          "start": 153.8,
+          "end": 213.7,
+          "rationale": "A compact ending to the longer account containing her own prayer, reported peace, baptism, and continued offerings. Introduce beforehand that she feared she could not afford tithing; no income increase is reported.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "When we arrived at her home and began",
+          "tailCueText": "fast offering. Throughout my life, I've"
+        }
+      ]
+    },
+    {
+      "talkId": "patrick-kearon",
+      "captionSha256": "c8ec13d2b75a31f336f433020e79450f78e4008d532d08740cb6c045845abc5b",
+      "cueCount": 215,
+      "summary": "Kearon uses learning to glide as an extended analogy for finding spiritual lift, recognizing unseen influences, and turning away from spiritual sink. Christ's grace and the Holy Spirit are central to the spiritual application, supported by brief scriptural examples of lifting and Ammon's gratitude for redemption. The closing suggestions emphasize a faithful guide, attention to the Spirit, good companions, decisive action, and helping another person rise.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Calls for sustained communion, deliberate spiritual practices, and repeatedly turning toward Christ rather than drifting through neglect.",
+          "sourceRanges": [
+            {
+              "start": 356,
+              "end": 403
+            },
+            {
+              "start": 567,
+              "end": 652
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "An adoring Father, intended eternal potential, and God's loving embrace give reassurance, but the talk does not develop the identity-and-treatment assignment fully.",
+          "sourceRanges": [
+            {
+              "start": 225,
+              "end": 242
+            },
+            {
+              "start": 331,
+              "end": 344
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "Explicitly teaches discerning and acting on impressions of the Holy Spirit and gives a memorable analogy for recognizing unseen effects.",
+          "sourceRanges": [
+            {
+              "start": 97,
+              "end": 155
+            },
+            {
+              "start": 288,
+              "end": 318
+            },
+            {
+              "start": 567,
+              "end": 614
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Christ seeks and lifts people in despair; grace, redemption, and turning back to the Savior supply the spiritual hope, rather than aviation skill alone.",
+          "sourceRanges": [
+            {
+              "start": 225,
+              "end": 288
+            },
+            {
+              "start": 418,
+              "end": 482
+            },
+            {
+              "start": 549,
+              "end": 568
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Identifies children of the covenant as helping fulfill God's promises, but gives no developed sacrament or temple preparation teaching.",
+          "sourceRanges": [
+            {
+              "start": 529,
+              "end": 550
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "Directly invites helping others turn toward Christ and showing someone else where and how to rise.",
+          "sourceRanges": [
+            {
+              "start": 519,
+              "end": 550
+            },
+            {
+              "start": 598,
+              "end": 614
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "kearon-glider",
+          "suitability": "Strong selected board source: real training followed by an explicit spiritual analogy. Preserve both layers so the clue's spiritual application is grounded."
+        },
+        {
+          "storyId": "kearon-peter",
+          "suitability": "Very brief scriptural example of Christ lifting; suitable for recognition, not detailed retelling."
+        },
+        {
+          "storyId": "kearon-jairus",
+          "suitability": "A named one-sentence example; use only the limited facts actually given."
+        },
+        {
+          "storyId": "kearon-boy",
+          "suitability": "Short example of taking someone by the hand and lifting; no additional healing details are supplied."
+        },
+        {
+          "storyId": "kearon-ammon",
+          "suitability": "Useful contrast between darkness and redemption into God's love; the emphasis is Ammon's gratitude, not a complete conversion narrative."
+        }
+      ],
+      "qualifications": [
+        "Gliding is a physical experience used as an analogy; unseen rising air is not itself a revelation experience.",
+        "The feelings described are tied to the Holy Spirit and turning toward Christ. The talk does not establish that every pleasant feeling is revelation or every uncomfortable feeling is spiritual failure.",
+        "Spiritual neglect is his application of gradual descent; avoid applying the metaphor as a diagnosis of another person's grief, depression, or hardship.",
+        "The scriptural healing examples are short references, and Christ's lifting does not establish a guaranteed immediate change in external circumstances."
+      ],
+      "corrections": [],
+      "catalogCorrections": [
+        {
+          "storyId": "kearon-glider",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 0,
+              "end": 217
+            },
+            {
+              "start": 288,
+              "end": 402
+            },
+            {
+              "start": 560,
+              "end": 619
+            }
+          ],
+          "new": [
+            {
+              "start": 0,
+              "end": 226
+            },
+            {
+              "start": 288,
+              "end": 403
+            },
+            {
+              "start": 560,
+              "end": 623
+            }
+          ],
+          "reason": "The initial range cuts the conversion-to-spiritual-principles transition; the other endings cut the Holy Spirit phrase and the final lifted-at-the-last-day sentence. Expanded windows retain complete caption context."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "kearon-grace-and-spirit-lift",
+          "storyId": "kearon-glider",
+          "title": "Discern and act on the Holy Spirit's impressions",
+          "kind": "teaching",
+          "topics": [
+            "revelation",
+            "hope"
+          ],
+          "start": 287.6,
+          "end": 318.4,
+          "rationale": "The analogy's explicit doctrinal connection: grace and the Holy Spirit. Introduce gliding and unseen rising air before this short passage.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "through the amazing grace of Jesus",
+          "tailCueText": "air lift a wing beneath me."
+        },
+        {
+          "id": "kearon-practical-living-in-lift",
+          "storyId": "kearon-glider",
+          "title": "Guides, attention, companions, and helping someone rise",
+          "kind": "teaching",
+          "topics": [
+            "revelation",
+            "following",
+            "serving"
+          ],
+          "start": 559.4,
+          "end": 623.3,
+          "rationale": "Turns the image into actions that youth can discuss, including learning, noticing, avoiding drift, and helping others.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "Jesus Christ loves to lift.",
+          "tailCueText": "lifted up at the last day.\" None of this"
+        },
+        {
+          "id": "kearon-glider-training-complete",
+          "storyId": "kearon-glider",
+          "title": "Learning gliding: cues, felt lift, action, and sink",
+          "kind": "story",
+          "topics": [
+            "revelation",
+            "following",
+            "hope"
+          ],
+          "start": 0.0,
+          "end": 226.0,
+          "rationale": "Complete selected board-story setup and physical training, ending with the speaker's spiritual connection. Longer host/reference clip; retain the short application clips for a faster round.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "A few weeks ago, President Dougdorf took",
+          "tailCueText": "similarities with spiritual principles."
+        },
+        {
+          "id": "kearon-lift-sink-and-continuing-practices",
+          "storyId": "kearon-glider",
+          "title": "Notice lift and sink; continue the practices that sustain communion",
+          "kind": "teaching",
+          "topics": [
+            "revelation",
+            "following"
+          ],
+          "start": 314.5,
+          "end": 403.3,
+          "rationale": "Continuation of the selected glider source covers his reflective questions, turning from sink, and avoiding gradual neglect. Together with the short Spirit passage it preserves the full separate application window. This reference continuation is longer than an ordinary round clip.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "Can you identify moments when you have",
+          "tailCueText": "Spirit."
+        }
+      ]
+    },
+    {
+      "talkId": "paul-h-sinclair",
+      "captionSha256": "c06b7e82052a9c8544ec0106406c2da4bab983306ff145e6915b24ae84e01a88",
+      "cueCount": 162,
+      "summary": "Sinclair recalls feeling irritated when a Primary child accidentally fastened his sleeve to his lapel, while a nearby girl calmly freed him. He describes the Holy Ghost teaching him through that contrast that disciples are quick to help and slow to judge. He then uses Christ's treatment of the Samaritan woman to teach dignity, attentive listening, transformative help, and welcoming people without reducing them to their past.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Explicitly defines Christlike discipleship through practical help and slow judgment, then invites becoming more holy and more like the Savior.",
+          "sourceRanges": [
+            {
+              "start": 142,
+              "end": 196
+            },
+            {
+              "start": 398,
+              "end": 441
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Dignity, possibility beyond a person's past, and belonging help apply the identity question, but he does not give its divine-childhood foundation.",
+          "sourceRanges": [
+            {
+              "start": 330,
+              "end": 382
+            },
+            {
+              "start": 438,
+              "end": 464
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "Reports a message received through the Holy Ghost that prompted his own spiritual realignment; guidance comes through noticing another person's example.",
+          "sourceRanges": [
+            {
+              "start": 142,
+              "end": 196
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The Samaritan woman's possible future and Christ's transformative grace support hope after mistakes, while the main subject is how disciples help.",
+          "sourceRanges": [
+            {
+              "start": 300,
+              "end": 382
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Missionaries finding, teaching, baptizing, and confirming are mentioned as ways to help, but the address does not explain sacrament promises or temple preparation.",
+          "sourceRanges": [
+            {
+              "start": 380,
+              "end": 414
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "The central invitation is practical help, dignity, listening, and welcome in ordinary small encounters.",
+          "sourceRanges": [
+            {
+              "start": 108,
+              "end": 196
+            },
+            {
+              "start": 330,
+              "end": 382
+            },
+            {
+              "start": 398,
+              "end": 479
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "sinclair-buttons",
+          "suitability": "Excellent selected board story for contrasting irritation with helpful action. Keep the adult's self-correction and avoid ridiculing the child."
+        },
+        {
+          "storyId": "sinclair-well",
+          "suitability": "Strong dignity/listening example. His imagined details and unanswered questions about her circumstances must not become factual trivia answers."
+        }
+      ],
+      "qualifications": [
+        "The girl's helping action is reported; the spiritual message is Sinclair's reported learning, not a claim about what the girl felt.",
+        "He explicitly says the woman's reasons for previous relationship changes are unknown, and introduces several circumstances with may or imagine.",
+        "Do not turn the woman's relationship history into a blame exercise. The speaker's point is that details insufficiently known to us should not displace dignity and help.",
+        "The central lesson can be applied at school without asking participants to recreate the child's predicament."
+      ],
+      "corrections": [],
+      "catalogCorrections": [
+        {
+          "storyId": "sinclair-well",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 195,
+              "end": 371
+            }
+          ],
+          "new": [
+            {
+              "start": 194,
+              "end": 383
+            }
+          ],
+          "reason": "The original window stops as the concluding quick-to-help-and-slow-to-judge sentence begins. The fuller range completes the speaker's scriptural application."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "sinclair-child-example-and-spirit",
+          "title": "A disciple is quick to help and slow to judge",
+          "kind": "teaching",
+          "topics": [
+            "following",
+            "revelation",
+            "serving"
+          ],
+          "start": 142.1,
+          "end": 196.4,
+          "rationale": "Contains his humbled response, the Holy Ghost's reported lesson, and the concise governing principle. Briefly introduce the stuck sleeve and the girl's help.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "I felt relieved in that moment, but also",
+          "tailCueText": "quick to help and slow to judge."
+        },
+        {
+          "id": "sinclair-dignity-and-possible-future",
+          "storyId": "sinclair-well",
+          "title": "Christ listens with dignity and sees a possible future",
+          "kind": "teaching",
+          "topics": [
+            "serving",
+            "identity",
+            "hope"
+          ],
+          "start": 309.8,
+          "end": 382.2,
+          "rationale": "Preserves living water, transformative help, listening without ridicule, and the move from past to future purpose. Identify the Samaritan woman in the introduction.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "The great redeemer of all knows",
+          "tailCueText": "slow to judge looks like."
+        },
+        {
+          "id": "sinclair-buttons-complete",
+          "storyId": "sinclair-buttons",
+          "title": "The sleeve, lapel, helping fingers, and adult's lesson",
+          "kind": "story",
+          "topics": [
+            "serving",
+            "following",
+            "revelation"
+          ],
+          "start": 0.0,
+          "end": 196.4,
+          "rationale": "Complete selected board-story setup, difficulty, rescue, and spiritual application. The full reference is long; a host can introduce the facts before the shorter teaching passage.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "and a little child shall lead them.",
+          "tailCueText": "quick to help and slow to judge."
+        }
+      ]
+    },
+    {
+      "talkId": "quentin-l-cook",
+      "captionSha256": "9850a4c97f1748c5e2e30ef43b966b9ea6e2e10a0933ceec464ae8b3da7584c4",
+      "cueCount": 268,
+      "summary": "Cook teaches lifelong discipleship through integrity, virtue, and ongoing repentance. McKay's doorway inscription illustrates doing one's best in each responsibility; the discussion then connects honest commitments, character, God's will, and happiness. He applies those principles to online bullying and peacemaking, explains the companionship and guidance of the Holy Ghost, and closes with a former sailor's comparison of repentance to a joyful homecoming.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Integrity means living beliefs and commitments and following Christ's example, with concrete consequences for character and happiness.",
+          "sourceRanges": [
+            {
+              "start": 0,
+              "end": 64
+            },
+            {
+              "start": 151,
+              "end": 235
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Equality and God's love are affirmed, but the address's developed subject is virtuous conduct, rather than the full inherited identity question.",
+          "sourceRanges": [
+            {
+              "start": 278,
+              "end": 303
+            },
+            {
+              "start": 469,
+              "end": 495
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "Connects integrity, righteous action, and repentance with the Holy Ghost's companionship and guidance; does not provide a complete method for testing a particular impression.",
+          "sourceRanges": [
+            {
+              "start": 536,
+              "end": 582
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The sailor's joy at forgiveness offers hope for change and a spiritual homecoming after past sins.",
+          "sourceRanges": [
+            {
+              "start": 579,
+              "end": 662
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "The opening explicitly connects principles and covenants, a Christlike virtuous life, and continuing along the covenant path back to the Father and Son. Baptism and confirmation also appear in the sailor's conversion.",
+          "sourceRanges": [
+            {
+              "start": 13,
+              "end": 64
+            },
+            {
+              "start": 625,
+              "end": 647
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "Condemns bullying and reputation damage, urges peaceable Christlike conduct, and expressly links integrity with caring for and serving others.",
+          "sourceRanges": [
+            {
+              "start": 359,
+              "end": 450
+            },
+            {
+              "start": 536,
+              "end": 546
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "cook-mckay",
+          "suitability": "Strong selected board source: the inscription inspires effort in every responsibility. The proposed school-project application is consistent and explicitly a new application."
+        },
+        {
+          "storyId": "cook-sailor",
+          "suitability": "A distinctive repentance/hope account with a concrete homecoming comparison and a desire to share joy, especially with family."
+        }
+      ],
+      "qualifications": [
+        "The historical inscription concerns McKay's resolve; the school-project scenario is the game's application, not an event in the talk.",
+        "Integrity and virtue are connected with blessedness, not a specific immediate worldly reward or freedom from difficulties.",
+        "The companionship passage teaches conditions and repentance, rather than a checklist proving that a particular feeling is revelation.",
+        "The sailor's wartime experience is background to a grateful homecoming; the talk supplies no battle narrative or particular wrongdoings to reconstruct."
+      ],
+      "corrections": [
+        "Conference Review.md marks the former sailor's account as 09:38-10:53. Its closing prayer to share joy, especially with family, continues to the cue ending at 11:01.88; a complete story window should extend to about 11:02.",
+        "The existing review treats Priests only as a supporting fit. The opening directly explains covenants and the Christlike life that sustains movement along the covenant path, so this is a direct partial answer to that assignment; it still supplies little sacrament or temple preparation detail."
+      ],
+      "catalogCorrections": [
+        {
+          "storyId": "cook-sailor",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 576,
+              "end": 659
+            }
+          ],
+          "new": [
+            {
+              "start": 578,
+              "end": 663
+            }
+          ],
+          "reason": "The last words of the prayer, especially my family, appear in a cue ending at 661.88. The adjusted range preserves the complete conclusion already represented in the summary."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "cook-integrity-beliefs-character-happiness",
+          "title": "Integrity joins beliefs, commitments, and character",
+          "kind": "teaching",
+          "topics": [
+            "following"
+          ],
+          "start": 160.4,
+          "end": 235.8,
+          "rationale": "Includes the call to integrity, its honesty/commitment definitions, good character, and alignment with God's will and happiness.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "We need to live our lives with integrity",
+          "tailCueText": "is the actual outcome of integrity and"
+        },
+        {
+          "id": "cook-integrity-spirit-and-repentance",
+          "title": "Caring service, the Holy Ghost, and daily repentance",
+          "kind": "teaching",
+          "topics": [
+            "revelation",
+            "following",
+            "serving"
+          ],
+          "start": 535.8,
+          "end": 582.0,
+          "rationale": "A compact passage joining practical service with the Spirit's guidance and acknowledging faults through ongoing repentance.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "We show our integrity by living virtuous",
+          "tailCueText": "receive his saving blessings."
+        },
+        {
+          "id": "cook-mckay-inscription-and-resolve",
+          "storyId": "cook-mckay",
+          "title": "Act well thy part: McKay's responsibility",
+          "kind": "story",
+          "topics": [
+            "following"
+          ],
+          "start": 62.6,
+          "end": 154.7,
+          "rationale": "Complete selected board source, including Cook's visit, the historical inscription, McKay's resolve, and the broader discipleship application. The longer reference supplies the historical context needed for the school-project application.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "Mary and I recently had the privilege of",
+          "tailCueText": "throughout eternity."
+        }
+      ]
+    },
+    {
+      "talkId": "ronald-a-rasband",
+      "captionSha256": "ad1ec2d125a2da1bba44ba6b2a46a37a0bb1e36b4f6234f3a3f24fdbf972e863",
+      "cueCount": 212,
+      "summary": "Rasband addresses the heartache of people whose loved ones have turned away from faith or covenant commitments. He warns that attempts to argue, demand, and pressure can deepen a rift, affirms personal choice, and invites turning despair over to Jesus Christ. His practical counsel centers on interested, patient, forgiving love, prayer, and keeping a person more important than the problem, illustrated with Lehi, Alma, and the prodigal son.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Following Christ requires personally chosen discipleship and becoming charitable, patient, forgiving, and kind like Him.",
+          "sourceRanges": [
+            {
+              "start": 100,
+              "end": 113
+            },
+            {
+              "start": 246,
+              "end": 351
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "direct",
+          "reason": "Explicitly calls loved ones foremost children of a Father who knows and loves them and asks listeners to extend protective love in the same way.",
+          "sourceRanges": [
+            {
+              "start": 187,
+              "end": 219
+            },
+            {
+              "start": 529,
+              "end": 551
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The Holy Ghost's calming influence, trust, scripture, leaders' words, and prayer support seeking guidance, but the address does not develop recognizing an impression as its subject.",
+          "sourceRanges": [
+            {
+              "start": 306,
+              "end": 329
+            },
+            {
+              "start": 592,
+              "end": 627
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Gives a response to family anguish: let go of guilt, turn despair to Christ, seek Him, pray, and build on Him for sustaining strength.",
+          "sourceRanges": [
+            {
+              "start": 160,
+              "end": 247
+            },
+            {
+              "start": 555,
+              "end": 659
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Covenants broken by loved ones are part of the opening circumstance, but no sustained explanation of sacrament, temple preparation, or how listeners keep their own covenants follows.",
+          "sourceRanges": [
+            {
+              "start": 4,
+              "end": 30
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "Contrasts pressure with agency and supplies concrete expressions of care, interest, open arms, patience, forgiveness, and the priority of the person.",
+          "sourceRanges": [
+            {
+              "start": 59,
+              "end": 113
+            },
+            {
+              "start": 285,
+              "end": 354
+            },
+            {
+              "start": 578,
+              "end": 596
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "rasband-family",
+          "suitability": "Useful honest reflection about pressure and agency, not a detailed account of a particular relative's decisions."
+        },
+        {
+          "storyId": "rasband-lehi",
+          "suitability": "A concise scripture illustration of wandering from the tree; keep the dream symbolism distinct from a factual description of a participant's loved ones."
+        },
+        {
+          "storyId": "rasband-alma",
+          "suitability": "Strong remembered-teaching and prayer example; the father's exact number of years praying is speculation, as the existing summary correctly notes."
+        },
+        {
+          "storyId": "rasband-prodigal",
+          "suitability": "A compassionate welcome example that can support identity and service. It does not imply that pressure or a set schedule will make another person return."
+        }
+      ],
+      "qualifications": [
+        "The speaker expressly affirms that everyone must choose for themselves; no one can guarantee or control a loved one's return.",
+        "Love does not require sanctioning every decision, but the positive practices and warning against harshness must accompany that qualification.",
+        "The duration of Alma the elder's prayer is offered as weeks, months, years, maybe decades; it must not become a precise factual answer.",
+        "The closing storm promise addresses the listener being built on Christ; do not recast it as a promise that another person's choices will quickly change."
+      ],
+      "corrections": [
+        "Conference Review.md repeatedly proposes 00:58-01:43 for the agency/pressure context. At 01:43 the agency sentence is still underway; extend the complete context through about 01:53, including choosing to follow Jesus Christ."
+      ],
+      "catalogCorrections": [
+        {
+          "storyId": "rasband-family",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 0,
+              "end": 101
+            }
+          ],
+          "new": [
+            {
+              "start": 0,
+              "end": 113
+            }
+          ],
+          "reason": "The summary correctly includes agency, but its original window ends before everyone must choose for themselves to follow Jesus Christ is complete."
+        },
+        {
+          "storyId": "rasband-alma",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 349,
+              "end": 428
+            }
+          ],
+          "new": [
+            {
+              "start": 349,
+              "end": 438
+            }
+          ],
+          "reason": "The old range stops during the mercy/joy transition. The full outcome and becoming a prophet continue through the cue ending at 437.039."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "rasband-pressure-and-personal-choice",
+          "title": "Pressure can widen the rift; people choose for themselves",
+          "kind": "teaching",
+          "topics": [
+            "serving",
+            "following",
+            "hope"
+          ],
+          "start": 58.0,
+          "end": 113.0,
+          "rationale": "Contains his candid list of unsuccessful pressure, the warning about a greater rift, and the complete agency sentence. Introduce his concern for loved ones beforehand.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "in our grief we continuously ponder the",
+          "tailCueText": "follow Jesus Christ."
+        },
+        {
+          "id": "rasband-positive-practices-of-love",
+          "title": "Interest, open arms, faith, patience, forgiveness, and kindness",
+          "kind": "teaching",
+          "topics": [
+            "serving",
+            "following"
+          ],
+          "start": 285.1,
+          "end": 354.0,
+          "rationale": "Keeps the non-sanctioning qualification with concrete positive care, trust, the Spirit, peacemaking, and kindness rather than isolating only the limit.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "Love is not stepping back or sanctioning",
+          "tailCueText": "forgiving, and kind."
+        }
+      ]
+    },
+    {
+      "talkId": "rosemary-k-chibota",
+      "captionSha256": "59e05ccfde4836ad3c3e83ebdf8a0833fcc942a523900a966dd08d09d6ef7bda",
+      "cueCount": 156,
+      "summary": "Chibota teaches that seeing people as beloved children of God changes both service to them and the way we understand ourselves. Her daughter's attention to a school janitor and her own prayer-led inclusion of an isolated coworker give small, concrete examples. She distinguishes inherited eternal identity from worldly labels and mistakes, describes reassurance during her calling, and invites learning someone's name and praying to see people as Heavenly Father does.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Explicitly asks disciples to pray for Christ's perspective and treat others accordingly; His seeing leads to love and service.",
+          "sourceRanges": [
+            {
+              "start": 174,
+              "end": 202
+            },
+            {
+              "start": 396,
+              "end": 459
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "direct",
+          "reason": "Directly explains that divine identity is inherited rather than achieved, survives mistakes and changing circumstances, and changes how we see and treat people.",
+          "sourceRanges": [
+            {
+              "start": 21,
+              "end": 73
+            },
+            {
+              "start": 231,
+              "end": 273
+            },
+            {
+              "start": 305,
+              "end": 360
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "She prays to know how to help an isolated coworker and acts on simple promptings to include him.",
+          "sourceRanges": [
+            {
+              "start": 366,
+              "end": 398
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The Lord's hopeful view, Christ's grace, and enduring identity reassure people weighed down by labels or inadequacy; broad trial-endurance guidance is not the primary subject.",
+          "sourceRanges": [
+            {
+              "start": 273,
+              "end": 360
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Child of the covenant is part of the closing identity invitation, but the talk does not explain covenant promises, sacrament, or temple preparation.",
+          "sourceRanges": [
+            {
+              "start": 417,
+              "end": 443
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "Learning names, greeting, practical cleanup, prayerful inclusion, and recognizing divine worth form the talk's central action pattern.",
+          "sourceRanges": [
+            {
+              "start": 93,
+              "end": 202
+            },
+            {
+              "start": 366,
+              "end": 443
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "chibota-greeting",
+          "suitability": "Selected board source supports the meaning of I see you; retain recognition, respect, worth, love, concern, and belonging without relying on the ASR spelling."
+        },
+        {
+          "storyId": "chibota-young-man",
+          "suitability": "Brief scripture vignette illustrating loving recognition despite a sorrowful departure; no developed story beyond that is provided."
+        },
+        {
+          "storyId": "chibota-bethesda",
+          "suitability": "Short care/healing example. Thirty-eight years describes the infirmity, not a stated period continuously spent at the pool."
+        },
+        {
+          "storyId": "chibota-samaritan",
+          "suitability": "A compressed parable reference about seeing and acting despite labels; the full rescue sequence is not recounted."
+        },
+        {
+          "storyId": "chibota-janitor",
+          "suitability": "Excellent selected board source for ordinary school service and divine worth: three specific actions are supplied and both board answer branches are supported."
+        },
+        {
+          "storyId": "chibota-calling",
+          "suitability": "Brief personal reassurance during a calling; paraphrase the garbled sentence about inadequacy rather than asserting exact wording."
+        },
+        {
+          "storyId": "chibota-coworker",
+          "suitability": "Especially strong short revelation/service source: prayer, simple promptings, inclusion, and growing friendship. No particular lunch-table event is reported."
+        }
+      ],
+      "qualifications": [
+        "The greeting's spelling is not reliable in these captions; the spoken meaning is clear enough to paraphrase.",
+        "Identity surviving mistakes does not imply that choices or repentance do not matter.",
+        "The coworker's inclusion is reported, but any particular invitation, meeting, or meal shown in an illustration would be illustrative detail rather than a spoken fact.",
+        "She describes the man at Bethesda as suffering an infirmity for thirty-eight years; the talk does not establish thirty-eight years continuously at the pool."
+      ],
+      "corrections": [],
+      "catalogCorrections": [
+        {
+          "storyId": "chibota-bethesda",
+          "field": "summary",
+          "old": "Jesus sees, ministers to, and heals a man who has suffered for thirty-eight years at Bethesda.",
+          "new": "At Bethesda, Jesus sees, ministers to, and heals a man who has suffered an infirmity for thirty-eight years.",
+          "reason": "Clarifies that the duration modifies the infirmity; it does not establish the length of time the man stayed at the pool."
+        },
+        {
+          "storyId": "chibota-young-man",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 48,
+              "end": 69
+            }
+          ],
+          "new": [
+            {
+              "start": 58,
+              "end": 73
+            }
+          ],
+          "reason": "The old end occurs before the quoted loved him concludes; the adjusted window includes the full brief reference without unnecessary preceding labels/list setup."
+        },
+        {
+          "storyId": "chibota-bethesda",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 66,
+              "end": 93
+            }
+          ],
+          "new": [
+            {
+              "start": 69,
+              "end": 97
+            }
+          ],
+          "reason": "The old end is before the cue completing ministered to him and healed him; the adjusted range includes the complete example."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "chibota-identity-above-labels",
+          "title": "Divine identity survives circumstances and mistakes",
+          "kind": "teaching",
+          "topics": [
+            "identity",
+            "hope"
+          ],
+          "start": 305.3,
+          "end": 360.1,
+          "rationale": "A complete identity passage with Christ's grace, preexisting divine-childhood identity, unchanged worth, personal knowledge, and Christ at the center of God's plan.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "Whatever labels may weigh heavily upon",
+          "tailCueText": "Christ is at the center of that plan."
+        },
+        {
+          "id": "chibota-prayer-promptings-coworker",
+          "storyId": "chibota-coworker",
+          "title": "Pray, include, and help someone feel seen",
+          "kind": "story",
+          "topics": [
+            "revelation",
+            "serving",
+            "identity"
+          ],
+          "start": 366.4,
+          "end": 397.9,
+          "rationale": "A self-contained everyday example of seeking and responding to guidance, followed by her stated lesson. Avoid inventing an exact form of inclusion.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "As we seek the Savior's perspective, he",
+          "tailCueText": "us to those who feel unseen."
+        },
+        {
+          "id": "chibota-greeting-meaning",
+          "storyId": "chibota-greeting",
+          "title": "I see you communicates worth and belonging",
+          "kind": "story",
+          "topics": [
+            "identity",
+            "serving"
+          ],
+          "start": 0.0,
+          "end": 40.0,
+          "rationale": "Complete selected board source: cultural background, daughter's reminder, and the meanings used in the answer criteria. The greeting itself remains untranscribed.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "As a child, I learned that greetings in",
+          "tailCueText": "matter.\""
+        },
+        {
+          "id": "chibota-school-janitor",
+          "storyId": "chibota-janitor",
+          "title": "She knew his name and helped after lunch",
+          "kind": "story",
+          "topics": [
+            "serving",
+            "identity"
+          ],
+          "start": 105.4,
+          "end": 165.0,
+          "rationale": "Complete selected board story with the invitation to learn names, parent-teacher meeting, gratitude, all three actions, the janitor's feeling of being seen, and the immediate divine-childhood affirmation.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "The Savior's example and the Good",
+          "tailCueText": "all mortals are beloved children of God."
+        }
+      ]
+    },
+    {
+      "talkId": "sean-douglas",
+      "captionSha256": "3b1b3af90040b32618220762b9a043a28fadd941407e3928e99d19ac9575199e",
+      "cueCount": 177,
+      "summary": "Douglas focuses on full-time missionary service as a significant step in lifelong discipleship and an expression of desire to be close to Jesus Christ. He praises living examples, recalls two eager great-nephews, and relates how friends and leaders helped Merlin return and choose missionary service. He invites preparation while explicitly qualifying young men's invitation by worthiness and ability and describing a young woman's mission as a powerful optional opportunity to consider prayerfully.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Explicitly connects missionary service with following and drawing close to Christ, then situates the mission within lifelong discipleship.",
+          "sourceRanges": [
+            {
+              "start": 192,
+              "end": 331
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The invitation speaks of God's children, premortal preparation, spiritual DNA, and a place for each potential missionary, but does not develop how inherited worth changes treatment of others.",
+          "sourceRanges": [
+            {
+              "start": 148,
+              "end": 186
+            },
+            {
+              "start": 395,
+              "end": 419
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "Directly invites young women to pray to know whether the Lord would have them serve; no recognition method or required feeling is prescribed.",
+          "sourceRanges": [
+            {
+              "start": 368,
+              "end": 386
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Merlin's return and obstacles overcome provide hope for purposeful change, but this is a particular testimony rather than a general formula for solving every hardship.",
+          "sourceRanges": [
+            {
+              "start": 192,
+              "end": 269
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Repentance, baptism, confirmation, and later consecrated experience are named in the missionary context; the sacrament/temple covenant assignment is not explained fully.",
+          "sourceRanges": [
+            {
+              "start": 18,
+              "end": 44
+            },
+            {
+              "start": 254,
+              "end": 269
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "Missionary service, inviting others to Christ, living examples, and friends helping Merlin are developed practical expressions of service.",
+          "sourceRanges": [
+            {
+              "start": 18,
+              "end": 88
+            },
+            {
+              "start": 84,
+              "end": 143
+            },
+            {
+              "start": 192,
+              "end": 269
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "douglas-nephews",
+          "suitability": "Brief positive example of desire to serve beneath excitement about distant assignments; not evidence of any particular mission destination."
+        },
+        {
+          "storyId": "douglas-mosiah",
+          "suitability": "Short scripture example about desiring salvation for every soul, not the full sons-of-Mosiah narrative."
+        },
+        {
+          "storyId": "douglas-merlin",
+          "suitability": "Strong account of friends' help, personal choice, desire for Christ, and continued discipleship. Leadership and marriage outcomes are biographical facts, not promised rewards for every missionary."
+        },
+        {
+          "storyId": "douglas-marsh",
+          "suitability": "Commissioning text given historical context, suitable for wholehearted service; no developed Marsh biography is supplied."
+        }
+      ],
+      "qualifications": [
+        "Keep worthy and able with the invitation addressed to young men, and preserve the stated optional opportunity for young women and their invitation to pray.",
+        "Merlin's reported marriage and later leadership are his story, not a guarantee of marriage, a calling, or an external outcome for anyone else.",
+        "The passage about a mission being a step in lifelong discipleship is brief and assumes the preceding biography; it is less direct for present daily blessings than Giuffra's teaching.",
+        "Statistics and current service titles are claims made in this specific source, not evergreen trivia unless separately verified. Names have recognition errors."
+      ],
+      "corrections": [
+        "The previous Saturday map omits a direct Teachers connection: at approximately 06:07-06:25, Douglas explicitly asks young women to pray to know if the Lord would have them serve. This is direct seeking guidance, though not a developed recognition-and-action lesson."
+      ],
+      "catalogCorrections": [],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "douglas-living-example-message",
+          "title": "Missionaries are living examples of the message",
+          "kind": "teaching",
+          "topics": [
+            "following",
+            "serving"
+          ],
+          "start": 52.2,
+          "end": 88.1,
+          "rationale": "Includes the missionaries-of-all-ages address and the full what-you-preach/living-example thought, with its actual full-time missionary context.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "We love missionaries of all ages. You",
+          "tailCueText": "thank you for building up the kingdom of"
+        },
+        {
+          "id": "douglas-merlin-return-and-choice",
+          "storyId": "douglas-merlin",
+          "title": "Friends help Merlin; he chooses to be close to Christ",
+          "kind": "story",
+          "topics": [
+            "following",
+            "serving",
+            "hope"
+          ],
+          "start": 192.0,
+          "end": 269.3,
+          "rationale": "Keeps the complete core story of returning, friends' assistance, personal desire, obstacles, and service; slightly longer than a teaching cut because the narrative needs context.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "Sister Douglas and I served as mission",
+          "tailCueText": "gain."
+        }
+      ]
+    },
+    {
+      "talkId": "tamara-w-runia",
+      "captionSha256": "2909b3ecf9d4edda0bad04808093c3f097cf383441fe1ba6a28eb0f0b693b781",
+      "cueCount": 220,
+      "summary": "Runia speaks from her son's sudden death and the limits of her desire to fix painful circumstances. She teaches that the gospel is a foundation during storms, that not understanding is different from not believing, and that Christ can help us continue and grow without seeing the whole plan. Her grandson's building instructions and her brother's sculpture illustrate trust and receiving help, while Ryan's final neighbor visit supplies a brief compassionate action example.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Faithfully following a plan, choosing Christ, trusting Him, and humbly accepting His shaping help are explicit applications.",
+          "sourceRanges": [
+            {
+              "start": 266,
+              "end": 365
+            },
+            {
+              "start": 444,
+              "end": 506
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "God seeing and loving individuals, the sculpture remaining uniquely the brother's likeness, and becoming like Heavenly Parents support identity without providing the assignment's principal definition.",
+          "sourceRanges": [
+            {
+              "start": 216,
+              "end": 247
+            },
+            {
+              "start": 432,
+              "end": 448
+            },
+            {
+              "start": 481,
+              "end": 506
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The Liberty Jail revelation and trusting guidance support the topic, but the Lego instruction metaphor is not a reported experience of recognizing the Holy Ghost.",
+          "sourceRanges": [
+            {
+              "start": 47,
+              "end": 84
+            },
+            {
+              "start": 266,
+              "end": 305
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "The address's central question is continuing with faith through unfixable loss, unanswered questions, surrendered expectations, and the need for Christ's help.",
+          "sourceRanges": [
+            {
+              "start": 19,
+              "end": 49
+            },
+            {
+              "start": 120,
+              "end": 158
+            },
+            {
+              "start": 216,
+              "end": 247
+            },
+            {
+              "start": 266,
+              "end": 365
+            },
+            {
+              "start": 383,
+              "end": 506
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "none",
+          "reason": "Commandments are mentioned in the umbrella analogy, but sacrament promises and temple covenants are not developed; do not label general trust as covenant instruction.",
+          "sourceRanges": [],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "Ryan visits and encourages a hurting neighbor; the instructor also illustrates receiving another person's skilled help.",
+          "sourceRanges": [
+            {
+              "start": 327,
+              "end": 355
+            },
+            {
+              "start": 386,
+              "end": 448
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "runia-ryan",
+          "suitability": "Powerful pastoral context for hope; introduce respectfully rather than using the death or child's birthday as competitive trivia."
+        },
+        {
+          "storyId": "runia-liberty",
+          "suitability": "Short scriptural/historical reassurance that experiences can be for good; it does not explain every cause of suffering."
+        },
+        {
+          "storyId": "runia-rock",
+          "suitability": "Clear, compact analogy for sustained strength during hardship; the safest short opening for a youth hope discussion."
+        },
+        {
+          "storyId": "runia-nephi",
+          "suitability": "Short dialogue distinguishing confidence in God's love from knowing all answers."
+        },
+        {
+          "storyId": "runia-lego",
+          "suitability": "Selected board story is accurate: Jack's answer is trust in the designer. Preserve that the box-without-a-picture question is hypothetical, not an actual missing box picture."
+        },
+        {
+          "storyId": "runia-neighbor",
+          "suitability": "Brief reported act of encouragement during painful separation; no resolution of the neighbor's family circumstances is reported."
+        },
+        {
+          "storyId": "runia-sculpture",
+          "suitability": "Selected board story supports asking humbly for help, the master's deeper shaping, and the likeness remaining uniquely his. Include its explicit Christ application when asking teams to make that connection."
+        }
+      ],
+      "qualifications": [
+        "Her family's bereavement supplies personal context. Do not require participants to explain or justify another person's death or to disclose their own grief.",
+        "She explicitly permits not understanding while believing; avoid treating sincere unanswered questions as faithlessness.",
+        "The designer and sculptor are analogies, not guarantees that desired external outcomes will happen quickly or in the way imagined.",
+        "Carrie's question about no picture on the Lego box is a what-if, and Jack's reply does not establish that he actually received such a box.",
+        "Do not infer that every painful event was caused by God to punish or sculpt someone; the speaker does not explain every circumstance's cause."
+      ],
+      "corrections": [
+        "The previous Saturday map labels Runia only for Hope. Ryan's visit to his hurting neighbor directly illustrates loving service, and the invitation to choose Christ and receive His help directly supports Following. These are concrete secondary connections.",
+        "For the board host's narration, describe the missing Lego picture as Carrie's hypothetical question. The existing clue correctly asks why Jack would follow instructions, but an image or retelling should not convert the hypothetical into a reported event."
+      ],
+      "catalogCorrections": [],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "runia-rock-during-storms",
+          "storyId": "runia-rock",
+          "title": "A foundation during the storm",
+          "kind": "teaching",
+          "topics": [
+            "hope",
+            "following"
+          ],
+          "start": 120.1,
+          "end": 157.8,
+          "rationale": "Includes the expectations behind the umbrella image and the whole contrast with a secure foundation. It directly protects against promising that faithful living prevents all suffering.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "because I grew up hearing things like,",
+          "tailCueText": "they cannot fall. When an angel asked"
+        },
+        {
+          "id": "runia-understanding-and-believing",
+          "storyId": "runia-ryan",
+          "title": "Not understanding is different from not believing",
+          "kind": "teaching",
+          "topics": [
+            "hope",
+            "identity"
+          ],
+          "start": 215.0,
+          "end": 244.5,
+          "rationale": "Keeps the funeral context, her honest lack of an explanation, and her conviction that God sees and loves the family. Introduce the loss respectfully.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "Still, like Nephi, I do not know the",
+          "tailCueText": "you, and knows your story."
+        },
+        {
+          "id": "runia-lego-instructions-trust",
+          "storyId": "runia-lego",
+          "title": "Jack trusts the designer without a finished picture",
+          "kind": "story",
+          "topics": [
+            "hope",
+            "following"
+          ],
+          "start": 261.4,
+          "end": 322.5,
+          "rationale": "Complete selected board narrative and application: Jack's funeral talk prepared with his father, the building analogy, Carrie's hypothetical, his answer, and acknowledgment of the pain of surrendering an imagined story. Explain the preceding loss briefly.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "your experience and has a plan for all",
+          "tailCueText": "that make sense, but also the ones that"
+        },
+        {
+          "id": "runia-sculpture-help-and-christ",
+          "storyId": "runia-sculpture",
+          "title": "The master's hand shapes what his could not",
+          "kind": "story",
+          "topics": [
+            "hope",
+            "following"
+          ],
+          "start": 374.6,
+          "end": 476.3,
+          "rationale": "Complete selected board narrative and explicit Christ application, including initial refusal, humble request, surprising deeper work, lifelike eyes, and preserved likeness. The longer cut supplies the context needed for the higher-value clue.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "pretend to know how it works, but it",
+          "tailCueText": "something only he knows we can become."
+        }
+      ]
+    },
+    {
+      "talkId": "thabo-lebethoa",
+      "captionSha256": "9203ed11287962910ec50305ff61ae6a64ff51675832f17ad9af4f35a2d92e4a",
+      "cueCount": 165,
+      "summary": "Lebethoa recalls a serious disagreement early in marriage and remembered words of Christ against contention that enlightened his response. He then teaches increasing faith, sincere consistent scripture study, and daily repentance as ways to receive Christ's light amid everyday challenges. A reported example of a man acting after Book of Mormon study illustrates responding to enlightenment, while the closing emphasizes Christ's understanding and readiness to help with weakness.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "The address calls for intentional faith, daily study, repentance, and changes in time, media, language, and tone.",
+          "sourceRanges": [
+            {
+              "start": 221,
+              "end": 354
+            },
+            {
+              "start": 386,
+              "end": 460
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Christ knowing where people have been and are going and understanding weakness offer personal reassurance, but the divine-childhood identity assignment is not developed.",
+          "sourceRanges": [
+            {
+              "start": 192,
+              "end": 222
+            },
+            {
+              "start": 419,
+              "end": 446
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "Remembered scripture enlightens his mind and helps him know how to respond; scripture study also leads the reported man to recognize and act on needed change.",
+          "sourceRanges": [
+            {
+              "start": 80,
+              "end": 167
+            },
+            {
+              "start": 301,
+              "end": 388
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Names fear, doubt, inadequacy, school/work demands, and loss; Christ gives light and hope and supports repentance rather than requiring people to struggle alone.",
+          "sourceRanges": [
+            {
+              "start": 164,
+              "end": 222
+            },
+            {
+              "start": 418,
+              "end": 481
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "none",
+          "reason": "Repentance and scripture are taught, but the talk does not develop sacrament promises, temple preparation, or specific covenant relationships.",
+          "sourceRanges": [],
+          "topic": "covenants"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The contention account and changing tone supply a concrete peaceful-relationship application; the direct focus is the speaker's own guidance and repentance rather than a developed service invitation.",
+          "sourceRanges": [
+            {
+              "start": 30,
+              "end": 136
+            },
+            {
+              "start": 396,
+              "end": 422
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "lebethoa-argument",
+          "suitability": "Excellent selected board source for remembered scripture and enlightenment. The exact apology, conversation, or reconciliation steps remain unreported, as the board correctly distinguishes."
+        },
+        {
+          "storyId": "lebethoa-coffee",
+          "suitability": "Short secondhand account of decisive action after enlightenment. The transferable lesson is acting on an appropriate change, not copying his burial method."
+        }
+      ],
+      "qualifications": [
+        "No exact reconciliation steps are narrated, so pausing, apologizing, or listening are participant suggestions rather than story facts.",
+        "The caption's spoken scripture reference is unreliable; verify it independently before displaying a chapter-and-verse citation as exact.",
+        "The man with the coffee is reported through a missionary; its disposal method is descriptive rather than required conduct.",
+        "Consistent and sincere study is emphasized over a single imposed method, schedule, or duration.",
+        "A better tomorrow is Christ-centered hope, not a promise that every external problem improves overnight."
+      ],
+      "corrections": [],
+      "catalogCorrections": [],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "lebethoa-consistent-sincere-scripture-study",
+          "title": "Scripture study can vary; sincerity and consistency matter",
+          "kind": "teaching",
+          "topics": [
+            "revelation",
+            "following"
+          ],
+          "start": 301.0,
+          "end": 354.0,
+          "rationale": "Complete practical counsel that includes reading and praying about the Book of Mormon, flexible study approaches, and the governing consistency-and-sincerity principle.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "Second, study the scriptures daily,",
+          "tailCueText": "consistency and sincerity of our effort."
+        },
+        {
+          "id": "lebethoa-daily-repentance-and-help",
+          "title": "Choose a change; Christ understands and helps",
+          "kind": "teaching",
+          "topics": [
+            "following",
+            "hope",
+            "serving"
+          ],
+          "start": 385.0,
+          "end": 446.0,
+          "rationale": "Gives changes youth can understand, including time, media, and communication, then preserves assurance that they do not need to do it alone.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "Third,",
+          "tailCueText": "according to their infirmities."
+        },
+        {
+          "id": "lebethoa-argument-remembered-scripture",
+          "storyId": "lebethoa-argument",
+          "title": "Remembering Christ's words during a disagreement",
+          "kind": "story",
+          "topics": [
+            "revelation",
+            "following",
+            "serving"
+          ],
+          "start": 0.0,
+          "end": 167.3,
+          "rationale": "Complete selected board source with the opening names/joy context, disagreement, remembered teaching against contention, the speaker's reported enlightenment, and Christ's light as its source. No reconciliation action is invented.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "In my home country of South Africa, it",
+          "tailCueText": "light unto our path."
+        }
+      ]
+    },
+    {
+      "talkId": "timothy-l-farnes",
+      "captionSha256": "609adfcc4041951736aaac359fd9d059d7f38fa1e980021bce11561b99b6d1fe",
+      "cueCount": 217,
+      "summary": "Farnes teaches that taking Christ's name in the sacrament becomes everyday compassionate ministering. Oaks's attentive care when Farnes was discouraged and Farnes's later response to an anxious missionary illustrate seeing, compassion, and action. The airport account explicitly includes a prompting to look again, practical help through the whole journey, and a grateful reunion with the missionary's leaders; ordinary encounters become opportunities to live covenant promises.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Defines taking Christ's name as seeing, feeling, and acting like Him so others encounter His kindness and compassion through our conduct.",
+          "sourceRanges": [
+            {
+              "start": 165,
+              "end": 249
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Seeing God's children with compassion rather than judgment supports treatment of others, but does not define inherited divine identity as a principal subject.",
+          "sourceRanges": [
+            {
+              "start": 236,
+              "end": 259
+            },
+            {
+              "start": 501,
+              "end": 538
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "The Spirit prompts him to look again at the distressed missionary; he then notices, asks, and provides practical help.",
+          "sourceRanges": [
+            {
+              "start": 326,
+              "end": 404
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "The temple encounter directly shows another person's compassion and listening restoring hope and willingness to keep serving amid discouragement; the airport story similarly illustrates practical support for fear.",
+          "sourceRanges": [
+            {
+              "start": 0,
+              "end": 166
+            },
+            {
+              "start": 326,
+              "end": 492
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "Explicitly connects sacrament willingness to take Christ's name, the promised Spirit, and daily ministering as a way of keeping Sunday's covenant.",
+          "sourceRanges": [
+            {
+              "start": 184,
+              "end": 249
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "This is the core subject: notice the person, feel compassion, act, listen honestly, and provide practical help.",
+          "sourceRanges": [
+            {
+              "start": 94,
+              "end": 166
+            },
+            {
+              "start": 256,
+              "end": 329
+            },
+            {
+              "start": 326,
+              "end": 538
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "farnes-oaks",
+          "suitability": "Excellent selected board source for listening beyond a forced smile, appreciation, encouragement, and practical concern. Keep the later what-we-do reflection."
+        },
+        {
+          "storyId": "farnes-samaritan",
+          "suitability": "A concise parable-based see/compassion/act pattern; the full scripture rescue details are not narrated."
+        },
+        {
+          "storyId": "farnes-airport",
+          "suitability": "Excellent selected board source for a prompting followed by practical help. His initial delay and subsequent attention are essential to the clue; holding an alarm clock is explained explicitly."
+        }
+      ],
+      "qualifications": [
+        "The airport prompting is the speaker's reported experience, not a prescribed sensation everyone must have.",
+        "The anxious missionary receives practical help, not a lecture or a guarantee that faith instantly removes fear.",
+        "The adjacent airplane seat is interpreted as divine arrangement by the speaker; preserve it as his testimony rather than a universal rule about coincidental details.",
+        "Temple location is context for the first story; the game needs the compassion and listening, not invented ordinance details or sacred interior imagery.",
+        "The full airport narrative is long. Keep a reference clip with complete context and introduce the event before a short teaching cut."
+      ],
+      "corrections": [
+        "The previous Saturday map omits a direct Hope connection: Oaks's attentive compassion explicitly moves Farnes from wanting to give up to renewed willingness to serve. This is a concrete example of strength through another person's help."
+      ],
+      "catalogCorrections": [],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "farnes-sacrament-to-daily-ministering",
+          "title": "Sunday's covenant becomes daily compassionate service",
+          "kind": "teaching",
+          "topics": [
+            "covenants",
+            "following",
+            "serving"
+          ],
+          "start": 183.4,
+          "end": 248.8,
+          "rationale": "The complete bridge needed for Priests: take Christ's name, reflect His qualities, receive His Spirit, and keep the promise through daily ministering.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "him. Each Sabbath day when you and I",
+          "tailCueText": "ministering to God's children every day."
+        },
+        {
+          "id": "farnes-see-compassion-act-closing",
+          "title": "See the person, look with compassion, and act",
+          "kind": "closing",
+          "topics": [
+            "serving",
+            "revelation",
+            "covenants",
+            "following"
+          ],
+          "start": 500.4,
+          "end": 537.4,
+          "rationale": "Concise application and prayerful invitation, tied to the covenant name taken upon us. Introduce that the speaker has just helped an anxious missionary at an airport.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "All we had to do was see the person God",
+          "tailCueText": "Amen."
+        },
+        {
+          "id": "farnes-oaks-care-complete",
+          "storyId": "farnes-oaks",
+          "title": "Oaks listens beyond Everything's great",
+          "kind": "story",
+          "topics": [
+            "serving",
+            "hope",
+            "following"
+          ],
+          "start": 0.0,
+          "end": 187.7,
+          "rationale": "Complete selected board-story setup, wife's encouragement, compassionate second question, listening and help, and the later reflection that this is what disciples do.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "I'll never forget a Saturday almost 20",
+          "tailCueText": "did. And we've made a covenant to follow"
+        },
+        {
+          "id": "farnes-airport-complete-and-application",
+          "storyId": "farnes-airport",
+          "title": "The prompting and practical help throughout the journey",
+          "kind": "story",
+          "topics": [
+            "revelation",
+            "serving",
+            "hope",
+            "covenants"
+          ],
+          "start": 317.3,
+          "end": 537.4,
+          "rationale": "Complete selected board source with setup, initial inattention, prompting, the missionary's need, boarding and seating, escort to leaders, gratitude, and closing application. This full reference clip is long; the shorter closing teaching is the practical game alternative after a host introduction.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "That's what the Savior did. It's what",
+          "tailCueText": "Amen."
+        }
+      ]
+    },
+    {
+      "talkId": "ulisses-soares",
+      "captionSha256": "511f64a5dad653fc23634045c6660c9f3f249b8be07d19ac336ae60feadd72d4",
+      "cueCount": 213,
+      "summary": "Soares teaches fasting as worship joined with earnest prayer, humility, and alignment with God's will, leading to greater receptiveness to the Holy Ghost and personal revelation. Jesus's wilderness preparation illustrates spiritual strength to overcome or endure burdens rather than a promise that every burden disappears. The outward expression is generosity through fast offerings and compassionate service, with increased sensitivity to others and closer communion with the Lord.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Fasting is presented as worship that refines discipleship, follows Christ's example, and aligns desires and expectations with God's will.",
+          "sourceRanges": [
+            {
+              "start": 65,
+              "end": 89
+            },
+            {
+              "start": 194,
+              "end": 329
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "God's children and their needs are repeatedly recognized, but the talk does not develop inherited divine worth and identity as its own subject.",
+          "sourceRanges": [
+            {
+              "start": 325,
+              "end": 407
+            },
+            {
+              "start": 408,
+              "end": 463
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "Specifically joins fasting and intentional prayer with humility, softened hearts, receptiveness to the Holy Ghost, and personal revelation.",
+          "sourceRanges": [
+            {
+              "start": 126,
+              "end": 195
+            },
+            {
+              "start": 510,
+              "end": 524
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Explicitly distinguishes removing every burden from receiving power to overcome or endure, and teaches accepting answers that differ from expectations.",
+          "sourceRanges": [
+            {
+              "start": 254,
+              "end": 329
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "Fasting and prayer prepare personal revelation and movement along the covenant path; accepting God's will strengthens confidence in covenants, while giving consecrates means and time. Sacrament and temple mechanics are not explained.",
+          "sourceRanges": [
+            {
+              "start": 179,
+              "end": 195
+            },
+            {
+              "start": 308,
+              "end": 329
+            },
+            {
+              "start": 450,
+              "end": 488
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "Develops outward charity through fast offerings, generosity, ministering, sensitivity to needs, and consecrating time and means.",
+          "sourceRanges": [
+            {
+              "start": 325,
+              "end": 488
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "soares-wilderness",
+          "suitability": "The one developed narrative illustration: Jesus prepares through fasting and prayer. Use for alignment with the Father and strength, not as an extreme-fasting challenge or a guarantee of immediate relief."
+        }
+      ],
+      "qualifications": [
+        "Fasting is joined with prayer and generosity rather than reduced to physical restraint.",
+        "He explicitly says fasting and prayer may not remove every burden and that answers may differ from expectations.",
+        "The forty-day account is about Christ's preparation, not an instruction for youth to copy that duration.",
+        "The closing Isaiah promises are part of this worship context; do not convert them into an individualized deadline for health recovery or a particular answer.",
+        "The talk supports covenant relationship but does not replace the fuller sacrament or temple preparation sources."
+      ],
+      "corrections": [
+        "The previous Saturday map omits a direct Priests connection. Soares explicitly links personal revelation with moving along the covenant path and accepting God's will with confidence in covenants; classify that relationship as direct while retaining the absence of detailed sacrament or temple preparation instruction."
+      ],
+      "catalogCorrections": [
+        {
+          "storyId": "soares-wilderness",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 194,
+              "end": 272
+            }
+          ],
+          "new": [
+            {
+              "start": 194,
+              "end": 280
+            }
+          ],
+          "reason": "The spiritual-fortitude qualification concludes in the cue ending at 279.6. Expanding the window retains remaining faithful to the Father's will after the overcome-or-endure comparison."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "soares-fasting-prayer-personal-revelation",
+          "title": "Fasting with intentional prayer prepares us for revelation",
+          "kind": "teaching",
+          "topics": [
+            "revelation",
+            "following",
+            "covenants"
+          ],
+          "start": 125.5,
+          "end": 195.5,
+          "rationale": "Complete context for the former short prototype excerpt: fasting, prayer, humility, softened hearts, the Holy Ghost, and personal revelation are all present.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "President Joseph F. Smith thought that",
+          "tailCueText": "covenant path."
+        },
+        {
+          "id": "soares-align-desires-accept-answers",
+          "title": "Align desires with God and accept His wisdom",
+          "kind": "teaching",
+          "topics": [
+            "hope",
+            "revelation",
+            "covenants",
+            "following"
+          ],
+          "start": 276.2,
+          "end": 329.5,
+          "rationale": "A self-contained fasting passage that gives purpose beyond restraint or requesting one specific blessing and preserves answers differing from expectations.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "Adopting this holy pattern of fasting is",
+          "tailCueText": "as well as a deeper willingness to"
+        }
+      ]
+    },
+    {
+      "talkId": "vaiangina-sikahema",
+      "captionSha256": "c59b0f4e91bcf4438123178c8a3ce891196a2c403b19e36205d0e98636f0648d",
+      "cueCount": 204,
+      "summary": "Sikahema relates his missionary grandparents' costly 1947 voyage to hear an apostle, including the loss of their infant son during the storm and their continued journey in grief. Their motivation includes restored truth, priesthood keys, future family ordinances, and learning how to bless people on their island. He contrasts their effort with today's easy access to prophetic teaching, recounts the opening of restored revelation through Joseph Smith, and urges listeners not to treat the Lord's servants' words lightly.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Directly urges valuing and receiving prophetic teaching and hearing Christ, with the grandparents' effort as the central example.",
+          "sourceRanges": [
+            {
+              "start": 170,
+              "end": 231
+            },
+            {
+              "start": 305,
+              "end": 333
+            },
+            {
+              "start": 454,
+              "end": 508
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "none",
+          "reason": "Joseph being called by name and family belonging are present, but the address does not develop divine-childhood worth or its effect on treatment of others.",
+          "sourceRanges": [],
+          "topic": "identity"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Strongly teaches restored prophetic revelation and heeding it; this differs from the assigned question about personally seeking, recognizing, and acting on the Holy Ghost's guidance.",
+          "sourceRanges": [
+            {
+              "start": 229,
+              "end": 333
+            },
+            {
+              "start": 354,
+              "end": 424
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "The grandparents' continued journey in grief is explicitly grounded in restored truth and future eternal family ordinances, a concrete example of faith and hope amid loss.",
+          "sourceRanges": [
+            {
+              "start": 135,
+              "end": 231
+            },
+            {
+              "start": 420,
+              "end": 464
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "Explains that the apostle held keys and ordinance authority that would later seal the family, connecting restored authority with eternal family hope. It does not narrate an ordinance performed during the visit.",
+          "sourceRanges": [
+            {
+              "start": 177,
+              "end": 223
+            },
+            {
+              "start": 404,
+              "end": 424
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The grandparents were missionaries and hoped to learn their duty so they could bless people on their island; no developed everyday care pattern is supplied.",
+          "sourceRanges": [
+            {
+              "start": 0,
+              "end": 57
+            },
+            {
+              "start": 188,
+              "end": 202
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "sikahema-voyage",
+          "suitability": "Substantial family history for prophetic teaching, covenants, and hope; introduce respectfully and avoid making the infant's death into trivia or a spectacle."
+        },
+        {
+          "storyId": "sikahema-vision",
+          "suitability": "A First Vision quotation framed as restored prophetic revelation and hearing Christ, not an interchangeable ordinary prompting example."
+        },
+        {
+          "storyId": "sikahema-publication",
+          "suitability": "Brief historical account of hesitation over the prophet's writing skills, followed by a quoted declaration about the Lord's words. The speaker says maybe about why that particular declaration occurred."
+        }
+      ],
+      "qualifications": [
+        "Prophetic revelation and priesthood keys are distinct from the Teachers group's specific personal-revelation assignment.",
+        "The grandparents sail toward authority for ordinances that would later seal them; the account does not say the visit itself included their family sealing.",
+        "The loss is the speaker's family history and should support compassionate reflection rather than competitive questions about death or exposure.",
+        "Family and island names are heavily garbled in the captions; do not publish exact spellings from this source alone.",
+        "The connection between early leaders' embarrassment and the quoted declaration is offered with maybe, not established as an exact historical cause."
+      ],
+      "corrections": [
+        "The previous Saturday map omits a clear Hope connection: the grandparents continue in grief with faith in restored truth and future family ordinances. That narrative is direct support for hope amid loss, while the overall address remains centered on valuing prophetic teaching."
+      ],
+      "catalogCorrections": [
+        {
+          "storyId": "sikahema-voyage",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 0,
+              "end": 218
+            },
+            {
+              "start": 419,
+              "end": 460
+            }
+          ],
+          "new": [
+            {
+              "start": 0,
+              "end": 231
+            },
+            {
+              "start": 419,
+              "end": 464
+            }
+          ],
+          "reason": "The original first range stops before the family-forever statement and the grandparents' renewed courage complete; the second stops during the blessing of living when apostles and prophets are on earth."
+        },
+        {
+          "storyId": "sikahema-publication",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 461,
+              "end": 499
+            }
+          ],
+          "new": [
+            {
+              "start": 471,
+              "end": 507
+            }
+          ],
+          "reason": "The brief publication account starts around 472; its quoted own-voice-or-servants conclusion continues to the cue ending at 506.479, beyond the original end."
+        },
+        {
+          "storyId": "sikahema-publication",
+          "field": "summary",
+          "old": "Some early leaders worry about publishing revelations because of the young prophet's writing limitations. The quoted response emphasizes the Lord's words through His servants.",
+          "new": "Some early leaders hesitate to publish revelations because of the young prophet's writing skills. Sikahema suggests this may explain a quoted declaration emphasizing the Lord's words through His servants.",
+          "reason": "The speaker's maybe makes the proposed causal relationship tentative. Calling the declaration a response without that qualification can imply an established historical causal claim."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "sikahema-value-access-to-prophetic-words",
+          "title": "Do not take easy access to prophetic teaching for granted",
+          "kind": "teaching",
+          "topics": [
+            "following",
+            "revelation"
+          ],
+          "start": 305.5,
+          "end": 333.5,
+          "rationale": "A short self-contained challenge about receiving and valuing the oracles of God when devices make access easy. It concerns prophetic teaching, so label that context explicitly.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "The Lord gave Joseph Smith this counsel.",
+          "tailCueText": "granted."
+        },
+        {
+          "id": "sikahema-writing-and-the-lords-words",
+          "storyId": "sikahema-publication",
+          "title": "Human writing limits and the Lord's words",
+          "kind": "story",
+          "topics": [
+            "following",
+            "revelation"
+          ],
+          "start": 471.6,
+          "end": 507.1,
+          "rationale": "Complete historical example and full quoted conclusion. Preserve the speaker's maybe about the causal relationship instead of making it factual trivia.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "leadCueText": "It's interesting to note that when the",
+          "tailCueText": "the voice of my servants, it is the"
+        }
+      ]
+    }
+  ]
+}

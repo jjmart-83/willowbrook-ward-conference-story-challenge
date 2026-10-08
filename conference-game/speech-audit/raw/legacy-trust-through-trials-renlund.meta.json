@@ -1,0 +1,16 @@
+{
+  "clipId": "legacy-trust-through-trials-renlund",
+  "clipSha256": "e9696ff1c704a77347b143b6084d10e875f498a6c38945ac12d5902a35d2466b",
+  "sourceFingerprint": "512a75bc53ba7bd9ce04c5e02047d7d5347c1f13b21a7bb79e7d51aa69b8c38a",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:27:46.581247+00:00"
+}

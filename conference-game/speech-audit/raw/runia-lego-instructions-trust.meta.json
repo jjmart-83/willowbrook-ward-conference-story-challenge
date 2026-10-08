@@ -1,0 +1,16 @@
+{
+  "clipId": "runia-lego-instructions-trust",
+  "clipSha256": "5c00ed8d8fea06df8eb58aa8244ff50739bb686d55fdf31149ad411111ccb3af",
+  "sourceFingerprint": "a668df57880becba6ff95ab86626553197cb415060d9747355562cea41b1c5f8",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:23:03.304096+00:00"
+}

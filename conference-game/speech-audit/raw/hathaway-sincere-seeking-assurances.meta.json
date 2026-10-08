@@ -1,0 +1,16 @@
+{
+  "clipId": "hathaway-sincere-seeking-assurances",
+  "clipSha256": "d58bfce0dcddd826896c22d5da5c6ce99e8bcebd802539d085657a8599ea1306",
+  "sourceFingerprint": "d5d678003f0d6f6b2fd86eca7d138cfdaea9b9aa1d20c1649eeda85440974629",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:27.108741+00:00"
+}

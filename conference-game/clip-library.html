@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Conference clip library</title>
+  <link rel="stylesheet" href="clip-library.css">
+  <script src="clip-playback.js" defer></script>
+  <script src="clip-library.js" defer></script>
+</head>
+<body>
+  <header>
+    <nav><a href="./">Open the game</a><a href="../Conference%20Review.md">Conference review</a><a href="../Conference%20Activity%20Plan.md">Activity plan</a><a href="clip-speech-review.html">Speech inspection report</a></nav>
+    <p class="eyebrow">OCTOBER 2026 GENERAL CONFERENCE</p>
+    <h1>Conference clip library</h1>
+    <p>Find a story or teaching for a clue, compare sources, and play the prepared excerpt.</p>
+    <p class="status-note">Selections were reviewed against the complete captions and independently screened with Whisper. Use the inspection filter to prioritize listening. Machine flags can reflect recognition errors; exact wording and final edit boundaries still need human review. Longer clips are reference material for a retelling or shorter selection.</p>
+  </header>
+  <main>
+    <form id="filters" class="filters" role="search">
+      <label>Search<input id="search" type="search" placeholder="Speaker, story, or teaching"></label>
+      <label>Session<select id="session"><option value="">All sessions</option></select></label>
+      <label>Assignment<select id="topic"><option value="">All assignments</option></select></label>
+      <label>Material<select id="kind"><option value="">All material</option><option value="story">Stories</option><option value="teaching">Teachings</option><option value="closing">Closing invitation</option></select></label>
+      <label>Inspection<select id="inspection"><option value="">All excerpts</option><option value="flagged">All flagged</option><option value="high">Inspect first</option><option value="medium">Other checks</option><option value="low">No automatic flags</option></select></label>
+    </form>
+    <p id="resultCount" role="status">Loading reviewed excerpts…</p>
+    <section id="clips" class="clip-grid" aria-label="Prepared excerpts"></section>
+  </main>
+</body>
+</html>

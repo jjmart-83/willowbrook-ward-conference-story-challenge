@@ -1,0 +1,16 @@
+{
+  "clipId": "spannaus-gps-known-and-loved",
+  "clipSha256": "72dcb85a8bf8a556e68cc2a6478677fe55174512f4b188e098e5df9873ef63cb",
+  "sourceFingerprint": "9b8d5b4491f8f76de6e68e611709f538f384d14144e44f04664422bf3c7fee35",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:42.787298+00:00"
+}

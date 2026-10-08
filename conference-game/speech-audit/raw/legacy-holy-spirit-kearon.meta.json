@@ -1,0 +1,16 @@
+{
+  "clipId": "legacy-holy-spirit-kearon",
+  "clipSha256": "a4d2fb194e37abc0e66b719675c4109d7cdb9d92ba7609f831733cd38b9b16c4",
+  "sourceFingerprint": "a77a697967949ba09598e1d15cf0ad76321c4dd8ac6bcd2044c48f5334d370ba",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:27:46.077456+00:00"
+}

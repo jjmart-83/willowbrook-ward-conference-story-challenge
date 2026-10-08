@@ -1,0 +1,16 @@
+{
+  "clipId": "farnes-oaks-care-complete",
+  "clipSha256": "72b099f6d0eccfa65d48fff64c078ff82627ade8998e52635a92b1c7354a05c4",
+  "sourceFingerprint": "24f7eaf8b27623860b7206a246f14ed6dd0361a6fc41523b4a9aa60d538f05b8",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:23:14.862555+00:00"
+}

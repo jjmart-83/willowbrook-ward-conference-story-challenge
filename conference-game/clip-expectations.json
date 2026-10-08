@@ -1,0 +1,5869 @@
+{
+  "schemaVersion": 1,
+  "createdDate": "2026-10-05",
+  "method": "Human-written expectations from the reviewed caption windows, story catalog, and board answer criteria. Used after independent Whisper transcription; never supplied as a Whisper prompt. Terms are a transparent inspection heuristic, not a semantic proof.",
+  "clips": [
+    {
+      "id": "kyungu-peaceful-replacements",
+      "expectedMeaning": "Choose words that encourage understanding and peace, strengthen confidence, and preserve relationships; concrete courteous and forgiving phrases show how.",
+      "checks": [
+        {
+          "id": "kyungu-peaceful-replacements-peace",
+          "label": "Choose language that encourages understanding and peace",
+          "conceptGroups": [
+            [
+              "word",
+              "language",
+              "speak"
+            ],
+            [
+              "understand",
+              "peace"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "kyungu-peaceful-replacements-relationships",
+          "label": "Strengthen confidence and preserve relationships",
+          "conceptGroups": [
+            [
+              "confiden*"
+            ],
+            [
+              "relationship",
+              "respect"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "kyungu-peaceful-replacements-examples",
+          "label": "Give concrete kind or forgiving alternatives",
+          "conceptGroups": [
+            [
+              "thank",
+              "appreciat*",
+              "forgiv*",
+              "sorry",
+              "care"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The target is the replacement-language paragraph and its list through starting again and refusing division. The neighboring weapons-of-war analogy is not required."
+    },
+    {
+      "id": "kyungu-heart-and-peace",
+      "expectedMeaning": "Filling the heart with Christ's doctrine changes speech; following Him brings peace and helps us become peacemakers through repentance, prayer, and respectful words.",
+      "checks": [
+        {
+          "id": "kyungu-heart-and-peace-heart",
+          "label": "Christ's doctrine changes what we speak",
+          "conceptGroups": [
+            [
+              "heart"
+            ],
+            [
+              "doctrine"
+            ],
+            [
+              "Christ"
+            ],
+            [
+              "language",
+              "speak"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "kyungu-heart-and-peace-peacemaking",
+          "label": "Follow Christ and become instruments of peace",
+          "conceptGroups": [
+            [
+              "follow"
+            ],
+            [
+              "Christ"
+            ],
+            [
+              "peace"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "kyungu-heart-and-peace-practice",
+          "label": "Repent, pray, and speak with warm respect",
+          "conceptGroups": [
+            [
+              "repent",
+              "pray"
+            ],
+            [
+              "respect",
+              "uplift",
+              "comfort"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Check the complete heart/doctrine and peacemaking application. Do not require continuation beyond the closing peace-scripture fragment."
+    },
+    {
+      "id": "spannaus-divine-identity",
+      "expectedMeaning": "Young women are beloved daughters of Heavenly Parents with divine nature and eternal destiny; their individual work brings joy as they love and trust God.",
+      "checks": [
+        {
+          "id": "spannaus-divine-identity-identity",
+          "label": "Beloved daughters have divine nature and destiny",
+          "conceptGroups": [
+            [
+              "daughter"
+            ],
+            [
+              "heavenly"
+            ],
+            [
+              "divine"
+            ],
+            [
+              "destin*"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "spannaus-divine-identity-work",
+          "label": "Individual work and trusting God can bring joy",
+          "conceptGroups": [
+            [
+              "work"
+            ],
+            [
+              "love",
+              "trust"
+            ],
+            [
+              "joy"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Preserve the address to young women and finish the individual-work/joy sentence. The following seven suggestions are outside this clip."
+    },
+    {
+      "id": "spannaus-spirit-and-sacrament",
+      "expectedMeaning": "Listen to the Spirit to choose a focus, partake of the sacrament humbly, and seek the Holy Ghost's companionship while keeping covenants and asking the Father daily.",
+      "checks": [
+        {
+          "id": "spannaus-spirit-and-sacrament-focus",
+          "label": "Listen to the Spirit and choose a focus",
+          "conceptGroups": [
+            [
+              "spirit"
+            ],
+            [
+              "choose",
+              "focus"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "spannaus-spirit-and-sacrament-sacrament",
+          "label": "Sacrament and covenant keeping connect to the Spirit's companionship",
+          "conceptGroups": [
+            [
+              "sacrament"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "Holy Ghost",
+              "Spirit"
+            ],
+            [
+              "companion*"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "spannaus-spirit-and-sacrament-daily",
+          "label": "Ask the Father for companionship each day",
+          "conceptGroups": [
+            [
+              "day",
+              "daily"
+            ],
+            [
+              "ask"
+            ],
+            [
+              "Father"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The target is choosing a focus plus the first sacrament/companionship suggestion. The next suggestion about repentance is not required."
+    },
+    {
+      "id": "spannaus-gps-known-and-loved",
+      "expectedMeaning": "A confused GPS placed her on a parallel road; her husband could guide her after learning her actual location. The Lord knows her real circumstances and weaknesses, and that knowledge does not lessen His love.",
+      "checks": [
+        {
+          "id": "spannaus-gps-known-and-loved-gps",
+          "label": "Wrong GPS location versus guidance from her husband",
+          "conceptGroups": [
+            [
+              "GPS",
+              "navigation"
+            ],
+            [
+              "freeway",
+              "parallel",
+              "street"
+            ],
+            [
+              "husband"
+            ],
+            [
+              "location"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "spannaus-gps-known-and-loved-known",
+          "label": "The Lord knows where we actually are",
+          "conceptGroups": [
+            [
+              "Lord"
+            ],
+            [
+              "know"
+            ],
+            [
+              "location",
+              "where"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "spannaus-gps-known-and-loved-love",
+          "label": "Knowing weaknesses does not make Him love us less",
+          "conceptGroups": [
+            [
+              "weakness"
+            ],
+            [
+              "love"
+            ],
+            [
+              "less"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Both identity-300 answers belong here: actual location/circumstances and unchanged love despite weaknesses. Do not require the next young-man story."
+    },
+    {
+      "id": "spannaus-young-man-love-before-growth",
+      "expectedMeaning": "Jesus looks on the young man with love before telling him how to improve. The Father and Savior likewise love us patiently and give opportunities to learn and grow.",
+      "checks": [
+        {
+          "id": "spannaus-young-man-love-before-growth-love-first",
+          "label": "Christ's love precedes His invitation to improve",
+          "conceptGroups": [
+            [
+              "Jesus",
+              "Christ"
+            ],
+            [
+              "love"
+            ],
+            [
+              "before",
+              "after"
+            ],
+            [
+              "improv*"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "spannaus-young-man-love-before-growth-growth",
+          "label": "Perfect love includes patience and chances to learn",
+          "conceptGroups": [
+            [
+              "Father",
+              "Savior"
+            ],
+            [
+              "love"
+            ],
+            [
+              "patient",
+              "opportunit*"
+            ],
+            [
+              "learn",
+              "work"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Identity-500 depends on love before improvement and patient growth. Do not require the next divine-daughters introduction or a literal modern repair action; that is the team's application."
+    },
+    {
+      "id": "chigbundu-sacrament-during-the-week",
+      "expectedMeaning": "The sacrament strengthens our relationship with the Savior. We promise to take Christ's name, remember Him, and keep His commandments; living those promises during the week gradually refines our lives.",
+      "checks": [
+        {
+          "id": "chigbundu-sacrament-during-the-week-relationship",
+          "label": "Sacrament strengthens the relationship with the Savior",
+          "conceptGroups": [
+            [
+              "sacrament"
+            ],
+            [
+              "relationship"
+            ],
+            [
+              "Savior",
+              "Christ"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "chigbundu-sacrament-during-the-week-promises",
+          "label": "All three sacrament commitments are present",
+          "conceptGroups": [
+            [
+              "name"
+            ],
+            [
+              "remember"
+            ],
+            [
+              "commandment"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "chigbundu-sacrament-during-the-week-weekday",
+          "label": "Remembering Christ during the week refines and reshapes life",
+          "conceptGroups": [
+            [
+              "week"
+            ],
+            [
+              "refin*",
+              "reshap*"
+            ],
+            [
+              "learn",
+              "change"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The complete sacrament paragraph should include all promises and the weekday application through learning/change. The following numbered covenant section is not required."
+    },
+    {
+      "id": "chigbundu-prayer-and-burdens",
+      "expectedMeaning": "A woman with cancer describes daily prayer helping her recognize the Savior's love and care. Prayer can strengthen us to carry burdens that are not necessarily removed.",
+      "checks": [
+        {
+          "id": "chigbundu-prayer-and-burdens-prayer",
+          "label": "The woman with cancer prays and recognizes the Savior's love",
+          "conceptGroups": [
+            [
+              "cancer"
+            ],
+            [
+              "pray",
+              "prayer"
+            ],
+            [
+              "Savior"
+            ],
+            [
+              "love"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "chigbundu-prayer-and-burdens-remaining-burden",
+          "label": "Burdens may remain while strength to carry them grows",
+          "conceptGroups": [
+            [
+              "burden"
+            ],
+            [
+              "not",
+              "may",
+              "always"
+            ],
+            [
+              "remov*"
+            ],
+            [
+              "carry",
+              "load",
+              "back"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Retain the burden-may-remain qualification. The account reports reassurance, not a cure; the next sacrament section is outside the target."
+    },
+    {
+      "id": "chigbundu-missionary-scripture-plan",
+      "expectedMeaning": "A missionary who wanted to go home made a scripture-study plan with his trainer, especially studying the Book of Mormon. He later understood his purpose, felt happy, and no longer wanted to be sent home.",
+      "checks": [
+        {
+          "id": "chigbundu-missionary-scripture-plan-plan",
+          "label": "Missionary and trainer make a scripture-study plan",
+          "conceptGroups": [
+            [
+              "scripture",
+              "study"
+            ],
+            [
+              "plan"
+            ],
+            [
+              "trainer"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "chigbundu-missionary-scripture-plan-book",
+          "label": "The plan particularly includes the Book of Mormon",
+          "conceptGroups": [
+            [
+              "Book of Mormon"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "chigbundu-missionary-scripture-plan-change",
+          "label": "Purpose, happiness, and changed desire about going home",
+          "conceptGroups": [
+            [
+              "purpose"
+            ],
+            [
+              "happy"
+            ],
+            [
+              "home",
+              "sent"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "All following-200 details belong here, including the trainer, Book of Mormon, purpose, happiness, and desire to stay. Check the meaning of the negation about going home, rather than requiring a verbatim quotation."
+    },
+    {
+      "id": "schmeil-covenants-and-yoke",
+      "expectedMeaning": "A covenant is a sacred promise with God's conditions and promised blessings. Covenants bind us to Christ, and His yoke illustrates receiving His rest and lighter burdens.",
+      "checks": [
+        {
+          "id": "schmeil-covenants-and-yoke-promise",
+          "label": "A covenant is a sacred promise with God",
+          "conceptGroups": [
+            [
+              "covenant"
+            ],
+            [
+              "promise"
+            ],
+            [
+              "God"
+            ],
+            [
+              "condition",
+              "obey"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "schmeil-covenants-and-yoke-connection",
+          "label": "Covenants bind us to Christ and lighten burdens",
+          "conceptGroups": [
+            [
+              "Christ",
+              "Savior"
+            ],
+            [
+              "bind",
+              "yoke",
+              "yoked",
+              "joined"
+            ],
+            [
+              "burden",
+              "rest",
+              "light"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The complete definition and Christ/yoke application are the target. The later weekly-sacrament explanation belongs to a separate clip; no historical yoke event is claimed."
+    },
+    {
+      "id": "schmeil-sacrament-willingness",
+      "expectedMeaning": "Baptismal promises are renewed through the sacrament; willingness to take Christ's name, remember Him, and keep His commandments matters rather than already being perfect. The promised Spirit helps us continue on the covenant path.",
+      "checks": [
+        {
+          "id": "schmeil-sacrament-willingness-willingness",
+          "label": "Willingness rather than prior perfection",
+          "conceptGroups": [
+            [
+              "willing"
+            ],
+            [
+              "perfect*"
+            ],
+            [
+              "sacrament"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "schmeil-sacrament-willingness-promises",
+          "label": "Name, remembrance, and commandments are all named",
+          "conceptGroups": [
+            [
+              "name"
+            ],
+            [
+              "remember"
+            ],
+            [
+              "commandment"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "schmeil-sacrament-willingness-spirit",
+          "label": "Promised Spirit and strength support the covenant path",
+          "conceptGroups": [
+            [
+              "spirit"
+            ],
+            [
+              "strength"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "path"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Keep the willingness/perfection contrast and the complete Spirit/strength conclusion. The next cited warning is not required."
+    },
+    {
+      "id": "schmeil-haggai-priorities",
+      "expectedMeaning": "The people first neglected God's temple, then reconsidered their ways and rebuilt it. Today we are asked to build a strong relationship with Heavenly Father and Christ through making and keeping covenants.",
+      "checks": [
+        {
+          "id": "schmeil-haggai-priorities-priority",
+          "label": "Reconsider priorities and rebuild the temple",
+          "conceptGroups": [
+            [
+              "temple"
+            ],
+            [
+              "rebuild",
+              "build"
+            ],
+            [
+              "priority",
+              "repent",
+              "consider"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "schmeil-haggai-priorities-modern-answer",
+          "label": "Build a relationship with Father and Christ through covenants",
+          "conceptGroups": [
+            [
+              "relationship"
+            ],
+            [
+              "Father",
+              "God"
+            ],
+            [
+              "Christ",
+              "son"
+            ],
+            [
+              "covenant"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "schmeil-haggai-priorities-alignment",
+          "label": "Aligned efforts and adjustments bring blessing",
+          "conceptGroups": [
+            [
+              "effort"
+            ],
+            [
+              "magnify",
+              "bless"
+            ],
+            [
+              "adjust",
+              "aligned",
+              "will"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Both covenants-400 answers must be present: rebuilding became a priority and today's building is a relationship through covenants. Do not require perfect ASR spelling of Haggai or the complete quoted verse."
+    },
+    {
+      "id": "gilbert-retort-without-charity",
+      "expectedMeaning": "An angry reply may have won a debate but lost the Spirit and failed to help the struggling friend. Holding truth without love or charity was the failure.",
+      "checks": [
+        {
+          "id": "gilbert-retort-without-charity-failure",
+          "label": "An angry retort loses the Spirit and fails to help the friend",
+          "conceptGroups": [
+            [
+              "angry",
+              "anger",
+              "retort"
+            ],
+            [
+              "spirit"
+            ],
+            [
+              "friend"
+            ],
+            [
+              "failed",
+              "fail",
+              "lost"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "gilbert-retort-without-charity-charity",
+          "label": "Truth was defended without love and charity",
+          "conceptGroups": [
+            [
+              "truth"
+            ],
+            [
+              "love"
+            ],
+            [
+              "charity"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "gilbert-retort-without-charity-debate",
+          "label": "Winning a debate was insufficient",
+          "conceptGroups": [
+            [
+              "won",
+              "win"
+            ],
+            [
+              "debate"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Serving-500 needs the admitted failure of anger and missing charity, not a spoken modern sample response. The next common-ground principle belongs to the following story."
+    },
+    {
+      "id": "gilbert-five-visitors-wait",
+      "expectedMeaning": "When five people had different concerns, the Spirit prompted Gilbert to wait rather than interrupt. Listening helped him understand their struggles, build common ground, and teach from love.",
+      "checks": [
+        {
+          "id": "gilbert-five-visitors-wait-prompt",
+          "label": "The Spirit prompts waiting instead of immediate interjection",
+          "conceptGroups": [
+            [
+              "spirit"
+            ],
+            [
+              "wait"
+            ],
+            [
+              "interject",
+              "respond",
+              "impulse"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "gilbert-five-visitors-wait-listen",
+          "label": "Listening brings understanding and teaching from love",
+          "conceptGroups": [
+            [
+              "listen"
+            ],
+            [
+              "understand",
+              "struggle"
+            ],
+            [
+              "love",
+              "common ground"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "gilbert-five-visitors-wait-setting",
+          "label": "One home contains five people with different concerns",
+          "conceptGroups": [
+            [
+              "five",
+              "5"
+            ],
+            [
+              "individual",
+              "concern"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The revelation-500 source is the prompting to wait and its loving-listening result. A present-day listening plan is an application, not a literal event to demand from the transcript."
+    },
+    {
+      "id": "christofferson-gambling-opportunity-cost",
+      "expectedMeaning": "Present decisions affect the future; choosing one activity costs another opportunity. Gambling can cost money, time, relationships, and worthwhile pursuits.",
+      "checks": [
+        {
+          "id": "christofferson-gambling-opportunity-cost-choice",
+          "label": "Present decisions affect where life leads",
+          "conceptGroups": [
+            [
+              "decision",
+              "choice"
+            ],
+            [
+              "future",
+              "lead"
+            ],
+            [
+              "present",
+              "current"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "christofferson-gambling-opportunity-cost-cost",
+          "label": "Opportunity cost includes what gambling displaces",
+          "conceptGroups": [
+            [
+              "opportunity cost"
+            ],
+            [
+              "gambl*"
+            ],
+            [
+              "money"
+            ],
+            [
+              "time"
+            ],
+            [
+              "relationship",
+              "pursuit"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Keep the opportunity-cost definition and the actual gambling question. The next paragraph about character is outside this window."
+    },
+    {
+      "id": "christofferson-resources-for-good",
+      "expectedMeaning": "A worthwhile life contributes productively to others. Refrain from gambling and use the saved time and resources for doing good, recognizing agency and accountability to God.",
+      "checks": [
+        {
+          "id": "christofferson-resources-for-good-redirect",
+          "label": "Refrain from gambling and redirect time/resources toward good",
+          "conceptGroups": [
+            [
+              "gambl*"
+            ],
+            [
+              "time"
+            ],
+            [
+              "resource",
+              "money"
+            ],
+            [
+              "good"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "christofferson-resources-for-good-contribution",
+          "label": "Contribute productively to others",
+          "conceptGroups": [
+            [
+              "others",
+              "well being",
+              "well-being"
+            ],
+            [
+              "productive",
+              "work"
+            ],
+            [
+              "worthy",
+              "contribut*"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "christofferson-resources-for-good-accountability",
+          "label": "Life and agency carry accountability",
+          "conceptGroups": [
+            [
+              "agency"
+            ],
+            [
+              "accountable"
+            ],
+            [
+              "God"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The target ends with the plea to redirect resources and the good-cause teaching. Do not require continuation of the final scriptural beatitude."
+    },
+    {
+      "id": "renlund-trust-and-peace",
+      "expectedMeaning": "God remains constant and invites trust in His promises. Christ offers spiritual peace amid tribulation and present joy through a covenant relationship, rather than removing every difficult circumstance.",
+      "checks": [
+        {
+          "id": "renlund-trust-and-peace-trust",
+          "label": "Trust God's constancy and covenant promises",
+          "conceptGroups": [
+            [
+              "trust"
+            ],
+            [
+              "promise"
+            ],
+            [
+              "covenant"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "renlund-trust-and-peace-peace",
+          "label": "Peace is offered amid tribulation and circumstances",
+          "conceptGroups": [
+            [
+              "peace"
+            ],
+            [
+              "tribulation",
+              "circumstance",
+              "world"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "renlund-trust-and-peace-joy",
+          "label": "Joy is connected to a covenant relationship with Christ",
+          "conceptGroups": [
+            [
+              "joy"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "relationship"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Retain the tribulation/peace contrast and covenant-joy statement. Do not require the unfinished next explanation beginning with faith freeing us from uncertainty."
+    },
+    {
+      "id": "renlund-remember-mercies",
+      "expectedMeaning": "Remember and ponder the Lord's past goodness and mercy to see the bigger picture and rely on His promises.",
+      "checks": [
+        {
+          "id": "renlund-remember-mercies-remember",
+          "label": "Remember mercy and reflect on what the Lord has done",
+          "conceptGroups": [
+            [
+              "remember"
+            ],
+            [
+              "merc*",
+              "goodness"
+            ],
+            [
+              "ponder",
+              "reflect"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "renlund-remember-mercies-rely",
+          "label": "A larger perspective supports trusting promises",
+          "conceptGroups": [
+            [
+              "bigger picture",
+              "great things"
+            ],
+            [
+              "promise"
+            ],
+            [
+              "trust",
+              "rely"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The target is remembering/pondering and relying on promises. Linda's story only begins at the edge and is not required here."
+    },
+    {
+      "id": "renlund-oatmeal-full-context",
+      "expectedMeaning": "After two transplants and recovery, the patient complains that oatmeal is not hot and milk is not cold. Renlund acknowledges exhausted coping before drawing attention to the larger miracle and future promise.",
+      "checks": [
+        {
+          "id": "renlund-oatmeal-full-context-breakfast",
+          "label": "Both exact breakfast details are present",
+          "conceptGroups": [
+            [
+              "oatmeal"
+            ],
+            [
+              "hot"
+            ],
+            [
+              "milk"
+            ],
+            [
+              "cold"
+            ],
+            [
+              "not",
+              "isn't",
+              "wasn't"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "renlund-oatmeal-full-context-medical-context",
+          "label": "A second donor heart/transplant brings recovery",
+          "conceptGroups": [
+            [
+              "second",
+              "another"
+            ],
+            [
+              "transplant",
+              "heart"
+            ],
+            [
+              "recover"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "renlund-oatmeal-full-context-compassion",
+          "label": "Coping exhaustion qualifies the bigger-picture lesson",
+          "conceptGroups": [
+            [
+              "coping",
+              "coupon"
+            ],
+            [
+              "miracle",
+              "bigger picture"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Hope-100 requires both temperatures and their negation, not obscure medical trivia. The coping-exhaustion acknowledgment is included; do not interpret the story as dismissing genuine suffering."
+    },
+    {
+      "id": "renlund-linda-no-asterisk",
+      "expectedMeaning": "Linda imagined an asterisk excluding her from God's promises, then realized she was no exception and the blessings applied to her too. Renlund extends that reassurance to listeners.",
+      "checks": [
+        {
+          "id": "renlund-linda-no-asterisk-exclusion",
+          "label": "An imagined asterisk seems to exclude her from blessings",
+          "conceptGroups": [
+            [
+              "asterisk",
+              "exception"
+            ],
+            [
+              "blessing",
+              "promise"
+            ],
+            [
+              "except",
+              "exclud*"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "renlund-linda-no-asterisk-inclusion",
+          "label": "She and listeners are included in the promises",
+          "conceptGroups": [
+            [
+              "too",
+              "no exception",
+              "neither",
+              "not"
+            ],
+            [
+              "blessing",
+              "promise"
+            ],
+            [
+              "you",
+              "me"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Identity-400 depends on personal inclusion and correcting the imagined exclusion. Conditions and God's timing are host qualifications from the broader notes, not sentences to require in this clip."
+    },
+    {
+      "id": "oaks-faith-small-daily-steps",
+      "expectedMeaning": "Concerns, questions, and doubts are met by getting closer to Christ and building faith daily, one step at a time, with prayer and scriptural learning.",
+      "checks": [
+        {
+          "id": "oaks-faith-small-daily-steps-concerns",
+          "label": "The invitation addresses concerns, questions, or doubts",
+          "conceptGroups": [
+            [
+              "concern",
+              "question",
+              "doubt",
+              "struggle"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "oaks-faith-small-daily-steps-closer",
+          "label": "Come closer to Christ and develop faith",
+          "conceptGroups": [
+            [
+              "closer",
+              "close"
+            ],
+            [
+              "Christ",
+              "Savior"
+            ],
+            [
+              "faith"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "oaks-faith-small-daily-steps-daily",
+          "label": "Daily steps include prayer and scriptural learning",
+          "conceptGroups": [
+            [
+              "daily",
+              "day",
+              "step"
+            ],
+            [
+              "pray",
+              "prayer"
+            ],
+            [
+              "scriptur*"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Complete the daily-prayer/scriptural-learning sentence. Patience and God's timing are developed in the next clip, not required words here."
+    },
+    {
+      "id": "oaks-patience-and-timing",
+      "expectedMeaning": "Be patient with ourselves and others; resolving uncertainty can be lengthy and involves faith and humility. Waiting upon the Lord includes trusting His timing and promises.",
+      "checks": [
+        {
+          "id": "oaks-patience-and-timing-time",
+          "label": "Resolving uncertainty and doubt can take time",
+          "conceptGroups": [
+            [
+              "uncertainty",
+              "doubt"
+            ],
+            [
+              "lengthy",
+              "time",
+              "process"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "oaks-patience-and-timing-patience",
+          "label": "Patient treatment and humility are part of the response",
+          "conceptGroups": [
+            [
+              "patient",
+              "patience"
+            ],
+            [
+              "humil*"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "oaks-patience-and-timing-trust",
+          "label": "Trust the Lord's timing and promises",
+          "conceptGroups": [
+            [
+              "trust"
+            ],
+            [
+              "timing",
+              "time"
+            ],
+            [
+              "promise"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The timing-and-promises sentence is the intended ending. Do not require the next concern after that sentence or a complete science/religion argument."
+    },
+    {
+      "id": "oaks-closing-study-ponder-act",
+      "expectedMeaning": "Study and ponder conference teachings prayerfully, then act in faith; receiving what the Lord gives is connected to His promise of more.",
+      "checks": [
+        {
+          "id": "oaks-closing-study-ponder-act-action",
+          "label": "Study, prayerful pondering, and faithful action",
+          "conceptGroups": [
+            [
+              "study"
+            ],
+            [
+              "ponder"
+            ],
+            [
+              "prayerful",
+              "pray"
+            ],
+            [
+              "act"
+            ],
+            [
+              "faith"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "oaks-closing-study-ponder-act-more",
+          "label": "The Lord promises more to the person who receives",
+          "conceptGroups": [
+            [
+              "receiv*"
+            ],
+            [
+              "more"
+            ],
+            [
+              "Lord"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Keep all three actions and the short receiving-more promise. The following look-forward sentence is not part of the target."
+    },
+    {
+      "id": "oaks-closing-covenant-destiny",
+      "expectedMeaning": "Oaks testifies of Christ's restored gospel and the truth about a covenant path leading to the destiny desired by Heavenly Father.",
+      "checks": [
+        {
+          "id": "oaks-closing-covenant-destiny-restored",
+          "label": "Testimony of the restored gospel of Jesus Christ",
+          "conceptGroups": [
+            [
+              "restored"
+            ],
+            [
+              "gospel"
+            ],
+            [
+              "Christ"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "oaks-closing-covenant-destiny-destiny",
+          "label": "Covenant path leads toward the Father's desired destiny",
+          "conceptGroups": [
+            [
+              "covenant"
+            ],
+            [
+              "path"
+            ],
+            [
+              "destiny"
+            ],
+            [
+              "Father"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "This is the closing/temple address, distinct from Oaks's earlier faith-and-doubts talk. Check the complete covenant-path/destiny thought; no temple-celebration details are required."
+    },
+    {
+      "id": "bednar-covenants-direction-faithfulness",
+      "expectedMeaning": "Ordinances and covenants are spiritual credentials offering divine purpose, direction, and strength. Honoring them through ongoing faithfulness is required for their validity and promised blessings.",
+      "checks": [
+        {
+          "id": "bednar-covenants-direction-faithfulness-benefits",
+          "label": "Covenants offer purpose, direction, and strength",
+          "conceptGroups": [
+            [
+              "covenant"
+            ],
+            [
+              "purpose"
+            ],
+            [
+              "direction"
+            ],
+            [
+              "strength"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "bednar-covenants-direction-faithfulness-faithfulness",
+          "label": "Ongoing faithfulness is required for valid credentials and blessings",
+          "conceptGroups": [
+            [
+              "ongoing",
+              "continuing",
+              "faithful*"
+            ],
+            [
+              "required",
+              "necessary"
+            ],
+            [
+              "valid",
+              "blessing",
+              "credential"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The ongoing-faithfulness requirement is in this clip. The separate no-fault adversity limit must accompany the passport analogy, but do not demand that whole-talk qualification from this standalone paragraph."
+    },
+    {
+      "id": "bednar-eternal-blessings-and-unknown-details",
+      "expectedMeaning": "Bednar cannot explain every detail of how or when blessings are received. A faithful disciple will ultimately receive promised eternal blessings despite another person's unrighteous exercise of agency.",
+      "checks": [
+        {
+          "id": "bednar-eternal-blessings-and-unknown-details-unknown",
+          "label": "Details, how, or when are not all explained",
+          "conceptGroups": [
+            [
+              "not know",
+              "don't know",
+              "cannot explain",
+              "can't explain"
+            ],
+            [
+              "how",
+              "when",
+              "detail",
+              "nuance"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "bednar-eternal-blessings-and-unknown-details-assurance",
+          "label": "Another person's choices cannot ultimately deprive a faithful disciple",
+          "conceptGroups": [
+            [
+              "faithful*",
+              "disciple"
+            ],
+            [
+              "eternal",
+              "blessing"
+            ],
+            [
+              "another",
+              "other"
+            ],
+            [
+              "agency",
+              "unrighteous",
+              "choice"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The unknown-details/timing admission and the eternal-blessings reassurance must both remain. This is a deeper marriage-related discussion; no invented resolution or timetable is expected."
+    },
+    {
+      "id": "bednar-passport-story",
+      "expectedMeaning": "The traveler holds a valid passport but has damaged it and made unauthorized repairs, so the official refuses the entry stamp. Maintaining credentials matters; possession alone does not guarantee admission.",
+      "checks": [
+        {
+          "id": "bednar-passport-story-damage",
+          "label": "A valid passport is damaged and repaired improperly",
+          "conceptGroups": [
+            [
+              "passport"
+            ],
+            [
+              "damag*",
+              "stain",
+              "rip"
+            ],
+            [
+              "tape",
+              "glue",
+              "repair"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "bednar-passport-story-rejection",
+          "label": "The official rejects the passport or refuses the entry stamp",
+          "conceptGroups": [
+            [
+              "reject",
+              "refus*"
+            ],
+            [
+              "stamp",
+              "enter",
+              "entry",
+              "country"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "bednar-passport-story-maintenance",
+          "label": "Integrity must be maintained and possession alone is insufficient",
+          "conceptGroups": [
+            [
+              "maintain",
+              "integrity"
+            ],
+            [
+              "alone"
+            ],
+            [
+              "guarantee"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "bednar-passport-authorized-stamp",
+        "bednar-passport-adversity-limit"
+      ],
+      "boundaryNote": "Covenants-500 needs all three passport components across companions: the story, authorized verifying witness, and no-fault hardship limit. Do not require the later Holy Spirit explanation or adversity limit within this narrative."
+    },
+    {
+      "id": "bednar-passport-authorized-stamp",
+      "expectedMeaning": "The authorized passport stamp parallels the verifying witness of the Holy Spirit of Promise required for eternal covenant and ordinance blessings.",
+      "checks": [
+        {
+          "id": "bednar-passport-authorized-stamp-witness",
+          "label": "Authorized stamp parallels a verifying witness",
+          "conceptGroups": [
+            [
+              "authorized",
+              "authorised"
+            ],
+            [
+              "stamp"
+            ],
+            [
+              "verif*",
+              "witness"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "bednar-passport-authorized-stamp-promise",
+          "label": "Holy Spirit of Promise verifies eternal covenant blessings",
+          "conceptGroups": [
+            [
+              "Holy Spirit of promise",
+              "Spirit of promise"
+            ],
+            [
+              "eternal"
+            ],
+            [
+              "blessing"
+            ],
+            [
+              "covenant",
+              "ordinance"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "bednar-passport-story",
+        "bednar-passport-adversity-limit"
+      ],
+      "boundaryNote": "This later noncontinuous passage supplies the verifying-witness answer for covenants-500. The damaged-passport plot and no-fault limit belong to companions."
+    },
+    {
+      "id": "bednar-passport-adversity-limit",
+      "expectedMeaning": "Unlike damage to a passport, adversity and affliction through no fault of our own do not diminish God's promises or invalidate covenants.",
+      "checks": [
+        {
+          "id": "bednar-passport-adversity-limit-no-fault",
+          "label": "The limit concerns adversity through no fault of our own",
+          "conceptGroups": [
+            [
+              "adversit*",
+              "afflict*",
+              "hardship",
+              "suffer"
+            ],
+            [
+              "no fault",
+              "not our fault",
+              "not their fault",
+              "without fault"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "bednar-passport-adversity-limit-not-invalidated",
+          "label": "Promises and covenants remain valid despite that adversity",
+          "conceptGroups": [
+            [
+              "promise"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "not",
+              "don't",
+              "do not"
+            ],
+            [
+              "diminish",
+              "invalidate",
+              "invalid"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "bednar-passport-story",
+        "bednar-passport-authorized-stamp"
+      ],
+      "boundaryNote": "The complete no-fault/non-invalidation sentence is essential. The following ordinance definition is outside the target; use this as the required limit beside the other passport components."
+    },
+    {
+      "id": "uchtdorf-baptism-covenant-people",
+      "expectedMeaning": "Baptism is individual and also joins us to a covenant people. That community bears burdens, mourns with others, comforts them, and follows Christ together.",
+      "checks": [
+        {
+          "id": "uchtdorf-baptism-covenant-people-community",
+          "label": "Baptism joins individual disciples to a covenant people",
+          "conceptGroups": [
+            [
+              "baptism",
+              "baptiz*"
+            ],
+            [
+              "individual"
+            ],
+            [
+              "people",
+              "community",
+              "unif*"
+            ],
+            [
+              "covenant"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "uchtdorf-baptism-covenant-people-care",
+          "label": "Bear burdens, mourn, and comfort",
+          "conceptGroups": [
+            [
+              "burden"
+            ],
+            [
+              "mourn"
+            ],
+            [
+              "comfort"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "uchtdorf-baptism-covenant-people-together",
+          "label": "Follow the Savior together",
+          "conceptGroups": [
+            [
+              "together"
+            ],
+            [
+              "Savior",
+              "Christ"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The target is covenant entry plus shared care. Do not require the two-great-grandchildren narrative or the next broader scripture discussion."
+    },
+    {
+      "id": "uchtdorf-sacrament-not-alone",
+      "expectedMeaning": "The sacrament renews personal covenants while worshippers participate together. It reminds us that we are not alone: we have the Savior and each other.",
+      "checks": [
+        {
+          "id": "uchtdorf-sacrament-not-alone-renewal",
+          "label": "Sacrament renews covenants with God",
+          "conceptGroups": [
+            [
+              "sacrament"
+            ],
+            [
+              "renew"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "God"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "uchtdorf-sacrament-not-alone-belonging",
+          "label": "Not alone: the Savior and each other",
+          "conceptGroups": [
+            [
+              "not alone",
+              "not by ourselves",
+              "not on our own"
+            ],
+            [
+              "Savior",
+              "Christ"
+            ],
+            [
+              "each other",
+              "brother",
+              "sister"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "uchtdorf-sacrament-not-alone-collective",
+          "label": "Participation is individual and collective",
+          "conceptGroups": [
+            [
+              "individual"
+            ],
+            [
+              "group",
+              "surrounded",
+              "together"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Finish the not-alone/Savior/each-other conclusion. The next invitation begins at the edge and is not required; do not adopt the caption error 'segment' as an expected word for sacrament."
+    },
+    {
+      "id": "uchtdorf-great-grandchildren-baptism",
+      "expectedMeaning": "Two great-grandchildren choose baptism and sacred commitments to Christ's name, God's commandments, and service; the family rejoices with them.",
+      "checks": [
+        {
+          "id": "uchtdorf-great-grandchildren-baptism-ordinance",
+          "label": "The chosen ordinance is baptism",
+          "conceptGroups": [
+            [
+              "baptism",
+              "baptiz*"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "uchtdorf-great-grandchildren-baptism-family",
+          "label": "Two great-grandchildren are involved",
+          "conceptGroups": [
+            [
+              "two",
+              "2"
+            ],
+            [
+              "grandchild",
+              "grandchildren"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "uchtdorf-great-grandchildren-baptism-promises",
+          "label": "Name, commandments, and service accompany the covenant",
+          "conceptGroups": [
+            [
+              "name"
+            ],
+            [
+              "commandment"
+            ],
+            [
+              "serve",
+              "service"
+            ],
+            [
+              "covenant"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Covenants-100 requires baptism; relatives' exact names and the following recollection of his own baptism are not required."
+    },
+    {
+      "id": "dube-come-before-perfection",
+      "expectedMeaning": "We come to Christ to be perfected rather than perfecting ourselves beforehand. We move, surrender ungodliness, and come with a willing heart; full perfection comes after resurrection through the Lord.",
+      "checks": [
+        {
+          "id": "dube-come-before-perfection-come-first",
+          "label": "Come to Christ without already being perfect",
+          "conceptGroups": [
+            [
+              "come"
+            ],
+            [
+              "Christ"
+            ],
+            [
+              "perfect*"
+            ],
+            [
+              "not",
+              "don't",
+              "do not"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "dube-come-before-perfection-surrender",
+          "label": "Let go and come with a willing heart",
+          "conceptGroups": [
+            [
+              "deny",
+              "surrender",
+              "let go"
+            ],
+            [
+              "heart"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "dube-come-before-perfection-eventual",
+          "label": "Full perfection awaits resurrection and comes through the Lord",
+          "conceptGroups": [
+            [
+              "perfection",
+              "perfect*"
+            ],
+            [
+              "resurrection"
+            ],
+            [
+              "Lord"
+            ],
+            [
+              "love",
+              "commandment"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Retain the eventual-resurrection/through-the-Lord qualification. The next airport experience is not required, and perfect pre-arrival worthiness is not the teaching."
+    },
+    {
+      "id": "dube-uncertain-faith-and-invitation",
+      "expectedMeaning": "A former missionary admits less-certain testimony. Dube warmly invites him to Christ's promised joy and asks listeners to invite one person or friend to Christ or missionaries.",
+      "checks": [
+        {
+          "id": "dube-uncertain-faith-and-invitation-uncertainty",
+          "label": "Uncertain testimony is met with Christ's joy",
+          "conceptGroups": [
+            [
+              "faith",
+              "testimony"
+            ],
+            [
+              "not as certain",
+              "not certain",
+              "uncertain",
+              "less certain"
+            ],
+            [
+              "Christ"
+            ],
+            [
+              "joy"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "dube-uncertain-faith-and-invitation-invitation",
+          "label": "Invite a person or friend toward Christ",
+          "conceptGroups": [
+            [
+              "one person",
+              "someone",
+              "friend"
+            ],
+            [
+              "invite"
+            ],
+            [
+              "Christ",
+              "missionar*"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The opening invitation and one-person action are complete targets. The final lose-yourself/find sentence continues beyond this window, so do not require its unstated object or perfect transcription of a name."
+    },
+    {
+      "id": "reid-mango-tree-love",
+      "expectedMeaning": "Primary teachers beneath a mango tree loved the children and knew them personally by name. Their love helped the children feel the Savior's love.",
+      "checks": [
+        {
+          "id": "reid-mango-tree-love-board-details",
+          "label": "Teachers' love and personal knowledge of names",
+          "conceptGroups": [
+            [
+              "love"
+            ],
+            [
+              "knew",
+              "know",
+              "personally"
+            ],
+            [
+              "name"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "reid-mango-tree-love-setting",
+          "label": "Primary lessons beneath a mango tree",
+          "conceptGroups": [
+            [
+              "Primary",
+              "class"
+            ],
+            [
+              "mango",
+              "tree"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "reid-mango-tree-love-connection",
+          "label": "The teachers' love communicates the Savior's love",
+          "conceptGroups": [
+            [
+              "Savior"
+            ],
+            [
+              "love"
+            ],
+            [
+              "teacher",
+              "messenger"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Serving-200 requires both love and knowing children personally/by name. Do not require the following Sydney mission account."
+    },
+    {
+      "id": "reid-growing-with-the-master",
+      "expectedMeaning": "Love for the Master Teacher makes it possible to begin teaching while knowledge, skills, and confidence remain incomplete. Christ teaches and walks beside disciples, helping them gradually grow and love those they teach.",
+      "checks": [
+        {
+          "id": "reid-growing-with-the-master-inadequacy",
+          "label": "Incomplete knowledge, skill, or confidence need not prevent teaching",
+          "conceptGroups": [
+            [
+              "teach"
+            ],
+            [
+              "not",
+              "don't"
+            ],
+            [
+              "know",
+              "skill",
+              "confident",
+              "capable"
+            ],
+            [
+              "love"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "reid-growing-with-the-master-growth",
+          "label": "The Master Teacher helps disciples gradually become",
+          "conceptGroups": [
+            [
+              "master",
+              "Savior",
+              "Christ"
+            ],
+            [
+              "teach",
+              "walk",
+              "help"
+            ],
+            [
+              "gradually",
+              "become"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "reid-growing-with-the-master-loving-teaching",
+          "label": "Teaching like Christ includes loving like Him",
+          "conceptGroups": [
+            [
+              "teach"
+            ],
+            [
+              "love"
+            ],
+            [
+              "Savior",
+              "Christ"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Keep the gradual-growth and love-based invitation. Formal closing prayer and amen are not required if they fall beyond the selected ending."
+    },
+    {
+      "id": "stevenson-farm-stand-peaches",
+      "expectedMeaning": "A childhood farm stand was known for delicious peaches; the family enjoyed fresh fruit, and Stevenson still enjoys tasting fruits.",
+      "checks": [
+        {
+          "id": "stevenson-farm-stand-peaches-peaches",
+          "label": "The farm stand's named fruit is peaches",
+          "conceptGroups": [
+            [
+              "stand",
+              "farm"
+            ],
+            [
+              "peach",
+              "peaches"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "stevenson-farm-stand-peaches-memory",
+          "label": "A family fruit-buying memory supplies context",
+          "conceptGroups": [
+            [
+              "family",
+              "father",
+              "dad"
+            ],
+            [
+              "fruit",
+              "harvest"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Following-100 requires peaches. Do not require a claim that this was the family's favorite stand. The gospel tasting application is a separate clip and is unnecessary for this simple fact question."
+    },
+    {
+      "id": "stevenson-taste-by-living",
+      "expectedMeaning": "Looking at or smelling fruit is different from tasting it. Gospel truths likewise become sweet and bring happiness and joy when we live them.",
+      "checks": [
+        {
+          "id": "stevenson-taste-by-living-taste",
+          "label": "Tasting gives knowledge beyond looking or smelling",
+          "conceptGroups": [
+            [
+              "fruit"
+            ],
+            [
+              "tast*"
+            ],
+            [
+              "know"
+            ],
+            [
+              "look",
+              "smell",
+              "feel"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "stevenson-taste-by-living-living",
+          "label": "Live gospel truth to experience happiness and joy",
+          "conceptGroups": [
+            [
+              "gospel",
+              "truth"
+            ],
+            [
+              "live",
+              "living"
+            ],
+            [
+              "happiness",
+              "joy"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The target is the analogy and its living-truth application. Peaches and the farm stand are not spoken here and must not be demanded from this clip."
+    },
+    {
+      "id": "stevenson-identity-strength-and-kindness",
+      "expectedMeaning": "We are children of a loving Heavenly Father who knows us personally and gives gifts and purpose. This knowledge strengthens us and makes us kinder because others are our brothers and sisters.",
+      "checks": [
+        {
+          "id": "stevenson-identity-strength-and-kindness-identity",
+          "label": "Children of Heavenly Father are known personally",
+          "conceptGroups": [
+            [
+              "child",
+              "children"
+            ],
+            [
+              "Heavenly Father",
+              "Father"
+            ],
+            [
+              "know"
+            ],
+            [
+              "personal"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "stevenson-identity-strength-and-kindness-effects",
+          "label": "This identity knowledge makes us stronger and kinder",
+          "conceptGroups": [
+            [
+              "strong"
+            ],
+            [
+              "kind"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "stevenson-identity-strength-and-kindness-others",
+          "label": "Others are our brothers and sisters",
+          "conceptGroups": [
+            [
+              "brother"
+            ],
+            [
+              "sister"
+            ],
+            [
+              "others",
+              "everyone",
+              "around"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Both self-perception and treatment of others belong in the clip. The next song reference is not required."
+    },
+    {
+      "id": "stevenson-spirit-warns-comforts-testifies",
+      "expectedMeaning": "The gift of the Holy Ghost follows baptism and confirmation and offers companionship. His roles include warning, comforting, and testifying, including a witness of the Father's love.",
+      "checks": [
+        {
+          "id": "stevenson-spirit-warns-comforts-testifies-gift",
+          "label": "Baptism/confirmation introduces the gift of the Holy Ghost",
+          "conceptGroups": [
+            [
+              "Holy Ghost",
+              "Spirit"
+            ],
+            [
+              "gift"
+            ],
+            [
+              "baptism",
+              "baptiz*",
+              "confirm"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "stevenson-spirit-warns-comforts-testifies-roles",
+          "label": "All three named roles: warn, comfort, testify",
+          "conceptGroups": [
+            [
+              "warn"
+            ],
+            [
+              "comfort"
+            ],
+            [
+              "testif*",
+              "testimony"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "stevenson-spirit-warns-comforts-testifies-witness",
+          "label": "The Spirit witnesses the Father's love",
+          "conceptGroups": [
+            [
+              "Father"
+            ],
+            [
+              "love"
+            ],
+            [
+              "whisper",
+              "spirit"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Require all three roles, not exact hymn lyrics. The preceding Gethsemane lyric and next summary of the three fruits are neighboring material, not targets."
+    },
+    {
+      "id": "gong-holy-spirit-of-promise-and-faithfulness",
+      "expectedMeaning": "The Holy Spirit of Promise witnesses proper ordinances and kept covenants, making them binding. Honored covenants matter; commitments not honored in faith and action are not expected to bind us.",
+      "checks": [
+        {
+          "id": "gong-holy-spirit-of-promise-and-faithfulness-witness",
+          "label": "The Holy Spirit of Promise witnesses ordinances and covenants",
+          "conceptGroups": [
+            [
+              "Holy Spirit of promise",
+              "Spirit of promise"
+            ],
+            [
+              "witness",
+              "confirm"
+            ],
+            [
+              "ordinance"
+            ],
+            [
+              "covenant"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "gong-holy-spirit-of-promise-and-faithfulness-honoring",
+          "label": "Honoring and keeping covenants brings efficacy",
+          "conceptGroups": [
+            [
+              "honor",
+              "honour",
+              "kept"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "binding",
+              "seal"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "gong-holy-spirit-of-promise-and-faithfulness-limit",
+          "label": "Unhonored covenants are not expected to be binding",
+          "conceptGroups": [
+            [
+              "not"
+            ],
+            [
+              "faith"
+            ],
+            [
+              "action"
+            ],
+            [
+              "binding"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The honor/faith/action qualification is inside this clip and should remain. The earlier discussion of choice in eternal relationships is outside this window, and personal-guidance rules must not be inferred."
+    },
+    {
+      "id": "gong-small-temple-ordinances",
+      "expectedMeaning": "The temple building may be small, but ordinances and covenants are not big or small. Gong invites gratitude and loving speech about the house of the Lord.",
+      "checks": [
+        {
+          "id": "gong-small-temple-ordinances-ordinances",
+          "label": "Ordinances are not big or small",
+          "conceptGroups": [
+            [
+              "ordinance"
+            ],
+            [
+              "not"
+            ],
+            [
+              "big"
+            ],
+            [
+              "small"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "gong-small-temple-ordinances-covenants",
+          "label": "Covenants are not big or small",
+          "conceptGroups": [
+            [
+              "covenant"
+            ],
+            [
+              "not"
+            ],
+            [
+              "big"
+            ],
+            [
+              "small"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "gong-small-temple-ordinances-gratitude",
+          "label": "Speak with love and gratitude for the temple",
+          "conceptGroups": [
+            [
+              "love",
+              "gratitude",
+              "grateful"
+            ],
+            [
+              "Lord",
+              "temple"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Covenants-200 requires both ordinances and covenants, not simply the word temple. Keep the gratitude conclusion; the next broad appeal can be omitted."
+    },
+    {
+      "id": "gong-children-buy-temple-clothing",
+      "expectedMeaning": "Children save and buy their widowed mother's own temple clothing, supporting her years of regular temple worship.",
+      "checks": [
+        {
+          "id": "gong-children-buy-temple-clothing-gift",
+          "label": "Children save and buy temple clothing for their mother",
+          "conceptGroups": [
+            [
+              "children"
+            ],
+            [
+              "save",
+              "saved",
+              "purchase",
+              "buy",
+              "bought"
+            ],
+            [
+              "mother"
+            ],
+            [
+              "temple"
+            ],
+            [
+              "cloth*"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "gong-children-buy-temple-clothing-worship",
+          "label": "She uses it during regular temple attendance",
+          "conceptGroups": [
+            [
+              "attend",
+              "worship"
+            ],
+            [
+              "temple"
+            ],
+            [
+              "year",
+              "regular"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Covenants-300 focuses on the children saving and purchasing the clothing and their mother's regular worship. The excerpt ends in the pause after 'many years', before the burial account."
+    },
+    {
+      "id": "causse-magazine-prompting-and-peace",
+      "expectedMeaning": "After praying for comfort and guidance, Causse feels prompted to open a church magazine on the kitchen table. A scripture brings peace and reassures him to bear witness of Christ.",
+      "checks": [
+        {
+          "id": "causse-magazine-prompting-and-peace-object",
+          "label": "The prompted object is a magazine on the kitchen table",
+          "conceptGroups": [
+            [
+              "magazine"
+            ],
+            [
+              "kitchen"
+            ],
+            [
+              "table"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "causse-magazine-prompting-and-peace-response",
+          "label": "Prayer leads to a prompting and opening the magazine",
+          "conceptGroups": [
+            [
+              "pray",
+              "prayer"
+            ],
+            [
+              "prompt",
+              "impression"
+            ],
+            [
+              "open"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "causse-magazine-prompting-and-peace-result",
+          "label": "Scriptural reassurance brings peace and a commission to witness",
+          "conceptGroups": [
+            [
+              "scripture"
+            ],
+            [
+              "peace"
+            ],
+            [
+              "witness",
+              "record"
+            ],
+            [
+              "Savior",
+              "Christ"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Revelation-100 requires the magazine and kitchen table. Do not require exact ASR of the magazine's name, the proper names in the calling, or the later eleven-month calling account."
+    },
+    {
+      "id": "causse-testimony-and-love",
+      "expectedMeaning": "Testimony is a gift to share humbly and lovingly. Love motivates sharing a witness of Christ, and expressing Christlike love itself bears witness of Him.",
+      "checks": [
+        {
+          "id": "causse-testimony-and-love-share",
+          "label": "Share testimony with love",
+          "conceptGroups": [
+            [
+              "testimony",
+              "witness"
+            ],
+            [
+              "share"
+            ],
+            [
+              "love"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "causse-testimony-and-love-deeds",
+          "label": "Christlike love itself bears witness of Christ",
+          "conceptGroups": [
+            [
+              "Christ",
+              "Jesus"
+            ],
+            [
+              "love"
+            ],
+            [
+              "bear",
+              "testimony",
+              "witness"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "causse-testimony-and-love-humility",
+          "label": "Humility and grateful hearts shape the sharing",
+          "conceptGroups": [
+            [
+              "humil*",
+              "grateful"
+            ],
+            [
+              "heart"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The complete love-as-witness explanation is the target. The following many-I-knows/I-love-yous appeal is not required."
+    },
+    {
+      "id": "causse-results-of-sharing-witness",
+      "expectedMeaning": "Sharing testimony can strengthen our testimony, draw us closer to the Lord and His redemption, and make us instruments to bless and minister to others.",
+      "checks": [
+        {
+          "id": "causse-results-of-sharing-witness-growth",
+          "label": "Sharing strengthens one's own testimony",
+          "conceptGroups": [
+            [
+              "testimony"
+            ],
+            [
+              "share"
+            ],
+            [
+              "grow",
+              "strong"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "causse-results-of-sharing-witness-closeness",
+          "label": "Closer to the Lord and the power of redemption",
+          "conceptGroups": [
+            [
+              "closer",
+              "close"
+            ],
+            [
+              "Lord"
+            ],
+            [
+              "redemption",
+              "redeem"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "causse-results-of-sharing-witness-ministry",
+          "label": "Become instruments to bless and minister to others",
+          "conceptGroups": [
+            [
+              "instrument",
+              "hand"
+            ],
+            [
+              "bless",
+              "minister"
+            ],
+            [
+              "others",
+              "around"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "All three stated results belong here. Alma's remembered parental testimony begins afterward and is not required."
+    },
+    {
+      "id": "h-eyring-help-without-removing-challenges",
+      "expectedMeaning": "The hymn promises divine aid and strengthening, but Eyring explicitly says the promise is not removal of challenges.",
+      "checks": [
+        {
+          "id": "h-eyring-help-without-removing-challenges-help",
+          "label": "Promises of aid, help, and strength",
+          "conceptGroups": [
+            [
+              "aid",
+              "help"
+            ],
+            [
+              "strength",
+              "strengthen"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "h-eyring-help-without-removing-challenges-limit",
+          "label": "The promise does not remove challenges",
+          "conceptGroups": [
+            [
+              "promise"
+            ],
+            [
+              "not",
+              "isn't",
+              "doesn't"
+            ],
+            [
+              "remov*"
+            ],
+            [
+              "challenge"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The no-removal sentence is essential. Exact hymn wording and the subsequent mother's life-is-a-test story are not required."
+    },
+    {
+      "id": "h-eyring-pray-notice-reach-out",
+      "expectedMeaning": "Pray about whom the Lord would have us help; when a face or name comes to mind, reach out. Simple attention comforts people and communicates that the Lord knows and loves them.",
+      "checks": [
+        {
+          "id": "h-eyring-pray-notice-reach-out-seek",
+          "label": "Pray to know whom to help",
+          "conceptGroups": [
+            [
+              "pray"
+            ],
+            [
+              "help"
+            ],
+            [
+              "family",
+              "friend"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "h-eyring-pray-notice-reach-out-notice-act",
+          "label": "A face or name comes to mind and the person reaches out",
+          "conceptGroups": [
+            [
+              "face",
+              "name"
+            ],
+            [
+              "mind"
+            ],
+            [
+              "reach"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "h-eyring-pray-notice-reach-out-comfort",
+          "label": "Attention comforts and shows the Lord's knowledge and love",
+          "conceptGroups": [
+            [
+              "attention",
+              "comfort"
+            ],
+            [
+              "Lord"
+            ],
+            [
+              "knew",
+              "know"
+            ],
+            [
+              "love"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Keep the prayer, thought, action, and comfort sequence. The following discouraged-missionary example is outside this target."
+    },
+    {
+      "id": "fale-baby-pictures-unearned-love",
+      "expectedMeaning": "The children had done nothing to earn their parents' love as babies. Fale uses their pictures to explain enduring love and the greater love of their Heavenly Father.",
+      "checks": [
+        {
+          "id": "fale-baby-pictures-unearned-love-answer",
+          "label": "Nothing had been done to earn the parents' love",
+          "conceptGroups": [
+            [
+              "nothing"
+            ],
+            [
+              "earn"
+            ],
+            [
+              "love"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "fale-baby-pictures-unearned-love-photos",
+          "label": "Baby pictures supply the setting",
+          "conceptGroups": [
+            [
+              "baby"
+            ],
+            [
+              "picture",
+              "photo"
+            ],
+            [
+              "children",
+              "kids"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "fale-baby-pictures-unearned-love-divine-love",
+          "label": "Connect that love to Heavenly Father and His child",
+          "conceptGroups": [
+            [
+              "Heavenly Father",
+              "Father"
+            ],
+            [
+              "child"
+            ],
+            [
+              "love"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Identity-100 requires the nothing-earned-love answer. The return-home reassurance and Spirit-witness conclusion are included; later qualifications about varied family experiences and covenant accountability are host context, not words to demand here."
+    },
+    {
+      "id": "fale-labels-repentance-and-belonging",
+      "expectedMeaning": "God's love changes the labels we accept for ourselves and others. Seeing His children as beloved and divine leads to quick repentance, slow judgment, and making sure nobody is left alone.",
+      "checks": [
+        {
+          "id": "fale-labels-repentance-and-belonging-labels",
+          "label": "Divine love changes labels about ourselves and others",
+          "conceptGroups": [
+            [
+              "label"
+            ],
+            [
+              "ourselves",
+              "us"
+            ],
+            [
+              "others",
+              "other",
+              "children"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "fale-labels-repentance-and-belonging-response",
+          "label": "Quick to repent and slow to judge",
+          "conceptGroups": [
+            [
+              "quick"
+            ],
+            [
+              "repent"
+            ],
+            [
+              "slow"
+            ],
+            [
+              "judge"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "fale-labels-repentance-and-belonging-belonging",
+          "label": "Love ensures no one is left alone",
+          "conceptGroups": [
+            [
+              "no one",
+              "nobody",
+              "none"
+            ],
+            [
+              "alone"
+            ],
+            [
+              "love"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The label, repentance/judgment, and not-alone applications belong here. The next third reason about too-late change is not required."
+    },
+    {
+      "id": "fantone-school-form-name-mistake",
+      "expectedMeaning": "Fantone mistakenly writes his own name where his daughter's belongs on her school form. Because her name includes his, he fixes it by adding her first name.",
+      "checks": [
+        {
+          "id": "fantone-school-form-name-mistake-mistake",
+          "label": "His own name is written where the daughter's belongs",
+          "conceptGroups": [
+            [
+              "daughter"
+            ],
+            [
+              "name"
+            ],
+            [
+              "own",
+              "my name"
+            ],
+            [
+              "mistake",
+              "error"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "fantone-school-form-name-mistake-fix",
+          "label": "Adding the missing name fixes the form",
+          "conceptGroups": [
+            [
+              "add"
+            ],
+            [
+              "name"
+            ],
+            [
+              "fix"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "fantone-taking-name-through-covenant-service"
+      ],
+      "boundaryNote": "This is the school-form story only; the covenant/service explanation needed by following-500 is in its companion. Do not require Christ's name, covenant language, or exact family names within this narrative."
+    },
+    {
+      "id": "fantone-taking-name-through-covenant-service",
+      "expectedMeaning": "Adding Christ's name as an affiliation is different from taking His name through covenants and becoming like Him. This involves lifelong determination to serve, and serving fellow people is serving God.",
+      "checks": [
+        {
+          "id": "fantone-taking-name-through-covenant-service-contrast",
+          "label": "Affiliation is distinguished from covenant transformation",
+          "conceptGroups": [
+            [
+              "name"
+            ],
+            [
+              "add",
+              "badge",
+              "affiliation"
+            ],
+            [
+              "take"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "like",
+              "become"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "fantone-taking-name-through-covenant-service-lifelong",
+          "label": "Determination to serve lasts to the end",
+          "conceptGroups": [
+            [
+              "determination",
+              "determin*"
+            ],
+            [
+              "serve",
+              "serv*"
+            ],
+            [
+              "end",
+              "lifelong",
+              "life long"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "fantone-taking-name-through-covenant-service-service",
+          "label": "Serving fellow beings is serving God",
+          "conceptGroups": [
+            [
+              "service",
+              "serv*"
+            ],
+            [
+              "fellow",
+              "people",
+              "beings"
+            ],
+            [
+              "God"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "fantone-school-form-name-mistake"
+      ],
+      "boundaryNote": "All following-500 teaching criteria belong here. A realistic modern act is a team application rather than a literal transcript requirement; the school-form companion supplies the narrative context."
+    },
+    {
+      "id": "fantone-service-changes-the-heart",
+      "expectedMeaning": "Taking Christ's name through covenant and service changes the heart toward true conversion; disciples lift, love, and serve others.",
+      "checks": [
+        {
+          "id": "heart-conversion",
+          "label": "Service brings a change of heart and true conversion",
+          "conceptGroups": [
+            [
+              "change",
+              "conversion"
+            ],
+            [
+              "heart"
+            ],
+            [
+              "serve",
+              "service"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "name-covenant-service",
+          "label": "Taking Christ's name includes covenant and service",
+          "conceptGroups": [
+            [
+              "name"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "serve",
+              "serving"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Caption tail begins a further witness statement. The expected service-and-conversion teaching is complete before that transition; inspect the final audible cut."
+    },
+    {
+      "id": "morgan-covenants-influence-without-removing-agency",
+      "expectedMeaning": "Ancestors' covenant faithfulness can influence descendants but does not alter their agency; Morgan applies that influence to his own experience.",
+      "checks": [
+        {
+          "id": "covenant-generations",
+          "label": "Parents' and grandparents' covenants influence descendants",
+          "conceptGroups": [
+            [
+              "covenant"
+            ],
+            [
+              "parents",
+              "grandparents"
+            ],
+            [
+              "children",
+              "grandchildren",
+              "posterity"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "agency-preserved",
+          "label": "Covenant faithfulness does not alter agency",
+          "conceptGroups": [
+            [
+              "does not alter",
+              "do not alter",
+              "doesn't alter",
+              "not alter"
+            ],
+            [
+              "agency"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The final caption enters a new Joseph Smith quotation. Do not require that quotation's continuation in this excerpt; preserve the complete agency limit."
+    },
+    {
+      "id": "morgan-worried-family-keep-covenants",
+      "expectedMeaning": "A worried parent can trust God's own time and way, keep covenants, act faithfully within their power, and wait with assurance.",
+      "checks": [
+        {
+          "id": "time-and-way",
+          "label": "God answers in His own time and way",
+          "conceptGroups": [
+            [
+              "own time",
+              "his time"
+            ],
+            [
+              "own way",
+              "his way"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "faithful-action",
+          "label": "Keep covenants and do what lies within one's power",
+          "conceptGroups": [
+            [
+              "keep",
+              "faithful"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "power",
+              "all things"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "morgan-covenants-influence-without-removing-agency"
+      ],
+      "boundaryNote": "The struggling-child context and practical counsel belong in this cut. The separate companion supplies the agency limit; no promise of controlling the child is required here."
+    },
+    {
+      "id": "hathaway-cars-peace-and-practical-help",
+      "expectedMeaning": "After tires struck both family cars, the family received spiritual peace before the trial ended and practical help from people, arriving without serious injury.",
+      "checks": [
+        {
+          "id": "spiritual-help",
+          "label": "Board detail: the Spirit brought peace or assurance",
+          "conceptGroups": [
+            [
+              "spirit",
+              "holy ghost"
+            ],
+            [
+              "peace",
+              "assurance"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "human-help",
+          "label": "Board detail: practical help came through other people",
+          "conceptGroups": [
+            [
+              "help",
+              "assistance"
+            ],
+            [
+              "people",
+              "others"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "two-cars-tires",
+          "label": "The accident involved tires and the family's cars",
+          "conceptGroups": [
+            [
+              "tires",
+              "tyres"
+            ],
+            [
+              "cars",
+              "vehicles"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [
+        "hathaway-deliverance-timing"
+      ],
+      "boundaryNote": "The ending begins the general deliverance pattern. The board's two kinds of help are in this clip; the full timing teaching is in the companion. No complete pattern recital is required here."
+    },
+    {
+      "id": "hathaway-questions-are-not-weakness",
+      "expectedMeaning": "Opposition can stir painful questions and emotions; these are not sin or weakness, and people can choose to turn toward Christ.",
+      "checks": [
+        {
+          "id": "questions-not-failure",
+          "label": "Questions and emotions are not sin or weakness",
+          "conceptGroups": [
+            [
+              "questions",
+              "emotions"
+            ],
+            [
+              "not sin",
+              "not a sin",
+              "not weakness",
+              "not signs of sin"
+            ],
+            [
+              "weakness"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "turn-toward-christ",
+          "label": "The response includes choosing to turn toward Christ",
+          "conceptGroups": [
+            [
+              "choose",
+              "choice",
+              "agency"
+            ],
+            [
+              "turn"
+            ],
+            [
+              "Jesus",
+              "Christ"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "hathaway-sincere-seeking-assurances"
+      ],
+      "boundaryNote": "The next seeking definition begins at the tail. Its prayer/fasting/scripture list belongs to the companion, not this clip's required content."
+    },
+    {
+      "id": "hathaway-sincere-seeking-assurances",
+      "expectedMeaning": "Sincere seeking involves prayer, fasting, scripture study, and patient covenant keeping; these acts draw people toward Christ and assurances of deliverance.",
+      "checks": [
+        {
+          "id": "seeking-practices",
+          "label": "Seeking includes prayer, fasting, and scripture study",
+          "conceptGroups": [
+            [
+              "prayer",
+              "pray"
+            ],
+            [
+              "fasting",
+              "fast"
+            ],
+            [
+              "scripture",
+              "scriptures"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "covenants-assurances",
+          "label": "Patient covenant keeping is joined to assurances",
+          "conceptGroups": [
+            [
+              "covenant"
+            ],
+            [
+              "assurance",
+              "peace",
+              "hope"
+            ],
+            [
+              "deliverance",
+              "affliction"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "hathaway-deliverance-timing"
+      ],
+      "boundaryNote": "The caption tail begins the missionary's experience. Her complete grief narrative is not intended to appear in this teaching cut."
+    },
+    {
+      "id": "hathaway-grace-strength-without-erasing-pain",
+      "expectedMeaning": "Grace does not erase affliction's pain; it enables strength beyond one's own. Prayer, obedience, and covenants help a grieving missionary endure what she cannot bear alone.",
+      "checks": [
+        {
+          "id": "pain-remains",
+          "label": "Grace does not remove pain and difficulty",
+          "conceptGroups": [
+            [
+              "does not remove",
+              "doesn't remove",
+              "not remove"
+            ],
+            [
+              "pain",
+              "difficulty",
+              "affliction"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "enabling-strength",
+          "label": "Grace enables strength and enduring beyond one's own ability",
+          "conceptGroups": [
+            [
+              "strength",
+              "power",
+              "enabling"
+            ],
+            [
+              "beyond",
+              "alone",
+              "endure"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "covenant-connection",
+          "label": "Prayer, obedience, and covenant keeping connect the example",
+          "conceptGroups": [
+            [
+              "prayer"
+            ],
+            [
+              "obedience"
+            ],
+            [
+              "covenant"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [
+        "hathaway-deliverance-timing"
+      ],
+      "boundaryNote": "Introduce the grieving missionary from the notes; the excerpt assumes her story. A new waiting-and-growth sentence starts at the tail and is not part of the required complete core."
+    },
+    {
+      "id": "hathaway-deliverance-timing",
+      "expectedMeaning": "Christ's deliverance follows His time and way: some miracles are immediate, some follow long waiting, and some await resurrection.",
+      "checks": [
+        {
+          "id": "divine-timing",
+          "label": "Deliverance follows Christ's time and way",
+          "conceptGroups": [
+            [
+              "time"
+            ],
+            [
+              "way"
+            ],
+            [
+              "Jesus",
+              "Christ",
+              "deliver"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "different-waits",
+          "label": "Immediate miracles, waiting, and resurrection are all acknowledged",
+          "conceptGroups": [
+            [
+              "immediate"
+            ],
+            [
+              "waiting",
+              "wait"
+            ],
+            [
+              "resurrection"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "hathaway-grace-strength-without-erasing-pain"
+      ],
+      "boundaryNote": "The closing invitation starts after the timing statement. The check concerns the complete three-part timing distinction, not the remainder of the closing."
+    },
+    {
+      "id": "m-eyring-resources-and-human-help",
+      "expectedMeaning": "Christ understands suffering and brings comfort and answers on His timetable; answers may come as tools, resources, and help from other people.",
+      "checks": [
+        {
+          "id": "answers-timetable",
+          "label": "Answers come on the Lord's timetable",
+          "conceptGroups": [
+            [
+              "answers",
+              "answer"
+            ],
+            [
+              "timetable",
+              "timing",
+              "time"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "practical-means",
+          "label": "Answers can include tools, resources, and people",
+          "conceptGroups": [
+            [
+              "tools"
+            ],
+            [
+              "resources"
+            ],
+            [
+              "people",
+              "others"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "comfort-and-understanding",
+          "label": "Christ understands and provides comfort",
+          "conceptGroups": [
+            [
+              "knows",
+              "feel",
+              "suffer"
+            ],
+            [
+              "comfort"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [
+        "m-eyring-comfort-of-holy-ghost"
+      ],
+      "boundaryNote": "The tail enters the promised Comforter quotation. Its complete continuation is outside this cut; the practical-help list and timetable are the essential content."
+    },
+    {
+      "id": "m-eyring-comfort-of-holy-ghost",
+      "expectedMeaning": "The Holy Ghost makes the Savior's peace and comfort available during hardships we cannot fix, and His companionship should be a priority.",
+      "checks": [
+        {
+          "id": "holy-ghost-comfort",
+          "label": "The Holy Ghost brings peace and comfort",
+          "conceptGroups": [
+            [
+              "holy ghost",
+              "holy spirit"
+            ],
+            [
+              "comfort",
+              "peace"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "cannot-fix-priority",
+          "label": "Companionship helps amid unfixable hardship and should be prioritized",
+          "conceptGroups": [
+            [
+              "fix",
+              "hardships"
+            ],
+            [
+              "companionship"
+            ],
+            [
+              "priorities",
+              "priority"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Core comfort and companionship teaching is complete; an adjacent testimony of Christ begins near the end."
+    },
+    {
+      "id": "dunn-full-race-and-photo-reveal",
+      "expectedMeaning": "Ted encouraged Dunn and patiently accompanied him through the last ten miles. A later photograph revealed Ted had quietly carried Dunn's pack and water bottles without shortening the race.",
+      "checks": [
+        {
+          "id": "encouragement",
+          "label": "Board detail: Ted gives reassuring encouragement",
+          "conceptGroups": [
+            [
+              "can do this",
+              "get you there",
+              "know you can"
+            ],
+            [
+              "preparation",
+              "training",
+              "runs"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "patient-companionship",
+          "label": "Board detail: patient companionship helps him continue",
+          "conceptGroups": [
+            [
+              "patience",
+              "patient",
+              "gentle",
+              "reassuring"
+            ],
+            [
+              "together",
+              "with me",
+              "with you",
+              "run with"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "photo-pack-water",
+          "label": "Board detail: the photograph reveals the pack and water bottles",
+          "conceptGroups": [
+            [
+              "photograph",
+              "photo",
+              "picture"
+            ],
+            [
+              "water bottles",
+              "water bottle",
+              "bottles"
+            ],
+            [
+              "pack",
+              "hydration"
+            ],
+            [
+              "ten",
+              "10"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "dunn-christ-lengthens-the-stride",
+        "dunn-broken-does-not-mean-abandoned"
+      ],
+      "boundaryNote": "Complete race story and photograph reveal are intended. The doctrinal analogy and outcome/timing qualification continue in the companions; do not require them inside this narrative clip."
+    },
+    {
+      "id": "dunn-christ-lengthens-the-stride",
+      "expectedMeaning": "Ted's help leads Dunn to compare Christ's carrying griefs and sorrows with strengthening us; the Redeemer helps lengthen our stride rather than shortening our course.",
+      "checks": [
+        {
+          "id": "course-and-stride",
+          "label": "Strengthening lengthens the stride rather than shortening the course",
+          "conceptGroups": [
+            [
+              "not",
+              "without"
+            ],
+            [
+              "shortening",
+              "shorten"
+            ],
+            [
+              "course"
+            ],
+            [
+              "stride",
+              "lengthen"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "christ-carries-sorrows",
+          "label": "Christ carries griefs and sorrows",
+          "conceptGroups": [
+            [
+              "Christ",
+              "Savior",
+              "Redeemer"
+            ],
+            [
+              "griefs",
+              "sorrows",
+              "carried",
+              "borne"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [
+        "dunn-full-race-and-photo-reveal",
+        "dunn-broken-does-not-mean-abandoned"
+      ],
+      "boundaryNote": "The race setup is supplied by the first companion; the separate last companion preserves changed outcomes and timing. The tail begins a further prayer statement not required here."
+    },
+    {
+      "id": "dunn-broken-does-not-mean-abandoned",
+      "expectedMeaning": "Even when outcomes or timing differ from what was requested, feeling broken does not mean abandonment by God; strength and peace can come while hoped-for outcomes do not.",
+      "checks": [
+        {
+          "id": "changed-outcomes",
+          "label": "Outcomes or timing may differ from what was requested",
+          "conceptGroups": [
+            [
+              "outcome"
+            ],
+            [
+              "timing",
+              "time"
+            ],
+            [
+              "not",
+              "different"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "broken-not-abandoned",
+          "label": "Feeling broken does not mean God abandoned the person",
+          "conceptGroups": [
+            [
+              "broken"
+            ],
+            [
+              "not",
+              "does not",
+              "doesn't"
+            ],
+            [
+              "abandoned",
+              "abandon"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "peace-without-outcome",
+          "label": "Peace can come even without hoped-for outcomes",
+          "conceptGroups": [
+            [
+              "peace"
+            ],
+            [
+              "outcomes",
+              "outcome"
+            ],
+            [
+              "even when",
+              "do not",
+              "don't",
+              "not"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "dunn-full-race-and-photo-reveal",
+        "dunn-christ-lengthens-the-stride"
+      ],
+      "boundaryNote": "The race is assumed context, available in the companions. This cut must preserve the outcome/abandonment/peace limits; the next reflection on the photo need not be complete."
+    },
+    {
+      "id": "villanueva-promotion-expectations-and-blessings",
+      "expectedMeaning": "A full-tithe-paying woman had not received a hoped-for promotion or salary increase. Villanueva distinguishes God's way and timing from expectations, describes subtle blessings, and invites her to write her own list; no later job outcome is reported.",
+      "checks": [
+        {
+          "id": "absent-promotion",
+          "label": "Board detail: the hoped-for promotion and salary increase had not come",
+          "conceptGroups": [
+            [
+              "promotion"
+            ],
+            [
+              "salary",
+              "increase"
+            ],
+            [
+              "never",
+              "had not",
+              "not received",
+              "had never"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "expectations-time-way",
+          "label": "Board meaning: blessings may differ from desired form and timing",
+          "conceptGroups": [
+            [
+              "way"
+            ],
+            [
+              "timing",
+              "time"
+            ],
+            [
+              "wish",
+              "expect",
+              "rather"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "write-blessings-list",
+          "label": "Board response: notice subtle blessings and write a list",
+          "conceptGroups": [
+            [
+              "list"
+            ],
+            [
+              "subtle",
+              "significant"
+            ],
+            [
+              "invite",
+              "invited",
+              "write"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The full case and actual invitation are intended. The propane story starts at the tail and must not be mistaken for this woman's later result."
+    },
+    {
+      "id": "villanueva-mother-faith-and-sacrifice",
+      "expectedMeaning": "During financial hardship while supporting eight children, his mother chose to trust the Lord and pay tithing, with Malachi's promise as the stated basis.",
+      "checks": [
+        {
+          "id": "mother-eight-children",
+          "label": "A mother supports eight children in hardship",
+          "conceptGroups": [
+            [
+              "mother"
+            ],
+            [
+              "eight",
+              "8"
+            ],
+            [
+              "children"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "trust-and-tithing",
+          "label": "She chooses trust while paying tithing",
+          "conceptGroups": [
+            [
+              "tithe",
+              "tithing",
+              "tithes"
+            ],
+            [
+              "trust",
+              "faith"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "windows-of-heaven",
+          "label": "The quoted promise includes heaven's windows and blessing",
+          "conceptGroups": [
+            [
+              "windows",
+              "window"
+            ],
+            [
+              "heaven"
+            ],
+            [
+              "blessing",
+              "bless"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [
+        "villanueva-promotion-expectations-and-blessings"
+      ],
+      "boundaryNote": "Family baptism precedes this clip and should be introduced. A new law-and-blessings quotation begins at the end; the promotion companion supplies the fuller expectations/timing qualification."
+    },
+    {
+      "id": "andersen-faith-gives-courage",
+      "expectedMeaning": "Stillness nourishes faith; choosing faith in Christ gives courage to choose rightly, and courageous choices strengthen faith in return.",
+      "checks": [
+        {
+          "id": "faith-to-courage",
+          "label": "Faith brings courage to choose the right",
+          "conceptGroups": [
+            [
+              "faith"
+            ],
+            [
+              "courage"
+            ],
+            [
+              "choose",
+              "right"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "courage-to-faith",
+          "label": "Courageous right choices strengthen faith",
+          "conceptGroups": [
+            [
+              "faith"
+            ],
+            [
+              "strengthens",
+              "strengthen",
+              "strengthened"
+            ],
+            [
+              "courage",
+              "right"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The preceding cow/stillness illustration is not required. Preserve the reciprocal faith-and-courage statement before the next young-people observation begins."
+    },
+    {
+      "id": "andersen-sacrament-promises-and-faith",
+      "expectedMeaning": "The sacrament witnesses willingness to take Christ's name, remember Him, and keep commandments; courageous covenant keeping brings increased faith.",
+      "checks": [
+        {
+          "id": "sacrament-name",
+          "label": "The sacrament includes taking Christ's name",
+          "conceptGroups": [
+            [
+              "sacrament"
+            ],
+            [
+              "name"
+            ],
+            [
+              "Jesus",
+              "Christ"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "remember-commandments",
+          "label": "The other named promises are remembrance and commandments",
+          "conceptGroups": [
+            [
+              "remember"
+            ],
+            [
+              "commandments"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "covenants-increased-faith",
+          "label": "Keeping covenants is linked with increased faith",
+          "conceptGroups": [
+            [
+              "covenants",
+              "covenant"
+            ],
+            [
+              "increased",
+              "increase"
+            ],
+            [
+              "faith"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The next calling example begins near the end. Its complete story is not required for the sacrament commitments and faith result."
+    },
+    {
+      "id": "giuffra-commandments-love-and-trials",
+      "expectedMeaning": "Commandments are kept from love for God and draw disciples closer to Christ and away from sin. Obedience does not eliminate trials, and promises are fulfilled in God's time and way.",
+      "checks": [
+        {
+          "id": "obedience-from-love",
+          "label": "Keeping commandments expresses love for God",
+          "conceptGroups": [
+            [
+              "commandments"
+            ],
+            [
+              "love"
+            ],
+            [
+              "God"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "trials-remain",
+          "label": "Obedience does not mean freedom from trials",
+          "conceptGroups": [
+            [
+              "does not mean",
+              "doesn't mean",
+              "not be free",
+              "not free"
+            ],
+            [
+              "trials",
+              "difficulties"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "time-and-way",
+          "label": "God fulfills promises in His own time and way",
+          "conceptGroups": [
+            [
+              "promises",
+              "promise"
+            ],
+            [
+              "time"
+            ],
+            [
+              "way"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The essential no-freedom-from-trials qualification is inside this cut. A new tithing/poverty quotation starts at the tail and is not intended as a complete new claim here."
+    },
+    {
+      "id": "giuffra-woman-prayer-and-faithfulness",
+      "expectedMeaning": "The woman prays for help living tithing; the missionaries feel peace and assurance, she is baptized, and her bishop reports continued tithing envelopes and fast offerings.",
+      "checks": [
+        {
+          "id": "woman-prayer-help",
+          "label": "She prays for help joining the church and living the law",
+          "conceptGroups": [
+            [
+              "prayer",
+              "prayed",
+              "pray"
+            ],
+            [
+              "member",
+              "church"
+            ],
+            [
+              "help",
+              "law"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "peace-assurance",
+          "label": "The missionaries report peace and assurance",
+          "conceptGroups": [
+            [
+              "peace",
+              "assurance"
+            ],
+            [
+              "heard",
+              "prayers",
+              "prayer"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "continued-offerings",
+          "label": "She continues with tithing envelopes and fast offerings",
+          "conceptGroups": [
+            [
+              "tithing",
+              "tithe",
+              "tithes"
+            ],
+            [
+              "envelope"
+            ],
+            [
+              "fast offering",
+              "fast offerings"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "giuffra-commandments-love-and-trials"
+      ],
+      "boundaryNote": "Introduce her earlier concern about insufficient income from the talk notes. This cut reports no income increase. The speaker's broader personal testimony begins at the tail."
+    },
+    {
+      "id": "kearon-grace-and-spirit-lift",
+      "expectedMeaning": "Christ's grace provides spiritual lift; disciples discern and act on the Holy Spirit's impressions, compared with feeling unseen rising air lift a glider wing.",
+      "checks": [
+        {
+          "id": "discern-and-act",
+          "label": "Spiritual guidance involves discerning and acting on impressions",
+          "conceptGroups": [
+            [
+              "discern",
+              "discerning"
+            ],
+            [
+              "act",
+              "acting"
+            ],
+            [
+              "Holy Spirit",
+              "Holy Ghost",
+              "Spirit"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "physical-comparison",
+          "label": "The spiritual teaching is compared with lift and rising air",
+          "conceptGroups": [
+            [
+              "lift"
+            ],
+            [
+              "rising air",
+              "wing"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [
+        "kearon-glider-training-complete",
+        "kearon-practical-living-in-lift"
+      ],
+      "boundaryNote": "Gliding setup is in the first companion. A reflective question begins at the end; the required doctrinal comparison precedes it."
+    },
+    {
+      "id": "kearon-practical-living-in-lift",
+      "expectedMeaning": "Living in spiritual lift involves learning from a faithful guide, attending to the Holy Spirit, joining good companions, turning away from sink, and helping someone else rise.",
+      "checks": [
+        {
+          "id": "faithful-guide",
+          "label": "Seek by learning from a faithful guide",
+          "conceptGroups": [
+            [
+              "faithful"
+            ],
+            [
+              "guide"
+            ],
+            [
+              "learn"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "attend-to-spirit",
+          "label": "Recognize by attending to the Spirit's influence",
+          "conceptGroups": [
+            [
+              "Holy Spirit",
+              "Holy Ghost"
+            ],
+            [
+              "tune",
+              "feelings"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "turn-and-help",
+          "label": "Act by turning from sink and helping another person rise",
+          "conceptGroups": [
+            [
+              "sink"
+            ],
+            [
+              "turn"
+            ],
+            [
+              "someone else",
+              "show",
+              "help"
+            ],
+            [
+              "rise",
+              "lift"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "kearon-glider-training-complete",
+        "kearon-grace-and-spirit-lift"
+      ],
+      "boundaryNote": "This is the separate spiritual application needed with the board's physical training account. The next general turning-toward-Christ sentence begins at the tail."
+    },
+    {
+      "id": "kearon-glider-training-complete",
+      "expectedMeaning": "Teenage glider training teaches looking for cloud cues, feeling unseen lift, turning into it and remaining there, and turning away from sink; Kearon later recognizes spiritual parallels.",
+      "checks": [
+        {
+          "id": "seek-cloud-cues",
+          "label": "Board detail: look for cloud cues after instruction",
+          "conceptGroups": [
+            [
+              "clouds",
+              "cloud",
+              "cumulus"
+            ],
+            [
+              "look",
+              "taught",
+              "learn"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "recognize-unseen-lift",
+          "label": "Board detail: notice or feel the effect of unseen lift",
+          "conceptGroups": [
+            [
+              "cannot see",
+              "can't see",
+              "unseen",
+              "invisible"
+            ],
+            [
+              "feel",
+              "felt"
+            ],
+            [
+              "lift",
+              "rising"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "turn-and-stay",
+          "label": "Board detail: turn into lift and stay or circle within it",
+          "conceptGroups": [
+            [
+              "turn",
+              "turned"
+            ],
+            [
+              "lift",
+              "rising"
+            ],
+            [
+              "stay",
+              "remain",
+              "circling",
+              "gaining altitude"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "kearon-grace-and-spirit-lift",
+        "kearon-practical-living-in-lift"
+      ],
+      "boundaryNote": "The real training story is complete here. Its explicit Holy Spirit explanation and practical spiritual steps are separate companions; do not require that doctrine within this physical narrative."
+    },
+    {
+      "id": "kearon-lift-sink-and-continuing-practices",
+      "expectedMeaning": "Notice spiritual lift and sink, turn away from sink, and avoid gradual spiritual descent caused by neglecting sustaining practices and communion with God.",
+      "checks": [
+        {
+          "id": "notice-and-turn",
+          "label": "Notice sink and turn away decisively",
+          "conceptGroups": [
+            [
+              "sink",
+              "sinking"
+            ],
+            [
+              "feel",
+              "felt"
+            ],
+            [
+              "turn"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "avoid-neglect",
+          "label": "Neglecting practices and communion can cause gradual descent",
+          "conceptGroups": [
+            [
+              "neglect",
+              "neglecting"
+            ],
+            [
+              "practices",
+              "behaviors",
+              "communion"
+            ],
+            [
+              "descent",
+              "descending",
+              "slip",
+              "sinking"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "kearon-grace-and-spirit-lift",
+        "kearon-glider-training-complete"
+      ],
+      "boundaryNote": "This continuation assumes the analogy and Spirit explanation. A new section about first experiencing lift starts at the end; that section's continuation is not required."
+    },
+    {
+      "id": "sinclair-child-example-and-spirit",
+      "expectedMeaning": "A child's helpful example humbles Sinclair; the Holy Ghost prompts his realignment, teaching that disciples are quick to help and slow to judge.",
+      "checks": [
+        {
+          "id": "spirit-realignment",
+          "label": "The Holy Ghost teaches and prompts spiritual realignment",
+          "conceptGroups": [
+            [
+              "Holy Ghost",
+              "Holy Spirit"
+            ],
+            [
+              "message",
+              "realignment",
+              "reorientation"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "quick-help-slow-judge",
+          "label": "The explicit lesson is quick help and slow judgment",
+          "conceptGroups": [
+            [
+              "quick to help",
+              "quickly help"
+            ],
+            [
+              "slow to judge",
+              "slow judging"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "sinclair-buttons-complete"
+      ],
+      "boundaryNote": "The child's button predicament is in the companion and should be introduced. The Samaritan-woman section starts at the tail and is not required here."
+    },
+    {
+      "id": "sinclair-dignity-and-possible-future",
+      "expectedMeaning": "Christ offers the woman living water and help, treats her with dignity, listens and teaches without ridicule, and sees her possible future rather than holding her to her past.",
+      "checks": [
+        {
+          "id": "dignity-and-help",
+          "label": "Christ gives dignity and transformative help",
+          "conceptGroups": [
+            [
+              "dignity"
+            ],
+            [
+              "help",
+              "grace",
+              "living water"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "listen-and-teach",
+          "label": "He listens to questions and responds with teaching",
+          "conceptGroups": [
+            [
+              "listen",
+              "listened"
+            ],
+            [
+              "questions"
+            ],
+            [
+              "teaching",
+              "teach"
+            ],
+            [
+              "ridicule"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "past-to-possible",
+          "label": "He sees possibility beyond the past and restored purpose",
+          "conceptGroups": [
+            [
+              "past",
+              "history"
+            ],
+            [
+              "possible",
+              "potential",
+              "future"
+            ],
+            [
+              "purpose"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Identify the Samaritan woman before playing. The next modern-day missionary application begins at the tail; this cut does not need her entire earlier relationship discussion."
+    },
+    {
+      "id": "sinclair-buttons-complete",
+      "expectedMeaning": "A boy fastens his sleeve to his lapel and cannot free himself; a girl quietly pops the button free. Sinclair learns through the Holy Ghost to be quick to help and slow to judge.",
+      "checks": [
+        {
+          "id": "button-predicament",
+          "label": "The boy buttons his sleeve to his lapel",
+          "conceptGroups": [
+            [
+              "sleeve"
+            ],
+            [
+              "lapel",
+              "jacket"
+            ],
+            [
+              "button"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "girl-frees-button",
+          "label": "Board answer: the girl unbuttons or pops the button free",
+          "conceptGroups": [
+            [
+              "girl",
+              "she"
+            ],
+            [
+              "button",
+              "unbutton",
+              "popped"
+            ],
+            [
+              "help",
+              "rescued",
+              "rescue"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "help-before-judge",
+          "label": "The reported moral is quick help and slow judgment",
+          "conceptGroups": [
+            [
+              "quick to help",
+              "quickly help"
+            ],
+            [
+              "slow to judge",
+              "slow judging"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Complete board-story circumstance, solution, and adult's lesson are intended. The following scriptural section only begins near the final cut."
+    },
+    {
+      "id": "cook-integrity-beliefs-character-happiness",
+      "expectedMeaning": "Integrity includes honesty and living beliefs and commitments, builds character, and joins virtue with alignment to God's will and happiness.",
+      "checks": [
+        {
+          "id": "beliefs-and-commitments",
+          "label": "Integrity means living beliefs and commitments",
+          "conceptGroups": [
+            [
+              "integrity"
+            ],
+            [
+              "beliefs"
+            ],
+            [
+              "commitments"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "honesty",
+          "label": "Honesty is part of integrity",
+          "conceptGroups": [
+            [
+              "honest",
+              "honesty"
+            ],
+            [
+              "God",
+              "yourself",
+              "leaders"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "virtue-will-happiness",
+          "label": "Virtue and integrity align with God's will and happiness",
+          "conceptGroups": [
+            [
+              "virtue",
+              "virtuous"
+            ],
+            [
+              "will"
+            ],
+            [
+              "happiness",
+              "happy",
+              "blessedness"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The next fuller definition of virtue starts at the tail. Its complete list is not intended in this integrity-and-happiness cut."
+    },
+    {
+      "id": "cook-integrity-spirit-and-repentance",
+      "expectedMeaning": "Integrity appears in virtuous living and service, invites the Holy Ghost's companionship and guidance, and includes acknowledging faults and repenting daily.",
+      "checks": [
+        {
+          "id": "integrity-service",
+          "label": "Integrity includes caring for and serving others",
+          "conceptGroups": [
+            [
+              "integrity"
+            ],
+            [
+              "serving",
+              "serve",
+              "caring"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "spirit-guidance",
+          "label": "The Holy Ghost can dwell with and guide disciples",
+          "conceptGroups": [
+            [
+              "Holy Ghost",
+              "Holy Spirit"
+            ],
+            [
+              "companionship",
+              "dwell"
+            ],
+            [
+              "guide"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "faults-and-repentance",
+          "label": "Integrity includes acknowledging faults and daily repentance",
+          "conceptGroups": [
+            [
+              "faults",
+              "transgressions"
+            ],
+            [
+              "repentance",
+              "repenting",
+              "repent"
+            ],
+            [
+              "day",
+              "constant"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The sailor's story starts at the end. Do not require its repentance/homecoming details in this separate teaching excerpt."
+    },
+    {
+      "id": "cook-mckay-inscription-and-resolve",
+      "expectedMeaning": "The doorway inscription inspires McKay to act well in every role and do his best in each responsibility; Cook connects it with avoiding distractions from spiritual matters.",
+      "checks": [
+        {
+          "id": "inscription",
+          "label": "Board source: the inscription calls for acting well one's part",
+          "conceptGroups": [
+            [
+              "act well"
+            ],
+            [
+              "part"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "best-responsibility",
+          "label": "Board answer: do one's best in whatever responsibility",
+          "conceptGroups": [
+            [
+              "responsibility",
+              "responsibilities"
+            ],
+            [
+              "best"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "spiritual-opportunity",
+          "label": "Even non-evil conduct can displace spiritual engagement",
+          "conceptGroups": [
+            [
+              "not inherently evil",
+              "not evil",
+              "inherently"
+            ],
+            [
+              "spiritual"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The historical account and its principle are present. The game's school-project action is a new application and should not be required in the spoken source."
+    },
+    {
+      "id": "rasband-pressure-and-personal-choice",
+      "expectedMeaning": "Concern can become arguing, demanding, or lecturing that deepens a rift; everyone must choose for themselves to follow Christ.",
+      "checks": [
+        {
+          "id": "pressure-rift",
+          "label": "Pressure can produce a greater rift",
+          "conceptGroups": [
+            [
+              "argue",
+              "demand",
+              "lecture",
+              "preach"
+            ],
+            [
+              "greater rift",
+              "rift"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "personal-choice",
+          "label": "Following Christ is each person's own choice",
+          "conceptGroups": [
+            [
+              "everyone",
+              "everybody",
+              "each",
+              "all"
+            ],
+            [
+              "choose"
+            ],
+            [
+              "themselves",
+              "himself",
+              "herself",
+              "for themselves"
+            ],
+            [
+              "follow",
+              "Christ",
+              "Jesus"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "rasband-positive-practices-of-love"
+      ],
+      "boundaryNote": "Introduce concern for loved ones. Lehi's dream begins at the tail; its narrative is outside this pressure-and-agency excerpt."
+    },
+    {
+      "id": "rasband-positive-practices-of-love",
+      "expectedMeaning": "Love does not require approving every choice; it involves interest, open arms, trust, the Spirit, peacemaking, patience, forgiveness, and kindness.",
+      "checks": [
+        {
+          "id": "love-not-sanctioning",
+          "label": "Love is distinguished from sanctioning every decision",
+          "conceptGroups": [
+            [
+              "not"
+            ],
+            [
+              "sanctioning",
+              "sanction",
+              "approving",
+              "approve"
+            ],
+            [
+              "decisions",
+              "actions"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "concrete-care",
+          "label": "Love includes interest in lives and open arms",
+          "conceptGroups": [
+            [
+              "interested",
+              "interest"
+            ],
+            [
+              "lives",
+              "successes",
+              "challenges"
+            ],
+            [
+              "arms",
+              "outstretched"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "patient-kind-love",
+          "label": "Patient, forgiving, kind peacemaking is urged",
+          "conceptGroups": [
+            [
+              "patient",
+              "patience"
+            ],
+            [
+              "forgiving",
+              "forgive"
+            ],
+            [
+              "kind",
+              "kindness"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [
+        "rasband-pressure-and-personal-choice"
+      ],
+      "boundaryNote": "This positive care follows the pressure warning in the companion. Alma's account begins at the tail and does not need to be complete here."
+    },
+    {
+      "id": "chibota-identity-above-labels",
+      "expectedMeaning": "Christ lifts people above labels. They were spirit children of Heavenly Father before worldly roles, and that identity persists through changed circumstances and mistakes; God knows, loves, and has a Christ-centered plan for them.",
+      "checks": [
+        {
+          "id": "divine-childhood",
+          "label": "Divine childhood precedes worldly roles",
+          "conceptGroups": [
+            [
+              "spirit children",
+              "children"
+            ],
+            [
+              "heavenly father",
+              "father"
+            ],
+            [
+              "before"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "identity-unchanged",
+          "label": "Identity does not change with mistakes or circumstances",
+          "conceptGroups": [
+            [
+              "identity"
+            ],
+            [
+              "does not change",
+              "doesn't change",
+              "not change"
+            ],
+            [
+              "mistakes",
+              "circumstances"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "known-loved-plan",
+          "label": "God knows and loves the person and centers the plan on Christ",
+          "conceptGroups": [
+            [
+              "loves",
+              "love"
+            ],
+            [
+              "knows",
+              "know"
+            ],
+            [
+              "plan"
+            ],
+            [
+              "Jesus",
+              "Christ"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The inherited-identity definition earlier in the talk is not required here. The following decision quotation begins at the tail; the enduring-identity teaching precedes it."
+    },
+    {
+      "id": "chibota-prayer-promptings-coworker",
+      "expectedMeaning": "Chibota prayed about helping an isolated coworker, acted on simple promptings to include him, and their friendship grew.",
+      "checks": [
+        {
+          "id": "prayer-help-isolated",
+          "label": "She prays about helping an isolated coworker",
+          "conceptGroups": [
+            [
+              "prayed",
+              "prayer",
+              "pray"
+            ],
+            [
+              "help"
+            ],
+            [
+              "coworker",
+              "co worker",
+              "colleague",
+              "isolated"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "promptings-inclusion",
+          "label": "She acts on promptings to include him",
+          "conceptGroups": [
+            [
+              "promptings",
+              "prompting"
+            ],
+            [
+              "acted",
+              "act"
+            ],
+            [
+              "include",
+              "including"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "friendship-growth",
+          "label": "Friendship grows through inclusion",
+          "conceptGroups": [
+            [
+              "friendship"
+            ],
+            [
+              "grew",
+              "grow"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The complete reported prayer/action/outcome is here. The next invitation about making a difference starts at the tail; no invented meal or exact invitation is required."
+    },
+    {
+      "id": "chibota-greeting-meaning",
+      "expectedMeaning": "The greeting means I see you and communicates recognition, respect, human worth, concern, love, and belonging beyond a simple hello.",
+      "checks": [
+        {
+          "id": "see-you",
+          "label": "Board answer includes I see you",
+          "conceptGroups": [
+            [
+              "I see you",
+              "see you"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "recognition-worth",
+          "label": "Board meanings include recognition and worth or respect",
+          "conceptGroups": [
+            [
+              "recognize",
+              "recognition",
+              "see"
+            ],
+            [
+              "respect",
+              "worth",
+              "humanity",
+              "matter",
+              "belonging",
+              "concern",
+              "love"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Do not require a particular spelling of the greeting; captions garble it. Christ's example begins near the end, after the full meanings needed by the board."
+    },
+    {
+      "id": "chibota-school-janitor",
+      "expectedMeaning": "Her daughter regularly greeted a school janitor, knew his name, and helped clean after lunch; he felt seen and thanked the parents.",
+      "checks": [
+        {
+          "id": "greeting-and-name",
+          "label": "Board details: the daughter greets him and knows his name",
+          "conceptGroups": [
+            [
+              "greeted",
+              "greet"
+            ],
+            [
+              "name"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "help-clean-after-lunch",
+          "label": "Board detail: she helps clean up after lunch",
+          "conceptGroups": [
+            [
+              "help",
+              "helped"
+            ],
+            [
+              "clean",
+              "cleaning"
+            ],
+            [
+              "lunch"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "feeling-seen",
+          "label": "Her attention helps the janitor feel seen",
+          "conceptGroups": [
+            [
+              "daughter"
+            ],
+            [
+              "sees me",
+              "see me",
+              "seen"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "All three reported actions are intended, though the board accepts any two. The next mission-leader observation begins at the tail and is not required."
+    },
+    {
+      "id": "douglas-living-example-message",
+      "expectedMeaning": "Missionaries of all ages embody the message they preach as living examples and contribute to building God's kingdom.",
+      "checks": [
+        {
+          "id": "living-example",
+          "label": "Missionaries are living examples of the message they preach",
+          "conceptGroups": [
+            [
+              "missionaries",
+              "missionary"
+            ],
+            [
+              "preach"
+            ],
+            [
+              "living examples",
+              "living example",
+              "examples"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "build-kingdom",
+          "label": "Their work builds the kingdom of God",
+          "conceptGroups": [
+            [
+              "building",
+              "build"
+            ],
+            [
+              "kingdom"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The full-time missionary audience should remain explicit. A new great-nephews story starts at the end and does not need to be complete in this teaching cut."
+    },
+    {
+      "id": "douglas-merlin-return-and-choice",
+      "expectedMeaning": "Friends and leaders help a convert prepare mission papers and return to church; he chooses service to be close to Jesus Christ and follow Him, and obstacles are removed.",
+      "checks": [
+        {
+          "id": "friends-help-return",
+          "label": "Friends help with mission preparation and return to church",
+          "conceptGroups": [
+            [
+              "friend",
+              "friends"
+            ],
+            [
+              "mission papers",
+              "papers"
+            ],
+            [
+              "returned",
+              "return"
+            ],
+            [
+              "church"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "close-to-christ",
+          "label": "His reason is closeness to Christ and following Him",
+          "conceptGroups": [
+            [
+              "close"
+            ],
+            [
+              "Jesus",
+              "Christ"
+            ],
+            [
+              "follow"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "choice-obstacles",
+          "label": "His decision is followed by obstacles being removed",
+          "conceptGroups": [
+            [
+              "decision",
+              "decided"
+            ],
+            [
+              "obstacles"
+            ],
+            [
+              "removed",
+              "remove"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The later repeated-companion, marriage, and leadership biography is outside this core account. Do not require those outcomes or treat them as promised rewards."
+    },
+    {
+      "id": "runia-rock-during-storms",
+      "expectedMeaning": "Faithful living does not prevent life's rain; the gospel is the rock or secure foundation beneath us during a storm, rather than an umbrella preventing the storm.",
+      "checks": [
+        {
+          "id": "umbrella-rock-contrast",
+          "label": "The gospel is a rock or foundation rather than an umbrella",
+          "conceptGroups": [
+            [
+              "gospel"
+            ],
+            [
+              "umbrella"
+            ],
+            [
+              "rock",
+              "foundation"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "rain-remains",
+          "label": "People still experience rain or storms",
+          "conceptGroups": [
+            [
+              "all",
+              "every",
+              "we"
+            ],
+            [
+              "rain",
+              "storm",
+              "pelted"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Nephi's dialogue begins at the tail. Its complete meaning is not intended here; the rain-versus-foundation analogy must remain intact."
+    },
+    {
+      "id": "runia-understanding-and-believing",
+      "expectedMeaning": "At the funeral Runia honestly cannot explain the loss, but not understanding differs from not believing; she affirms that God sees, loves, and knows the family.",
+      "checks": [
+        {
+          "id": "understanding-versus-belief",
+          "label": "Lack of understanding differs from lack of belief",
+          "conceptGroups": [
+            [
+              "not understanding",
+              "don't understand",
+              "do not understand"
+            ],
+            [
+              "not believing",
+              "not the same",
+              "believe"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "seen-loved-known",
+          "label": "God sees, loves, and knows the person",
+          "conceptGroups": [
+            [
+              "God"
+            ],
+            [
+              "sees",
+              "see"
+            ],
+            [
+              "loves",
+              "love"
+            ],
+            [
+              "knows",
+              "know"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Introduce her son's death respectfully from the notes. The next personal-and-purposeful discussion starts at the tail and need not be complete."
+    },
+    {
+      "id": "runia-lego-instructions-trust",
+      "expectedMeaning": "Jack's building analogy leads to a hypothetical question about instructions without a box picture; he would follow because he trusts the designer. Runia applies this to faithful steps when an imagined life story is surrendered.",
+      "checks": [
+        {
+          "id": "missing-picture-hypothetical",
+          "label": "Board setup: instructions without the finished picture are a hypothetical",
+          "conceptGroups": [
+            [
+              "picture"
+            ],
+            [
+              "box"
+            ],
+            [
+              "what would you do",
+              "if you didn't",
+              "if you did not",
+              "only the instructions",
+              "without a picture"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "trust-designer",
+          "label": "Board answer: he trusts the designer",
+          "conceptGroups": [
+            [
+              "trust",
+              "trusted"
+            ],
+            [
+              "designed",
+              "designer",
+              "design"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "continue-in-faith",
+          "label": "Continue putting pieces together with faith despite uncertainty",
+          "conceptGroups": [
+            [
+              "faith"
+            ],
+            [
+              "pieces"
+            ],
+            [
+              "Christ"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [
+        "runia-understanding-and-believing"
+      ],
+      "boundaryNote": "The funeral context should be introduced. The core hypothetical and answer are in this cut; a further Christ's-work sentence starts at the end."
+    },
+    {
+      "id": "runia-sculpture-help-and-christ",
+      "expectedMeaning": "The sculptor cannot make lifelike eyes alone, humbly asks an instructor for help, and recognizes a master's hand while the likeness remains uniquely his. Runia explicitly compares receiving this help with inviting the Savior's shaping work.",
+      "checks": [
+        {
+          "id": "eyes-need-help",
+          "label": "Board reason: the eyes cannot be made lifelike alone",
+          "conceptGroups": [
+            [
+              "eyes",
+              "eye"
+            ],
+            [
+              "lifelike",
+              "life"
+            ],
+            [
+              "couldn't",
+              "could not",
+              "terrible",
+              "wasn't easy",
+              "was not easy"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "humble-request",
+          "label": "Board action: he humbly asks for the instructor's help",
+          "conceptGroups": [
+            [
+              "humbled",
+              "humble",
+              "asked",
+              "ask"
+            ],
+            [
+              "help"
+            ],
+            [
+              "instructor",
+              "master",
+              "teacher"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "unique-master-savior",
+          "label": "Board meaning: a master's work preserves his likeness and illustrates Christ's help",
+          "conceptGroups": [
+            [
+              "uniquely",
+              "unique"
+            ],
+            [
+              "master",
+              "hand"
+            ],
+            [
+              "Savior",
+              "Christ",
+              "God"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The narrative and explicit Christ application are intended. The final future-suffering sentence begins at the tail; its entire continuation is not required to support the board answer."
+    },
+    {
+      "id": "lebethoa-consistent-sincere-scripture-study",
+      "expectedMeaning": "Daily scripture study and prayer help people know Christ. Study can vary in method, time, and length, while consistency and sincerity matter most.",
+      "checks": [
+        {
+          "id": "scripture-and-prayer",
+          "label": "Read and pray about scripture, especially the Book of Mormon",
+          "conceptGroups": [
+            [
+              "read",
+              "study"
+            ],
+            [
+              "pray"
+            ],
+            [
+              "Book of Mormon",
+              "scriptures",
+              "scripture"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "flexible-method",
+          "label": "Study approaches may vary",
+          "conceptGroups": [
+            [
+              "no single right way",
+              "no single",
+              "choose",
+              "different"
+            ],
+            [
+              "study",
+              "scriptures"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "sincere-consistent",
+          "label": "Consistency and sincerity are the governing principle",
+          "conceptGroups": [
+            [
+              "consistency",
+              "consistent"
+            ],
+            [
+              "sincerity",
+              "sincere"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The coffee account begins at the tail. Its change/disposal details are not intended in this general scripture-study cut."
+    },
+    {
+      "id": "lebethoa-daily-repentance-and-help",
+      "expectedMeaning": "Daily repentance turns the mind and heart toward God, including changes to time, media, and communication; people need not do this alone because the Savior understands weakness and helps.",
+      "checks": [
+        {
+          "id": "daily-repentance",
+          "label": "Practice repentance daily",
+          "conceptGroups": [
+            [
+              "repentance",
+              "repent"
+            ],
+            [
+              "daily",
+              "day"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "practical-change",
+          "label": "Changes can involve time, media, language, or tone",
+          "conceptGroups": [
+            [
+              "change",
+              "changes"
+            ],
+            [
+              "time",
+              "watch",
+              "listen"
+            ],
+            [
+              "language",
+              "tone",
+              "communicate"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "not-alone-savior-help",
+          "label": "The Savior helps; repentance need not be undertaken alone",
+          "conceptGroups": [
+            [
+              "alone"
+            ],
+            [
+              "Savior",
+              "Christ"
+            ],
+            [
+              "help"
+            ],
+            [
+              "weaknesses",
+              "weakness"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "A quoted invitation-to-repent statement starts at the tail. Its full continuation is not intended; daily change and Christ's help are the complete core."
+    },
+    {
+      "id": "lebethoa-argument-remembered-scripture",
+      "expectedMeaning": "During a disagreement, Christ's scriptural words against contention come to mind and enlighten Lebethoa, helping him know how to address the challenge. Specific reconciliation steps are not reported.",
+      "checks": [
+        {
+          "id": "contention-scripture-recalled",
+          "label": "Board source: Christ's words against contention come to mind",
+          "conceptGroups": [
+            [
+              "contention",
+              "contend"
+            ],
+            [
+              "came to mind",
+              "mind"
+            ],
+            [
+              "Book of Mormon",
+              "scripture",
+              "Jesus",
+              "Christ"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "enlightened-guidance",
+          "label": "Board recognition: his mind is enlightened and he knows how to address the challenge",
+          "conceptGroups": [
+            [
+              "enlightened",
+              "enlightenment",
+              "enlightens"
+            ],
+            [
+              "mind"
+            ],
+            [
+              "resolve",
+              "challenge",
+              "helped me know"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "disagreement-context",
+          "label": "The reported circumstance is an argument or disagreement",
+          "conceptGroups": [
+            [
+              "argument",
+              "disagreement"
+            ],
+            [
+              "married",
+              "couple",
+              "wife"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Do not require an apology or other specific reconciliation action; the board explicitly separates participant suggestions from source facts. The next general question starts at the end."
+    },
+    {
+      "id": "farnes-sacrament-to-daily-ministering",
+      "expectedMeaning": "The sacrament witnesses willingness to take Christ's name and reflect His qualities, with the promised Spirit; Sunday's covenant is kept through ministering to God's children every day.",
+      "checks": [
+        {
+          "id": "sacrament-name",
+          "label": "Sacrament willingness includes taking Christ's name",
+          "conceptGroups": [
+            [
+              "sacrament"
+            ],
+            [
+              "willingness",
+              "willing"
+            ],
+            [
+              "name"
+            ],
+            [
+              "Jesus",
+              "Christ"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "promised-spirit",
+          "label": "The Lord promises His Spirit",
+          "conceptGroups": [
+            [
+              "promise"
+            ],
+            [
+              "Spirit"
+            ],
+            [
+              "always"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "sunday-to-daily",
+          "label": "Sunday's covenant is lived by daily ministering",
+          "conceptGroups": [
+            [
+              "Sunday"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "ministering",
+              "minister"
+            ],
+            [
+              "every day",
+              "daily"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "This passage explicitly develops taking Christ's name; do not require a recital of other sacrament promises absent from this window. The next divine-appointments setup begins at the tail."
+    },
+    {
+      "id": "farnes-see-compassion-act-closing",
+      "expectedMeaning": "See the person placed in one's path, look with compassion instead of judgment, act, pray daily for such opportunities, and minister in Christ's covenant name.",
+      "checks": [
+        {
+          "id": "see-compassion-act",
+          "label": "The pattern is seeing, compassion, and action",
+          "conceptGroups": [
+            [
+              "see"
+            ],
+            [
+              "compassion"
+            ],
+            [
+              "act",
+              "action"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "pray-and-minister",
+          "label": "Pray daily and minister to the person in front of you",
+          "conceptGroups": [
+            [
+              "pray"
+            ],
+            [
+              "every day",
+              "daily"
+            ],
+            [
+              "minister"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "covenant-name",
+          "label": "Ministering is tied to Christ's name taken by covenant",
+          "conceptGroups": [
+            [
+              "name"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "Jesus",
+              "Christ"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [
+        "farnes-airport-complete-and-application"
+      ],
+      "boundaryNote": "The closing assumes the airport event, available in the companion. This cut reaches the video's conclusion and should include the complete closing core."
+    },
+    {
+      "id": "farnes-oaks-care-complete",
+      "expectedMeaning": "After a forced Everything's great, Oaks asks how Farnes is really doing, listens, expresses gratitude, encourages, answers his concern, and hugs him. Years later he describes such care as simply what disciples do.",
+      "checks": [
+        {
+          "id": "honest-second-question",
+          "label": "Board reason: the second question asks how he is really doing",
+          "conceptGroups": [
+            [
+              "really"
+            ],
+            [
+              "doing"
+            ],
+            [
+              "tell",
+              "how"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "listening-and-help",
+          "label": "Board actions: listening plus appreciation, encouragement, or practical help",
+          "conceptGroups": [
+            [
+              "listened",
+              "listen"
+            ],
+            [
+              "gratitude",
+              "encouraging",
+              "encourage",
+              "answered",
+              "hug"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "ordinary-disciple-care",
+          "label": "The later reflection says this is what disciples do",
+          "conceptGroups": [
+            [
+              "don't remember",
+              "do not remember"
+            ],
+            [
+              "what we do"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [
+        "farnes-sacrament-to-daily-ministering"
+      ],
+      "boundaryNote": "Complete story and later reflection are intended. The next sacrament teaching begins at the tail and is completed in the companion; no complete sacrament list is required here."
+    },
+    {
+      "id": "farnes-airport-complete-and-application",
+      "expectedMeaning": "The Spirit prompts Farnes to look again at an anxious missionary; he asks whether he is okay and begins helping. The alarm clock reflects fear of missing the plane, and the couple assists through the journey to the mission leaders, then applies seeing, compassion, and action.",
+      "checks": [
+        {
+          "id": "look-again-prompting",
+          "label": "Board prompting: the Spirit tells him to look again",
+          "conceptGroups": [
+            [
+              "Spirit",
+              "Holy Ghost"
+            ],
+            [
+              "look again",
+              "looked again"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "ask-and-help",
+          "label": "Board response: ask whether he is okay and begin helping",
+          "conceptGroups": [
+            [
+              "you okay",
+              "you ok"
+            ],
+            [
+              "help",
+              "helped"
+            ],
+            [
+              "plane",
+              "flight"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "clock-flight-fear",
+          "label": "The clock is connected with fear of missing the flight",
+          "conceptGroups": [
+            [
+              "alarm clock",
+              "clock"
+            ],
+            [
+              "miss"
+            ],
+            [
+              "plane",
+              "flight"
+            ]
+          ],
+          "importance": "supporting"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The full event and closing are intended; this cut reaches the video ending. The presence of a clock or adjacent seat is reported story detail, not a universal guidance rule."
+    },
+    {
+      "id": "soares-fasting-prayer-personal-revelation",
+      "expectedMeaning": "Sincere fasting joined with intentional prayer and humility softens hearts and increases receptiveness to the Holy Ghost, personal revelation, and movement along the covenant path.",
+      "checks": [
+        {
+          "id": "fasting-with-prayer",
+          "label": "Fasting is joined to intentional prayer and humility",
+          "conceptGroups": [
+            [
+              "fasting",
+              "fast"
+            ],
+            [
+              "prayer"
+            ],
+            [
+              "humility",
+              "humble"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "softened-receptive",
+          "label": "Softened hearts become receptive to the Holy Ghost",
+          "conceptGroups": [
+            [
+              "softened",
+              "soft"
+            ],
+            [
+              "receptive"
+            ],
+            [
+              "Holy Ghost",
+              "Holy Spirit"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "revelation-covenant-path",
+          "label": "The passage reaches personal revelation and the covenant path",
+          "conceptGroups": [
+            [
+              "personal revelation",
+              "revelation"
+            ],
+            [
+              "covenant"
+            ],
+            [
+              "path"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "soares-align-desires-accept-answers"
+      ],
+      "boundaryNote": "The next Jesus-in-the-wilderness example starts at the tail. Do not require that story or the whole-talk generosity teaching in this preparation-for-revelation window."
+    },
+    {
+      "id": "soares-align-desires-accept-answers",
+      "expectedMeaning": "Fasting is more than restraint or requesting a specific blessing; it aligns desires with God's purposes and expectations with His wisdom, building willingness to accept His will when answers differ from expectations.",
+      "checks": [
+        {
+          "id": "beyond-restraint",
+          "label": "Fasting is more than restraint or a request for one specific blessing",
+          "conceptGroups": [
+            [
+              "fasting"
+            ],
+            [
+              "more than"
+            ],
+            [
+              "restraint",
+              "specific"
+            ]
+          ],
+          "importance": "supporting"
+        },
+        {
+          "id": "align-desires",
+          "label": "Align desires and expectations with God's purposes and wisdom",
+          "conceptGroups": [
+            [
+              "align"
+            ],
+            [
+              "desires"
+            ],
+            [
+              "purposes"
+            ],
+            [
+              "wisdom"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "different-answers-accept-will",
+          "label": "Accept God's will even when answers differ from expectations",
+          "conceptGroups": [
+            [
+              "answers"
+            ],
+            [
+              "expect"
+            ],
+            [
+              "accept"
+            ],
+            [
+              "will"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [
+        "soares-fasting-prayer-personal-revelation"
+      ],
+      "boundaryNote": "The outward-charity section starts at the tail. No fast-offering or service example is required here; the inward alignment and acceptance limit must remain."
+    },
+    {
+      "id": "sikahema-value-access-to-prophetic-words",
+      "expectedMeaning": "Receive God's oracles carefully rather than lightly; easy device access to His anointed servants should not lead to taking their words for granted.",
+      "checks": [
+        {
+          "id": "not-lightly",
+          "label": "God's oracles should not be held as a light thing",
+          "conceptGroups": [
+            [
+              "oracles",
+              "counsel",
+              "words"
+            ],
+            [
+              "beware",
+              "lest",
+              "not"
+            ],
+            [
+              "light thing",
+              "light",
+              "lightly"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "device-access-not-granted",
+          "label": "Easy device access should not become taking servants for granted",
+          "conceptGroups": [
+            [
+              "devices",
+              "device"
+            ],
+            [
+              "anointed",
+              "servants",
+              "prophets",
+              "apostles"
+            ],
+            [
+              "granted"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "This is about prophetic teaching, not a reported ordinary personal prompting. The following Holland quotation begins at the tail and need not be complete here."
+    },
+    {
+      "id": "sikahema-writing-and-the-lords-words",
+      "expectedMeaning": "Early leaders hesitated over publishing revelations because of the prophet's writing skills. Sikahema tentatively connects that with the declaration that God's own voice and His servants' voice are the same.",
+      "checks": [
+        {
+          "id": "publication-writing",
+          "label": "Publishing revelations is challenged because of writing skills",
+          "conceptGroups": [
+            [
+              "publishing",
+              "publish"
+            ],
+            [
+              "revelations",
+              "revelation"
+            ],
+            [
+              "writing"
+            ],
+            [
+              "skills"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "tentative-cause",
+          "label": "The proposed historical cause is tentative",
+          "conceptGroups": [
+            [
+              "maybe",
+              "perhaps"
+            ]
+          ],
+          "importance": "essential"
+        },
+        {
+          "id": "voices-same",
+          "label": "The declaration compares God's own voice and His servants' voice",
+          "conceptGroups": [
+            [
+              "own voice",
+              "my voice"
+            ],
+            [
+              "servants",
+              "servant"
+            ],
+            [
+              "same"
+            ]
+          ],
+          "importance": "essential"
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "The entire quoted voice comparison is intended. His gratitude for ancestors begins at the tail; its continuation is not required. Do not convert maybe into an established historical cause."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "clipId": "h-eyring-help-without-removing-challenges",
+  "clipSha256": "b1f3c42ef164983f6ddbe97008117345f0f7e769c8e05c9017e6a253276b74d7",
+  "sourceFingerprint": "0af5f1ba61c17ec347c86bc564d3f12415c9f627543ee268bcfb9fe3bc3c7fc4",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:17.038895+00:00"
+}

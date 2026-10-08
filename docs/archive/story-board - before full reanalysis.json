@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 1,
+  "title": "Conference Story Challenge",
+  "status": "Proposed sample board; not wired into the browser prototype. Caption-based context is in the story catalog. No final images or new story clips prepared.",
+  "topics": [
+    {
+      "id": "following",
+      "group": "Deacons",
+      "label": "Follow Christ",
+      "question": "What blessings or results can we expect by following Him every day?"
+    },
+    {
+      "id": "identity",
+      "group": "Builders of Faith",
+      "label": "Know Your Worth",
+      "question": "How does knowing who we are change how we see ourselves and treat others?"
+    },
+    {
+      "id": "revelation",
+      "group": "Teachers",
+      "label": "Find Guidance",
+      "question": "How can we seek, recognize, and act on guidance from the Spirit?"
+    },
+    {
+      "id": "hope",
+      "group": "Messengers of Hope",
+      "label": "Find Strength",
+      "question": "What can we do when life is hard or our faith is strained?"
+    },
+    {
+      "id": "covenants",
+      "group": "Priests",
+      "label": "Keep Promises",
+      "question": "How do our covenants connect us to Jesus Christ and help us become more like Him?"
+    },
+    {
+      "id": "serving",
+      "group": "Gatherers of Light",
+      "label": "Help Others",
+      "question": "How can we help others feel the Savior's love?"
+    }
+  ],
+  "scoring": "All teams respond. Full value for a complete correct answer; half for a substantially correct incomplete multi-part answer; zero for incorrect or unsupported. No negative points, speed bonus, steals, or wagers.",
+  "cards": [
+    {
+      "id": "following-100",
+      "topic": "following",
+      "value": 100,
+      "storyId": "stevenson-fruit",
+      "title": "Peaches at the farm stand",
+      "question": "What fruit was the family's favorite farm stand especially known for?",
+      "answerCriteria": [
+        "Peaches."
+      ]
+    },
+    {
+      "id": "following-200",
+      "topic": "following",
+      "value": 200,
+      "storyId": "chigbundu-missionary",
+      "title": "A plan that helped him stay",
+      "question": "What plan did the new missionary make with his trainer, and what changed later?",
+      "answerCriteria": [
+        "A scripture-study plan, especially the Book of Mormon.",
+        "He understood his purpose, felt happier, and wanted to stay."
+      ]
+    },
+    {
+      "id": "following-300",
+      "topic": "following",
+      "value": 300,
+      "storyId": "cook-mckay",
+      "title": "Act well thy part",
+      "question": "A student has a small role in a school project and thinks it does not matter. Apply McKay's lesson with one specific action.",
+      "answerCriteria": [
+        "Do the assigned part as well as possible.",
+        "Name a concrete action: prepare, finish honestly, help the group, or a comparable example."
+      ]
+    },
+    {
+      "id": "following-400",
+      "topic": "following",
+      "value": 400,
+      "storyId": "villanueva-promotion",
+      "title": "The missing promotion",
+      "question": "A friend says obedience must bring the outcome they want. Identify the mistaken expectation and suggest a better response using this story.",
+      "answerCriteria": [
+        "Obedience does not guarantee a particular promotion or our preferred timetable.",
+        "Notice other help or blessings while honestly acknowledging disappointment."
+      ]
+    },
+    {
+      "id": "following-500",
+      "topic": "following",
+      "value": 500,
+      "storyId": "fantone-name",
+      "title": "A name that changes our actions",
+      "question": "Explain the difference between adding Christ's name as a label and taking His name through covenant. Give a realistic action that shows the second.",
+      "answerCriteria": [
+        "A label alone does not mean becoming like Christ.",
+        "Covenant discipleship involves an ongoing determination to serve Him.",
+        "Give a specific act of faithful or loving service linked to the teaching."
+      ]
+    },
+    {
+      "id": "identity-100",
+      "topic": "identity",
+      "value": 100,
+      "storyId": "fale-photos",
+      "title": "The baby pictures",
+      "question": "What had the children done as babies to earn their parents' love?",
+      "answerCriteria": [
+        "Nothing; their parents already loved them."
+      ]
+    },
+    {
+      "id": "identity-200",
+      "topic": "identity",
+      "value": 200,
+      "storyId": "chibota-greeting",
+      "title": "More than hello",
+      "question": "What does I see you communicate beyond a greeting? Name two meanings.",
+      "answerCriteria": [
+        "Any two: recognition, respect, human worth, concern, belonging, or you matter."
+      ]
+    },
+    {
+      "id": "identity-300",
+      "topic": "identity",
+      "value": 300,
+      "storyId": "spannaus-gps",
+      "title": "The right location",
+      "question": "How does the GPS experience illustrate the Lord's knowledge of us? What does she say about Him knowing our weaknesses?",
+      "answerCriteria": [
+        "The Lord knows where we actually are and our circumstances, unlike the confused GPS.",
+        "Knowing our weaknesses and questions does not make Him love us less."
+      ]
+    },
+    {
+      "id": "identity-400",
+      "topic": "identity",
+      "value": 400,
+      "storyId": "renlund-asterisk",
+      "title": "Everyone except me?",
+      "question": "Someone thinks scriptural promises exclude them personally. What does Linda's lesson challenge? Encourage them without promising an instant result.",
+      "answerCriteria": [
+        "Challenge the imagined personal exclusion: God's promises apply to them too.",
+        "Offer support, trust, or a faithful step while respecting the promises' conditions and God's timing."
+      ]
+    },
+    {
+      "id": "identity-500",
+      "topic": "identity",
+      "value": 500,
+      "storyId": "spannaus-young-man",
+      "title": "Love before improvement",
+      "question": "Your friend made a mistake and calls themself worthless. Use Christ's response to write two sentences supporting both worth and growth.",
+      "answerCriteria": [
+        "Affirm worth and being known and loved without requiring perfection.",
+        "Encourage a constructive next step or repair without shame.",
+        "Connect to Christ's love preceding His invitation to improve."
+      ]
+    },
+    {
+      "id": "revelation-100",
+      "topic": "revelation",
+      "value": 100,
+      "storyId": "causse-magazine",
+      "title": "The kitchen table",
+      "question": "What did Caussé feel prompted to open after praying?",
+      "answerCriteria": [
+        "The church magazine on his kitchen table."
+      ]
+    },
+    {
+      "id": "revelation-200",
+      "topic": "revelation",
+      "value": 200,
+      "storyId": "farnes-airport",
+      "title": "Look again",
+      "question": "What prompting interrupted Farnes's reading, and what did he do next?",
+      "answerCriteria": [
+        "Look again at the anxious missionary.",
+        "Ask whether he was okay and begin helping."
+      ]
+    },
+    {
+      "id": "revelation-300",
+      "topic": "revelation",
+      "value": 300,
+      "storyId": "kearon-glider",
+      "title": "Find lift",
+      "question": "Use one detail from glider training for each step—seek, recognize, act—then give one spiritual application.",
+      "answerCriteria": [
+        "Seek: learn from a trained guide or look for cues.",
+        "Recognize: notice the effect of unseen lift.",
+        "Act: turn into it and stay with it.",
+        "A reasonable parallel involving seeking guidance, attending to the Spirit, and acting faithfully."
+      ]
+    },
+    {
+      "id": "revelation-400",
+      "topic": "revelation",
+      "value": 400,
+      "storyId": "lebethoa-argument",
+      "title": "Scripture in a disagreement",
+      "question": "Name his source of guidance and how he recognized help. Suggest one action for a disagreement today; distinguish your suggestion from what the story actually reports.",
+      "answerCriteria": [
+        "Christ's scriptural teaching against contention came to mind.",
+        "His mind was enlightened and he knew how to address the challenge.",
+        "Suggest a peaceful action such as pausing, apologizing, or listening; the exact reconciliation steps are not reported."
+      ]
+    },
+    {
+      "id": "revelation-500",
+      "topic": "revelation",
+      "value": 500,
+      "storyId": "gilbert-five-visitors",
+      "title": "The prompting was to wait",
+      "question": "Explain why waiting could be acting on a prompting even when time was short. Give a listening plan for a difficult conversation.",
+      "answerCriteria": [
+        "The prompting asked for restraint rather than immediate speech, and he followed it.",
+        "Listening helped him understand people and teach from love.",
+        "A plan with attentive listening, a sincere question or summary, and a thoughtful response."
+      ]
+    },
+    {
+      "id": "hope-100",
+      "topic": "hope",
+      "value": 100,
+      "storyId": "renlund-oatmeal",
+      "title": "Breakfast after recovery",
+      "question": "Which two breakfast details bothered the recovering patient?",
+      "answerCriteria": [
+        "The oatmeal was not hot; the milk was not cold."
+      ]
+    },
+    {
+      "id": "hope-200",
+      "topic": "hope",
+      "value": 200,
+      "storyId": "hathaway-cars",
+      "title": "Help before everything was fixed",
+      "question": "What two kinds of help did the family receive after the crash?",
+      "answerCriteria": [
+        "Peace or assurance from the Spirit.",
+        "Practical assistance from other people."
+      ]
+    },
+    {
+      "id": "hope-300",
+      "topic": "hope",
+      "value": 300,
+      "storyId": "runia-lego",
+      "title": "The missing box picture",
+      "question": "Why would Jack follow instructions without seeing the finished picture? Connect that with hope.",
+      "answerCriteria": [
+        "He trusted the designer.",
+        "We can keep taking faithful steps without knowing the complete outcome."
+      ]
+    },
+    {
+      "id": "hope-400",
+      "topic": "hope",
+      "value": 400,
+      "storyId": "runia-sculpture",
+      "title": "The master's deeper cuts",
+      "question": "Why did the sculptor need help, and what did the finished eyes teach about receiving it?",
+      "answerCriteria": [
+        "He could not make the eyes lifelike alone and had to ask humbly.",
+        "The skilled instructor shaped what he could not, while the sculpture remained uniquely his.",
+        "Connect to receiving Christ's help and growth beyond our present ability."
+      ]
+    },
+    {
+      "id": "hope-500",
+      "topic": "hope",
+      "value": 500,
+      "storyId": "dunn-race",
+      "title": "The last ten miles",
+      "question": "Explain two ways Ted helped without shortening the race. Use that pattern for a practical support plan for a discouraged friend.",
+      "answerCriteria": [
+        "Encouragement and patient companionship.",
+        "Quietly carrying the pack and water.",
+        "A plan with emotional support and a useful practical action, without promising the challenge disappears."
+      ]
+    },
+    {
+      "id": "covenants-100",
+      "topic": "covenants",
+      "value": 100,
+      "storyId": "uchtdorf-grandchildren",
+      "title": "A first covenant step",
+      "question": "Which ordinance did the two great-grandchildren choose?",
+      "answerCriteria": [
+        "Baptism."
+      ]
+    },
+    {
+      "id": "covenants-200",
+      "topic": "covenants",
+      "value": 200,
+      "storyId": "gong-small-temple",
+      "title": "A small building",
+      "question": "What did Gong say is not big or small even if the temple building is small?",
+      "answerCriteria": [
+        "Ordinances and covenants; their spiritual blessings are not measured by building size."
+      ]
+    },
+    {
+      "id": "covenants-300",
+      "topic": "covenants",
+      "value": 300,
+      "storyId": "gong-clothing",
+      "title": "A gift for their mother",
+      "question": "How did the children support their mother's worship? What does this show about helping someone keep covenants?",
+      "answerCriteria": [
+        "Saved to buy her own temple clothing.",
+        "Practical sacrifice and loving support can help someone worship and live their commitments."
+      ]
+    },
+    {
+      "id": "covenants-400",
+      "topic": "covenants",
+      "value": 400,
+      "storyId": "schmeil-haggai",
+      "title": "Consider your ways",
+      "question": "What priority changed in Haggai's account? According to Schmeil, what are we asked to build today?",
+      "answerCriteria": [
+        "The people prioritized rebuilding the temple in response to God.",
+        "A strong relationship with Heavenly Father and Christ through making and keeping covenants."
+      ]
+    },
+    {
+      "id": "covenants-500",
+      "topic": "covenants",
+      "value": 500,
+      "storyId": "bednar-passport",
+      "title": "A useful analogy—with a limit",
+      "question": "Give two connections between the passport story and covenants. Then state the important limit Bednar gives.",
+      "answerCriteria": [
+        "Receiving credentials and ongoing care or faithfulness both matter.",
+        "The authorized stamp parallels a verifying witness; possession alone is insufficient.",
+        "Hardships or injuries suffered through no fault of our own do not invalidate our covenants or God's promises."
+      ]
+    },
+    {
+      "id": "serving-100",
+      "topic": "serving",
+      "value": 100,
+      "storyId": "sinclair-buttons",
+      "title": "A tiny helping hand",
+      "question": "How did the girl help the boy during the Primary program?",
+      "answerCriteria": [
+        "Unbuttoned his sleeve from the lapel so he could move freely."
+      ]
+    },
+    {
+      "id": "serving-200",
+      "topic": "serving",
+      "value": 200,
+      "storyId": "reid-mango-tree",
+      "title": "Under the mango tree",
+      "question": "What does Reid most remember about his Primary teachers? Name two details.",
+      "answerCriteria": [
+        "Their love.",
+        "They knew the children personally and by name."
+      ]
+    },
+    {
+      "id": "serving-300",
+      "topic": "serving",
+      "value": 300,
+      "storyId": "chibota-janitor",
+      "title": "Your daughter sees me",
+      "question": "Name two things the student did for the janitor. Explain how they helped him feel Christ's love.",
+      "answerCriteria": [
+        "Any two: greeted him, knew his name, helped clean after lunch.",
+        "Showed recognition, dignity, and practical care."
+      ]
+    },
+    {
+      "id": "serving-400",
+      "topic": "serving",
+      "value": 400,
+      "storyId": "farnes-oaks",
+      "title": "How are you really doing?",
+      "question": "Why did the second question matter? Name two helpful actions another person could also take.",
+      "answerCriteria": [
+        "It made room for an honest answer beyond the forced smile.",
+        "Any two: listened, appreciated, encouraged, helped with the concern, or offered appropriate warmth."
+      ]
+    },
+    {
+      "id": "serving-500",
+      "topic": "serving",
+      "value": 500,
+      "storyId": "gilbert-retort",
+      "title": "Repair the reply",
+      "question": "A friend criticizes your beliefs. Write a response holding a conviction with love. Explain how it improves on the angry retort.",
+      "answerCriteria": [
+        "Express a belief clearly and calmly.",
+        "Ask or listen to understand, avoiding insult or shame.",
+        "Explain that helping the person and preserving charity matter more than winning the debate."
+      ]
+    }
+  ]
+}

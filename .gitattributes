@@ -1,0 +1,15 @@
+* text=auto
+*.mp4 -text
+*.m4a -text
+*.jpg -text
+*.zip -text
+*.py text eol=lf
+*.js text eol=lf
+*.cjs text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
+*.srt -text
+# Source and transcript hashes refer to exact bytes, including line endings.
+talks/** -text
+conference-game/speech-audit/** -text

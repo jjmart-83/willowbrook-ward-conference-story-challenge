@@ -1,0 +1,16 @@
+{
+  "clipId": "kyungu-heart-and-peace",
+  "clipSha256": "ae50ccb892f31f9a5c3bf4495f7daa9fb8111e0048f44200a70cdd5e70c03429",
+  "sourceFingerprint": "3178410d65d1b69d1d17e483de8944f6e5fa14ce13a29cb1d58e5362d2d2dc30",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:40.775683+00:00"
+}

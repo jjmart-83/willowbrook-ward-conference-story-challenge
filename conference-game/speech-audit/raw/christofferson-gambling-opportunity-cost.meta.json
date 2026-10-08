@@ -1,0 +1,16 @@
+{
+  "clipId": "christofferson-gambling-opportunity-cost",
+  "clipSha256": "b7cebbc749b8f714870002a921ea3a573a52c4406aba1c8e1373f9efc14d0a6c",
+  "sourceFingerprint": "1829c3d1eba76f4591ed05cf0856b77d8922b028659b8ab4078f227f897d0ea3",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:51.835941+00:00"
+}

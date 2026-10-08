@@ -1,0 +1,16 @@
+{
+  "clipId": "legacy-commandments-giuffra",
+  "clipSha256": "3e2e1245e62b3891b3e24b265aa87e93bf08217a9c727f717a4a00049db00712",
+  "sourceFingerprint": "296ff219987060135b0a99c15cd1a0451fa6f09121aff4601cc77ef68b3787bc",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:27:49.109363+00:00"
+}

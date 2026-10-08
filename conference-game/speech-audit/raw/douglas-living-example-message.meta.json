@@ -1,0 +1,16 @@
+{
+  "clipId": "douglas-living-example-message",
+  "clipSha256": "0d6f8b93c4f6c7c7f6b96b8670a2df9f9aacb4dfa98c4490c1a8707afea0fa4f",
+  "sourceFingerprint": "7c67d18316a1dd1fd00a16877c4dc1d7749c61524b5b19ba2af2d4e58fbf9dda",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:59.785127+00:00"
+}

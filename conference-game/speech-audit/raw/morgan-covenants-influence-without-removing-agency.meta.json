@@ -1,0 +1,16 @@
+{
+  "clipId": "morgan-covenants-influence-without-removing-agency",
+  "clipSha256": "8c31c0ae9aea580276a00aa68e9dc1a809bf702bf347cba2a6ed7fe9a9466dc0",
+  "sourceFingerprint": "05e4cf569c9772e049d56f1e0d14ec81058358762a6c4a4812bd6d10c26a102e",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:24.595374+00:00"
+}

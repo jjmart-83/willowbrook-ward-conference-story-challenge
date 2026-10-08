@@ -1,0 +1,16 @@
+{
+  "clipId": "runia-rock-during-storms",
+  "clipSha256": "e78c91c2fb1f503d2cbb955eeabc49dc40a9fac888dc4a6c0e2cf737d8afd6c8",
+  "sourceFingerprint": "895d5ca34a9e29beae1eaa4d10ac51721541f1a0fd71a08ebdcf9de7c5e6cfe2",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:23:01.295220+00:00"
+}

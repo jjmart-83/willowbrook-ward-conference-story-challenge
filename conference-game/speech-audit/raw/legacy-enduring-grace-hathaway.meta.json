@@ -1,0 +1,16 @@
+{
+  "clipId": "legacy-enduring-grace-hathaway",
+  "clipSha256": "73e6e9b47a85243c24c3a2b99ed416db2d698baa5f3cd17e130b25eb3c5d26a7",
+  "sourceFingerprint": "63487220fd054c7173154b6cbdace017440842619018425b63017738e1415ff5",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:27:43.562189+00:00"
+}

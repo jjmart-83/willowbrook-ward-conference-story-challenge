@@ -1,0 +1,16 @@
+{
+  "clipId": "bednar-passport-story",
+  "clipSha256": "f09ad89711090bd9afc1042142002a78ca5c84fa6d50eed0f7c9cdf3a5c7b688",
+  "sourceFingerprint": "7aac710b43a742db6941baef58bf91d357ffa0bd83c1c2c2751498dea55cf514",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:02.925970+00:00"
+}

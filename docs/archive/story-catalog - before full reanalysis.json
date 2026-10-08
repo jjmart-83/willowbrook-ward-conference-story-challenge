@@ -1,0 +1,3743 @@
+{
+  "schemaVersion": 1,
+  "reviewedDate": "2026-10-04",
+  "scope": "All 37 locally downloaded addresses, captions read in full. Story entries include brief vignettes, scriptural references, fictional illustrations, and analogies, distinguished by kind. No images generated.",
+  "sourceStatus": "Caption-based paraphrases and search windows; exact spoken wording and final clip cuts are not audio-verified.",
+  "topics": [
+    {
+      "id": "following",
+      "group": "Deacons",
+      "label": "Follow Christ",
+      "question": "What blessings or results can we expect by following Him every day?"
+    },
+    {
+      "id": "identity",
+      "group": "Builders of Faith",
+      "label": "Know Your Worth",
+      "question": "How does knowing who we are change how we see ourselves and treat others?"
+    },
+    {
+      "id": "revelation",
+      "group": "Teachers",
+      "label": "Find Guidance",
+      "question": "How can we seek, recognize, and act on guidance from the Spirit?"
+    },
+    {
+      "id": "hope",
+      "group": "Messengers of Hope",
+      "label": "Find Strength",
+      "question": "What can we do when life is hard or our faith is strained?"
+    },
+    {
+      "id": "covenants",
+      "group": "Priests",
+      "label": "Keep Promises",
+      "question": "How do our covenants connect us to Jesus Christ and help us become more like Him?"
+    },
+    {
+      "id": "serving",
+      "group": "Gatherers of Light",
+      "label": "Help Others",
+      "question": "How can we help others feel the Savior's love?"
+    }
+  ],
+  "tags": {
+    "speaker": "About the speaker",
+    "family": "Speaker's family",
+    "others": "About others",
+    "history": "History",
+    "scripture": "Scripture"
+  },
+  "reviewedTalks": [
+    {
+      "talkId": "alfred-kyungu",
+      "speaker": "Alfred Kyungu",
+      "label": "Alfred Kyungu",
+      "caption": "../talks/Alfred%20Kyungu%20%C2%A6%20October%202026%20General%20Conference/Alfred%20Kyungu%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Alfred%20Kyungu%20%C2%A6%20October%202026%20General%20Conference/Alfred%20Kyungu%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 2,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "andrea-munoz-spannaus",
+      "speaker": "Andrea Muñoz Spannaus",
+      "label": "Andrea Muñoz Spannaus",
+      "caption": "../talks/Andrea%20Mu%C3%B1oz%20Spannaus%20%C2%A6%20October%202026%20General%20Conference/Andrea%20Mu%C3%B1oz%20Spannaus%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Andrea%20Mu%C3%B1oz%20Spannaus%20%C2%A6%20October%202026%20General%20Conference/Andrea%20Mu%C3%B1oz%20Spannaus%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 4,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "christian-c-chigbundu",
+      "speaker": "Christian C. Chigbundu",
+      "label": "Christian C. Chigbundu",
+      "caption": "../talks/Christian%20C%20Chigbundu%20%C2%A6%20October%202026%20General%20Conference/Christian%20C.%20Chigbundu%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Christian%20C%20Chigbundu%20%C2%A6%20October%202026%20General%20Conference/Christian%20C.%20Chigbundu%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 3,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "ciro-schmeil",
+      "speaker": "Ciro Schmeil",
+      "label": "Ciro Schmeil",
+      "caption": "../talks/Ciro%20Schmeil%20%C2%A6%20October%202026%20General%20Conference/Ciro%20Schmeil%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Ciro%20Schmeil%20%C2%A6%20October%202026%20General%20Conference/Ciro%20Schmeil%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 2,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "clark-g-gilbert",
+      "speaker": "Clark G. Gilbert",
+      "label": "Clark G. Gilbert",
+      "caption": "../talks/Clark%20G%20Gilbert%20%C2%A6%20October%202026%20General%20Conference/Clark%20G.%20Gilbert%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Clark%20G%20Gilbert%20%C2%A6%20October%202026%20General%20Conference/Clark%20G.%20Gilbert%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 8,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "d-todd-christofferson",
+      "speaker": "D. Todd Christofferson",
+      "label": "D. Todd Christofferson",
+      "caption": "../talks/D%20Todd%20Christofferson%20%C2%A6%20October%202026%20General%20Conference/D.%20Todd%20Christofferson%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/D%20Todd%20Christofferson%20%C2%A6%20October%202026%20General%20Conference/D.%20Todd%20Christofferson%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 3,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "dale-g-renlund",
+      "speaker": "Dale G. Renlund",
+      "label": "Dale G. Renlund",
+      "caption": "../talks/Dale%20G%20Renlund%20%C2%A6%20October%202026%20General%20Conference/Dale%20G.%20Renlund%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Dale%20G%20Renlund%20%C2%A6%20October%202026%20General%20Conference/Dale%20G.%20Renlund%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 3,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "dallin-h-oaks",
+      "speaker": "Dallin H. Oaks",
+      "label": "Dallin H. Oaks",
+      "caption": "../talks/Dallin%20H%20Oaks%20%C2%A6%20October%202026%20General%20Conference/Dallin%20H.%20Oaks%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Dallin%20H%20Oaks%20%C2%A6%20October%202026%20General%20Conference/Dallin%20H.%20Oaks%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 1,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "dallin-h-oaks-temples",
+      "speaker": "Dallin H. Oaks",
+      "label": "Dallin H. Oaks — Temples",
+      "caption": "../talks/Dallin%20H%20Oaks%20%C2%A6%20October%202026%20General%20Conference%20%C2%A6%20Temples/Dallin%20H.%20Oaks%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Dallin%20H%20Oaks%20%C2%A6%20October%202026%20General%20Conference%20%C2%A6%20Temples/Dallin%20H.%20Oaks%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 0,
+      "reviewNote": "No developed narrative. Temple announcement, blessing, and study/ponder/act invitation; retain the invitation for closing."
+    },
+    {
+      "talkId": "david-a-bednar",
+      "speaker": "David A. Bednar",
+      "label": "David A. Bednar",
+      "caption": "../talks/David%20A%20Bednar%20%C2%A6%20October%202026%20General%20Conference/David%20A.%20Bednar%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/David%20A%20Bednar%20%C2%A6%20October%202026%20General%20Conference/David%20A.%20Bednar%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 1,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "dieter-f-uchtdorf",
+      "speaker": "Dieter F. Uchtdorf",
+      "label": "Dieter F. Uchtdorf",
+      "caption": "../talks/Dieter%20F%20Uchtdorf%20%C2%A6%20October%202026%20General%20Conference/Dieter%20F.%20Uchtdorf%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Dieter%20F%20Uchtdorf%20%C2%A6%20October%202026%20General%20Conference/Dieter%20F.%20Uchtdorf%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 4,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "edward-dube",
+      "speaker": "Edward Dube",
+      "label": "Edward Dube",
+      "caption": "../talks/Edward%20Dube%20%C2%A6%20October%202026%20General%20Conference/Edward%20Dube%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Edward%20Dube%20%C2%A6%20October%202026%20General%20Conference/Edward%20Dube%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 3,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "gabriel-w-reid",
+      "speaker": "Gabriel W. Reid",
+      "label": "Gabriel W. Reid",
+      "caption": "../talks/Gabriel%20W%20Reid%20%C2%A6%20October%202026%20General%20Conference/Gabriel%20W.%20Reid%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Gabriel%20W%20Reid%20%C2%A6%20October%202026%20General%20Conference/Gabriel%20W.%20Reid%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 7,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "gary-e-stevenson",
+      "speaker": "Gary E. Stevenson",
+      "label": "Gary E. Stevenson",
+      "caption": "../talks/Gary%20E%20Stevenson%20%C2%A6%20October%202026%20General%20Conference/Gary%20E.%20Stevenson%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Gary%20E%20Stevenson%20%C2%A6%20October%202026%20General%20Conference/Gary%20E.%20Stevenson%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 5,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "gerrit-w-gong",
+      "speaker": "Gerrit W. Gong",
+      "label": "Gerrit W. Gong",
+      "caption": "../talks/Gerrit%20W%20Gong%20%C2%A6%20October%202026%20General%20Conference/Gerrit%20W.%20Gong%20%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Gerrit%20W%20Gong%20%C2%A6%20October%202026%20General%20Conference/Gerrit%20W.%20Gong%20%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 4,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "gerald-causse",
+      "speaker": "Gérald Caussé",
+      "label": "Gérald Caussé",
+      "caption": "../talks/G%C3%A9rald%20Causs%C3%A9%20%C2%A6%20October%202026%20General%20Conference/G%C3%A9rald%20Causs%C3%A9%20%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/G%C3%A9rald%20Causs%C3%A9%20%C2%A6%20October%202026%20General%20Conference/G%C3%A9rald%20Causs%C3%A9%20%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 4,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "henry-b-eyring",
+      "speaker": "Henry B. Eyring",
+      "label": "Henry B. Eyring",
+      "caption": "../talks/Henry%20B%20Eyring%20%C2%A6%20October%202026%20General%20Conference/Henry%20B.%20Eyring%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Henry%20B%20Eyring%20%C2%A6%20October%202026%20General%20Conference/Henry%20B.%20Eyring%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 3,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "hutch-u-fale",
+      "speaker": "Hutch U. Fale",
+      "label": "Hutch U. Fale",
+      "caption": "../talks/Hutch%20U%20Fale%20%C2%A6%20October%202026%20General%20Conference/Hutch%20U.%20Fale%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Hutch%20U%20Fale%20%C2%A6%20October%202026%20General%20Conference/Hutch%20U.%20Fale%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 4,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "james-g-o-fantone",
+      "speaker": "James G. O. Fantone",
+      "label": "James G. O. Fantone",
+      "caption": "../talks/James%20G%20O%20Fantone%20%C2%A6%20October%202026%20General%20Conference/James%20G.%20O.%20Fantone%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/James%20G%20O%20Fantone%20%C2%A6%20October%202026%20General%20Conference/James%20G.%20O.%20Fantone%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 5,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "jeremiah-j-morgan",
+      "speaker": "Jeremiah J. Morgan",
+      "label": "Jeremiah J. Morgan",
+      "caption": "../talks/Jeremiah%20J%20Morgan%20%C2%A6%20October%202026%20General%20Conference/Jeremiah%20J.%20Morgan%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Jeremiah%20J%20Morgan%20%C2%A6%20October%202026%20General%20Conference/Jeremiah%20J.%20Morgan%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 4,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "kevin-j-hathaway",
+      "speaker": "Kevin J. Hathaway",
+      "label": "Kevin J. Hathaway",
+      "caption": "../talks/Kevin%20J%20Hathaway%20%C2%A6%20October%202026%20General%20Conference/Kevin%20J.%20Hathaway%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Kevin%20J%20Hathaway%20%C2%A6%20October%202026%20General%20Conference/Kevin%20J.%20Hathaway%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 5,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "matthew-j-eyring",
+      "speaker": "Matthew J. Eyring",
+      "label": "Matthew J. Eyring",
+      "caption": "../talks/Matthew%20J%20Eyring%20%C2%A6%20October%202026%20General%20Conference/Matthew%20J.%20Eyring%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Matthew%20J%20Eyring%20%C2%A6%20October%202026%20General%20Conference/Matthew%20J.%20Eyring%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 2,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "michael-a-dunn",
+      "speaker": "Michael A. Dunn",
+      "label": "Michael A. Dunn",
+      "caption": "../talks/Michael%20A%20Dunn%20%C2%A6%20October%202026%20General%20Conference/Michael%20A.%20Dunn%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Michael%20A%20Dunn%20%C2%A6%20October%202026%20General%20Conference/Michael%20A.%20Dunn%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 1,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "moises-villanueva",
+      "speaker": "Moisés Villanueva",
+      "label": "Moisés Villanueva",
+      "caption": "../talks/Mois%C3%A9s%20Villanueva%20%C2%A6%20October%202026%20General%20Conference/Mois%C3%A9s%20Villanueva%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Mois%C3%A9s%20Villanueva%20%C2%A6%20October%202026%20General%20Conference/Mois%C3%A9s%20Villanueva%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 5,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "neil-l-andersen",
+      "speaker": "Neil L. Andersen",
+      "label": "Neil L. Andersen",
+      "caption": "../talks/Neil%20L%20Andersen%20%C2%A6%20October%202026%20General%20Conference/Neil%20L.%20Andersen%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Neil%20L%20Andersen%20%C2%A6%20October%202026%20General%20Conference/Neil%20L.%20Andersen%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 7,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "patricio-m-giuffra",
+      "speaker": "Patricio M. Giuffra",
+      "label": "Patricio M. Giuffra",
+      "caption": "../talks/Patricio%20M%20Giuffra%20%C2%A6%20October%202026%20General%20Conference/Patricio%20M.%20Giuffra%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Patricio%20M%20Giuffra%20%C2%A6%20October%202026%20General%20Conference/Patricio%20M.%20Giuffra%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 3,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "patrick-kearon",
+      "speaker": "Patrick Kearon",
+      "label": "Patrick Kearon",
+      "caption": "../talks/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 5,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "paul-h-sinclair",
+      "speaker": "Paul H. Sinclair",
+      "label": "Paul H. Sinclair",
+      "caption": "../talks/Paul%20H%20Sinclair%20%C2%A6%20October%202026%20General%20Conference/Paul%20H.%20Sinclair%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Paul%20H%20Sinclair%20%C2%A6%20October%202026%20General%20Conference/Paul%20H.%20Sinclair%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 2,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "quentin-l-cook",
+      "speaker": "Quentin L. Cook",
+      "label": "Quentin L. Cook",
+      "caption": "../talks/Quentin%20L%20Cook%20%C2%A6%20October%202026%20General%20Conference/Quentin%20L.%20Cook%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Quentin%20L%20Cook%20%C2%A6%20October%202026%20General%20Conference/Quentin%20L.%20Cook%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 2,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "ronald-a-rasband",
+      "speaker": "Ronald A. Rasband",
+      "label": "Ronald A. Rasband",
+      "caption": "../talks/Ronald%20A%20Rasband%20%C2%A6%20October%202026%20General%20Conference/Ronald%20A.%20Rasband%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Ronald%20A%20Rasband%20%C2%A6%20October%202026%20General%20Conference/Ronald%20A.%20Rasband%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 4,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "rosemary-k-chibota",
+      "speaker": "Rosemary K. Chibota",
+      "label": "Rosemary K. Chibota",
+      "caption": "../talks/Rosemary%20K%20Chibota%20%C2%A6%20October%202026%20General%20Conference/Rosemary%20K.%20Chibota%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Rosemary%20K%20Chibota%20%C2%A6%20October%202026%20General%20Conference/Rosemary%20K.%20Chibota%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 7,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "sean-douglas",
+      "speaker": "Sean Douglas",
+      "label": "Sean Douglas",
+      "caption": "../talks/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 4,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "tamara-w-runia",
+      "speaker": "Tamara W. Runia",
+      "label": "Tamara W. Runia",
+      "caption": "../talks/Tamara%20W%20Runia%20%C2%A6%20October%202026%20General%20Conference/Tamara%20W.%20Runia%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Tamara%20W%20Runia%20%C2%A6%20October%202026%20General%20Conference/Tamara%20W.%20Runia%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 7,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "thabo-lebethoa",
+      "speaker": "Thabo Lebethoa",
+      "label": "Thabo Lebethoa",
+      "caption": "../talks/Thabo%20Lebethoa%20%C2%A6%20October%202026%20General%20Conference/Thabo%20Lebethoa%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Thabo%20Lebethoa%20%C2%A6%20October%202026%20General%20Conference/Thabo%20Lebethoa%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 2,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "timothy-l-farnes",
+      "speaker": "Timothy L. Farnes",
+      "label": "Timothy L. Farnes",
+      "caption": "../talks/Timothy%20L%20Farnes%20%C2%A6%20October%202026%20General%20Conference/Timothy%20L.%20Farnes%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Timothy%20L%20Farnes%20%C2%A6%20October%202026%20General%20Conference/Timothy%20L.%20Farnes%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 3,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "ulisses-soares",
+      "speaker": "Ulisses Soares",
+      "label": "Ulisses Soares",
+      "caption": "../talks/Ulisses%20Soares%20%C2%A6%20October%202026%20General%20Conference/Ulisses%20Soares%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Ulisses%20Soares%20%C2%A6%20October%202026%20General%20Conference/Ulisses%20Soares%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 1,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    },
+    {
+      "talkId": "vaiangina-sikahema",
+      "speaker": "Vaiangina Sikahema",
+      "label": "Vaiangina Sikahema",
+      "caption": "../talks/Vaiangina%20Sikahema%20%C2%A6%20October%202026%20General%20Conference/Vaiangina%20Sikahema%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "video": "../talks/Vaiangina%20Sikahema%20%C2%A6%20October%202026%20General%20Conference/Vaiangina%20Sikahema%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "entryCount": 3,
+      "reviewNote": "Full caption reviewed; catalog narrative episodes and useful short illustrations below."
+    }
+  ],
+  "stories": [
+    {
+      "id": "kyungu-peacemaking",
+      "talkId": "alfred-kyungu",
+      "title": "Turning a conference invitation into kinder words",
+      "kind": "brief-vignette",
+      "tags": [
+        "speaker"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 91
+        }
+      ],
+      "summary": "He reflects on a prophetic invitation and works to replace contentious expressions with peaceful language.",
+      "question": "What did he work to replace after pondering the invitation?",
+      "answer": "Harsh or contentious expressions, replacing them with words that bring peace.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An adult at a kitchen table thoughtfully replacing harsh-message cards with blank warm-colored cards; peaceful conversation visible in the background. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "kyungu-weapons",
+      "talkId": "alfred-kyungu",
+      "title": "Burying weapons—and contentious language",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 296,
+          "end": 318
+        }
+      ],
+      "summary": "A brief comparison with converted Lamanites burying their weapons becomes an invitation to put away contentious language.",
+      "question": "What modern habit does the buried-weapons comparison ask us to put away?",
+      "answer": "Contentious or hurtful language.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Ancient people peacefully placing unused weapons into the earth; focus on hands, cooperation, and reconciliation, without battle imagery. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "spannaus-list",
+      "talkId": "andrea-munoz-spannaus",
+      "title": "A teenager's list of righteous aspirations",
+      "kind": "experience",
+      "tags": [
+        "speaker"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "identity"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 66
+        }
+      ],
+      "summary": "After a lesson on the thirteenth Article of Faith, she spends Sunday afternoon listing good things she hopes to learn, create, and contribute.",
+      "question": "What did she do after the lesson instead of only thinking about it?",
+      "answer": "Wrote a list of good, virtuous aspirations.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A teenage girl writing a personal aspirations list on a quiet Sunday afternoon, with a notebook and scriptures; hopeful, reflective mood. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "spannaus-gps",
+      "talkId": "andrea-munoz-spannaus",
+      "title": "The GPS that put her on the wrong road",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "revelation",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 66,
+          "end": 138
+        }
+      ],
+      "summary": "Her navigation app mistakes a freeway for a parallel street. She exits and calls her husband, who can guide her once he knows her actual location. She compares this with God's knowledge of us.",
+      "question": "Why could her husband help when the GPS could not?",
+      "answer": "She gave him her actual location; the GPS had placed her on the wrong road.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A woman safely parked after leaving a freeway, making a phone call beside a map showing two parallel roads; emphasize accurate location and reassurance. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "spannaus-young-man",
+      "talkId": "andrea-munoz-spannaus",
+      "title": "Love before an invitation to improve",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "following",
+        "serving"
+      ],
+      "recurringStory": "rich-young-man",
+      "sourceRanges": [
+        {
+          "start": 135,
+          "end": 216
+        }
+      ],
+      "summary": "A young man asks Jesus about eternal life. She emphasizes that Jesus looks at him with love before telling him how to improve.",
+      "question": "What came before Jesus's invitation to improve?",
+      "answer": "His loving look toward the young man.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A respectful ancient Judean scene of Jesus meeting a kneeling young man at eye level, conveying compassion before counsel; warm light. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "spannaus-language",
+      "talkId": "andrea-munoz-spannaus",
+      "title": "Feeling inadequate while teaching in English",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "identity",
+        "revelation"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 344,
+          "end": 465
+        }
+      ],
+      "summary": "After moving from Argentina, she feels overwhelmed by errors while teaching in English. A blessing from her husband reassures her that divine help is at her side.",
+      "question": "What reassurance did she receive after feeling she could not teach well enough?",
+      "answer": "That the Father, Jesus Christ, and the Holy Ghost were at her side.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A woman discouraged over lesson notes in a new language, with her husband nearby offering support; the room shifts from cool shadows to gentle warmth, without depicting divine beings. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "chigbundu-immunity",
+      "talkId": "christian-c-chigbundu",
+      "title": "Workplace health lessons and spiritual immunity",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 63
+        }
+      ],
+      "summary": "Workplace COVID health sessions repeatedly use the word immunity. That experience leads him to consider spiritual practices that strengthen us.",
+      "question": "What repeated word in the workplace sessions inspired his comparison?",
+      "answer": "Immunity.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A workplace health-education gathering with a simple shield illustration on a presentation board; an attendee thoughtfully connects protection with daily spiritual habits. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "chigbundu-missionary",
+      "talkId": "christian-c-chigbundu",
+      "title": "The missionary who wanted to go home",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "revelation",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 184,
+          "end": 252
+        }
+      ],
+      "summary": "A new missionary cries and asks to leave. After encouragement and a scripture-study plan with his trainer, he writes that he understands his purpose and wants to stay.",
+      "question": "What practical plan did the missionary and his trainer make?",
+      "answer": "A scripture-study plan, especially studying the Book of Mormon.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two young missionaries studying an open book together at a modest desk, with a simple daily plan and a reassuring letter nearby. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "chigbundu-cancer",
+      "talkId": "christian-c-chigbundu",
+      "title": "Prayer while living with cancer",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "revelation"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 302,
+          "end": 355
+        }
+      ],
+      "summary": "During a visit, a woman with cancer explains that daily prayer helps her recognize the Savior's love and care. The account does not report a cure.",
+      "question": "What did daily prayer help the woman recognize?",
+      "answer": "The Savior's love and His hand in her life.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A woman resting at home during illness, speaking peacefully with two visiting church friends; a quiet prayerful atmosphere, emphasizing companionship rather than a miraculous cure. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "schmeil-yoke",
+      "talkId": "ciro-schmeil",
+      "title": "Sharing a burden through a yoke",
+      "kind": "analogy",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 154,
+          "end": 190
+        }
+      ],
+      "summary": "He uses Jesus's invitation to take His yoke as an image of becoming connected to Christ through covenants.",
+      "question": "What relationship does the yoke illustrate?",
+      "answer": "Being joined to Jesus Christ through covenants and receiving His help with burdens.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A simple wooden double yoke resting beside a sunlit path; one heavy load and two parallel sets of footprints suggest shared effort and support. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "schmeil-haggai",
+      "talkId": "ciro-schmeil",
+      "title": "Considering their ways and rebuilding the temple",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 314,
+          "end": 422
+        }
+      ],
+      "summary": "In Haggai's account, the people neglect rebuilding the temple. They reconsider their priorities, repent, and begin rebuilding; the Lord promises blessing.",
+      "question": "What changed after the people considered their ways?",
+      "answer": "They aligned their priorities with God's direction and began rebuilding the temple.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Ancient workers returning to rebuild a neglected temple, carrying simple tools and stones; contrast unfinished work with renewed cooperation and purpose. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gilbert-heart-list",
+      "talkId": "clark-g-gilbert",
+      "title": "The mental list of everyone else who needed the talk",
+      "kind": "experience",
+      "tags": [
+        "speaker"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 56,
+          "end": 97
+        }
+      ],
+      "summary": "He starts listing other people who need a peacemaking message, then hears the invitation to examine his own heart.",
+      "question": "Whose heart did the message ask him to examine first?",
+      "answer": "His own.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An adult listening to a conference message, setting aside a list of other people and turning thoughtfully toward a small mirror; humorous but kind. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gilbert-devotional",
+      "talkId": "clark-g-gilbert",
+      "title": "The daunting request to speak without written remarks",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 98,
+          "end": 159
+        }
+      ],
+      "summary": "President Oaks asks him to speak together about challenging topics without formal written remarks. Gilbert nervously asks to write his part, and Oaks agrees.",
+      "question": "What accommodation did he ask for when the assignment felt daunting?",
+      "answer": "Permission to write his own remarks.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two church speakers preparing a college devotional; one holds carefully written notes while the other listens with an understanding smile. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gilbert-inquisitor",
+      "talkId": "clark-g-gilbert",
+      "title": "The Grand Inquisitor's silent response",
+      "kind": "literary-fiction",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 177,
+          "end": 199
+        }
+      ],
+      "summary": "He cites a literary portrayal of Christ answering denunciation with a kiss rather than an argument. This is a fictional literary illustration, not a gospel event.",
+      "question": "In the literary illustration, how does Christ respond to accusation?",
+      "answer": "With an affectionate gesture rather than a further argument.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A symbolic literary scene in an austere old stone room: a calm compassionate figure offering an affectionate gesture to an accuser; no claim of a historical gospel scene. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gilbert-academics",
+      "talkId": "clark-g-gilbert",
+      "title": "Pausing a tense academic discussion",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 197,
+          "end": 229
+        },
+        {
+          "start": 452,
+          "end": 481
+        }
+      ],
+      "summary": "When academic leaders criticize faith, he pauses the tense discussion. Later a university chancellor seeks his help with a course on character; he cautiously links the later opening with his restraint.",
+      "question": "What did he choose in the tense moment instead of escalating it?",
+      "answer": "He tabled or paused the discussion.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. University leaders around a discussion table; one participant calmly pauses a tense exchange, with a later invitation to collaborate represented by an open doorway. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gilbert-dog",
+      "talkId": "clark-g-gilbert",
+      "title": "A wounded dog's unexpected behavior",
+      "kind": "reported-vignette",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "identity"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 244,
+          "end": 269
+        }
+      ],
+      "summary": "He briefly recalls another speaker's wounded-dog story to show that apparent hostility can hide pain. No fuller incident is retold here.",
+      "question": "What unseen condition could explain the dog's behavior?",
+      "answer": "A wound or hidden pain.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A dog resting with a subtle bandage as its concerned owner gently approaches; emphasize understanding hidden pain, with no graphic injury. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gilbert-retort",
+      "talkId": "clark-g-gilbert",
+      "title": "Winning the argument and failing to help a friend",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 268,
+          "end": 316
+        }
+      ],
+      "summary": "He replies angrily to a friend criticizing the Church, then recognizes that winning the debate cost him the Spirit and did not help his friend.",
+      "question": "What did he lose even though he may have won the debate?",
+      "answer": "The Spirit, and the opportunity to help his struggling friend.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two longtime friends after a tense conversation; one pauses with regret while the other appears hurt; focus on the relationship rather than victory. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gilbert-five-visitors",
+      "talkId": "clark-g-gilbert",
+      "title": "One home, five concerns, and a prompting to wait",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 315,
+          "end": 408
+        }
+      ],
+      "summary": "A visit to one home includes five people with different concerns. Prompted to wait rather than interrupt, he listens, understands, and later teaches from love.",
+      "question": "What action did the Spirit prompt him to take?",
+      "answer": "Wait and listen instead of interrupting.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A living-room conversation with a visiting church leader listening attentively to five adults with different concerns; open posture, unhurried mood. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gilbert-adultery",
+      "talkId": "clark-g-gilbert",
+      "title": "Mercy and an invitation to change",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 597,
+          "end": 615
+        }
+      ],
+      "summary": "He briefly cites Jesus's care for the woman taken in adultery together with His invitation to sin no more.",
+      "question": "Which two parts of Christ's response does this example hold together?",
+      "answer": "Love or mercy, and an invitation to change.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A respectful ancient scene of a woman receiving calm compassionate counsel from Jesus after accusers have withdrawn; dignity, without public shaming imagery. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "christofferson-coolidge",
+      "talkId": "d-todd-christofferson",
+      "title": "Coolidge's very short sermon report",
+      "kind": "historical-anecdote",
+      "tags": [
+        "history",
+        "others"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 24,
+          "end": 66
+        }
+      ],
+      "summary": "Retelling President Hinckley's anecdote, he describes Calvin Coolidge reporting that a sermon was about sin and that the preacher opposed it. Historical anecdote as reported, not independently verified.",
+      "question": "What was the preacher's position in Coolidge's short report?",
+      "answer": "He was against sin.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A restrained 1920s domestic scene of a quiet man returning from church and answering his wife's question briefly; lightly humorous, without an exact portrait. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "christofferson-journalist",
+      "talkId": "d-todd-christofferson",
+      "title": "The journalist's sports-gambling experiment",
+      "kind": "reported-vignette",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 334,
+          "end": 402
+        }
+      ],
+      "summary": "He mentions a journalist's planned months-long gambling experience and warning about widespread social costs. Few individual events are described.",
+      "question": "What broader risk did the journalist warn about beyond an individual lost bet?",
+      "answer": "Addiction and damaging social or family consequences as access expands.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An adult journalist thoughtfully reviewing a phone and a notebook; faded calendar pages and interrupted family time suggest the cost of constant gambling access, without game logos. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "christofferson-idols",
+      "talkId": "d-todd-christofferson",
+      "title": "A meal that could mislead someone watching",
+      "kind": "scripture-teaching-example",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 493,
+          "end": 557
+        }
+      ],
+      "summary": "Paul's teaching example describes a knowledgeable believer eating food offered to idols while a less secure believer might misunderstand and follow the example.",
+      "question": "Why does Paul ask a believer to consider more than personal intent?",
+      "answer": "Someone watching could be led into temptation by the example.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An ancient dining scene near a temple courtyard, with one person noticing another's example; thoughtful composition focused on influence, not idol worship. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "renlund-oatmeal",
+      "talkId": "dale-g-renlund",
+      "title": "Two heart transplants—and cold oatmeal",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 180
+        }
+      ],
+      "summary": "After two transplants and a remarkable recovery, a patient complains about oatmeal and milk. Renlund compassionately acknowledges exhaustion while teaching the value of remembering the bigger picture.",
+      "question": "What small frustration occupied the patient after his recovery?",
+      "answer": "Oatmeal that was not hot and milk that was not cold.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A recovering adult sitting on a hospital bed beside a breakfast tray with oatmeal and milk; a caring doctor nearby, emphasizing perspective and relief rather than ridicule. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "renlund-israel",
+      "talkId": "dale-g-renlund",
+      "title": "Israel forgets earlier deliverance",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following",
+        "covenants"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 180,
+          "end": 284
+        }
+      ],
+      "summary": "The Israelites receive rescue and provision, then fear later challenges and forget evidence of God's care.",
+      "question": "What earlier experiences could Israel remember when a new challenge felt impossible?",
+      "answer": "God's deliverance from Egypt and provision of food, water, and rescue at the Red Sea.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An Israelite family in the wilderness looking toward a difficult road, with subtle distant reminders of a sea crossing and daily provision; emphasize memory and trust. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "renlund-asterisk",
+      "talkId": "dale-g-renlund",
+      "title": "Linda and the imaginary asterisk",
+      "kind": "reported-account",
+      "tags": [
+        "family"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 410,
+          "end": 472
+        }
+      ],
+      "summary": "His sister reads scriptural promises as if an asterisk excludes her, then realizes she is included in God's promises.",
+      "question": "What did Linda's imaginary asterisk seem to say?",
+      "answer": "That the blessings applied to everyone except her.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A woman studying an open scripture book beside a large removable paper asterisk and eraser; the symbol suggests an imagined exclusion being erased, with no readable text. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "oaks-nephites",
+      "talkId": "dallin-h-oaks",
+      "title": "Christ reaches another part of His flock",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": "christ-visits-nephites",
+      "sourceRanges": [
+        {
+          "start": 510,
+          "end": 584
+        }
+      ],
+      "summary": "He summarizes the resurrected Savior's visit to the Nephites and His care for other scattered people.",
+      "question": "What does this visit show about whom Christ remembers?",
+      "answer": "His love and outreach extend beyond one nation or people.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A respectful scene of the resurrected Jesus welcoming a diverse ancient American gathering; people approach peacefully, with no invented archaeological precision. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "bednar-passport",
+      "talkId": "david-a-bednar",
+      "title": "The damaged passport at the border",
+      "kind": "illustrative-story",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "following",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 61,
+          "end": 175
+        },
+        {
+          "start": 362,
+          "end": 394
+        }
+      ],
+      "summary": "An illustrative traveler has a valid but damaged passport and is refused entry. Bednar uses it for ongoing covenant faithfulness, explicitly distinguishing hardships suffered through no fault of our own.",
+      "question": "Why was the traveler's passport rejected?",
+      "answer": "Its identifying page was damaged and a torn page repaired without authorization.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An airport passport desk with a disappointed traveler and a visibly damaged passport; focus on document care, with no readable personal data or government insignia. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "uchtdorf-grandchildren",
+      "talkId": "dieter-f-uchtdorf",
+      "title": "Two great-grandchildren choose baptism",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 34
+        }
+      ],
+      "summary": "He and his wife rejoice at two great-grandchildren's baptisms, linking individual promises with examples from family and friends.",
+      "question": "Whose baptisms did he and his wife recently attend?",
+      "answer": "Two of their great-grandchildren.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two children with family members and great-grandparents beside a baptismal font after a joyful baptism; respectful ordinary church setting. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "uchtdorf-pool",
+      "talkId": "dieter-f-uchtdorf",
+      "title": "An eight-year-old in a deep swimming pool",
+      "kind": "experience",
+      "tags": [
+        "speaker"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 34,
+          "end": 68
+        }
+      ],
+      "summary": "He remembers his own baptism in a public swimming pool and his concern that the water was getting deeper when he could not swim.",
+      "question": "What worried him as he entered the water?",
+      "answer": "The pool was getting deeper and he could not swim.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young boy entering an indoor public swimming pool with a trusted adult preparing for baptism; gentle reassuring mood, no danger or panic. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "uchtdorf-boundaries",
+      "talkId": "dieter-f-uchtdorf",
+      "title": "Jesus reaches across social boundaries",
+      "kind": "scripture-montage",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "identity"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 197,
+          "end": 285
+        }
+      ],
+      "summary": "Several brief scriptural examples show Jesus reaching people treated as outsiders, including lepers and Gentiles. This is a montage, not one incident.",
+      "question": "What common pattern connects the examples of Christ's outreach?",
+      "answer": "He reaches people across social divisions and treats outsiders with care.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A symbolic triptych of Jesus welcoming people from different ancient communities, including an isolated person and a foreign traveler; unified warmth and equal dignity. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "uchtdorf-unity",
+      "talkId": "dieter-f-uchtdorf",
+      "title": "From rival nations to one covenant people",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "covenants",
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 404,
+          "end": 468
+        }
+      ],
+      "summary": "After generations of conflict, Christ's ministry changes Nephite and Lamanite relations; love replaces contention and they become united.",
+      "question": "What replaces the generations of contention in this account?",
+      "answer": "The love of God and unity as Christ's covenant people.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two formerly divided ancient communities gathering peacefully around shared tables, with children playing together and no battle imagery. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "dube-sign",
+      "talkId": "edward-dube",
+      "title": "Removing the exclusionary gate sign",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others",
+        "history"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "identity"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 57
+        },
+        {
+          "start": 363,
+          "end": 424
+        }
+      ],
+      "summary": "As a young missionary in 1987, he sees President Oaks request removal of a threatening gate sign so it will not suggest exclusion.",
+      "question": "Why did President Oaks ask for the sign to be removed?",
+      "answer": "To avoid conveying exclusion when the invitation is for all to come to Christ.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young African missionary watching a church leader remove an unfriendly sign from a mission-office gate; open gate and welcoming approach, no readable lettering. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "dube-couple",
+      "talkId": "edward-dube",
+      "title": "A visit, a temple goal, and Lauren's prayer",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "hope",
+        "revelation",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 167,
+          "end": 373
+        }
+      ],
+      "summary": "An unplanned visit encourages a man struggling to stop smoking and his wife to prepare for sealing. Her prayer brings reassurance that he needs to do his best, and they later reach their temple goal.",
+      "question": "What reassuring answer did Lauren receive while praying for her husband?",
+      "answer": "He did not need to be perfect; he needed to do the best he could.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A married couple praying together at home beside a calendar with an unmarked highlighted date and a small temple photograph; focus on hope, support, and preparation. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "dube-letter",
+      "talkId": "edward-dube",
+      "title": "A former missionary's less-certain testimony",
+      "kind": "reported-vignette",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 431,
+          "end": 469
+        }
+      ],
+      "summary": "A former missionary writes that his testimony is less certain than before. Dube responds with an invitation to come to Christ.",
+      "question": "How did Dube respond to the writer's uncertainty?",
+      "answer": "With a loving invitation to come to Christ and His promised joy.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An adult carefully reading a personal letter and preparing a compassionate reply; quiet desk scene, no readable private words. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "reid-headline",
+      "talkId": "gabriel-w-reid",
+      "title": "An NFL player among the new leaders",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "identity"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 68
+        }
+      ],
+      "summary": "A humorous headline about scholars and an NFL player accompanies his feelings of inadequacy in a new teaching calling.",
+      "question": "What feeling remained even though the headline made him smile?",
+      "answer": "Feeling inadequate or wondering whether he was the right person.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A former athlete in ordinary church clothing preparing teaching notes beside a generic newspaper; an uncertain expression turning toward hopeful resolve, no readable headline. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "reid-fishermen",
+      "talkId": "gabriel-w-reid",
+      "title": "Fishermen invited to become",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 67,
+          "end": 96
+        }
+      ],
+      "summary": "Jesus calls ordinary fishermen and promises to make them fishers of men; they need not arrive already fully skilled.",
+      "question": "What did Jesus promise beyond asking the fishermen to follow?",
+      "answer": "He would help them become fishers of men.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Jesus inviting ordinary fishermen on a Galilean shore, with nets and a small boat; emphasize invitation, willingness, and growth. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "reid-mosiah",
+      "talkId": "gabriel-w-reid",
+      "title": "Changed hearts and the sons of Mosiah",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following",
+        "serving"
+      ],
+      "recurringStory": "sons-of-mosiah",
+      "sourceRanges": [
+        {
+          "start": 95,
+          "end": 129
+        }
+      ],
+      "summary": "The formerly rebellious sons of Mosiah desire to teach and are promised that the Lord will make them instruments in His hands.",
+      "question": "What changed before the sons of Mosiah went to teach?",
+      "answer": "Their hearts had changed through the Savior's redeeming power.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Young ancient missionaries setting out with humble expressions and simple travel bags; a hopeful path beyond a village, without invented armor or maps. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "reid-parents",
+      "talkId": "gabriel-w-reid",
+      "title": "Thirteen children learning by watching their parents",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 181,
+          "end": 239
+        }
+      ],
+      "summary": "His parents in American Samoa teach their large family through love, faith, and example, even without extensive formal education.",
+      "question": "How did the children learn some of their greatest lessons?",
+      "answer": "By watching their parents' faithful, loving example.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A large Samoan family gathered in a modest home, parents quietly demonstrating care and faith amid ordinary shared tasks; warm everyday setting. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "reid-mango-tree",
+      "talkId": "gabriel-w-reid",
+      "title": "Primary beneath a mango tree",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "identity"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 235,
+          "end": 274
+        }
+      ],
+      "summary": "He recalls outdoor Primary classes and teachers who know children personally and by name; their love helps the children feel Christ's love.",
+      "question": "What does he remember most about those teachers?",
+      "answer": "Their personal love and knowing the children by name.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Children gathered for a small church lesson beneath a mango tree in a Samoan village, with an attentive teacher greeting each child warmly. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "reid-sydney",
+      "talkId": "gabriel-w-reid",
+      "title": "Learning to see missionaries with love",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 272,
+          "end": 313
+        }
+      ],
+      "summary": "During mission service with his wife in Sydney, deeper love for Christ helps them love missionaries from many countries.",
+      "question": "What helped them love the missionaries more deeply?",
+      "answer": "Deepening their love for the Savior and learning to see people as He does.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A married mission-leader couple warmly welcoming a multicultural group of young missionaries in an Australian meeting space; friendly individual connections. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "reid-one-by-one",
+      "talkId": "gabriel-w-reid",
+      "title": "The Savior ministers one by one",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "identity",
+        "hope"
+      ],
+      "recurringStory": "christ-visits-nephites",
+      "sourceRanges": [
+        {
+          "start": 308,
+          "end": 361
+        }
+      ],
+      "summary": "The resurrected Savior invites personal witness, notices the people's desire, heals, blesses children, and prays for them. Reid emphasizes relationships and compassion.",
+      "question": "What phrase describes His attention to individuals?",
+      "answer": "One by one.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A respectful ancient American scene of Jesus kneeling beside one child while families wait peacefully nearby; focus on individual care rather than a grand spectacle. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "stevenson-listen",
+      "talkId": "gary-e-stevenson",
+      "title": "Just one more talk, Gary",
+      "kind": "brief-vignette",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 44,
+          "end": 72
+        }
+      ],
+      "summary": "He recalls his mother encouraging him as a child to pay attention during conference.",
+      "question": "What did his mother encourage him to do?",
+      "answer": "Pay attention and listen, even for one more talk.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A child listening to a conference broadcast at home with a mother gently encouraging him; affectionate, lightly humorous domestic scene. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "stevenson-fruit",
+      "talkId": "gary-e-stevenson",
+      "title": "Fresh fruit from the farm stand",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 106,
+          "end": 160
+        },
+        {
+          "start": 207,
+          "end": 241
+        }
+      ],
+      "summary": "Family visits for fresh fruit become an analogy: tasting fruit resembles learning gospel truth by living it.",
+      "question": "What does actually tasting fruit illustrate about learning gospel truths?",
+      "answer": "Living them personally, rather than only hearing or looking.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A father and child choosing ripe peaches at a farm stand, with one piece being tasted; vibrant natural colors and joyful curiosity. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "stevenson-lehi",
+      "talkId": "gary-e-stevenson",
+      "title": "Lehi wants his family to taste the fruit",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "following",
+        "covenants"
+      ],
+      "recurringStory": "lehi-tree",
+      "sourceRanges": [
+        {
+          "start": 158,
+          "end": 211
+        },
+        {
+          "start": 585,
+          "end": 638
+        }
+      ],
+      "summary": "Lehi tastes joyful fruit and wants his family to share it. Stevenson connects the invitation with sharing blessings of Christ's gospel.",
+      "question": "What did Lehi want after tasting the fruit?",
+      "answer": "For his family to partake too.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Lehi beside a luminous fruit tree warmly beckoning his family to join him; symbolic dream landscape, clear emphasis on invitation and joy. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "stevenson-earthquake",
+      "talkId": "gary-e-stevenson",
+      "title": "A small child's song after an earthquake",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "hope",
+        "revelation"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 304,
+          "end": 362
+        }
+      ],
+      "summary": "At a gathering with earthquake-affected members, a small boy runs to him and sings I Am a Child of God; the testimony brings comfort.",
+      "question": "What truth did the child's song testify of?",
+      "answer": "That we are children of a loving Heavenly Father.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A small boy singing beside a church speaker before families recovering from an earthquake; attentive faces and hopeful warmth, without disaster spectacle. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "stevenson-priest",
+      "talkId": "gary-e-stevenson",
+      "title": "Comforting a grieving Buddhist friend",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 368,
+          "end": 462
+        }
+      ],
+      "summary": "In Japan, he and a friend visit a Buddhist temple priest grieving his wife's death and share the gospel teaching about life after death.",
+      "question": "What teaching brought his grieving friend hope?",
+      "answer": "That death is not the end and his wife's spirit is in God's care.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two visitors listening compassionately to a grieving older Japanese man in a quiet Buddhist temple room; respectful setting and a gradual sense of comfort. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gong-healing",
+      "talkId": "gerrit-w-gong",
+      "title": "Temple service softens a difficult family relationship",
+      "kind": "reported-vignette",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "hope",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 169,
+          "end": 221
+        }
+      ],
+      "summary": "He offers testimony-like examples of family temple work bringing forgiveness and peace. No named individual or full incident is supplied.",
+      "question": "What inward change do these examples describe?",
+      "answer": "A softened heart, forgiveness, and relief from bitterness.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An adult holding family photographs outside a temple, with a tense posture becoming gentle; focus on remembered family relationships, without depicting ceremonies. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gong-small-temple",
+      "talkId": "gerrit-w-gong",
+      "title": "A small temple and blessings that are not small",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 455,
+          "end": 513
+        }
+      ],
+      "summary": "Members apologize that their temple is small. He responds that ordinances and covenants are not big or small.",
+      "question": "What does he say is not measured by a temple's size?",
+      "answer": "Its ordinances, covenants, and spiritual blessings.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two grateful visitors speaking with a church leader outside a modest temple; the building's simple scale contrasts with warm, expansive light. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gong-family-links",
+      "talkId": "gerrit-w-gong",
+      "title": "The first converts and many linked generations",
+      "kind": "brief-vignette",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "identity"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 533,
+          "end": 574
+        }
+      ],
+      "summary": "His parents are the only converts in their families; later family-history work connects many generations.",
+      "question": "What helps connect the family's many generations?",
+      "answer": "Family history and genealogy, connected with temple service.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A family studying a branching family tree with ancestor photographs, linking a first-convert couple to many generations; no readable names. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "gong-clothing",
+      "talkId": "gerrit-w-gong",
+      "title": "Children save for their widowed mother's temple clothing",
+      "kind": "reported-account",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 586,
+          "end": 626
+        }
+      ],
+      "summary": "Children of modest means save to fulfill their mother's request for her own temple clothing; she cherishes it during years of temple service.",
+      "question": "What did the children do to support their mother's temple worship?",
+      "answer": "Saved and purchased her own temple clothing.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Adult children presenting their widowed mother with a neatly closed clothing bag at home, a temple picture nearby; gratitude and loving sacrifice, with no ceremonial clothing displayed. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "causse-magazine",
+      "talkId": "gerald-causse",
+      "title": "A reassuring scripture on the kitchen table",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "hope",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 59
+        }
+      ],
+      "summary": "After a life-changing calling, he prays for guidance and feels prompted to open a church magazine; a scripture reassures him to bear witness of Christ.",
+      "question": "What did he feel prompted to do after praying?",
+      "answer": "Open the magazine on the kitchen table.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A man opening a church magazine on a kitchen table after prayer, with soft morning light and a peaceful expression; no readable quotation. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "causse-new-apostle",
+      "talkId": "gerald-causse",
+      "title": "The same reassurance in a new calling",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "serving",
+        "revelation"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 60,
+          "end": 117
+        }
+      ],
+      "summary": "When newly called as an apostle, he is invited to testify of Christ and remembers the earlier promise with renewed peace.",
+      "question": "What first act gave meaning to his new calling?",
+      "answer": "Bearing witness of Jesus Christ.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A newly called church leader rising to offer a simple testimony among supportive colleagues in an ordinary meeting room; no attempt to reproduce a sacred interior. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "causse-niece",
+      "talkId": "gerald-causse",
+      "title": "Two sentences at Young Women camp",
+      "kind": "reported-account",
+      "tags": [
+        "family"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "hope",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 399,
+          "end": 460
+        }
+      ],
+      "summary": "His niece feels her short testimony at camp is inadequate. Her mother asks whether she believes what she said and reassures her that sincerity matters.",
+      "question": "What question did her mother ask about the short testimony?",
+      "answer": "Do you believe what you said?",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A teenage girl speaking briefly at a camp gathering, with a later reassuring mother-daughter conversation suggested in a small inset; campfire warmth, no text. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "causse-alma",
+      "talkId": "gerald-causse",
+      "title": "A father's testimony remembered in anguish",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": "alma-remembers-father",
+      "sourceRanges": [
+        {
+          "start": 542,
+          "end": 574
+        }
+      ],
+      "summary": "Alma remembers his father's witness of Christ in deep anguish; that memory becomes a spark of hope and repentance.",
+      "question": "Whose testimony did Alma remember?",
+      "answer": "His father's testimony about Jesus Christ and His atonement.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A distressed young ancient man reflecting as a gentle memory of his father teaching appears in the composition; hope beginning to replace anguish, without graphic suffering. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "h-eyring-child",
+      "talkId": "henry-b-eyring",
+      "title": "Mother, why is life so hard?",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 113,
+          "end": 176
+        }
+      ],
+      "summary": "As a boy, he asks why life is hard. His mother calls life a test; he later understands that she herself faced lifelong medical challenges.",
+      "question": "What did his mother's answer teach about difficulty?",
+      "answer": "Life is a test; God's help does not mean the absence of challenges.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young boy asking his mother a serious question at home; her gentle but steady expression suggests reassurance and lived experience. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "h-eyring-hospital",
+      "talkId": "henry-b-eyring",
+      "title": "A cot, a picture, and thanks to the nurses",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 249,
+          "end": 330
+        }
+      ],
+      "summary": "In his mother's final illness, she keeps a picture of Christ in view, his father stays close to help, and afterward thanks every nurse. Caring people help fulfill God's promises.",
+      "question": "How did his father show care and gratitude?",
+      "answer": "Stayed nearby on a cot to help his wife, then thanked the nurses who cared for her.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A husband sitting beside his wife's hospital bed, with a simple cot and a small picture of Christ; a caring nurse nearby, quiet gratitude. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "h-eyring-promptings",
+      "talkId": "henry-b-eyring",
+      "title": "A name comes to mind and someone reaches out",
+      "kind": "illustrative-vignette",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 393,
+          "end": 438
+        }
+      ],
+      "summary": "He describes a collective pattern of members praying about whom to help, recalling a face or name, and reaching out. It is not one identified person's story.",
+      "question": "What turns a prompting into useful help in this example?",
+      "answer": "Reaching out to the person who comes to mind.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An adult pausing after prayer, then making a caring phone call to a friend pictured in a small memory inset; everyday warmth, no supernatural spectacle. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "fale-photos",
+      "talkId": "hutch-u-fale",
+      "title": "What had the babies done to earn love?",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "revelation",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 95,
+          "end": 207
+        }
+      ],
+      "summary": "Prompted at a meeting, he gathers baby photos and asks his children what they had done to earn their parents' love. They had done nothing; that love helps illustrate divine worth.",
+      "question": "What had the children done as babies to earn their parents' love?",
+      "answer": "Nothing; the love was already theirs.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A father and mother showing childhood photographs to their children around a family table; tender expressions and belonging, without readable names. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "fale-prodigal",
+      "talkId": "hutch-u-fale",
+      "title": "The prodigal son can return",
+      "kind": "scripture-reference",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "hope",
+        "serving"
+      ],
+      "recurringStory": "prodigal-son",
+      "sourceRanges": [
+        {
+          "start": 367,
+          "end": 396
+        }
+      ],
+      "summary": "He briefly names the prodigal son to illustrate that it is not too late to turn to Christ. The parable is not retold in this talk.",
+      "question": "What does the prodigal-son reference emphasize about turning to Christ?",
+      "answer": "There is still time to return and receive His grace.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An older father warmly welcomes a weary returning son on an ancient village road; emphasize welcome and renewed hope. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "fale-lost-sheep",
+      "talkId": "hutch-u-fale",
+      "title": "Leaving ninety-nine to find one",
+      "kind": "scripture-reference",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "hope",
+        "serving"
+      ],
+      "recurringStory": "lost-sheep",
+      "sourceRanges": [
+        {
+          "start": 367,
+          "end": 396
+        }
+      ],
+      "summary": "He briefly invokes leaving ninety-nine sheep to find one as a reminder of the Father's concern for someone who has wandered. This is a parable reference, not a full retelling.",
+      "question": "How many sheep does the shepherd go to find in this reference?",
+      "answer": "One.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A shepherd gently carries one recovered sheep along an ancient hillside path, with a flock safe in the distance; care for the individual. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "fale-childhood",
+      "talkId": "hutch-u-fale",
+      "title": "A scripture read on the ride home",
+      "kind": "experience",
+      "tags": [
+        "speaker"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "revelation"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 456,
+          "end": 492
+        }
+      ],
+      "summary": "As a young boy traveling home in Tonga, he reads John 3:16 in several languages and receives a spiritual witness of God's love.",
+      "question": "What truth did the young boy come to know while reading?",
+      "answer": "God's love and the reality of Jesus Christ.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A Tongan boy reading a small New Testament during a ride along a village road; soft daylight, reflective joy, no readable passage. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "fantone-name",
+      "talkId": "james-g-o-fantone",
+      "title": "The wrong name on the school form",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 133
+        }
+      ],
+      "summary": "He writes his own name where his daughter's belongs, then fixes it by adding her first name. Reflection distinguishes merely adding Christ's name from living the covenant to take His name.",
+      "question": "Why was adding one name an easy fix on the school form?",
+      "answer": "His daughter's name already included his own name.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A father at a school registrar's desk noticing a mistaken name on a form and carefully correcting it; lightly humorous, no readable personal data. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "fantone-student",
+      "talkId": "james-g-o-fantone",
+      "title": "The boys' bedroom becomes a student's room",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "covenants"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 199,
+          "end": 249
+        }
+      ],
+      "summary": "His parents offer their sons' bedroom to a former student who cannot afford housing near vocational school.",
+      "question": "What need did the parents meet by sharing the room?",
+      "answer": "Housing that allowed a student to continue his studies.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A modest family home where parents welcome a young student carrying books into a shared bedroom; generous practical hospitality. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "fantone-children",
+      "talkId": "james-g-o-fantone",
+      "title": "A safe room for vulnerable children",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "covenants"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 246,
+          "end": 279
+        }
+      ],
+      "summary": "After learning that children need a safe place, his parents open their home and share their daughters' room.",
+      "question": "What did the parents offer the children?",
+      "answer": "A safe place to stay in their home.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Parents warmly welcoming children and small travel bags into a modest family house; focus on safety and care, without depicting abuse. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "fantone-bethlehem",
+      "talkId": "james-g-o-fantone",
+      "title": "If Mary and Joseph had knocked",
+      "kind": "imagined-scene",
+      "tags": [
+        "family",
+        "scripture"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 276,
+          "end": 299
+        }
+      ],
+      "summary": "He imagines that his parents would have offered even their own room to Mary and Joseph. This is a counterfactual illustration of their generosity, not an event that happened.",
+      "question": "Is this an actual family event or an imagined example?",
+      "answer": "An imagined example of how generously his parents would have welcomed others.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An explicitly symbolic illustration of a modern family's open doorway facing Mary and Joseph as ancient travelers; imaginative cross-era composition, not a historical reconstruction. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "fantone-missionaries",
+      "talkId": "james-g-o-fantone",
+      "title": "Long days become time that moves too fast",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "hope",
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 312,
+          "end": 400
+        }
+      ],
+      "summary": "He describes a repeated pattern in missionary interviews: homesickness and slow days eventually give way to love of the people and joy in service.",
+      "question": "What changed—the passage of time or the missionaries?",
+      "answer": "The missionaries changed as they learned to love and serve.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A two-panel scene of the same young missionary: lonely at a desk, then joyfully serving neighbors months later; calendar motif without text. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "morgan-mother",
+      "talkId": "jeremiah-j-morgan",
+      "title": "Mother reads even when the teenager seems not to listen",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "revelation",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 127
+        }
+      ],
+      "summary": "His single mother reads the Book of Mormon aloud daily in a family belonging to another church. Her devotion leaves a lasting witness beyond the few phrases he recalls.",
+      "question": "What mattered beyond the exact words he remembered?",
+      "answer": "He knew the book mattered to his mother and that she believed it was true.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A single mother reading scripture aloud while her teenage son gets ready for school; ordinary morning activity and patient devotion. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "morgan-ancestors",
+      "talkId": "jeremiah-j-morgan",
+      "title": "Ancestors in Nauvoo and a later family discovery",
+      "kind": "historical-family-account",
+      "tags": [
+        "family",
+        "history"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "identity",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 27,
+          "end": 58
+        },
+        {
+          "start": 212,
+          "end": 291
+        }
+      ],
+      "summary": "He relates early ancestors' baptism and temple covenants in Nauvoo, later interpreting their influence through a conversation with his wife. Captions garble names; avoid name trivia.",
+      "question": "What earlier family commitment does he connect with his later spiritual seeking?",
+      "answer": "His ancestors' temple covenants; he also says descendants retain agency.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An illustrative nineteenth-century family outside an early Nauvoo temple, linked by a subtle family-tree motif to a modern couple studying family history. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "morgan-hidden",
+      "talkId": "jeremiah-j-morgan",
+      "title": "The fourteen-year-old between the accordion doors",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "following",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 124,
+          "end": 204
+        }
+      ],
+      "summary": "At fourteen, he attends two congregations, hiding in the overflow at one, while sincerely seeking truth. He later receives a testimony despite family questions.",
+      "question": "Where did he quietly listen while visiting the congregation?",
+      "answer": "Between the accordion doors in the overflow.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A teenage boy quietly listening from near folded accordion doors at the back of a church meeting room; curious, reflective mood rather than a secrecy adventure. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "morgan-enos",
+      "talkId": "jeremiah-j-morgan",
+      "title": "Enos's promise reaches later generations",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "covenants",
+      "otherTopics": [
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 307,
+          "end": 343
+        }
+      ],
+      "summary": "He recalls God's covenant with Enos that later descendants would receive His words, emphasizing a promise's reach across generations.",
+      "question": "What does the Enos example illustrate about God's covenants?",
+      "answer": "Their power and effects can extend across generations and long periods of time.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An ancient man praying, with a symbolic path connecting an old record to future families; hopeful generational imagery, no invented dates. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "hathaway-cars",
+      "talkId": "kevin-j-hathaway",
+      "title": "Loose truck tires strike both family cars",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "revelation",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 54,
+          "end": 124
+        }
+      ],
+      "summary": "Two loose tires strike their cars as they travel to mission service. Spiritual peace and help from others sustain them; they arrive without serious injury after practical difficulties.",
+      "question": "What help came before the practical difficulties were fully resolved?",
+      "answer": "Peace from the Spirit and assistance from other people.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A family safely gathered beside damaged cars at a road-construction site, with helpers offering support; no collision in progress or graphic injuries. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "hathaway-alma",
+      "talkId": "kevin-j-hathaway",
+      "title": "Alma's people cry to God in bondage",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "revelation"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 154,
+          "end": 167
+        }
+      ],
+      "summary": "A short scriptural example shows Alma's people turning to God while in bondage. The full deliverance narrative is not retold here.",
+      "question": "What did Alma's people do in their affliction?",
+      "answer": "Cried mightily to God.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Ancient families praying together amid a difficult work setting; portray endurance and hope, with no violence or invented rescue scene. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "hathaway-daniel",
+      "talkId": "kevin-j-hathaway",
+      "title": "A king fasts while waiting for Daniel",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "revelation"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 165,
+          "end": 179
+        }
+      ],
+      "summary": "King Darius fasts through the night while waiting for Daniel's deliverance from the lions. This brief example emphasizes sincere seeking.",
+      "question": "What did Darius do while waiting?",
+      "answer": "Fasted through the night.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An ancient king awake in a quiet chamber beside an untouched meal, with a subtle distant view of a stone enclosure; waiting and concern, no attack imagery. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "hathaway-kenzie",
+      "talkId": "kevin-j-hathaway",
+      "title": "One week before the hoped-for reunion",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "covenants"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 197,
+          "end": 329
+        }
+      ],
+      "summary": "A missionary's father dies shortly before her return. She mourns deeply and later describes clinging to covenants and trusting Christ to help her endure. Her grief is not erased.",
+      "question": "What source of support did the missionary describe holding to?",
+      "answer": "Her covenants and her trust that Jesus understands and will help her heal.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young woman missionary holding a family photograph while trusted adults sit quietly nearby; compassionate support during grief, without depicting the accident. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "hathaway-jairus",
+      "talkId": "kevin-j-hathaway",
+      "title": "Jairus when the news seems too late",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": "jairus-daughter",
+      "sourceRanges": [
+        {
+          "start": 367,
+          "end": 401
+        }
+      ],
+      "summary": "Jairus receives news of his daughter's death, holds to Jesus's assurance, and sees Him restore her life. The talk distinguishes miracles' varying timing.",
+      "question": "What assurance did Jesus give when the situation seemed hopeless?",
+      "answer": "Be not afraid, only believe.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A respectful ancient home scene of Jesus beside a child's bed while her father watches with hope; gentle light, no graphic illness or death. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "m-eyring-friend",
+      "talkId": "matthew-j-eyring",
+      "title": "I can't fix this",
+      "kind": "reported-vignette",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 36
+        }
+      ],
+      "summary": "A friend receives news of his adult son's sudden death and realizes he cannot fix the loss by himself.",
+      "question": "What realization came to the grieving father?",
+      "answer": "I cannot fix this on my own.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An adult father seated after a difficult phone call, with a supportive person quietly nearby; dignified grief, no accident imagery. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "m-eyring-dinner",
+      "talkId": "matthew-j-eyring",
+      "title": "Shared grief, dinner, and a blessing",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "serving",
+        "revelation",
+        "covenants"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 36,
+          "end": 93
+        },
+        {
+          "start": 379,
+          "end": 435
+        }
+      ],
+      "summary": "He and his wife support a couple who lost a twin before birth, drawing on their own similar loss. After dinner he offers the father a blessing of peace.",
+      "question": "How did their own experience help them serve the younger couple?",
+      "answer": "It helped them empathize, mourn together, and offer comfort and support.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two couples sharing a quiet, compassionate meal at home; listening faces and supportive gestures, with no pregnancy-loss or hospital imagery. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "dunn-race",
+      "talkId": "michael-a-dunn",
+      "title": "Ted carries the pack through the last ten miles",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "serving",
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 22,
+          "end": 278
+        },
+        {
+          "start": 360,
+          "end": 495
+        }
+      ],
+      "summary": "In a hundred-mile race, Dunn nearly quits at mile ninety. Ted encourages him and secretly carries his pack and water; a later photo reveals the help. The route is not shortened.",
+      "question": "What did the later photograph reveal Ted had done?",
+      "answer": "Carried Dunn's hydration pack and two water bottles through the last ten miles.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two exhausted trail runners moving together near dawn; the supporting runner carries an extra hydration pack and water bottles, quietly lightening his friend's load. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "villanueva-mother",
+      "talkId": "moises-villanueva",
+      "title": "A mother's faith while raising eight children",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "hope",
+        "covenants"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 90
+        },
+        {
+          "start": 412,
+          "end": 427
+        }
+      ],
+      "summary": "After family baptism, his mother supports eight children amid financial hardship and chooses to pay tithing in faith.",
+      "question": "What made the family's decision to pay tithing difficult?",
+      "answer": "Financial hardship while their mother supported eight children.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A mother and her children in a modest home thoughtfully organizing a simple household budget; focus on faith and sacrifice, not guaranteed wealth. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "villanueva-promotion",
+      "talkId": "moises-villanueva",
+      "title": "The promotion that never came",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following",
+        "revelation"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 119,
+          "end": 258
+        }
+      ],
+      "summary": "A faithful woman is disappointed that a hoped-for promotion has not arrived. He invites her to notice other subtle blessings, recalling his own reflection with the Spirit.",
+      "question": "What exercise did he invite the disappointed woman to try?",
+      "answer": "Write a list of significant but subtle blessings.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A woman reflecting at a desk beside an unopened work envelope and a notebook of small blessings; thoughtful uncertainty, no image of a promised promotion. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "villanueva-propane",
+      "talkId": "moises-villanueva",
+      "title": "A propane tank lasts longer than expected",
+      "kind": "reported-vignette",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 256,
+          "end": 310
+        }
+      ],
+      "summary": "A woman attributes a household tank lasting unexpectedly long to a tender mercy. This is her personal interpretation, not a universal promised outcome.",
+      "question": "What unexpected household experience did the woman describe?",
+      "answer": "Her propane tank lasted longer than expected.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A woman in a modest kitchen looking gratefully toward an ordinary propane cylinder connected safely to a stove; practical everyday provision, no miraculous glow. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "villanueva-clothes",
+      "talkId": "moises-villanueva",
+      "title": "Clothes and shoes in the wilderness",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 279,
+          "end": 306
+        }
+      ],
+      "summary": "He recalls the Israelites' clothing and shoes not wearing out in the wilderness as an example of remembered provision.",
+      "question": "What items does the wilderness example describe being preserved?",
+      "answer": "Their clothing and shoes.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An Israelite family walking a long desert road in simple well-kept clothing and sandals; daily endurance and provision rather than opulence. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "villanueva-widow",
+      "talkId": "moises-villanueva",
+      "title": "The widow's flour and oil",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "hope",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 312,
+          "end": 416
+        }
+      ],
+      "summary": "A widow has little food, trusts Elijah's invitation, and shares; the flour and oil remain available according to the Lord's promise.",
+      "question": "Which two supplies did not run out in this account?",
+      "answer": "Flour or meal, and oil.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An ancient widow with her son preparing a small meal beside a flour jar and oil vessel as a traveler waits gratefully; generous care amid scarcity. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "andersen-chibota",
+      "talkId": "neil-l-andersen",
+      "title": "Rosemary's pamphlet at seventeen",
+      "kind": "reported-account",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "following",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 34
+        }
+      ],
+      "summary": "Seventeen-year-old Rosemary reads a Joseph Smith pamphlet in Zimbabwe, receives a spiritual witness, and joins the Church; her parents later follow.",
+      "question": "What first introduced her to the message she investigated?",
+      "answer": "A Joseph Smith pamphlet left by missionaries.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A Zimbabwean teenage girl thoughtfully reading a small missionary pamphlet at home, with warm daylight and curiosity; no readable text. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "andersen-moroni",
+      "talkId": "neil-l-andersen",
+      "title": "Moroni's courage while alone",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 118,
+          "end": 157
+        }
+      ],
+      "summary": "Alone after devastating losses and amid persecution, Moroni refuses to deny Christ.",
+      "question": "What commitment did Moroni keep despite isolation and danger?",
+      "answer": "He would not deny Jesus Christ.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A lone ancient record keeper holding a small set of plates in a quiet wilderness refuge; courage and grief, without battle or persecution imagery. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "andersen-cows",
+      "talkId": "neil-l-andersen",
+      "title": "Quiet mornings with the dairy cows",
+      "kind": "experience",
+      "tags": [
+        "speaker"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 184,
+          "end": 238
+        }
+      ],
+      "summary": "As a boy on a dairy farm, he guides cows to a meadow without digital distractions. The memory illustrates stillness that nourishes faith.",
+      "question": "What modern distractions were absent from those quiet mornings?",
+      "answer": "Phones, earbuds, music, texting, and similar constant input.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young rider gently guiding dairy cows into a high meadow on a quiet summer morning; wide space, natural stillness, no devices. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "andersen-oaks-calling",
+      "talkId": "neil-l-andersen",
+      "title": "A busy attorney accepts a demanding calling",
+      "kind": "reported-account",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 333,
+          "end": 378
+        }
+      ],
+      "summary": "Young Dallin Oaks accepts a mission-related calling despite a demanding law career; exercising courage strengthens faith.",
+      "question": "What made accepting the calling a demanding choice?",
+      "answer": "A busy legal career and the additional evenings needed for service.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young attorney setting work papers aside to consider a church-service commitment, with a crowded calendar and thoughtful resolve; no exact portrait. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "andersen-fire",
+      "talkId": "neil-l-andersen",
+      "title": "Our family is safe and our faith is secure",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 402,
+          "end": 444
+        }
+      ],
+      "summary": "After devastating fires, a couple expresses gratitude that their family is safe and confidence they can rebuild while retaining faith.",
+      "question": "What did the couple say remained secure after losing their home?",
+      "answer": "Their family was safe and their faith was secure.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A family standing together near the remains of a home after a fire, with visiting supporters; emphasize togetherness and hope, no flames or injury. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "andersen-betrayal",
+      "talkId": "neil-l-andersen",
+      "title": "Trust expressed amid private betrayal",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "covenants"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 502,
+          "end": 543
+        }
+      ],
+      "summary": "He hears a woman testify of trust in Christ while knowing she is suffering from her husband's betrayal. This is a brief anonymous account.",
+      "question": "Whom did she say she would trust through happiness or grief?",
+      "answer": "Jesus Christ, the rock of her salvation.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An adult woman offering a simple testimony to a supportive congregation; composed strength with subtle signs of sorrow, no imagined betrayal scene. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "andersen-apostles",
+      "talkId": "neil-l-andersen",
+      "title": "Peter and John testify after a healing",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "revelation",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 583,
+          "end": 643
+        }
+      ],
+      "summary": "Having witnessed the risen Christ, Peter and John courageously answer rulers questioning a healing, attributing it to Jesus.",
+      "question": "To whom did they attribute the man's healing?",
+      "answer": "Jesus Christ of Nazareth.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Peter and John calmly speaking before ancient officials, with a healed man standing nearby; respectful courage, no hostile caricatures. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "giuffra-worker",
+      "talkId": "patricio-m-giuffra",
+      "title": "The house cleaner who prayed for help",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "revelation",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 25,
+          "end": 209
+        }
+      ],
+      "summary": "An older woman fears she cannot afford tithing. The missionaries seek counsel, pray and fast; she prays for help, is baptized, and later faithfully brings offerings. No specific increase in income is reported.",
+      "question": "What did the woman do when she wanted to obey but felt unable?",
+      "answer": "Prayed to Heavenly Father for help.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An older Chilean woman praying in a modest room with household cleaning tools nearby; quiet dignity and resolve, no promised money or prosperity. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "giuffra-mite",
+      "talkId": "patricio-m-giuffra",
+      "title": "The widow's mite used as counsel",
+      "kind": "scripture-reference",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 108,
+          "end": 136
+        }
+      ],
+      "summary": "The mission president reads the widow's mite account as counsel. The talk names the account but does not retell its details; low-detail reference, not a full story.",
+      "question": "Which scripture account did the mission president use?",
+      "answer": "The widow's mite.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A respectful ancient widow placing a very small offering into a collection box; plain setting, emphasizing sincere generosity rather than monetary value. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "giuffra-businesses",
+      "talkId": "patricio-m-giuffra",
+      "title": "From material hardship to greater stability",
+      "kind": "reported-vignette",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 304,
+          "end": 346
+        }
+      ],
+      "summary": "He summarizes people he has met whose circumstances improve through faith and diligent effort. These are aggregate observations, not a single named story or guarantee.",
+      "question": "What accompanies faith in his examples of improved circumstances?",
+      "answer": "Diligent effort, with opportunities and blessings.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An adult tending a modest small business with family members, simple tools and steady work; grounded improvement over time, no instant riches. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "kearon-glider",
+      "talkId": "patrick-kearon",
+      "title": "Learning to find lift and turn away from sink",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "following",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 217
+        },
+        {
+          "start": 288,
+          "end": 402
+        },
+        {
+          "start": 560,
+          "end": 619
+        }
+      ],
+      "summary": "As a teenager, he learns to glide, detect unseen rising air, and turn away from sinking air. Later he connects these learned responses with spiritual practices and guidance.",
+      "question": "How did he respond when one wing lifted in rising air?",
+      "answer": "Turned toward the lift and learned to remain in it.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A teenage pilot in a glider circling beneath a cumulus cloud above English fields; show gentle upward airflow with subtle illustrative lines, not supernatural light. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "kearon-peter",
+      "talkId": "patrick-kearon",
+      "title": "Peter lifted from the waves",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 237,
+          "end": 255
+        }
+      ],
+      "summary": "A brief example recalls Jesus lifting Peter from sinking in the water.",
+      "question": "Whom does the Savior lift from the waves in this example?",
+      "answer": "Peter.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A respectful scene of Jesus reaching to support Peter above dark water; focus on a secure helping hand, without storm spectacle. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "kearon-jairus",
+      "talkId": "patrick-kearon",
+      "title": "A daughter lifted from death",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [],
+      "recurringStory": "jairus-daughter",
+      "sourceRanges": [
+        {
+          "start": 252,
+          "end": 263
+        }
+      ],
+      "summary": "A brief example recalls Jesus restoring Jairus's daughter; it contributes to the talk's theme of Christ lifting people.",
+      "question": "Whose daughter is named in this example of Christ's lifting power?",
+      "answer": "Jairus's daughter.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A respectful ancient bedroom scene of a young girl sitting up with Jesus nearby and family watching hopefully; gentle light and reassurance. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "kearon-boy",
+      "talkId": "patrick-kearon",
+      "title": "Taking a healed boy by the hand",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 260,
+          "end": 278
+        }
+      ],
+      "summary": "He recalls a boy healed from an unclean spirit, whom Jesus takes by the hand and lifts up. It is a very brief example.",
+      "question": "What physical action shows Christ's care after the healing?",
+      "answer": "Taking the boy by the hand and lifting him.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Jesus gently helping a young boy stand beside a relieved parent in an ancient outdoor setting; no depiction of possession or frightening symptoms. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "kearon-ammon",
+      "talkId": "patrick-kearon",
+      "title": "Ammon cannot fully express the joy of change",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "serving",
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 412,
+          "end": 481
+        }
+      ],
+      "summary": "Ammon rejoices that people have moved from spiritual darkness into God's love and light; words cannot fully express his gratitude.",
+      "question": "What change makes Ammon so grateful?",
+      "answer": "People being redeemed from spiritual darkness into God's love and light.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An ancient missionary gratefully standing among a peaceful community, with a symbolic transition from shadow to warm daylight; joyful belonging. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "sinclair-buttons",
+      "talkId": "paul-h-sinclair",
+      "title": "The button predicament and a child's helping hands",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "following",
+        "revelation",
+        "identity"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 196
+        }
+      ],
+      "summary": "During Primary, a boy buttons his sleeve to his lapel and cannot free it. A girl helps while Sinclair feels irritated; the experience teaches him through the Holy Ghost to help before judging.",
+      "question": "How did the girl solve the problem?",
+      "answer": "Quietly unbuttoned the sleeve from the lapel.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two children seated during a church program: a girl gently unfastens a boy's sleeve from his jacket lapel; kind practical help, no ridicule or exaggerated restraint. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "sinclair-well",
+      "talkId": "paul-h-sinclair",
+      "title": "The woman at the well receives dignity and purpose",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "identity",
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 195,
+          "end": 371
+        }
+      ],
+      "summary": "Jesus listens to the Samaritan woman and offers living water and teaching, focusing on her possible future instead of reducing her to her past.",
+      "question": "How does Jesus treat her questions?",
+      "answer": "With listening, dignity, and teaching rather than ridicule.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Jesus and a Samaritan woman speaking respectfully beside an ancient village well, her water jar nearby; equal dignity and attentive conversation. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "cook-mckay",
+      "talkId": "quentin-l-cook",
+      "title": "Act well thy part above a Scottish doorway",
+      "kind": "historical-account",
+      "tags": [
+        "history",
+        "others"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 63,
+          "end": 154
+        }
+      ],
+      "summary": "A message carved above a doorway influences young missionary David O. McKay to do his best in every responsibility; Cook later visits a replica.",
+      "question": "What principle did McKay take from the doorway inscription?",
+      "answer": "Whatever his responsibility, do his very best in it.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young missionary pausing beneath a carved stone doorway in Scotland; thoughtful resolve, with the inscription represented by indistinct marks rather than generated text. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "cook-sailor",
+      "talkId": "quentin-l-cook",
+      "title": "A sailor's homecoming becomes an image of repentance",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others",
+        "history"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "hope",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 576,
+          "end": 659
+        }
+      ],
+      "summary": "A former World War II sailor compares the joy of repentance with returning home to England and kneeling on familiar ground. Before baptism, he prays to share that joy, especially with family.",
+      "question": "What earlier experience helped the man describe the joy of repentance?",
+      "answer": "Returning home from wartime service and standing on his homeland again.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A sailor stepping from a ship onto an English dock and kneeling gratefully on familiar ground; an inset of a later peaceful missionary conversation, no battle imagery. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "rasband-family",
+      "talkId": "ronald-a-rasband",
+      "title": "When trying to persuade loved ones creates a greater rift",
+      "kind": "personal-reflection",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 101
+        }
+      ],
+      "summary": "He acknowledges family heartache and familiar attempts to argue or pressure loved ones, warning that such efforts can deepen distance and that everyone retains agency.",
+      "question": "What can happen when concern becomes repeated arguing or pressure?",
+      "answer": "It can create a greater rift rather than change the person's heart.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A family at a kitchen table pausing a tense conversation, with one person choosing to listen and make room for the other; compassionate restraint. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "rasband-lehi",
+      "talkId": "ronald-a-rasband",
+      "title": "People wander in Lehi's dream",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": "lehi-tree",
+      "sourceRanges": [
+        {
+          "start": 99,
+          "end": 149
+        }
+      ],
+      "summary": "Lehi sees people pressing toward the tree, then wandering in darkness and toward the great and spacious building.",
+      "question": "What obscures the way for people in the dream?",
+      "answer": "A mist of darkness.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A symbolic dream landscape with a distant luminous tree, a path partly covered by mist, and an imposing building; thoughtful contrast, not horror imagery. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "rasband-alma",
+      "talkId": "ronald-a-rasband",
+      "title": "A father's prayers and Alma's remembered witness",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "serving",
+        "following"
+      ],
+      "recurringStory": "alma-remembers-father",
+      "sourceRanges": [
+        {
+          "start": 349,
+          "end": 428
+        }
+      ],
+      "summary": "An angel connects Alma's encounter with his father's prayers. In anguish Alma remembers teaching about Christ and calls for mercy; joy follows. The father's exact years of prayer are not established.",
+      "question": "Whose teaching did Alma remember when he turned to Jesus for mercy?",
+      "answer": "His father's teaching about Jesus Christ.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An ancient father praying for his son, paired with the son turning toward hope in a quiet reflective scene; symbolic, no graphic torment. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "rasband-prodigal",
+      "talkId": "ronald-a-rasband",
+      "title": "A father runs to welcome the returning son",
+      "kind": "scripture-parable",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "hope",
+        "serving"
+      ],
+      "recurringStory": "prodigal-son",
+      "sourceRanges": [
+        {
+          "start": 491,
+          "end": 533
+        }
+      ],
+      "summary": "The prodigal son returns after losing his fortune; his father sees him from afar, runs, and welcomes him with compassion.",
+      "question": "What did the father do when he saw his son returning?",
+      "answer": "Ran toward him with compassion.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An older father running along a village road to embrace a weary returning young man; warm welcome and restored belonging. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "chibota-greeting",
+      "talkId": "rosemary-k-chibota",
+      "title": "A daughter's reminder: I see you",
+      "kind": "brief-vignette",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 39
+        }
+      ],
+      "summary": "Her daughter reminds her of a Southern African greeting that communicates recognition, respect, worth, and belonging. The captions garble the greeting's spelling.",
+      "question": "What meaning does the greeting express beyond hello?",
+      "answer": "I see you: you matter and are recognized.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A mother and adult daughter greeting a neighbor with attentive eye contact in a Southern African community; emphasize recognition and welcome, no lettering. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "chibota-young-man",
+      "talkId": "rosemary-k-chibota",
+      "title": "The young man is loved even when he walks away",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": "rich-young-man",
+      "sourceRanges": [
+        {
+          "start": 48,
+          "end": 69
+        }
+      ],
+      "summary": "She briefly recalls Jesus looking lovingly at the rich young man, who later walks away sorrowfully.",
+      "question": "Does his sorrowful departure cancel the loving look described?",
+      "answer": "No; Jesus saw and loved him.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young man walking slowly away from a compassionate Jesus in an ancient street; dignified sorrow and enduring love, without condemnation imagery. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "chibota-bethesda",
+      "talkId": "rosemary-k-chibota",
+      "title": "Seen at Bethesda after thirty-eight years",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "identity",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 66,
+          "end": 93
+        }
+      ],
+      "summary": "Jesus sees, ministers to, and heals a man who has suffered for thirty-eight years at Bethesda.",
+      "question": "What did Jesus do beyond noticing the man?",
+      "answer": "Ministered to him and healed him.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Jesus giving personal attention to a man beside the pool of Bethesda; respectful ancient setting, focus on care rather than disability spectacle. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "chibota-samaritan",
+      "talkId": "rosemary-k-chibota",
+      "title": "The Samaritan sees a person in need",
+      "kind": "scripture-parable",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "identity"
+      ],
+      "recurringStory": "good-samaritan",
+      "sourceRanges": [
+        {
+          "start": 89,
+          "end": 114
+        }
+      ],
+      "summary": "The Good Samaritan sees a child of God in need and acts despite labels and differences. The full rescue sequence is not retold here.",
+      "question": "What mattered more to the Samaritan than labels or differences?",
+      "answer": "The person's need and worth as a child of God.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A traveler kneeling to offer water and help to a weary injured stranger by an ancient roadside; compassion, no graphic wounds. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "chibota-janitor",
+      "talkId": "rosemary-k-chibota",
+      "title": "Your daughter sees me",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "identity"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 117,
+          "end": 159
+        }
+      ],
+      "summary": "A school janitor thanks her and her husband because their daughter greets him, knows his name, and helps clean after lunch.",
+      "question": "Name two ways the daughter helped him feel seen.",
+      "answer": "Any two: greeted him, learned his name, helped with cleaning.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A student warmly greeting a school janitor and helping clear a lunch area; ordinary school setting, mutual dignity, no name badges with readable text. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "chibota-calling",
+      "talkId": "rosemary-k-chibota",
+      "title": "Called for who you are",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "identity",
+      "otherTopics": [
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 267,
+          "end": 303
+        }
+      ],
+      "summary": "During her new calling, President Oaks reassures her that the Lord knows her, easing her feelings of inadequacy.",
+      "question": "What reassurance helped with her feelings of inadequacy?",
+      "answer": "She was called for who she is, and the Lord knows her.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A woman receiving a new church-service assignment in a simple office conversation; nervousness giving way to quiet confidence, no exact portraits. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "chibota-coworker",
+      "talkId": "rosemary-k-chibota",
+      "title": "Prayer leads to including an isolated coworker",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "serving",
+        "identity"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 364,
+          "end": 396
+        }
+      ],
+      "summary": "She prays about helping an isolated coworker and acts on simple promptings to include him; friendship grows.",
+      "question": "What action followed her prayer and promptings?",
+      "answer": "Including the coworker, helping their friendship grow.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Coworkers making room for a previously isolated colleague at a lunch table; simple warm invitation and attentive faces. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "douglas-nephews",
+      "talkId": "sean-douglas",
+      "title": "Two brothers ready for distant missions",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 75,
+          "end": 130
+        }
+      ],
+      "summary": "His great-nephews speak eagerly before leaving for missions at opposite ends of the world, illustrating desire to serve.",
+      "question": "What did he see beneath the brothers' excitement about distant assignments?",
+      "answer": "An unmistakable desire to serve the Lord.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two young brothers speaking to a supportive congregation before mission service, with travel bags waiting at home in a subtle inset; purposeful excitement. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "douglas-mosiah",
+      "talkId": "sean-douglas",
+      "title": "The sons of Mosiah want salvation shared",
+      "kind": "scripture-vignette",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": "sons-of-mosiah",
+      "sourceRanges": [
+        {
+          "start": 108,
+          "end": 128
+        }
+      ],
+      "summary": "He briefly recalls the sons of Mosiah's desire that salvation be declared to everyone and their concern for every soul.",
+      "question": "What did the sons of Mosiah want shared widely?",
+      "answer": "The message of salvation.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Young ancient missionaries looking toward a distant community with concern and hope; simple travel clothing, no militarized imagery. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "douglas-merlin",
+      "talkId": "sean-douglas",
+      "title": "Merlin returns and chooses to serve",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "others"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "serving",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 189,
+          "end": 337
+        }
+      ],
+      "summary": "Friends and leaders help a convert return to church and prepare mission papers. He chooses to serve because he wants to be close to Christ; continuing discipleship shapes later family and leadership service.",
+      "question": "What reason did Merlin give for wanting to serve?",
+      "answer": "To be close to Jesus Christ and follow Him.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young adult convert completing mission paperwork with a supportive friend, with a hopeful journey suggested beyond an open door; no readable private documents. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "douglas-marsh",
+      "talkId": "sean-douglas",
+      "title": "Thomas B. Marsh's mission invitation",
+      "kind": "historical-vignette",
+      "tags": [
+        "history"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "following",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 422,
+          "end": 477
+        }
+      ],
+      "summary": "He places a revealed invitation to preach in the context of Thomas B. Marsh's 1830 calling, asking listeners to consider their own willingness. It is a commissioning vignette, not a developed biography.",
+      "question": "What action does the quoted invitation ask him to take?",
+      "answer": "Rejoice and go declare the gospel with wholehearted effort.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An early nineteenth-century missionary preparing a small travel bag beside a written invitation; purposeful readiness, no exact portrait or readable revelation. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "runia-ryan",
+      "talkId": "tamara-w-runia",
+      "title": "A birthday after Ryan's sudden death",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 60
+        },
+        {
+          "start": 214,
+          "end": 242
+        }
+      ],
+      "summary": "Her son dies unexpectedly; at his daughter's birthday the next day, Runia realizes this is something she cannot fix. At the funeral she distinguishes not understanding from not believing.",
+      "question": "What distinction did she make when she could not explain the loss?",
+      "answer": "Not understanding is not the same as not believing.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A grandmother and family quietly gathered near a small child's birthday cake, with one empty chair; tender support and grief, no depiction of death. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "runia-liberty",
+      "talkId": "tamara-w-runia",
+      "title": "Joseph's plea in Liberty Jail",
+      "kind": "historical-account",
+      "tags": [
+        "history",
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 47,
+          "end": 82
+        }
+      ],
+      "summary": "Joseph Smith asks for relief in jail and receives reassurance that his experiences can be for his good; the answer becomes meaningful to later listeners.",
+      "question": "What does the response say his experiences can provide?",
+      "answer": "Experience that can be for his good.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young nineteenth-century religious prisoner praying in a sparse stone room with a small shaft of daylight; hope and endurance, no violence. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "runia-rock",
+      "talkId": "tamara-w-runia",
+      "title": "An umbrella or a solid rock?",
+      "kind": "analogy",
+      "tags": [
+        "speaker"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 115,
+          "end": 156
+        }
+      ],
+      "summary": "She describes expecting the gospel to work like an umbrella keeping off rain, then discovering it is the solid foundation beneath her during storms.",
+      "question": "Which image better expresses the lesson she learned?",
+      "answer": "A solid rock beneath us during the storm, rather than a promise of no rain.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A person standing securely on a broad rock during rain, with a closed umbrella nearby; stability and endurance, no promise that the storm disappears. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "runia-nephi",
+      "talkId": "tamara-w-runia",
+      "title": "Nephi knows love without knowing everything",
+      "kind": "scripture-dialogue",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "identity"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 154,
+          "end": 175
+        }
+      ],
+      "summary": "Asked by an angel about God's condescension, Nephi says he knows God loves His children while not knowing the meaning of all things.",
+      "question": "What did Nephi know even without understanding everything?",
+      "answer": "That God loves His children.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An ancient young man listening thoughtfully to a heavenly messenger in a symbolic vision; gentle light and humble confidence, no written words. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "runia-lego",
+      "talkId": "tamara-w-runia",
+      "title": "Instructions without the picture on the box",
+      "kind": "reported-account",
+      "tags": [
+        "family"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 262,
+          "end": 315
+        }
+      ],
+      "summary": "Her grandson shares a lesson prepared with his father: he can follow building instructions even without seeing the final picture because he trusts the designer.",
+      "question": "Why would Jack keep following instructions without a picture?",
+      "answer": "He trusted the person who designed the plan.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young boy building with colorful interlocking bricks beside instructions and a plain box with no finished-model picture; patient trust and curiosity, no logos. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "runia-neighbor",
+      "talkId": "tamara-w-runia",
+      "title": "Ryan's last visit to a hurting neighbor",
+      "kind": "reported-account",
+      "tags": [
+        "family",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "hope",
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 322,
+          "end": 363
+        }
+      ],
+      "summary": "The day before his death, Ryan visits a neighbor whose family has left and encourages him to turn to God for healing; afterward he asks his wife to record the counsel.",
+      "question": "What constructive choice did Ryan encourage?",
+      "answer": "Turn to God and let Him help heal the hurt.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two adult neighbors having a compassionate doorstep conversation; one visibly discouraged, the other listening and encouraging with calm care. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "runia-sculpture",
+      "talkId": "tamara-w-runia",
+      "title": "The sculptor's eyes and the master's deeper cuts",
+      "kind": "reported-account",
+      "tags": [
+        "family",
+        "others"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 379,
+          "end": 448
+        }
+      ],
+      "summary": "Her brother struggles to sculpt his own likeness, initially refusing help. A skilled instructor carves more deeply and makes the eyes lifelike while preserving the student's identity.",
+      "question": "What changed when the student finally asked for help?",
+      "answer": "The instructor shaped features he could not accomplish alone.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A college sculpture instructor carefully reshaping the eyes of a clay portrait while a student watches; visible tools and clay, warm studio light. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "lebethoa-argument",
+      "talkId": "thabo-lebethoa",
+      "title": "Eternal joy meets the first serious argument",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "following",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 165
+        }
+      ],
+      "summary": "After an argument early in marriage, remembered scripture about contention enlightens his mind and guides his response. The captions do not describe the exact reconciliation steps.",
+      "question": "What source helped him know how to respond?",
+      "answer": "Remembering Christ's scriptural teaching against contention.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A newly married South African couple sitting apart after an argument; one thoughtfully opens scriptures and prepares to listen, no guaranteed instant reconciliation. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "lebethoa-coffee",
+      "talkId": "thabo-lebethoa",
+      "title": "Scripture study leads to a decisive change",
+      "kind": "reported-account",
+      "tags": [
+        "others"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 351,
+          "end": 391
+        }
+      ],
+      "summary": "A missionary reports that a man reading the Book of Mormon buries newly purchased coffee after recognizing a change he should make. The lesson is acting on enlightenment, not copying the disposal method.",
+      "question": "What did the man do after recognizing a needed change?",
+      "answer": "Acted on it; in his case he gave up and buried his coffee.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. An adult in a garden setting down an ordinary coffee tin beside a small shovel, with an open scripture book visible on a nearby bench; intentional personal change, no branding. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "farnes-oaks",
+      "talkId": "timothy-l-farnes",
+      "title": "Tell me how you are really doing",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "hope",
+        "covenants"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 187
+        }
+      ],
+      "summary": "Discouraged after a meeting, he reluctantly attends the temple at his wife's encouragement. Oaks listens, encourages, and embraces him; years later Oaks calls such kindness simply what disciples do.",
+      "question": "What did Oaks do beyond accepting Everything's great?",
+      "answer": "Asked how he was really doing, listened, encouraged, and helped.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Two men speaking compassionately in a neutral temple-adjacent corridor, one listening closely before a warm embrace; no ceremonial clothing or ordinance interior. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "farnes-samaritan",
+      "talkId": "timothy-l-farnes",
+      "title": "An interruption becomes an opportunity to minister",
+      "kind": "scripture-parable",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "covenants",
+        "following"
+      ],
+      "recurringStory": "good-samaritan",
+      "sourceRanges": [
+        {
+          "start": 245,
+          "end": 298
+        }
+      ],
+      "summary": "The Good Samaritan sees the wounded traveler as an opportunity to care, illustrating seeing, compassion, and action.",
+      "question": "What three steps does Farnes draw from the Samaritan's response?",
+      "answer": "See the person, feel compassion, and act.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A compassionate traveler stopping to help an injured stranger on the road to Jericho; water, cloth, and attentive care, no graphic wounds. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "farnes-airport",
+      "talkId": "timothy-l-farnes",
+      "title": "The missionary with a boarding pass and alarm clock",
+      "kind": "experience",
+      "tags": [
+        "speaker",
+        "family",
+        "others"
+      ],
+      "primaryTopic": "serving",
+      "otherTopics": [
+        "revelation",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 319,
+          "end": 523
+        }
+      ],
+      "summary": "Prompted to look again, he and his wife help a frightened missionary navigate flying alone. The missionary's seat is beside him; they later escort him to his mission leaders.",
+      "question": "Why was the missionary holding an alarm clock?",
+      "answer": "He was afraid of missing his flight.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A young missionary anxiously holding a boarding pass and digital alarm clock at an airport gate while a kind couple approaches; practical reassurance, no readable ticket details. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "soares-wilderness",
+      "talkId": "ulisses-soares",
+      "title": "Jesus prepares through fasting and prayer",
+      "kind": "scripture-account",
+      "tags": [
+        "scripture"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "following",
+        "hope"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 194,
+          "end": 272
+        }
+      ],
+      "summary": "Before His ministry, Jesus spends forty days in the wilderness communing with the Father, fasting and praying; the talk emphasizes alignment and spiritual strength.",
+      "question": "What purpose does Soares emphasize for fasting and prayer?",
+      "answer": "Drawing near to the Father and aligning with His will, receiving strength.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A respectful scene of Jesus praying alone in a quiet wilderness at dawn; emphasize communion and resolve, without reproducing extreme fasting as a challenge. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "sikahema-voyage",
+      "talkId": "vaiangina-sikahema",
+      "title": "The grandparents' difficult voyage to hear an apostle",
+      "kind": "historical-family-account",
+      "tags": [
+        "family",
+        "history"
+      ],
+      "primaryTopic": "hope",
+      "otherTopics": [
+        "following",
+        "covenants",
+        "serving"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 0,
+          "end": 218
+        },
+        {
+          "start": 419,
+          "end": 460
+        }
+      ],
+      "summary": "His missionary grandparents travel by boat in 1947 to hear an apostle. A storm brings a devastating loss of their infant son; they continue in grief with hope in eternal family promises. Captions garble family and place names.",
+      "question": "What motivated them to continue the voyage in grief?",
+      "answer": "Hearing an apostle and their faith in restored truth and eternal family promises.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A Tongan family aboard a small inter-island boat after a storm, adults grieving yet supporting one another as a distant shore appears; no death, burial, or peril spectacle. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "sikahema-vision",
+      "talkId": "vaiangina-sikahema",
+      "title": "Joseph's prayer and the opening heavens",
+      "kind": "historical-account",
+      "tags": [
+        "history",
+        "scripture"
+      ],
+      "primaryTopic": "revelation",
+      "otherTopics": [
+        "following"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 354,
+          "end": 406
+        }
+      ],
+      "summary": "He recounts Joseph Smith's First Vision as the beginning of restored prophetic revelation and invitation to hear Christ.",
+      "question": "What invitation does the Father's introduction give?",
+      "answer": "Hear His Son, Jesus Christ.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. A teenage Joseph Smith kneeling in a quiet grove as warm light falls through the trees; symbolic respectful portrayal without requiring depictions of divine faces. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    },
+    {
+      "id": "sikahema-publication",
+      "talkId": "vaiangina-sikahema",
+      "title": "Early leaders hesitate to publish the revelations",
+      "kind": "historical-account",
+      "tags": [
+        "history",
+        "others"
+      ],
+      "primaryTopic": "following",
+      "otherTopics": [
+        "revelation"
+      ],
+      "recurringStory": null,
+      "sourceRanges": [
+        {
+          "start": 461,
+          "end": 499
+        }
+      ],
+      "summary": "Some early leaders worry about publishing revelations because of the young prophet's writing limitations. The quoted response emphasizes the Lord's words through His servants.",
+      "question": "What human limitation concerned some of the early leaders?",
+      "answer": "Joseph Smith's writing skills.",
+      "imagePrompt": "Create a warm, clear storybook illustration in a consistent painterly style, 16:9 landscape, suitable for ages 11–18 on a projected game board. Early nineteenth-century church members considering handwritten pages around a table, one hesitant and others attentive; printing tools nearby, no readable revelation. Use expressive but respectful faces. No captions, readable text, logos, watermarks, or exact likenesses of real people. Illustrative scene, not documentary footage."
+    }
+  ]
+}

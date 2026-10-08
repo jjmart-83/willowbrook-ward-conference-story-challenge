@@ -1,0 +1,16 @@
+{
+  "clipId": "gong-holy-spirit-of-promise-and-faithfulness",
+  "clipSha256": "a83e20f391a4b9aca59d6283994a66ef428447b872c9cdfa8cf2ccecef87e7ca",
+  "sourceFingerprint": "ba6f3bbfd4c2b08ae9ca311f364c0f1208389aadd1b2eeeb8795c76abc43e363",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:13.018770+00:00"
+}

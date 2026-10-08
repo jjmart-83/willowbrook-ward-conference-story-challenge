@@ -1,0 +1,16 @@
+{
+  "clipId": "legacy-divine-appointments-farnes",
+  "clipSha256": "0fd8416304f0d31a2dc86d674bfc1e2b67cd52dde6208591d22fc9423133a8c0",
+  "sourceFingerprint": "04b4371918ca78d3e4418496280a1e6026ec4a34fd3d335dcde7145c3b82378d",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:27:49.110716+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "clipId": "legacy-sacrament-chigbundu",
+  "clipSha256": "c67b4fc0f04312cc4bfc2eb2b66a1f54dfc0a8484f2f659f86d439aeaba3544d",
+  "sourceFingerprint": "cacad6f1e3889977e02ce132bf7aefa1a776923777c294d4dfcacd2bf2506b71",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:27:47.087010+00:00"
+}

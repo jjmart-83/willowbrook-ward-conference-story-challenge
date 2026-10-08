@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#142f38">
+  <title>Conference Connections</title>
+  <link rel="stylesheet" href="prototype.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Conference Connections home">
+        <span class="brand-mark">CC</span>
+        <span>CONFERENCE CONNECTIONS</span>
+      </a>
+      <span class="event-label">OCTOBER 2026 · PRACTICE SET</span>
+    </header>
+
+    <main>
+      <section id="welcome" class="welcome card">
+        <div class="eyebrow">LISTEN · GUESS · DISCUSS</div>
+        <h1>Find the message.<br><em>Find the speaker.</em></h1>
+        <p class="intro">Hear a short passage from a conference talk, choose who shared it, then use the question to start a real conversation.</p>
+
+        <div class="setup-grid">
+          <label class="field">Play
+            <select id="groupSelect" aria-label="Choose a group">
+            <option value="all">All group topics</option>
+            </select>
+          </label>
+          <label class="field">Number of rounds
+            <select id="roundSelect" aria-label="Choose number of rounds">
+              <option>4</option><option selected>6</option><option>8</option><option>10</option><option>12</option><option value="all">All available</option>
+            </select>
+          </label>
+        </div>
+        <div class="team-setup">
+          <label class="field">Team one<input id="teamOneName" value="Team One" maxlength="24"></label>
+          <label class="field">Team two<input id="teamTwoName" value="Team Two" maxlength="24"></label>
+        </div>
+        <button id="startButton" class="button button-primary">Start the game <span aria-hidden="true">→</span></button>
+        <p id="loadMessage" class="small-note" role="status">Loading the talk list…</p>
+      </section>
+
+      <section id="game" class="game hidden" aria-live="polite">
+        <div class="scoreboard card">
+          <div class="score-team"><span id="teamOneLabel">Team One</span><strong id="teamOneScore">0</strong><button id="teamOnePoint" class="point-button" aria-label="Add one point to team one">+1</button></div>
+          <div class="round-count"><span id="roundLabel">ROUND 1 OF 6</span><span class="round-line"><i id="roundProgress"></i></span></div>
+          <div class="score-team score-team-right"><span id="teamTwoLabel">Team Two</span><strong id="teamTwoScore">0</strong><button id="teamTwoPoint" class="point-button" aria-label="Add one point to team two">+1</button></div>
+        </div>
+
+        <div class="game-grid">
+          <section class="question-card card">
+            <div id="groupPill" class="group-pill">GROUP</div>
+            <div class="eyebrow">WHO SHARED THIS PASSAGE?</div>
+            <h2 id="topicHeading">Listen closely.</h2>
+            <p class="listen-hint">Play the excerpt, then choose the speaker.</p>
+            <div id="choices" class="choices"></div>
+
+            <div id="answer" class="answer hidden">
+              <div id="answerStatus" class="answer-status"></div>
+              <div class="answer-speaker">
+                <div><span class="eyebrow">THE SPEAKER</span><strong id="speakerName"></strong><span id="timestamp" class="timestamp"></span></div>
+              </div>
+              <blockquote id="quoteText"></blockquote>
+              <div class="discussion-box"><span class="eyebrow">TALK ABOUT IT</span><p id="discussionQuestion"></p><p id="quotePrompt" class="follow-up"></p></div>
+              <button id="nextButton" class="button button-primary">Next passage <span aria-hidden="true">→</span></button>
+            </div>
+            <div id="finished" class="finished hidden">
+              <div class="eyebrow">THAT'S THE ROUND</div><h2>Good listening.</h2><p id="finalScores"></p>
+              <button id="againButton" class="button button-primary">Play another round</button>
+            </div>
+          </section>
+
+          <aside class="media-card card">
+            <div class="media-head"><span class="eyebrow">THE CLIP</span><span class="live-dot"></span></div>
+            <div id="mediaStage" class="media-stage">
+              <div id="mediaPlaceholder" class="media-placeholder"><div class="sound-wave"><i></i><i></i><i></i><i></i><i></i></div><span>Listen for the message</span></div>
+              <video id="clipPlayer" class="hidden" playsinline controls preload="metadata"></video>
+              <img id="speakerStill" class="speaker-still hidden" alt="">
+              <div id="playOverlay" class="play-overlay"><button id="playButton" class="play-button" aria-label="Play the talk excerpt">▶</button><span>Play talk excerpt</span></div>
+            </div>
+            <div class="clip-footer"><span id="clipSpeakerLabel">A speaker from the current set</span><span id="clipTimeLabel">SHORT EXCERPT</span></div>
+            <p class="host-tip">After the answer, the speaker card and a discussion question appear here.</p>
+          </aside>
+        </div>
+      </section>
+
+      <section class="library-strip">
+        <div><span class="eyebrow">CONFERENCE SOURCES</span><p>All 37 addresses have been reviewed. Explore the prepared stories and teachings when choosing sources for the activity.</p></div>
+        <a href="clip-library.html">Open the clip library <span aria-hidden="true">↗</span></a>
+      </section>
+    </main>
+    <footer>Made for a conversation across ages. Keep the points light; keep the discussion going.</footer>
+  </div>
+  <script src="prototype.js" defer></script>
+</body>
+</html>

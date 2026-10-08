@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "method": "Interpretive comparison of machine transcript with intended prototype quotation. No human listening performed.",
+  "clips": [
+    {
+      "id": "legacy-identity-bridge-hathaway",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The displayed question is complete; the next sentence about deliverance begins and stops at every.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "\"Jesus Christ is the great deliverer.\" Have you ever felt left out, wondered if you were",
+        "ending": "from these and every"
+      },
+      "baseTranscriptSha256": "f89d7c531c0fc0d7686e1117ae59fb99cb017754313741b2054efa7d316be5eb"
+    },
+    {
+      "id": "legacy-daily-discipleship-causse",
+      "contentAssessment": "possibly-missing",
+      "inspectionRecommended": true,
+      "reason": "The responsibility and all-disciples teaching is present, but the displayed quotation continues with demonstrating the Savior and blessings after the transcript stops at word and deed. Compare the final displayed sentence with the audible ending.",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "reality, his gospel, his atonement, and his resurrection.",
+        "ending": "in word and deed."
+      },
+      "baseTranscriptSha256": "617749a75e14b3a083284f9331d5c381944b17cebbc019f81eff93175621f15b"
+    },
+    {
+      "id": "legacy-lifelong-discipleship-douglas",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The lifelong-discipleship sentence is present; the opening to be diminished is a carryover fragment from the prior sentence.",
+      "openingConcern": true,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "to be diminished. After all, serving missions are just one of many significant steps on the path",
+        "ending": "had not served a mission."
+      },
+      "baseTranscriptSha256": "73b7fb99273134e138f4e47a3e03646cd8781e50f5b1269dd46fe67fba22484b"
+    },
+    {
+      "id": "legacy-revelation-soares",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The revelation statement is complete; the cut includes the beginning of the next divine-pattern sentence.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Our hearts are softened, our souls become more receptive to the influence of the Holy Ghost,",
+        "ending": "This divine pattern finds a"
+      },
+      "baseTranscriptSha256": "addd61104dc194e39bd09c4c443096d0f7576d55443641d948ab72d889afed3c"
+    },
+    {
+      "id": "legacy-enduring-grace-hathaway",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The grace qualification is complete, with additional Kenzie application; the last invitation stops at all who.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "This grace does not remove the pain and difficulty of affliction.",
+        "ending": "that same enabling grace is available to all who"
+      },
+      "baseTranscriptSha256": "0e5752fb6334ce34fdb71495ad92cd1cf9aa930fc2226a3ca99cc54dc2d8348f"
+    },
+    {
+      "id": "legacy-shaped-by-christ-runia",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The sculpture, shaping, and adversity application is present with a complete closing thought.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "My friends, there is a sculpting taking place within each of our souls to invite the Savior",
+        "ending": "the pain and adversity that have helped us become more like Him."
+      },
+      "baseTranscriptSha256": "5993adc05af024ce0a20008b19a09129389ccab93d1b4983b0aa60d1dddc4c7f"
+    },
+    {
+      "id": "legacy-covenants-gong",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Witnessing, binding covenants, and sealing relationships are all recognized in complete teaching sentences.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "When the Holy Spirit of promise witnesses and confirms the efficacy of ordinances and covenants,",
+        "ending": "As we honor our covenants, the Holy Spirit of promise seals our relationships with efficacy, virtue, and force."
+      },
+      "baseTranscriptSha256": "acbd9f385661de0ae881d22eb407f6ca6fe4a1c077d0580364f9606a39802c0e"
+    },
+    {
+      "id": "legacy-sharing-love-causse",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The sharing-love quotation is complete; the opening word question is a carryover from preceding context.",
+      "openingConcern": true,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "question. What does the Lord expect me to do with this gift? Our testimony is not",
+        "ending": "precious gift we have received, our witness of Jesus Christ and His gospel."
+      },
+      "baseTranscriptSha256": "e1debfb94c59b7cc1e5fb5e566753eeaf222267ef152f99edb74b69abbc87a75"
+    },
+    {
+      "id": "legacy-missionary-example-douglas",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The missionaries and you-are-what-you-preach quotation is recognized from a clear beginning to a complete ending.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "\"We love missionaries of all ages.",
+        "ending": "You are what you preach.\""
+      },
+      "baseTranscriptSha256": "bcc8a3417a5d08706699c5bde8475e8a0af2cc20848484d454a17ef5b7d33cc7"
+    },
+    {
+      "id": "legacy-identity-kearon",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The adoring Father and Savior who loves to lift statement is complete.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "At the heart of our faith is the glorious truth that we have an adoring Father in Heaven,",
+        "ending": "whose Son, our Savior, loves to lift."
+      },
+      "baseTranscriptSha256": "358b105c485235569de45a4231c8950b8eb345112404171d4024b3f1a6c90aed"
+    },
+    {
+      "id": "legacy-holy-spirit-kearon",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Seeking and acting on Spirit impressions is present; the transcript begins lift rather than the displayed Spiritual lift. Check the initial word and the sensitive-impressions wording.",
+      "openingConcern": true,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "lift cannot be seen. But as we learn to discern and act upon the sense of impressions of the",
+        "ending": "Holy Spirit, we can feel it, as surely as I felt the rising air lift a wing beneath me."
+      },
+      "baseTranscriptSha256": "2abb58e8a3b56d7679358f39279dbe75692e5cd3eed70490377d4e7a12057d90"
+    },
+    {
+      "id": "legacy-trust-through-trials-renlund",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Trust, tribulation, and promised spiritual peace regardless of circumstances are present.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "Yet God invites us to trust Him, and His promises.",
+        "ending": "When our faith is centered on Jesus Christ, He promises spiritual peace no matter our circumstances."
+      },
+      "baseTranscriptSha256": "54f024e83645765e99070390c21e85e8eea0bca11883b99adc778d806f37aee6"
+    },
+    {
+      "id": "legacy-love-as-care-rasband",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Interest, presence, and lifting in love are present, followed by a complete additional Holy Ghost sentence.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "Love is not stepping back or sanctioning others' decisions and actions.",
+        "ending": "Love relies upon the calming influence of the Holy Ghost."
+      },
+      "baseTranscriptSha256": "c15d4f79d99fb6b9ea21defa53231be1fab7f0761cc4f96f4228093b040aa6c0"
+    },
+    {
+      "id": "legacy-sacrament-chigbundu",
+      "contentAssessment": "uncertain",
+      "inspectionRecommended": true,
+      "reason": "The three sacrament promises are present; the opening relationship-with-the-Savior phrase is garbled by base.en. Recheck recognition before treating the displayed wording as exact.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "the sacrament, the sacrament, the sacred ordinance that strengthens our nation's",
+        "ending": "Jesus Christ, to always remember Him and to keep His commandment."
+      },
+      "baseTranscriptSha256": "79db31294941b110eebf722332aa66b93d1b1f6fd34423851bc1dcc0299d5eca"
+    },
+    {
+      "id": "legacy-identity-fale",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Child-of-God love and divine nature/destiny are recognized with a complete ending.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "\"I am a child of God, and he loves me.\"",
+        "ending": "a divine nature and destiny."
+      },
+      "baseTranscriptSha256": "96a3d67c8bb9b1c4e3d7c3add549522eb262bd58e3fe80dd6e57331474f5faf5"
+    },
+    {
+      "id": "legacy-covenant-reach-morgan",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The reach across time/space and not-too-far reassurance is present; the clip transcript starts with God rather than the displayed Covenants with God. Inspect the opening noun.",
+      "openingConcern": true,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "with God stretch over all time and all space. If you are wondering whether you or",
+        "ending": "power cannot reach you, I say to you, you have not."
+      },
+      "baseTranscriptSha256": "88fa4ec30292b1c2bb9e447473b3f3a1580dfb7645d7441f3463fc36411d0d22"
+    },
+    {
+      "id": "legacy-holy-ghost-comfort-eyring",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Holy Ghost comfort amid hardship is present from the intended opening to a complete ending.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "The Savior's peace is made manifest through the comforting power of the Holy Ghost.",
+        "ending": "and times when we can't fix things on our own."
+      },
+      "baseTranscriptSha256": "46b28a53b0e0bc07b2c8fcde4e104d68812b31f45f2b9a4a755619c87c635865"
+    },
+    {
+      "id": "legacy-burden-bearer-dunn",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The not-shortening/lengthening-stride contrast is present; a following turn-to-Christ sentence appears repeated or cut. Check that tail before using the excerpt.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "In other words, the Redeemer rescues not by shortening our course, but by helping us",
+        "ending": "Any time we turn to Christ, we turn to Christ."
+      },
+      "baseTranscriptSha256": "71e9882e0a5c5c32cd86c34a166a8376140700d05332e4594571ad58fbcd59b8"
+    },
+    {
+      "id": "legacy-commandments-giuffra",
+      "contentAssessment": "possibly-missing",
+      "inspectionRecommended": true,
+      "reason": "Love, obedience, protection, and freedom from sin are present; the transcript ends with many of the children rather than the displayed challenges the world presents. Inspect whether the final clause is cut or misrecognized.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "A principle that has become very meaningful in our family. We keep the commandments because",
+        "ending": "from sin and many of the children."
+      },
+      "baseTranscriptSha256": "c21465c260fd5dc3a6607a83fae01a256a1064f0e6e1c5dab319994277e4f256"
+    },
+    {
+      "id": "legacy-divine-appointments-farnes",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The divine-appointment/compassion/action quotation is present; both the opening road-to-Jericho carryover and closing This past transition need inspection.",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "to lay wounded on the road to Jericho, where others saw an inconvenience or an interruption,",
+        "ending": "compassion moved him to act and his actions changed a life forever. This past"
+      },
+      "baseTranscriptSha256": "ca0e9b11653bef16b3b37daff4f671c304a55fcd1194e41c4559cd0f51cad2f9"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "clipId": "dunn-broken-does-not-mean-abandoned",
+  "clipSha256": "f8bbf3198a726e7c8b656ba707671169022424c1aeceb27fb930361f09f2f42e",
+  "sourceFingerprint": "cc50a48a154fb71d51991329418f47641cd048e77a30bf5ee6ff3d3c2d49a2dd",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:35.640375+00:00"
+}

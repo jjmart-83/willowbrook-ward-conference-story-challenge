@@ -1,0 +1,16 @@
+{
+  "clipId": "fantone-taking-name-through-covenant-service",
+  "clipSha256": "bb4a02cdbe69603fbc2b58d68427aead3c3e24cbee3c5a3ce97897381a8265cd",
+  "sourceFingerprint": "2120055a20bdf9354d862f019c9785b60e32b529aa764c9cccdf140f245adb57",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:23.087734+00:00"
+}

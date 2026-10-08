@@ -1,0 +1,16 @@
+{
+  "clipId": "sinclair-dignity-and-possible-future",
+  "clipSha256": "89960945d558d87b8a48f317aaa359d649bc6649a655989cd2cd587ed18323cb",
+  "sourceFingerprint": "d310b0b6e8c98e842cc33691458ec93116990a91b187511941f324a0edd213ce",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\.cache\\whisper\\ggml-large-v3.bin",
+  "modelSha256": "64d182b440b98d5203c4f9bd541544d84c605196c4f7b845dfa11fb23594d1e2",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cpu",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:48:05.362484+00:00"
+}

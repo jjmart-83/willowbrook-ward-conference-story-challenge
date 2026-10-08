@@ -1,0 +1,16 @@
+{
+  "clipId": "christofferson-resources-for-good",
+  "clipSha256": "5eb8c4e01d05becae9100fc897b7ebd08b5fd0ea2bf8f6b70132a5c65f0210c2",
+  "sourceFingerprint": "16f86504016a15f136c0ce8db3c451822a2df82411e25eeebb74005d8fed543c",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:52.859212+00:00"
+}

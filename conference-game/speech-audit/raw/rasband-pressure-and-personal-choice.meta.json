@@ -1,0 +1,16 @@
+{
+  "clipId": "rasband-pressure-and-personal-choice",
+  "clipSha256": "f0f8a0326041bc3856da0105cd374992b6667d500cfb60fdcccec0655036c0c6",
+  "sourceFingerprint": "f29be33a7245d02e59399dc6881b571111a5baf83e9b2ab6bd14ee6cd4d91ae7",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:55.238243+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "clipId": "causse-magazine-prompting-and-peace",
+  "clipSha256": "2f2db3f88fd0e5a8edee994b65263a5045061aefd6cc53ae347f8c6a6c61a503",
+  "sourceFingerprint": "3f32fb1e6519eaf712f3c021755a5b74877c5f458319ab1fa1e2724960904669",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:15.027519+00:00"
+}

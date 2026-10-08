@@ -1,0 +1,16 @@
+{
+  "clipId": "soares-align-desires-accept-answers",
+  "clipSha256": "e88a40090dd53a46c896ef846e00a028da266ff3752c79719b085131f3722cfa",
+  "sourceFingerprint": "2d92cdc1754c517b586c8793784952f0762911f835df3a1d97c2d5acf4ba69db",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:23:19.386212+00:00"
+}

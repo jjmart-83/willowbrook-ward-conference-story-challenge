@@ -1,0 +1,16 @@
+{
+  "clipId": "bednar-covenants-direction-faithfulness",
+  "clipSha256": "be64939faab9c4da675e10ca139e7240c99a26200cc42ea7433d79c7d0c71935",
+  "sourceFingerprint": "38a033c621f97519bc5d68cff0f29be93692e284e3c8e96a67811a1d494a22bf",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:00.915871+00:00"
+}

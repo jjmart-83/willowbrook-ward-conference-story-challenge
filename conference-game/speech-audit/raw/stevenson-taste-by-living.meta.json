@@ -1,0 +1,16 @@
+{
+  "clipId": "stevenson-taste-by-living",
+  "clipSha256": "ef3f83a85dce3634fe13e80b121903bb3d591907bce450cfa2578d51bf976f53",
+  "sourceFingerprint": "008954b5ffc0558dff931267dda070212e653cb56072c723ba7d0a065da6708b",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:11.001051+00:00"
+}

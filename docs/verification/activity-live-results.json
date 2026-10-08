@@ -1,0 +1,21 @@
+{
+  "site": "https://jjmart-83.github.io/willowbrook-ward-conference-story-challenge/",
+  "passed": 14,
+  "checks": [
+    "index.html matches the tested release",
+    "app.js matches the tested release",
+    "styles.css matches the tested release",
+    "game-core.js matches the tested release",
+    "game-content.js matches the tested release",
+    "favicon.svg matches the tested release",
+    "assets/clip-previews.jpg matches the tested release",
+    "Live game loads all 30 clues and the ward title",
+    "Live question timer starts automatically",
+    "Live Gong gift excerpt plays in full screen",
+    "Published video supports forward seeking",
+    "Published video supports backward seeking",
+    "Published Kearon sequence autoplays the next clip in the same full-screen player",
+    "Live videos support HTTP byte ranges and gameplay has no missing assets or uncaught errors"
+  ],
+  "errors": []
+}

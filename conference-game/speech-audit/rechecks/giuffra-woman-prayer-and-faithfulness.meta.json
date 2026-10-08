@@ -1,0 +1,16 @@
+{
+  "clipId": "giuffra-woman-prayer-and-faithfulness",
+  "clipSha256": "925420bec5624f61fbb45a346e6c3e6e2634a83bb25ede1231c5e5282a063a48",
+  "sourceFingerprint": "3a2ce97f46f831aaf81f9950e4d7f5e35ea3eef34732776292319d7766819173",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\.cache\\whisper\\ggml-large-v3.bin",
+  "modelSha256": "64d182b440b98d5203c4f9bd541544d84c605196c4f7b845dfa11fb23594d1e2",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cpu",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:42:35.858726+00:00"
+}

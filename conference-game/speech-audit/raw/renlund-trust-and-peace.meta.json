@@ -1,0 +1,16 @@
+{
+  "clipId": "renlund-trust-and-peace",
+  "clipSha256": "725745051441b4fef7be791ebb492bc56038ac6e73b7982c93c4d35b9cf6fe64",
+  "sourceFingerprint": "87ac0a48b3cb4af9d1078fdf295469dd85d8f8ad6e21edf29dbdd9f192ff7b2c",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:54.366532+00:00"
+}

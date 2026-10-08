@@ -1,0 +1,16 @@
+{
+  "clipId": "legacy-revelation-soares",
+  "clipSha256": "6491a25643baaf5836a265635b995c27167a76b558d30affe7c45b2b21933912",
+  "sourceFingerprint": "0f364f11cc0690a5af601b8e3650f5c8fc3c2a4625a40df72ba065bd4264589a",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:27:43.059259+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "clipId": "oaks-closing-study-ponder-act",
+  "clipSha256": "6504f88f9dc8ffc84730d31ce7874a86bf23ffd0fdbfee6eb89c0ae55a2a0f45",
+  "sourceFingerprint": "5d9fb582ea5d86882353e0abe54566129af4d7fe26099364d01f2913c59f32be",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:59.910040+00:00"
+}

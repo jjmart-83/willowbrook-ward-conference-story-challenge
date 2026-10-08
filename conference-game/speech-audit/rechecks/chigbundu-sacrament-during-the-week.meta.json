@@ -1,0 +1,16 @@
+{
+  "clipId": "chigbundu-sacrament-during-the-week",
+  "clipSha256": "af793d0e64d68b485d04d2c1ec0c42442390fdabc8eb73788c460369fb0b030a",
+  "sourceFingerprint": "00195f52f60b87194f30681a3c894f69e442d74867ef6efc33629c72b4aab28d",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\.cache\\whisper\\ggml-large-v3.bin",
+  "modelSha256": "64d182b440b98d5203c4f9bd541544d84c605196c4f7b845dfa11fb23594d1e2",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cpu",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:36:45.738078+00:00"
+}

@@ -1,0 +1,2259 @@
+{
+  "reviewedDate": "2026-10-05",
+  "talks": [
+    {
+      "talkId": "alfred-kyungu",
+      "captionSha256": "4ccc10011a79f534ef016615f37989850b2e6f2002f0cb802aaf018d89893e35",
+      "cueCount": 136,
+      "summary": "Kyungu treats peaceful speech as a concrete way to follow Jesus Christ and respond to prophetic teaching. He contrasts humiliating or dismissive expressions with language that shows respect, patience, care, apology, and forgiveness, then connects lasting change in speech with the doctrine of Christ in the heart. His opening is a personal reflection followed by an invitation, rather than a narrated incident proving that he successfully changed a particular conversation.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Following Christ changes the heart, everyday speech, relationships, and our capacity to communicate His peace.",
+          "sourceRanges": [
+            {
+              "start": 346,
+              "end": 395
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Humiliating labels damage confidence and relationships; this supports respectful treatment without explaining divine identity.",
+          "sourceRanges": [
+            {
+              "start": 174,
+              "end": 249
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "none",
+          "reason": "Prayer and scripture are mentioned, but he does not explain seeking, recognizing, or acting on personal revelation.",
+          "sourceRanges": [],
+          "topic": "revelation"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Christ's peace and caring expressions support someone facing conflict or loneliness; the talk is primarily about speech.",
+          "sourceRanges": [
+            {
+              "start": 247,
+              "end": 313
+            },
+            {
+              "start": 391,
+              "end": 430
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "none",
+          "reason": "The buried-weapons comparison is a brief scriptural analogy, with no explanation of sacrament or temple covenants.",
+          "sourceRanges": [],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "He supplies usable words for expressing care, preserving relationships, apologizing, and making peace.",
+          "sourceRanges": [
+            {
+              "start": 247,
+              "end": 313
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "kyungu-peacemaking",
+          "suitability": "Use as a brief reflection and call to action, not as a fully developed personal story."
+        },
+        {
+          "storyId": "kyungu-weapons",
+          "suitability": "Useful short analogy for putting away contentious language; the historical episode is not retold."
+        }
+      ],
+      "qualifications": [
+        "Respectful speech can still communicate disagreement or a boundary. Do not imply that peaceful words guarantee another person's response.",
+        "Several names and scriptural phrases are garbled by automatic captions; wording here is paraphrased."
+      ],
+      "corrections": [
+        "The catalog's opening vignette says he 'works to replace' expressions, although the source reports beginning to ponder the invitation and then recommends the exercise."
+      ],
+      "catalogCorrections": [
+        {
+          "storyId": "kyungu-peacemaking",
+          "field": "summary",
+          "old": "He reflects on a prophetic invitation and works to replace contentious expressions with peaceful language.",
+          "new": "He begins pondering a prophetic invitation and recommends identifying contentious expressions and replacing them with words that bring peace.",
+          "reason": "The caption reports reflection and a recommended exercise, not a specific demonstrated change."
+        },
+        {
+          "storyId": "kyungu-peacemaking",
+          "field": "question",
+          "old": "What did he work to replace after pondering the invitation?",
+          "new": "What does he invite us to replace after reflecting on the prophetic invitation?",
+          "reason": "Frames the recommended exercise accurately without implying a reported completed personal change."
+        },
+        {
+          "storyId": "kyungu-peacemaking",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 0,
+              "end": 91
+            }
+          ],
+          "new": [
+            {
+              "start": 0,
+              "end": 94
+            }
+          ],
+          "reason": "The opening search window ends before the complete phrase about bringing peace everywhere and at all times."
+        },
+        {
+          "storyId": "kyungu-weapons",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 296,
+              "end": 318
+            }
+          ],
+          "new": [
+            {
+              "start": 308,
+              "end": 326
+            }
+          ],
+          "reason": "The actual buried-weapons comparison begins at about 05:09 and its application finishes after the old end."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "kyungu-peaceful-replacements",
+          "title": "Words that preserve relationships",
+          "kind": "teaching",
+          "topics": [
+            "following",
+            "serving"
+          ],
+          "start": 247.14,
+          "end": 316.94,
+          "rationale": "Concrete alternatives for a language-repair question; retains the explanation and complete list.",
+          "leadCueText": "Rather than choosing word and the",
+          "tailCueText": "us. As the converted lemonite buried the",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            77,
+            94
+          ]
+        },
+        {
+          "id": "kyungu-heart-and-peace",
+          "title": "Fill the heart with Christ's doctrine",
+          "kind": "teaching",
+          "topics": [
+            "following",
+            "serving",
+            "hope"
+          ],
+          "start": 345.7,
+          "end": 414.78,
+          "rationale": "Links changed speech to discipleship, repentance, prayer, and warm respect, rather than etiquette alone.",
+          "leadCueText": "let us fill our heart with the true",
+          "tailCueText": "using the language of peacemakers.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            105,
+            124
+          ]
+        }
+      ]
+    },
+    {
+      "talkId": "andrea-munoz-spannaus",
+      "captionSha256": "6d9bda1d65b93db451b3f7f0180972d91bd07123e8486cae56087a7c82b3d624",
+      "cueCount": 172,
+      "summary": "Spannaus addresses young women as beloved daughters of Heavenly Parents with individual gifts, work, and divine potential. A confused GPS illustrates the Lord's accurate knowledge and undiminished love, while Christ's response to a young man joins love with growth. She offers practical habits, invites choosing a focus through the Spirit, and describes reassurance through a priesthood blessing when she felt inadequate teaching in English.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Righteous aspirations, daily repentance, scripture study, and trusting Christ connect discipleship with growth and joy.",
+          "sourceRanges": [
+            {
+              "start": 9,
+              "end": 82
+            },
+            {
+              "start": 213,
+              "end": 249
+            },
+            {
+              "start": 273,
+              "end": 352
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "direct",
+          "reason": "The Lord knows their circumstances and weaknesses without loving them less; they are beloved daughters with divine nature and destiny.",
+          "sourceRanges": [
+            {
+              "start": 112,
+              "end": 145
+            },
+            {
+              "start": 214,
+              "end": 249
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "She invites listening to the Spirit to select a focus and asking daily for His companionship.",
+          "sourceRanges": [
+            {
+              "start": 248,
+              "end": 276
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Her discouragement about teaching in English leads to assurance that the Father, Christ, and Holy Ghost are at her side.",
+          "sourceRanges": [
+            {
+              "start": 349,
+              "end": 465
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "Sacrament humility and covenant faithfulness are linked with the Spirit; she explicitly urges faithfulness to baptismal covenants.",
+          "sourceRanges": [
+            {
+              "start": 258,
+              "end": 276
+            },
+            {
+              "start": 434,
+              "end": 465
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Christ's loving approach and the value of real face-to-face relationships offer a way to support others.",
+          "sourceRanges": [
+            {
+              "start": 142,
+              "end": 216
+            },
+            {
+              "start": 312,
+              "end": 338
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "spannaus-list",
+          "suitability": "Concrete youth action: write righteous aspirations after scripture learning."
+        },
+        {
+          "storyId": "spannaus-gps",
+          "suitability": "Strong board illustration of being known and loved; keep the love reassurance with the navigation story."
+        },
+        {
+          "storyId": "spannaus-young-man",
+          "suitability": "Strong worth-and-growth case; Christ's loving look precedes counsel."
+        },
+        {
+          "storyId": "spannaus-language",
+          "suitability": "Substantial hope story about inadequacy, with no claim that language mistakes disappeared."
+        }
+      ],
+      "qualifications": [
+        "Preserve her address to young women when quoting; a broader discussion application should be identified as an application.",
+        "The GPS analogy illustrates God's knowledge and guidance, not instant instructions for every choice.",
+        "A personal priesthood-blessing experience does not establish that all distress has a single cause or disappears immediately."
+      ],
+      "corrections": [
+        "Existing identity discussion windows ending at 02:18 miss the completion of the sentence that knowing everything about them does not lessen His love (caption ends about 02:25)."
+      ],
+      "catalogCorrections": [
+        {
+          "storyId": "spannaus-gps",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 66,
+              "end": 138
+            }
+          ],
+          "new": [
+            {
+              "start": 79,
+              "end": 146
+            }
+          ],
+          "reason": "The selected board clue explicitly asks about weaknesses and unchanged love; the love sentence finishes after the old search window."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "spannaus-divine-identity",
+          "title": "Beloved daughters and individual work",
+          "kind": "teaching",
+          "topics": [
+            "identity",
+            "following"
+          ],
+          "start": 213.259,
+          "end": 249.22,
+          "rationale": "Concise direct identity foundation and the result of choosing to love and trust God.",
+          "leadCueText": "Dear young women,",
+          "tailCueText": "work will bring you the same great joy.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            78,
+            87
+          ]
+        },
+        {
+          "id": "spannaus-spirit-and-sacrament",
+          "title": "Choose a focus and seek the Spirit",
+          "kind": "teaching",
+          "topics": [
+            "revelation",
+            "covenants"
+          ],
+          "start": 245.62,
+          "end": 276.98,
+          "rationale": "Includes both the practical prompting invitation and sacrament/companionship connection.",
+          "leadCueText": "I would like to share seven ways that",
+          "tailCueText": "Father for that companionship.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            88,
+            97
+          ]
+        },
+        {
+          "id": "spannaus-gps-known-and-loved",
+          "storyId": "spannaus-gps",
+          "title": "Accurate location and unchanged love",
+          "kind": "story",
+          "topics": [
+            "identity",
+            "revelation",
+            "hope"
+          ],
+          "start": 78.42,
+          "end": 145.74,
+          "rationale": "Complete GPS episode plus all evidence needed for identity-300.",
+          "leadCueText": "I want to illustrate this concept with",
+          "tailCueText": "love you less.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            30,
+            53
+          ]
+        },
+        {
+          "id": "spannaus-young-man-love-before-growth",
+          "storyId": "spannaus-young-man",
+          "title": "Christ loves before inviting improvement",
+          "kind": "story",
+          "topics": [
+            "identity",
+            "following",
+            "serving"
+          ],
+          "start": 141.38,
+          "end": 216.46,
+          "rationale": "Includes the young man's question, Christ's loving look, and the application to patient growth for identity-500.",
+          "leadCueText": "Once a young man came running kneeling",
+          "tailCueText": "aspirations.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    {
+      "talkId": "christian-c-chigbundu",
+      "captionSha256": "9299d6f5094b433cdcee38dd82c9502655c5ec21e5c8d64ff4f923b437939b6e",
+      "cueCount": 165,
+      "summary": "Chigbundu uses workplace lessons about immunity as an analogy for strength developed through scripture study, prayer, the sacrament, and covenants. Scripture study helps a distressed missionary understand his purpose, and daily prayer helps a woman living with cancer recognize Christ's love. The talk explicitly distinguishes strength to carry a burden from having the burden removed and connects sacrament promises with choices during the week.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Daily scripture application and remembering Christ gradually shape thinking, resilience, and lifelong discipleship.",
+          "sourceRanges": [
+            {
+              "start": 140,
+              "end": 194
+            },
+            {
+              "start": 249,
+              "end": 268
+            },
+            {
+              "start": 358,
+              "end": 405
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "A woman recognizes the Savior's love and care for her; this reassures worth without providing the main divine-identity framework.",
+          "sourceRanges": [
+            {
+              "start": 309,
+              "end": 346
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "Meaningful scripture study invites the Holy Ghost's guidance, prayer seeks guidance, and temple/covenant worship is linked with personal direction.",
+          "sourceRanges": [
+            {
+              "start": 182,
+              "end": 194
+            },
+            {
+              "start": 264,
+              "end": 314
+            },
+            {
+              "start": 444,
+              "end": 463
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Trials are not abandonment; prayer can strengthen a person to carry a burden even when it is not removed.",
+          "sourceRanges": [
+            {
+              "start": 66,
+              "end": 127
+            },
+            {
+              "start": 309,
+              "end": 359
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "The sacrament strengthens relationship with Christ; remembered promises refine conduct, and covenants create a bond with God.",
+          "sourceRanges": [
+            {
+              "start": 358,
+              "end": 463
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The mission interview and compassionate visit provide examples of helping; service is not the talk's organizing doctrine.",
+          "sourceRanges": [
+            {
+              "start": 191,
+              "end": 253
+            },
+            {
+              "start": 309,
+              "end": 346
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "chigbundu-immunity",
+          "suitability": "Opening analogy supplies a memorable organizing image; avoid turning it into a promise of physical protection."
+        },
+        {
+          "storyId": "chigbundu-missionary",
+          "suitability": "Strong board story: a scripture-study plan, better purpose, happiness, and desire to stay."
+        },
+        {
+          "storyId": "chigbundu-cancer",
+          "suitability": "Good hope example because it reports recognized love rather than a cure."
+        }
+      ],
+      "qualifications": [
+        "Spiritual immunity is an analogy about resilience, not immunity from illness, hardship, or doubt.",
+        "The missionary's reported improvement is an individual experience, not a guaranteed timetable for resolving distress.",
+        "The woman with cancer is not reported as cured. Automatic captions garble several proper names and phrases."
+      ],
+      "corrections": [],
+      "catalogCorrections": [],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "chigbundu-sacrament-during-the-week",
+          "title": "Sacrament promises shape weekday choices",
+          "kind": "teaching",
+          "topics": [
+            "covenants",
+            "following"
+          ],
+          "start": 357.7,
+          "end": 405.5,
+          "rationale": "Full promises and application; corrects the narrow older excerpt that stopped before keeping commandments and weekday change.",
+          "leadCueText": "sacrament.",
+          "tailCueText": "can I learn and what can I change.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            120,
+            133
+          ]
+        },
+        {
+          "id": "chigbundu-prayer-and-burdens",
+          "storyId": "chigbundu-cancer",
+          "title": "Prayer helps carry a burden",
+          "kind": "story",
+          "topics": [
+            "hope",
+            "revelation"
+          ],
+          "start": 307.54,
+          "end": 360.619,
+          "rationale": "Includes the woman's account and the explicit qualification that burdens may remain.",
+          "leadCueText": "heavenly father in prayer. While serving",
+          "tailCueText": "carry the load placed upon it. Third,",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            104,
+            119
+          ]
+        },
+        {
+          "id": "chigbundu-missionary-scripture-plan",
+          "storyId": "chigbundu-missionary",
+          "title": "A study plan that helped a missionary stay",
+          "kind": "story",
+          "topics": [
+            "following",
+            "hope",
+            "revelation"
+          ],
+          "start": 190.42,
+          "end": 252.859,
+          "rationale": "Complete interview, Book of Mormon encouragement, plan with the trainer, and reported change for following-200.",
+          "leadCueText": "troubles of the world. While serving as",
+          "tailCueText": "longer.\"",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            64,
+            84
+          ]
+        }
+      ]
+    },
+    {
+      "talkId": "ciro-schmeil",
+      "captionSha256": "bb2a639cc33109d124d191d097f39c98816735cdd6e38e421f1d745995fb0157",
+      "cueCount": 170,
+      "summary": "Schmeil identifies Jesus Christ and covenants as divine helps on the journey back to Heavenly Father. He explains humility and faith, covenants that bind us to Christ, the yoke image, and sacrament willingness and promised companionship of the Spirit. Haggai's temple account becomes an invitation to reconsider priorities and build a stronger relationship with God through making and keeping covenants.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Faith, obedience, and considered adjustments deepen relationship with Christ and lead to strength and joy.",
+          "sourceRanges": [
+            {
+              "start": 53,
+              "end": 134
+            },
+            {
+              "start": 388,
+              "end": 490
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "He identifies God as our Father and says Christ knows each person, but does not develop identity's effect on treating others.",
+          "sourceRanges": [
+            {
+              "start": 1,
+              "end": 64
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The promised Spirit and receptiveness to God's will support guidance; this is not a detailed recognition method.",
+          "sourceRanges": [
+            {
+              "start": 85,
+              "end": 109
+            },
+            {
+              "start": 212,
+              "end": 254
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Christ helps with weaknesses, trusting without all answers, and lighter burdens through covenant connection.",
+          "sourceRanges": [
+            {
+              "start": 42,
+              "end": 109
+            },
+            {
+              "start": 154,
+              "end": 194
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "Explicit covenant definition, binding relationship, sacrament promises, willingness, the Spirit, and preparation for temple covenants.",
+          "sourceRanges": [
+            {
+              "start": 131,
+              "end": 317
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "none",
+          "reason": "The burden discussion concerns help from Christ; it does not teach a distinct pattern of serving other people.",
+          "sourceRanges": [],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "schmeil-yoke",
+          "suitability": "Clear covenant/help analogy, with Christ rather than an invented human partner."
+        },
+        {
+          "storyId": "schmeil-haggai",
+          "suitability": "Strong board story and modern application about priorities and covenant relationships."
+        }
+      ],
+      "qualifications": [
+        "Willingness rather than perfection must stay connected with sincere covenant keeping; this passage is not a complete statement of sacrament participation standards.",
+        "Haggai's promised blessing is not a formula guaranteeing a particular present-day financial outcome.",
+        "The caption phrase 'make a new covenant ... each week' is immediately followed by renewing baptismal promises; use a careful paraphrase about renewal."
+      ],
+      "corrections": [],
+      "catalogCorrections": [],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "schmeil-covenants-and-yoke",
+          "storyId": "schmeil-yoke",
+          "title": "Covenants bind us to Christ",
+          "kind": "teaching",
+          "topics": [
+            "covenants",
+            "hope"
+          ],
+          "start": 130.82,
+          "end": 194.299,
+          "rationale": "Defines the covenant, gives Christ's invitation, and explains the yoke connection.",
+          "leadCueText": "We show our faith in Christ by making",
+          "tailCueText": "our burdens become lighter.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            46,
+            66
+          ]
+        },
+        {
+          "id": "schmeil-sacrament-willingness",
+          "title": "Willingness, remembrance, and the Spirit",
+          "kind": "teaching",
+          "topics": [
+            "covenants",
+            "following",
+            "revelation"
+          ],
+          "start": 191.3,
+          "end": 254.54,
+          "rationale": "Full sacrament explanation rather than an isolated perfection sentence.",
+          "leadCueText": "The baptism covenant is the first",
+          "tailCueText": "the covenant path.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            67,
+            87
+          ]
+        },
+        {
+          "id": "schmeil-haggai-priorities",
+          "storyId": "schmeil-haggai",
+          "title": "Rebuilding the temple and our relationship",
+          "kind": "story",
+          "topics": [
+            "covenants",
+            "following"
+          ],
+          "start": 308.1,
+          "end": 416.94,
+          "rationale": "Retains Haggai's problem, repentance, rebuilding, and the modern relationship answer needed for covenants-400.",
+          "leadCueText": "The sacrament also prepares us to make",
+          "tailCueText": "covenants with him.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            108,
+            144
+          ]
+        }
+      ]
+    },
+    {
+      "talkId": "clark-g-gilbert",
+      "captionSha256": "f331cbb4d6124d5a17c6e5ff23eb288cbe79958e609692b3b39284c594c2c16a",
+      "cueCount": 245,
+      "summary": "Gilbert joins standing for truth with charity and warns against focusing only on others' shortcomings. His five principles include avoiding contentious settings, finding common ground, being a light, holding truth while reaching out, and staying anchored in Christ. The clearest game cases contrast an angry retort that failed to help a friend with a prompting to wait and listen to five people before teaching.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Truth and love must travel together in discipleship, with self-examination, charity, and a believing example.",
+          "sourceRanges": [
+            {
+              "start": 44,
+              "end": 106
+            },
+            {
+              "start": 411,
+              "end": 481
+            },
+            {
+              "start": 638,
+              "end": 708
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Hidden pain and caring for God's children support respectful treatment without a primary definition of divine identity.",
+          "sourceRanges": [
+            {
+              "start": 237,
+              "end": 325
+            },
+            {
+              "start": 567,
+              "end": 608
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "The Spirit specifically prompts him to wait rather than interrupt; he acts, understands, and teaches with love.",
+          "sourceRanges": [
+            {
+              "start": 329,
+              "end": 408
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Compassion for struggling friends and assurance that the Lord helps provide support; the talk does not center on one's own adversity.",
+          "sourceRanges": [
+            {
+              "start": 237,
+              "end": 325
+            },
+            {
+              "start": 675,
+              "end": 708
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Keeping one's covenants is offered as a way to help others keep theirs, without unpacking sacrament or temple preparation.",
+          "sourceRanges": [
+            {
+              "start": 426,
+              "end": 453
+            },
+            {
+              "start": 488,
+              "end": 510
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "Restraint, common ground, listening, kindness, and conviction help others more than winning an argument.",
+          "sourceRanges": [
+            {
+              "start": 199,
+              "end": 408
+            },
+            {
+              "start": 638,
+              "end": 708
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "gilbert-heart-list",
+          "suitability": "Good self-examination vignette rather than assigning blame to others."
+        },
+        {
+          "storyId": "gilbert-devotional",
+          "suitability": "Light introductory anecdote about a daunting assignment; weaker foundation for the hope assignment."
+        },
+        {
+          "storyId": "gilbert-inquisitor",
+          "suitability": "Explicit literary fiction, not a historical or gospel episode."
+        },
+        {
+          "storyId": "gilbert-academics",
+          "suitability": "Useful noncontinuous restraint-and-later-opportunity account; preserve his tentative causal language."
+        },
+        {
+          "storyId": "gilbert-dog",
+          "suitability": "Only a brief recalled vignette; do not add missing details from another speaker's full account."
+        },
+        {
+          "storyId": "gilbert-retort",
+          "suitability": "Strong service/disagreement board case about losing the Spirit and failing to help."
+        },
+        {
+          "storyId": "gilbert-five-visitors",
+          "suitability": "Strong personal-revelation board case: a prompting can ask for restraint."
+        },
+        {
+          "storyId": "gilbert-adultery",
+          "suitability": "Brief scriptural illustration of mercy and change; not a full retelling."
+        }
+      ],
+      "qualifications": [
+        "Do not selectively retain only truth or only love; his opening explicitly warns about both distortions.",
+        "The Grand Inquisitor illustration is literary fiction. The wounded-dog account is only briefly recalled.",
+        "He says the later academic opening came 'perhaps in part' because he did not engage; do not present guaranteed outcomes from silence.",
+        "The five-person visit took nearly two hours and went through the next meeting; waiting was a considered action, not a claim that every question needs that timetable."
+      ],
+      "corrections": [],
+      "catalogCorrections": [
+        {
+          "storyId": "gilbert-retort",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 268,
+              "end": 316
+            }
+          ],
+          "new": [
+            {
+              "start": 271,
+              "end": 326
+            }
+          ],
+          "reason": "The episode's concluding admission that he stood for truth without love/charity extends to about 05:25 and should accompany the selected board case."
+        },
+        {
+          "storyId": "gilbert-academics",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 197,
+              "end": 229
+            },
+            {
+              "start": 452,
+              "end": 481
+            }
+          ],
+          "new": [
+            {
+              "start": 198,
+              "end": 232
+            },
+            {
+              "start": 450,
+              "end": 485
+            }
+          ],
+          "reason": "The first window clips the end of his strong-disagreement sentence, and the second clips the conclusion about being a light opening doors."
+        },
+        {
+          "storyId": "gilbert-adultery",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 597,
+              "end": 615
+            }
+          ],
+          "new": [
+            {
+              "start": 604,
+              "end": 619
+            }
+          ],
+          "reason": "The actual brief example begins around 10:05; the command to sin no more finishes after the old end."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "gilbert-retort-without-charity",
+          "storyId": "gilbert-retort",
+          "title": "Winning a debate while failing to help",
+          "kind": "story",
+          "topics": [
+            "serving",
+            "following"
+          ],
+          "start": 271.38,
+          "end": 326.06,
+          "rationale": "Complete friend's concern, angry response, loss of the Spirit, and admission about missing charity for serving-500.",
+          "leadCueText": "I failed to see this with a friend who",
+          "tailCueText": "without love and without charity.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            94,
+            111
+          ]
+        },
+        {
+          "id": "gilbert-five-visitors-wait",
+          "storyId": "gilbert-five-visitors",
+          "title": "Wait, listen, and find common ground",
+          "kind": "story",
+          "topics": [
+            "revelation",
+            "serving"
+          ],
+          "start": 322.499,
+          "end": 415.5,
+          "rationale": "Full five-person setup, prompting, two-hour listening, accepted invitation, and teaching-from-love conclusion for revelation-500.",
+          "leadCueText": "A second way to stand for truth with",
+          "tailCueText": "he loved us first.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            112,
+            145
+          ]
+        }
+      ]
+    },
+    {
+      "talkId": "d-todd-christofferson",
+      "captionSha256": "cdd6d0e08c0f9112bb3a40dad619cf61804ebd8115f693950ee76a77b0302fd5",
+      "cueCount": 283,
+      "summary": "Christofferson explicitly warns against gambling, emphasizing how continuous mobile access can displace savings, studies, relationships, and worthwhile work. He combines opportunity cost and the influence of one's example with a moral argument about taking rather than giving and responsible stewardship. His concluding invitation is to use the saved time and resources for good; the gambling subject should remain visible when applying the principles more broadly.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Discipleship includes moral choices, responsible stewardship, righteous pursuits, and giving rather than taking.",
+          "sourceRanges": [
+            {
+              "start": 404,
+              "end": 449
+            },
+            {
+              "start": 565,
+              "end": 739
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Every soul is described as precious and someone for whom Christ died; this supports care rather than a developed identity lesson.",
+          "sourceRanges": [
+            {
+              "start": 546,
+              "end": 568
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "none",
+          "reason": "The concluding promise about the Holy Ghost is not a method for seeking, recognizing, or acting on a prompting.",
+          "sourceRanges": [],
+          "topic": "revelation"
+        },
+        {
+          "fit": "none",
+          "reason": "The address warns about harmful behavior and its costs rather than teaching how to find strength during adversity or strained faith.",
+          "sourceRanges": [],
+          "topic": "hope"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Covenant commitment is mentioned while cautioning that one's apparent strength does not remove the effect of example.",
+          "sourceRanges": [
+            {
+              "start": 447,
+              "end": 506
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "He urges contribution to others' well-being and using resources for good, with concern about how one's conduct influences vulnerable observers.",
+          "sourceRanges": [
+            {
+              "start": 463,
+              "end": 568
+            },
+            {
+              "start": 647,
+              "end": 719
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "christofferson-coolidge",
+          "suitability": "A brief humorous historical anecdote as retold by Hinckley; its historical accuracy was not independently verified."
+        },
+        {
+          "storyId": "christofferson-journalist",
+          "suitability": "A reported planned gambling experiment and social warning, not a detailed personal recovery story."
+        },
+        {
+          "storyId": "christofferson-idols",
+          "suitability": "Paul's teaching example explains why personal intention is not the only relevant effect."
+        }
+      ],
+      "qualifications": [
+        "The core subject is gambling, including recreational gambling; do not reduce the address to a generic time-management message.",
+        "A points-only conference quiz is not itself the money-or-value wager described in the talk; avoid adding stakes or wagers to the game.",
+        "Survey numbers, article quotations, and historical anecdotes in the captions are source statements, not independently fact-checked research.",
+        "The idol-food example is a conditional teaching illustration, not a named person's narrated event."
+      ],
+      "corrections": [],
+      "catalogCorrections": [
+        {
+          "storyId": "christofferson-journalist",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 334,
+              "end": 402
+            }
+          ],
+          "new": [
+            {
+              "start": 335,
+              "end": 407
+            }
+          ],
+          "reason": "The journalist quotation's final question about beating the house is clipped by the previous endpoint."
+        },
+        {
+          "storyId": "christofferson-idols",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 493,
+              "end": 557
+            }
+          ],
+          "new": [
+            {
+              "start": 502,
+              "end": 569
+            }
+          ],
+          "reason": "Retains the complete food example and Christofferson's application about not leading others into temptation and every soul being precious."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "christofferson-gambling-opportunity-cost",
+          "title": "Where will this choice lead?",
+          "kind": "teaching",
+          "topics": [
+            "following"
+          ],
+          "start": 403.7,
+          "end": 449.58,
+          "rationale": "Concrete decisions, opportunity cost, and lost money/time/relationships; keeps the actual gambling question.",
+          "leadCueText": "At different times, President Don H.",
+          "tailCueText": "worthwhile pursuits? Where does it lead?",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            147,
+            160
+          ]
+        },
+        {
+          "id": "christofferson-resources-for-good",
+          "title": "Use time and resources to do good",
+          "kind": "teaching",
+          "topics": [
+            "following",
+            "serving"
+          ],
+          "start": 646.259,
+          "end": 718.06,
+          "rationale": "Connects accountability, productive contribution, refraining from gambling, and redirecting saved resources.",
+          "leadCueText": "Today I am pleading with all of us to",
+          "tailCueText": "pass much righteousness.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            240,
+            265
+          ]
+        }
+      ]
+    },
+    {
+      "talkId": "dale-g-renlund",
+      "captionSha256": "98dec2cd8f12957a30f74594623096780a0ad099e7ef896eed07f766381de6cd",
+      "cueCount": 228,
+      "summary": "Renlund uses a patient's recovery after two heart transplants and frustration with breakfast to illustrate remembering the bigger picture, while acknowledging exhausted coping capacity. Israel's forgotten deliverance and his sister Linda's imagined exclusion reinforce trusting Christ's constancy and promises. He places peace and redemption in Christ's righteousness and covenant relationship rather than confidence in our own perfection.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Christ-centered faith, remembrance, and covenant relationship make spiritual peace and joy possible even amid tribulation.",
+          "sourceRanges": [
+            {
+              "start": 297,
+              "end": 355
+            },
+            {
+              "start": 539,
+              "end": 588
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Linda's imagined asterisk challenges personal exclusion from promises; this is reassurance rather than the primary teaching of divine identity.",
+          "sourceRanges": [
+            {
+              "start": 418,
+              "end": 479
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "none",
+          "reason": "Remembering and pondering scripture is recommended, but the talk does not explain recognizing or acting on personal revelation.",
+          "sourceRanges": [],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Remember past mercy, trust God's promises, and rely on Christ's redemptive reach during difficult circumstances.",
+          "sourceRanges": [
+            {
+              "start": 270,
+              "end": 355
+            },
+            {
+              "start": 378,
+              "end": 420
+            },
+            {
+              "start": 478,
+              "end": 550
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "God's covenant constancy and joy through relationship with Christ support how covenants connect us with Him.",
+          "sourceRanges": [
+            {
+              "start": 270,
+              "end": 286
+            },
+            {
+              "start": 320,
+              "end": 345
+            },
+            {
+              "start": 378,
+              "end": 420
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "supporting",
+          "reason": "His care for a recovering patient and acknowledgement of coping exhaustion support compassion, although practical service is not the main teaching.",
+          "sourceRanges": [
+            {
+              "start": 1,
+              "end": 163
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "renlund-oatmeal",
+          "suitability": "Strong factual recall board story; preserve recovery context and his acknowledgement of coping exhaustion."
+        },
+        {
+          "storyId": "renlund-israel",
+          "suitability": "Scriptural memory-and-trust account; 'cold oatmeal' is Renlund's metaphor, not Israel's literal food."
+        },
+        {
+          "storyId": "renlund-asterisk",
+          "suitability": "Strong board illustration against imagined personal exclusion; timing and covenant conditions still matter."
+        }
+      ],
+      "qualifications": [
+        "The patient receives two transplants; the first donor heart does not work well and the second marginal heart functions beautifully.",
+        "He explicitly acknowledges coping exhaustion. Do not ridicule patients or use gratitude to dismiss real pain.",
+        "No imagined exception from God's promises does not guarantee immediate outcomes or remove the promises' conditions.",
+        "Redemption is through Christ's righteousness; the talk does not say faithful actions and covenant keeping are irrelevant."
+      ],
+      "corrections": [],
+      "catalogCorrections": [],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "renlund-trust-and-peace",
+          "title": "Trust Christ amid tribulation",
+          "kind": "teaching",
+          "topics": [
+            "hope",
+            "covenants",
+            "following"
+          ],
+          "start": 269.86,
+          "end": 345.179,
+          "rationale": "Includes God's constancy, doubts about care, Christ's tribulation teaching, and peace through covenant relationship.",
+          "leadCueText": "How often the Lord reassured the",
+          "tailCueText": "him.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            103,
+            128
+          ]
+        },
+        {
+          "id": "renlund-remember-mercies",
+          "title": "Remember the Lord's goodness",
+          "kind": "teaching",
+          "topics": [
+            "hope",
+            "following"
+          ],
+          "start": 378.26,
+          "end": 421.179,
+          "rationale": "A feasible practice for the hope assignment: remember and ponder mercies to regain perspective.",
+          "leadCueText": "One of the purposes of the Book of",
+          "tailCueText": "can trust him.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            143,
+            157
+          ]
+        },
+        {
+          "id": "renlund-oatmeal-full-context",
+          "storyId": "renlund-oatmeal",
+          "title": "Two transplants and a breakfast complaint",
+          "kind": "story",
+          "topics": [
+            "hope",
+            "following"
+          ],
+          "start": 1.06,
+          "end": 163.1,
+          "rationale": "Includes the medical crisis, both transplants, breakfast details, coping-exhaustion qualification, and bigger-picture application for hope-100.",
+          "leadCueText": "In the late 1980s, Mr. Martin developed",
+          "tailCueText": "promise the future now held.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            1,
+            62
+          ]
+        },
+        {
+          "id": "renlund-linda-no-asterisk",
+          "storyId": "renlund-asterisk",
+          "title": "Linda's imagined exception",
+          "kind": "story",
+          "topics": [
+            "identity",
+            "hope"
+          ],
+          "start": 417.46,
+          "end": 479.339,
+          "rationale": "Complete account, recognition of inclusion, and Renlund's reassurance for identity-400.",
+          "leadCueText": "I remember learning a lesson, one of",
+          "tailCueText": "on God's promises.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            158,
+            178
+          ]
+        }
+      ]
+    },
+    {
+      "talkId": "dallin-h-oaks",
+      "captionSha256": "d8621496982586c0458630e4e7c900725015f129cf06ee0ce40f71ad276ef903",
+      "cueCount": 235,
+      "summary": "Oaks teaches that Jesus Christ invites all people to come to Him through faith, repentance, and covenant discipleship. He directly addresses concerns, questions, and doubts with daily prayer and scriptural learning, patience, humility, and trust in God's timing, acknowledging that resolution may take a lengthy process. He affirms learning through both scientific and spiritual methods, recommends sacrament/covenant practices, and emphasizes Christ's inclusive grace and outreach to all nations.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Daily prayer, scripture learning, covenant living, and acting on Christ's truths are practices that strengthen disciples.",
+          "sourceRanges": [
+            {
+              "start": 150,
+              "end": 268
+            },
+            {
+              "start": 425,
+              "end": 456
+            },
+            {
+              "start": 760,
+              "end": 790
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "direct",
+          "reason": "God is the Father of our spirits, Christ remembers His scattered flock, and all are alike unto God.",
+          "sourceRanges": [
+            {
+              "start": 39,
+              "end": 60
+            },
+            {
+              "start": 509,
+              "end": 597
+            },
+            {
+              "start": 597,
+              "end": 642
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "direct",
+          "reason": "Faith, scripture, inspired teaching, and personal revelation are named elements of spiritual learning.",
+          "sourceRanges": [
+            {
+              "start": 323,
+              "end": 382
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Doubts and uncertainty are explicitly addressed with patience, daily steps, humility, and trust in God's timing.",
+          "sourceRanges": [
+            {
+              "start": 150,
+              "end": 268
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "Weekly sacrament renewal and living covenants are protective practices, with regular temple attendance directed to endowed members.",
+          "sourceRanges": [
+            {
+              "start": 425,
+              "end": 456
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "All are invited to come to Christ, and hearers are asked to act on and share these truths with others.",
+          "sourceRanges": [
+            {
+              "start": 86,
+              "end": 115
+            },
+            {
+              "start": 597,
+              "end": 642
+            },
+            {
+              "start": 760,
+              "end": 775
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "oaks-nephites",
+          "suitability": "A summary of Christ's outreach to His scattered flock; useful for inclusive love rather than a detailed Nephite event."
+        }
+      ],
+      "qualifications": [
+        "Uncertainty can take a lengthy process; do not promise immediate resolution or label uncertainty as personal failure.",
+        "He expects learning by scientific and spiritual methods, not the abandonment of scientific inquiry.",
+        "His regular-temple-attendance instruction in this passage is explicitly addressed to those who have been endowed.",
+        "Inclusive grace is taught alongside faith, repentance, baptism, choices, and action; preserve both."
+      ],
+      "corrections": [],
+      "catalogCorrections": [],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "oaks-faith-small-daily-steps",
+          "title": "Questions, doubts, and daily steps",
+          "kind": "teaching",
+          "topics": [
+            "hope",
+            "following"
+          ],
+          "start": 149.3,
+          "end": 202.019,
+          "rationale": "Introduces concerns/doubts and a concrete response through prayer and scriptural learning.",
+          "leadCueText": "We all have present or future concerns",
+          "tailCueText": "with prayer and scriptural learning.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            43,
+            56
+          ]
+        },
+        {
+          "id": "oaks-patience-and-timing",
+          "title": "Patience when uncertainty takes time",
+          "kind": "teaching",
+          "topics": [
+            "hope",
+            "following"
+          ],
+          "start": 201.22,
+          "end": 268.1,
+          "rationale": "Preserves the lengthy-process qualification, humility, and trusting God's timing.",
+          "leadCueText": "We are all a work in progress.",
+          "tailCueText": "as well as in his promises.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            57,
+            75
+          ]
+        }
+      ]
+    },
+    {
+      "talkId": "dallin-h-oaks-temples",
+      "captionSha256": "539fc3b37c4b333da8132b333d4737ca1bd66c51a95cb8c7286e4961b1eb98d9",
+      "cueCount": 55,
+      "summary": "In this separate closing address, Oaks centers worship and learning on Jesus Christ and invites prayerful study, pondering, and faithful action on conference messages. The middle section welcomes public learning about the Salt Lake Temple celebration and related media. He closes with blessings of peace and service and testimony of the covenant path toward the destiny Heavenly Father desires.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Study, prayerful pondering, and acting in faith give an immediate next step after conference.",
+          "sourceRanges": [
+            {
+              "start": 32,
+              "end": 56
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The Father's plan and desired eternal destiny provide an identity connection without a developed worth-and-treatment explanation.",
+          "sourceRanges": [
+            {
+              "start": 1,
+              "end": 32
+            },
+            {
+              "start": 150,
+              "end": 185
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Prayerful pondering supports spiritual learning, but no recognition method or specific prompting is described.",
+          "sourceRanges": [
+            {
+              "start": 32,
+              "end": 56
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "supporting",
+          "reason": "He invokes blessings of peace and contentment in challenging times without an extended coping discussion.",
+          "sourceRanges": [
+            {
+              "start": 125,
+              "end": 151
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "supporting",
+          "reason": "A covenant-path testimony and temple-learning invitation support the topic without explaining sacrament promises or covenant practice.",
+          "sourceRanges": [
+            {
+              "start": 56,
+              "end": 126
+            },
+            {
+              "start": 150,
+              "end": 185
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "supporting",
+          "reason": "A blessing on service supports the theme without an example of how to help another person.",
+          "sourceRanges": [
+            {
+              "start": 125,
+              "end": 151
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [],
+      "qualifications": [
+        "Keep this video's ID and timestamps separate from Oaks's Sunday morning address.",
+        "The historical/date wording in the temple announcement is garbled by captions and is not a reliable trivia source without official verification.",
+        "No list of newly announced temple locations appears in the supplied caption text."
+      ],
+      "corrections": [],
+      "catalogCorrections": [],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "oaks-closing-study-ponder-act",
+          "title": "Study, ponder, and act",
+          "kind": "closing",
+          "topics": [
+            "following",
+            "revelation"
+          ],
+          "start": 32.26,
+          "end": 56.099,
+          "rationale": "Strong private next-step invitation, including the Lord's promise of receiving more.",
+          "leadCueText": "As the talks of this conference are",
+          "tailCueText": "receiveth, I will give more.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            10,
+            17
+          ]
+        },
+        {
+          "id": "oaks-closing-covenant-destiny",
+          "title": "The covenant path and our destiny",
+          "kind": "closing",
+          "topics": [
+            "covenants",
+            "identity"
+          ],
+          "start": 146.5,
+          "end": 185.62,
+          "rationale": "Complete closing testimony and the desired destiny rather than an isolated covenant-path fragment.",
+          "leadCueText": "I close with my testimony.",
+          "tailCueText": "Jesus Christ. Amen.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            45,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "talkId": "david-a-bednar",
+      "captionSha256": "8e93f14a803e0ed2b63c4121aa62ceeae6800ef8d291e4c089d339729d17cdb8",
+      "cueCount": 256,
+      "summary": "Bednar explains ordinances and covenants as spiritual credentials that require ongoing faithfulness, using an illustrative damaged-passport story. He explicitly limits that analogy: hardship suffered through no fault of our own does not invalidate covenants or God's promises. The Holy Spirit of Promise ratifies faithful covenant commitments over time, and another person's unrighteous choices cannot ultimately deprive a faithful disciple of promised eternal blessings, although the details of how and when are not all revealed.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Receiving ordinances and continuing faithfully align hearts, minds, and lives with God's will and bring direction and strength.",
+          "sourceRanges": [
+            {
+              "start": 175,
+              "end": 275
+            },
+            {
+              "start": 685,
+              "end": 724
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "All people are on a homeward journey to God regardless of race, citizenship, occupation, education, or generation.",
+          "sourceRanges": [
+            {
+              "start": 1,
+              "end": 49
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The Holy Ghost witnesses truth and ratifies covenants as the Holy Spirit of Promise; this role is distinct from a method for recognizing daily guidance.",
+          "sourceRanges": [
+            {
+              "start": 272,
+              "end": 399
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Faultless adversity does not invalidate covenants, and another person's actions cannot ultimately deprive a faithful disciple of promised blessings.",
+          "sourceRanges": [
+            {
+              "start": 156,
+              "end": 178
+            },
+            {
+              "start": 508,
+              "end": 684
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "Defines ordinances and covenants, explains authorized priesthood acts and faithfulness, and teaches covenant ratification over time.",
+          "sourceRanges": [
+            {
+              "start": 175,
+              "end": 421
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "none",
+          "reason": "The address concerns covenant commitments and reassurance rather than a practical pattern for serving others.",
+          "sourceRanges": [],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "bednar-passport",
+          "suitability": "Strong board analogy if both the authorized-stamp explanation and faultless-adversity limit are retained; presented as an illustrative story, not verified travel history."
+        }
+      ],
+      "qualifications": [
+        "Adversity and afflictions through no fault of one's own do not diminish God's promises or invalidate covenants.",
+        "The Holy Spirit of Promise's ratification is usually over time as people repent and honor covenants; avoid depicting a dramatic one-time feeling as mandatory.",
+        "The later marital teaching concerns promised eternal blessings for a faithful individual. It does not erase family pain or specify every outcome, pairing, or timetable.",
+        "He distinguishes lateral and vertical aspects of sealing, and says he cannot explain precisely how and when blessings are received; detailed marriage issues need thoughtful host context."
+      ],
+      "corrections": [
+        "The selected passport search windows end before both the complete faultless-adversity limit and the complete later explanation of the verifying witness, although the catalog summary and board answers themselves are sound."
+      ],
+      "catalogCorrections": [
+        {
+          "storyId": "bednar-passport",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 61,
+              "end": 175
+            },
+            {
+              "start": 362,
+              "end": 394
+            }
+          ],
+          "new": [
+            {
+              "start": 60,
+              "end": 178
+            },
+            {
+              "start": 371,
+              "end": 400
+            }
+          ],
+          "reason": "The first interval needs the complete limit (ending about 02:57); the second needs the complete authorized-stamp/Holy-Spirit-of-Promise parallel (ending about 06:39)."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "bednar-covenants-direction-faithfulness",
+          "title": "Credentials, direction, and faithfulness",
+          "kind": "teaching",
+          "topics": [
+            "covenants",
+            "following"
+          ],
+          "start": 234.02,
+          "end": 275.179,
+          "rationale": "Keeps divine purpose/direction/strength connected to honoring covenants and ongoing faithfulness.",
+          "leadCueText": "The covenants and ordinances of the",
+          "tailCueText": "promised blessings to be received.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            88,
+            101
+          ]
+        },
+        {
+          "id": "bednar-eternal-blessings-and-unknown-details",
+          "title": "Blessings despite another person's choices",
+          "kind": "teaching",
+          "topics": [
+            "hope",
+            "covenants"
+          ],
+          "start": 635.22,
+          "end": 683.74,
+          "rationale": "Includes his admission that details and timing are not all known, then the explicit reassuring eternal-blessings promise.",
+          "leadCueText": "Now you may ask, how can this be the",
+          "tailCueText": "unrighteous exercise of moral agency.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            224,
+            239
+          ]
+        },
+        {
+          "id": "bednar-passport-story",
+          "storyId": "bednar-passport",
+          "title": "The damaged passport",
+          "kind": "story",
+          "topics": [
+            "covenants",
+            "hope"
+          ],
+          "start": 59.94,
+          "end": 158.86,
+          "rationale": "Complete traveler story and lesson about maintaining credentials for covenants-500; pair with the explicit limit and later authorized-stamp explanation.",
+          "leadCueText": "I begin with a short story.",
+          "tailCueText": "country.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            21,
+            56
+          ]
+        },
+        {
+          "id": "bednar-passport-authorized-stamp",
+          "storyId": "bednar-passport",
+          "title": "The authorized stamp and verifying witness",
+          "kind": "teaching",
+          "topics": [
+            "covenants"
+          ],
+          "start": 371.38,
+          "end": 399.739,
+          "rationale": "Separate later window supplying the second board connection; it is not contiguous with the passport episode.",
+          "leadCueText": "Just as the man in my passport story",
+          "tailCueText": "Savior's gospel.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            137,
+            145
+          ]
+        },
+        {
+          "id": "bednar-passport-adversity-limit",
+          "storyId": "bednar-passport",
+          "title": "Hardship does not invalidate covenants",
+          "kind": "teaching",
+          "topics": [
+            "covenants",
+            "hope"
+          ],
+          "start": 155.619,
+          "end": 177.9,
+          "rationale": "Essential companion to the passport illustration: adversity through no fault of our own does not diminish promises or invalidate covenants.",
+          "leadCueText": "Of course, this simple analogy has",
+          "tailCueText": "invalidate our covenants.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            57,
+            63
+          ]
+        }
+      ]
+    },
+    {
+      "talkId": "dieter-f-uchtdorf",
+      "captionSha256": "921ceec084c4a992866a9e112ab7e9e3f92cc450c7308ed0baff3764fab5fc02",
+      "cueCount": 231,
+      "summary": "Uchtdorf describes baptism as both an individual covenant and entry into a people who bear burdens, mourn, and comfort together. Family baptism memories introduce growing discipleship, and Christ's outreach across social boundaries and the unity of former rival peoples illustrate His power to unite God's family. He connects sacrament renewal with personal relationship and shared belonging, then invites each hearer to come, help, and belong.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Covenant discipleship deepens relationship with God and expands joyful living; drawing closer to Christ produces patience, kindness, and unity.",
+          "sourceRanges": [
+            {
+              "start": 64,
+              "end": 128
+            },
+            {
+              "start": 460,
+              "end": 578
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "direct",
+          "reason": "Christ gathers Heavenly Father's family, and knowing we are brothers and sisters leads to crossing divisions rather than isolating people.",
+          "sourceRanges": [
+            {
+              "start": 243,
+              "end": 352
+            },
+            {
+              "start": 493,
+              "end": 535
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "none",
+          "reason": "The address does not explain seeking, recognizing, or acting on personal revelation.",
+          "sourceRanges": [],
+          "topic": "revelation"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Bearing burdens and the reminder that we have Christ and each other offer communal strength, without a central strained-faith case.",
+          "sourceRanges": [
+            {
+              "start": 135,
+              "end": 202
+            },
+            {
+              "start": 604,
+              "end": 677
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "direct",
+          "reason": "Baptism joins individuals to a covenant people; the sacrament renews relationship with God in a shared community.",
+          "sourceRanges": [
+            {
+              "start": 124,
+              "end": 202
+            },
+            {
+              "start": 580,
+              "end": 677
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "Christ's outreach, carrying burdens, comforting others, being more helpful, and building bridges supply direct service applications.",
+          "sourceRanges": [
+            {
+              "start": 135,
+              "end": 202
+            },
+            {
+              "start": 243,
+              "end": 352
+            },
+            {
+              "start": 505,
+              "end": 535
+            },
+            {
+              "start": 674,
+              "end": 723
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "uchtdorf-grandchildren",
+          "suitability": "Simple board recall about the two great-grandchildren choosing baptism; fuller teaching connects promises with family example."
+        },
+        {
+          "storyId": "uchtdorf-pool",
+          "suitability": "A childhood baptism memory and humorous concern, not an account of physical rescue."
+        },
+        {
+          "storyId": "uchtdorf-boundaries",
+          "suitability": "Several brief scriptural examples form a montage of outreach; do not combine them into one invented encounter."
+        },
+        {
+          "storyId": "uchtdorf-unity",
+          "suitability": "A summarized scriptural account of rival peoples becoming united through Christ's doctrine."
+        }
+      ],
+      "qualifications": [
+        "Perfect Christ-centered unity may not be achieved in this life; he calls for earnest small steps now rather than passive expectation.",
+        "Repeated automatic-caption 'segment' readings in the later passage refer to the sacrament in context; paraphrase until exact audio wording is checked.",
+        "The childhood swimming-pool story reports concern about inability to swim, not a near-drowning or rescue.",
+        "The social-boundary examples are a montage of different scriptural references, not one continuous scene."
+      ],
+      "corrections": [],
+      "catalogCorrections": [
+        {
+          "storyId": "uchtdorf-grandchildren",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 0,
+              "end": 34
+            }
+          ],
+          "new": [
+            {
+              "start": 0,
+              "end": 41
+            }
+          ],
+          "reason": "The old window truncates the complete family-and-trusted-friends example sentence that the summary includes."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "uchtdorf-baptism-covenant-people",
+          "title": "Baptism joins a people who care",
+          "kind": "teaching",
+          "topics": [
+            "covenants",
+            "serving",
+            "following"
+          ],
+          "start": 123.059,
+          "end": 202.06,
+          "rationale": "Explains both individual covenant entry and bearing burdens together; complete contextual passage is slightly longer than 75 seconds.",
+          "leadCueText": "eternally. Baptism is the gate through",
+          "tailCueText": "to walk that path together. When I read",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            40,
+            61
+          ]
+        },
+        {
+          "id": "uchtdorf-sacrament-not-alone",
+          "title": "Renewing covenants together",
+          "kind": "teaching",
+          "topics": [
+            "covenants",
+            "hope",
+            "serving"
+          ],
+          "start": 604.1,
+          "end": 677.659,
+          "rationale": "Personal renewal and collective participation lead to the explicit reminder that we have Christ and each other.",
+          "leadCueText": "My dear brothers and sisters, the",
+          "tailCueText": "have each other.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            191,
+            212
+          ]
+        },
+        {
+          "id": "uchtdorf-great-grandchildren-baptism",
+          "storyId": "uchtdorf-grandchildren",
+          "title": "Two great-grandchildren choose baptism",
+          "kind": "story",
+          "topics": [
+            "covenants",
+            "following"
+          ],
+          "start": 0.019,
+          "end": 40.46,
+          "rationale": "Full short opening account and promises for covenants-100.",
+          "leadCueText": "It is such a joy to be with you today.",
+          "tailCueText": "and many trusted friends.",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            1,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "talkId": "edward-dube",
+      "captionSha256": "dc7d15169347c4d0c1f6185a6a9999dbc0e35d904911af00b4121e16d522049a",
+      "cueCount": 152,
+      "summary": "Dube presents Christ's invitation as welcoming people who are still learning and changing, beginning with a mission-office gate sign removed to avoid exclusion. He explains coming, surrendering what holds us back, and being perfected in Christ, rather than first achieving perfection alone. A ministering visit, a couple's temple goal, and Lauren's prayer illustrate willing effort and grace, while a former missionary's uncertainty receives an invitation to come to Christ.",
+      "topicFits": [
+        {
+          "fit": "direct",
+          "reason": "Coming to Christ is action, surrender, a willing heart, and keeping commandments; perfection is through Him.",
+          "sourceRanges": [
+            {
+              "start": 106,
+              "end": 178
+            },
+            {
+              "start": 345,
+              "end": 383
+            }
+          ],
+          "topic": "following"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Christ loves all God's children and exclusion is challenged, but this is not primarily a definition of divine identity.",
+          "sourceRanges": [
+            {
+              "start": 31,
+              "end": 59
+            },
+            {
+              "start": 83,
+              "end": 109
+            }
+          ],
+          "topic": "identity"
+        },
+        {
+          "fit": "supporting",
+          "reason": "Dube asks for words to help, and Lauren reports an answer to prayer; these examples are not a complete discernment method.",
+          "sourceRanges": [
+            {
+              "start": 196,
+              "end": 253
+            },
+            {
+              "start": 293,
+              "end": 349
+            }
+          ],
+          "topic": "revelation"
+        },
+        {
+          "fit": "direct",
+          "reason": "Inadequacy, habits, guilt, grief, and uncertain faith need not block coming to Christ for help and eventual perfection.",
+          "sourceRanges": [
+            {
+              "start": 106,
+              "end": 178
+            },
+            {
+              "start": 345,
+              "end": 483
+            }
+          ],
+          "topic": "hope"
+        },
+        {
+          "fit": "supporting",
+          "reason": "The couple's sealing goal supplies a covenant context, while the main emphasis is grace, effort, and welcome.",
+          "sourceRanges": [
+            {
+              "start": 262,
+              "end": 383
+            }
+          ],
+          "topic": "covenants"
+        },
+        {
+          "fit": "direct",
+          "reason": "An invitation that avoids exclusion, empathic ministering, prayerful support, and inviting one person to Christ offer practical service cases.",
+          "sourceRanges": [
+            {
+              "start": 13,
+              "end": 59
+            },
+            {
+              "start": 173,
+              "end": 383
+            },
+            {
+              "start": 478,
+              "end": 528
+            }
+          ],
+          "topic": "serving"
+        }
+      ],
+      "usefulStories": [
+        {
+          "storyId": "dube-sign",
+          "suitability": "Clear welcoming-vs-exclusion story; the later gate-of-the-heart use is a metaphor."
+        },
+        {
+          "storyId": "dube-couple",
+          "suitability": "Substantial account combining ministering, effort, prayer, and temple preparation; use with the requirements/grace qualification."
+        },
+        {
+          "storyId": "dube-letter",
+          "suitability": "Brief reported uncertainty vignette and invitation, not a story of doubts being fully resolved."
+        }
+      ],
+      "qualifications": [
+        "Coming to Christ before perfection does not eliminate sincere effort, repentance, or ordinance requirements; he quotes love and keeping commandments alongside eventual perfection.",
+        "The captions garble the visiting leader's and couple's names; do not create name-based trivia from uncertain spellings.",
+        "The couple later reaches its temple goal; do not infer that requirements were waived or specify an unreported quitting timetable.",
+        "The former missionary's doubts are acknowledged; the address does not report that the writer's uncertainty was subsequently resolved.",
+        "His service promise should not be turned into a guarantee of an immediate particular external result."
+      ],
+      "corrections": [
+        "Existing useful-window summaries understate the end of the couple story's grace application (it completes about 06:22), and the letter search range stops before the complete invitation to Christ's joy."
+      ],
+      "catalogCorrections": [
+        {
+          "storyId": "dube-couple",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 167,
+              "end": 373
+            }
+          ],
+          "new": [
+            {
+              "start": 172,
+              "end": 384
+            }
+          ],
+          "reason": "The prayer/trust/willing-heart and Christ's grace conclusion finishes after the old endpoint and is essential context."
+        },
+        {
+          "storyId": "dube-letter",
+          "field": "sourceRanges",
+          "old": [
+            {
+              "start": 431,
+              "end": 469
+            }
+          ],
+          "new": [
+            {
+              "start": 441,
+              "end": 484
+            }
+          ],
+          "reason": "The former missionary setup begins about 07:22 and Dube's invitation to full joy completes about 08:03."
+        }
+      ],
+      "boardCorrections": [],
+      "passages": [
+        {
+          "id": "dube-come-before-perfection",
+          "title": "Come to Christ to be perfected",
+          "kind": "teaching",
+          "topics": [
+            "following",
+            "hope"
+          ],
+          "start": 105.54,
+          "end": 178.299,
+          "rationale": "Includes Moroni's action/surrender teaching and the qualification about eventual perfection through the Lord.",
+          "leadCueText": "Consider moroniz invitation.",
+          "tailCueText": "love him and keep his commandments.\"",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            32,
+            51
+          ]
+        },
+        {
+          "id": "dube-uncertain-faith-and-invitation",
+          "storyId": "dube-letter",
+          "title": "An invitation for uncertain faith",
+          "kind": "story",
+          "topics": [
+            "hope",
+            "serving"
+          ],
+          "start": 440.82,
+          "end": 499.98,
+          "rationale": "The writer's uncertainty, the invitation to Christ's joy, and one-person invitation provide a complete useful passage.",
+          "leadCueText": "One of our former missionaries wrote me",
+          "tailCueText": "with the missionaries?",
+          "boundaryStatus": "caption-reviewed; audio not independently verified",
+          "sourceCueNumbers": [
+            130,
+            144
+          ]
+        }
+      ]
+    }
+  ]
+}

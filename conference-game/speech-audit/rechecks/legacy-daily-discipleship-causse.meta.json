@@ -1,0 +1,16 @@
+{
+  "clipId": "legacy-daily-discipleship-causse",
+  "clipSha256": "42af9ad9719bb4f6521199ffeb6f208789d3604aca7b6c83bf9c48bccc04d721",
+  "sourceFingerprint": "8dd3d19a6c49cfccde0d1b3fae68d9baf8f0e1b514b49fc0c80fe630e4dde480",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\.cache\\whisper\\ggml-large-v3.bin",
+  "modelSha256": "64d182b440b98d5203c4f9bd541544d84c605196c4f7b845dfa11fb23594d1e2",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cpu",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:48:54.295879+00:00"
+}

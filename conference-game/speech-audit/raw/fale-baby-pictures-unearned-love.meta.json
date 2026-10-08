@@ -1,0 +1,16 @@
+{
+  "clipId": "fale-baby-pictures-unearned-love",
+  "clipSha256": "ac639662343f5c450839bc45dab0673cc85bbce5016900bca0150f603d947117",
+  "sourceFingerprint": "d6b1b1bd9f5dcca69b2a7bb27658e08ec0c7741d4077a4f4e8573e87920d04ed",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:19.047366+00:00"
+}

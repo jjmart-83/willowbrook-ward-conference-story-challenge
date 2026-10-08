@@ -1,0 +1,32 @@
+{
+  "clipCount": 124,
+  "reviewedClips": 104,
+  "originalClips": 20,
+  "largerModelRechecks": 19,
+  "meaningChecks": 296,
+  "meaningChecksMatched": 295,
+  "priorityCounts": {
+    "high": 3,
+    "medium": 91,
+    "low": 30
+  },
+  "contentAssessmentCounts": {
+    "supported": 121,
+    "uncertain": 1,
+    "possibly-missing": 2
+  },
+  "currentClipTranscriptAndModelHashesVerified": true,
+  "unpromptedEnglishTranscriptsVerified": true,
+  "localLinksChecked": 2082,
+  "missingLinks": [],
+  "stalePreferredTranscriptRejected": true,
+  "humanAudioVerified": false,
+  "recordedAtUtc": "2026-10-05T15:16:13.748595+00:00",
+  "analysisSha256": "7711c5a29a8e96a55d48b9941da96f00172f6f6a3c82fca0963990c20666b7d3",
+  "inspectionCodeSha256": {
+    "clip-playback.js": "8d9b67d30e3fe693d486ee1d121a3d701a6210b518b61360ceb53a9030068ea4",
+    "clip-library.js": "52bfba21ee817ac518cdb3f36cfdf5456d9d918c17b2f62fc67cc1f779052c51",
+    "compare_clip_speech.py": "8d0acda1e22ddb3190a50e9980a64872f802e4a4924b869c3e5cc22e9a6eb7be",
+    "run_clip_whisper.py": "5fa8bfa9e81316724979511d1bab2b1f043b6c539b3920875ce405a28ea0efd2"
+  }
+}

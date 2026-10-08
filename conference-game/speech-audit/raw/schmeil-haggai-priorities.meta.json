@@ -1,0 +1,16 @@
+{
+  "clipId": "schmeil-haggai-priorities",
+  "clipSha256": "d0aeb5b53f9417097ab2516d4caf4429b2bf0e367fced28cfe6f56911f1d1945",
+  "sourceFingerprint": "5a1e2cb2d841030f093e971261c9aca63c4b3f50d7819d33a95520f1f7401bbe",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:49.321837+00:00"
+}

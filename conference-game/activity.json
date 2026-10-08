@@ -1,0 +1,231 @@
+{
+  "event": "October 2026 General Conference Activity",
+  "groups": [
+    {
+      "id": "deacons",
+      "name": "Deacons",
+      "topic": "Following Jesus Christ",
+      "question": "What blessings or results can we expect by following Jesus every day?",
+      "followUp": "What is one small, specific way to follow Him at home, school, or with friends this week?"
+    },
+    {
+      "id": "builders",
+      "name": "Builders of Faith",
+      "topic": "Our identity and worth as children of God",
+      "question": "How does knowing who we are change how we see ourselves and treat others?",
+      "followUp": "When someone feels overlooked or not enough, what could help them remember their relationship with Heavenly Father and the Savior?",
+      "fitNote": "Kearon offers a direct connection to our relationship with an adoring Father in Heaven; Hathaway is a related passage about feeling left out or not enough."
+    },
+    {
+      "id": "teachers",
+      "name": "Teachers",
+      "topic": "Recognizing the Holy Ghost and receiving personal revelation",
+      "question": "How can we seek, recognize, and act on guidance from the Spirit?",
+      "followUp": "What helps you make room to hear the Spirit, and what is a faithful next step after you feel guided?"
+    },
+    {
+      "id": "hope",
+      "name": "Messengers of Hope",
+      "topic": "Finding strength in Christ through challenges",
+      "question": "What can we do when life is hard or our faith is strained?",
+      "followUp": "What support can we turn to when a difficulty is not fixed right away?"
+    },
+    {
+      "id": "priests",
+      "name": "Priests",
+      "topic": "Covenants, the sacrament, and temple preparation",
+      "question": "How do our covenants connect us to Jesus Christ and help us become more like Him?",
+      "followUp": "What can a young man do now to prepare to participate thoughtfully in the sacrament and temple ordinances?",
+      "fitNote": "Chigbundu gives a direct sacrament passage and connects scripture, prayer, sacrament, and covenants with staying on the covenant path."
+    },
+    {
+      "id": "gatherers",
+      "name": "Gatherers of Light",
+      "topic": "Loving, serving, and inviting others to Christ",
+      "question": "How can we help others feel the Savior's love?",
+      "followUp": "What is one natural, kind way to help someone feel included without pressuring them?"
+    }
+  ],
+  "quotes": [
+    {
+      "id": "identity-bridge-hathaway",
+      "groupId": "builders",
+      "speakerId": "kevin-j-hathaway",
+      "start": 0,
+      "end": 24,
+      "text": "Jesus Christ is the great deliverer. Have you ever felt left out? Wondered if you were enough, lost someone you loved, faced illness, experienced family difficulties, or carried a burden no one else could see?",
+      "prompt": "This is a bridge into the group's topic, not a direct teaching about divine identity. What might remembering that we are children of God add to this message?"
+    },
+    {
+      "id": "daily-discipleship-causse",
+      "groupId": "deacons",
+      "speakerId": "gerald-causse",
+      "start": 176,
+      "end": 207,
+      "text": "The sacred responsibility to bear witness of Jesus Christ is not limited to prophets and apostles. It extends to all His disciples. ... Through your testimonies in word and deed, you demonstrate the reality of a loving Savior and of the blessings that come through His gospel.",
+      "prompt": "How might a person's everyday actions show that they are trying to follow Jesus?"
+    },
+    {
+      "id": "lifelong-discipleship-douglas",
+      "groupId": "deacons",
+      "speakerId": "sean-douglas",
+      "start": 304,
+      "end": 326,
+      "text": "Serving missions are just one of many significant steps on the path of lifelong discipleship.",
+      "prompt": "What are some steps of discipleship a teenager can take now, before serving a mission?"
+    },
+    {
+      "id": "revelation-soares",
+      "groupId": "teachers",
+      "speakerId": "ulisses-soares",
+      "start": 178,
+      "end": 194,
+      "text": "Our hearts are softened. Our souls become more receptive to the influence of the Holy Ghost. And we are better prepared to receive personal revelation and move forward along the covenant path.",
+      "prompt": "What practices in this talk help make our hearts more receptive?"
+    },
+    {
+      "id": "enduring-grace-hathaway",
+      "groupId": "hope",
+      "speakerId": "kevin-j-hathaway",
+      "start": 289,
+      "end": 320,
+      "text": "This grace does not remove the pain and difficulty of affliction. It is an enabling power that allows us, after all we can do, to receive divine strength beyond our own and lay hold on eternal promises through Jesus Christ.",
+      "prompt": "What is the difference between a problem ending and receiving strength to endure it?"
+    },
+    {
+      "id": "shaped-by-christ-runia",
+      "groupId": "hope",
+      "speakerId": "tamara-w-runia",
+      "start": 444,
+      "end": 495,
+      "text": "There is a sculpting taking place within each of our souls. ... God is shaping us into something only He knows we can become. ... The molding, the shaping, the pain and adversity have helped us become more like Him.",
+      "prompt": "What could it look like to invite the Savior's help while a challenge is still happening?"
+    },
+    {
+      "id": "covenants-gong",
+      "groupId": "priests",
+      "speakerId": "gerrit-w-gong",
+      "start": 238,
+      "end": 274,
+      "text": "When the Holy Spirit of Promise witnesses and confirms the efficacy of ordinances and covenants, they become binding in time and eternity. ... As we honor our covenants, the Holy Spirit of Promise seals our relationships.",
+      "prompt": "How do covenants help connect us to Jesus Christ and to people we love?"
+    },
+    {
+      "id": "sharing-love-causse",
+      "groupId": "gatherers",
+      "speakerId": "gerald-causse",
+      "start": 310,
+      "end": 351,
+      "text": "Because we love others, we naturally desire to share with them the most precious gift we have received, our witness of Jesus Christ and His gospel.",
+      "prompt": "How can we share what matters to us in a way that helps another person feel loved?"
+    },
+    {
+      "id": "missionary-example-douglas",
+      "groupId": "gatherers",
+      "speakerId": "sean-douglas",
+      "start": 52,
+      "end": 68,
+      "text": "We love missionaries of all ages. You are an army of righteousness with the doctrine of Christ as your purpose. You are a force of faith, power, love, and joy. You are what you preach.",
+      "prompt": "How can our example help someone feel the Savior's love and become more willing to hear an invitation?"
+    },
+    {
+      "id": "identity-kearon",
+      "groupId": "builders",
+      "speakerId": "patrick-kearon",
+      "start": 225,
+      "end": 238,
+      "text": "At the heart of our faith is the glorious truth that we have an adoring Father in Heaven whose Son, our Savior, loves to lift.",
+      "prompt": "How could knowing that Heavenly Father is adoring and that Jesus wants to lift us change how we see ourselves and others?"
+    },
+    {
+      "id": "holy-spirit-kearon",
+      "groupId": "teachers",
+      "speakerId": "patrick-kearon",
+      "start": 297,
+      "end": 313,
+      "text": "Spiritual lift cannot be seen. But as we learn to discern and act upon the sensitive impressions of the Holy Spirit, we can feel it as surely as I felt the rising air lift a wing beneath me.",
+      "prompt": "What helps you recognize a spiritual impression, and what might acting on it look like?"
+    },
+    {
+      "id": "trust-through-trials-renlund",
+      "groupId": "hope",
+      "speakerId": "dale-g-renlund",
+      "start": 297,
+      "end": 333,
+      "text": "Yet, God invites us to trust Him and His promises. ... In the world you shall have tribulation, but be of good cheer. I have overcome the world. ... When our faith is centered on Jesus Christ, He promises spiritual peace no matter our circumstances.",
+      "prompt": "What could trusting Christ look like while a challenge is still present?"
+    },
+    {
+      "id": "love-as-care-rasband",
+      "groupId": "gatherers",
+      "speakerId": "ronald-a-rasband",
+      "start": 285,
+      "end": 312,
+      "text": "Love is not stepping back or sanctioning others' decisions and actions. Love is being interested in their lives, their successes, and their challenges. Love is being there with arms outstretched and a cheerful countenance. Love is lifting with faith and hope in our Lord and Savior.",
+      "prompt": "What are practical ways to show interest and keep our arms open while still honoring another person's agency?"
+    },
+    {
+      "id": "sacrament-chigbundu",
+      "groupId": "priests",
+      "speakerId": "christian-c-chigbundu",
+      "start": 358,
+      "end": 376,
+      "text": "The sacrament is a sacred ordinance that strengthens our relationship with the Savior. During the sacrament, we make promises to take upon us the name of Jesus Christ, to always remember Him, and to keep His commandments.",
+      "prompt": "What could remembering Jesus Christ during the week look like after taking the sacrament?"
+    },
+    {
+      "id": "identity-fale",
+      "groupId": "builders",
+      "speakerId": "hutch-u-fale",
+      "start": 1,
+      "end": 31,
+      "text": "I am a child of God and He loves me. ... Each is a beloved spirit son or daughter of heavenly parents and as such each has a divine nature and destiny.",
+      "prompt": "How should knowing this about ourselves shape how we see and treat someone else?"
+    },
+    {
+      "id": "covenant-reach-morgan",
+      "groupId": "priests",
+      "speakerId": "jeremiah-j-morgan",
+      "start": 363,
+      "end": 381,
+      "text": "Covenants with God stretch over all time and all space. If you are wondering whether you or a loved one has wandered so far away that the love of God and His covenantal power cannot reach you, I say to you, you have not.",
+      "prompt": "How can remembering the reach of God's covenantal love give hope to a family?"
+    },
+    {
+      "id": "holy-ghost-comfort-eyring",
+      "groupId": "hope",
+      "speakerId": "matthew-j-eyring",
+      "start": 428,
+      "end": 444,
+      "text": "The Savior's peace is made manifest through the comforting power of the Holy Ghost. That comfort will help us when we go through the inevitable hardships of life and times when we can't fix things on our own.",
+      "prompt": "What are ways the Holy Ghost can comfort us when we cannot fix a problem right away?"
+    },
+    {
+      "id": "burden-bearer-dunn",
+      "groupId": "hope",
+      "speakerId": "michael-a-dunn",
+      "start": 316,
+      "end": 328,
+      "text": "The Redeemer rescues not by shortening our course, but by helping us lengthen our stride.",
+      "prompt": "How can Christ help us keep moving even when the challenge is still there?"
+    },
+    {
+      "id": "commandments-giuffra",
+      "groupId": "deacons",
+      "speakerId": "patricio-m-giuffra",
+      "start": 238,
+      "end": 262,
+      "text": "We keep the commandments because we love God, not merely because we hope to receive the blessings that come from obedience. Commandments are given to draw us closer to the Savior, to protect us, and to help us remain free from sin and many of the challenges the world presents.",
+      "prompt": "How can obedience be an expression of love for Jesus Christ in everyday life?"
+    },
+    {
+      "id": "divine-appointments-farnes",
+      "groupId": "gatherers",
+      "speakerId": "timothy-l-farnes",
+      "start": 266,
+      "end": 286,
+      "text": "Where others saw an inconvenience or an interruption, one man saw an opportunity to minister, a divine appointment. Seeing awakened compassion. Compassion moved him to act, and his actions changed a life forever.",
+      "prompt": "Who might God have placed in our path this week, and what could compassionate action look like?"
+    }
+  ]
+}

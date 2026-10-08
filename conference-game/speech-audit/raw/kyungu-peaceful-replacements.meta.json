@@ -1,0 +1,16 @@
+{
+  "clipId": "kyungu-peaceful-replacements",
+  "clipSha256": "a78aa07dcb7bb67ec719090c0c48e00995c13f55cc8307e98814bb7c5009c820",
+  "sourceFingerprint": "caff7920b47f35930ba585de133ac5ce72dab0ab7629cae41c6177e010bb3d12",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:19.234306+00:00"
+}

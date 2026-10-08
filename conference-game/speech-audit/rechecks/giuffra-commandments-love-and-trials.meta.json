@@ -1,0 +1,16 @@
+{
+  "clipId": "giuffra-commandments-love-and-trials",
+  "clipSha256": "f497b46eda35cda9199fc8bf5e7c569f913c3d98acc11982dd2283ae99899cbb",
+  "sourceFingerprint": "1b891413e8a190c5b6ddbcc845d981c9fe652725bc94a9e60145ce5a882d8e52",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\.cache\\whisper\\ggml-large-v3.bin",
+  "modelSha256": "64d182b440b98d5203c4f9bd541544d84c605196c4f7b845dfa11fb23594d1e2",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cpu",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:41:35.708056+00:00"
+}

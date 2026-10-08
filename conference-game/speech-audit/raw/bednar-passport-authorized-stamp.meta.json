@@ -1,0 +1,16 @@
+{
+  "clipId": "bednar-passport-authorized-stamp",
+  "clipSha256": "e1440c5ef8d90ea2d8407cea8fbd37e310751a51d9f60bc685c6e3d609fad712",
+  "sourceFingerprint": "38c930383c18696fb5b76cfa6f888709eb1240efc8bb17918e8ea238f0f41e7a",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:19.738436+00:00"
+}

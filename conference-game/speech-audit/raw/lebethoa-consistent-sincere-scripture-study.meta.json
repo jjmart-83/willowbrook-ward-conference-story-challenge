@@ -1,0 +1,16 @@
+{
+  "clipId": "lebethoa-consistent-sincere-scripture-study",
+  "clipSha256": "7de32f1dab40319a375b33c61deb2e0eb0f0e4e8ae2b3596f4f3a7c0de6b7349",
+  "sourceFingerprint": "41b5234a2acf937abf2db4edae6bbe0a59428ad6a92cf03a9d6e94f23dee8dcb",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:23:05.815168+00:00"
+}

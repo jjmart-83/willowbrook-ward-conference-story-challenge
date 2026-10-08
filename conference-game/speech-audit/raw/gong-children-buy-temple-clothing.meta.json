@@ -1,0 +1,16 @@
+{
+  "clipId": "gong-children-buy-temple-clothing",
+  "clipSha256": "0f4e66ebefd9408a9850622c41619d05ebd00fd62472229ffcadceac1ea837a7",
+  "sourceFingerprint": "441584a262d2af59d964840844a135700a0c5ab50cdd4df9bafe3a9e4ec7b3cb",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-06T06:40:14.452008+00:00"
+}

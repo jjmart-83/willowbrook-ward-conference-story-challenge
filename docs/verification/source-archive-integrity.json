@@ -1,0 +1,17 @@
+{
+  "checkedDate": "2026-10-07",
+  "conference": "October 2026",
+  "repository": "jjmart-83/willowbrook-ward-conference-story-challenge",
+  "releaseTag": "october-2026-project-archive",
+  "sourceFolders": 37,
+  "sourceFiles": 222,
+  "sourceBytes": 4395942551,
+  "githubAttachments": 38,
+  "githubSha256DigestsMatched": true,
+  "allOriginalFileHashesMatched": true,
+  "actualRestoreCheck": {
+    "talkId": "dallin-h-oaks-temples",
+    "filesRestoredAndVerified": 6,
+    "cachedClipFingerprintsMatched": 2
+  }
+}

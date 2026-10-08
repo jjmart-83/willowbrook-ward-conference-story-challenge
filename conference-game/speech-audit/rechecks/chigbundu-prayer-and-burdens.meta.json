@@ -1,0 +1,16 @@
+{
+  "clipId": "chigbundu-prayer-and-burdens",
+  "clipSha256": "ab6f3731d5b48b0c8f52322743d0fe9777b600d3e2f3aa9668bad9f0d1cc23ab",
+  "sourceFingerprint": "4f6b886b525e81ac5a94b60751399bd382aa283139e354274b2b99054ff060ca",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\.cache\\whisper\\ggml-large-v3.bin",
+  "modelSha256": "64d182b440b98d5203c4f9bd541544d84c605196c4f7b845dfa11fb23594d1e2",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cpu",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:37:30.829689+00:00"
+}

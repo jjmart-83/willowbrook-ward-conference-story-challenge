@@ -1,0 +1,16 @@
+{
+  "clipId": "chibota-prayer-promptings-coworker",
+  "clipSha256": "0e634a81560ce53927186a3df8c877efcd2409b3629d4c2f187135b9006217df",
+  "sourceFingerprint": "0f160a446a91ace10e2c4d08b198117ba16e9d320171bd5d89478842eb2d70ba",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:57.775373+00:00"
+}

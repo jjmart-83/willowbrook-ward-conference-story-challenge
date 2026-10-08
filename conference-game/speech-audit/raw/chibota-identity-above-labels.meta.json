@@ -1,0 +1,16 @@
+{
+  "clipId": "chibota-identity-above-labels",
+  "clipSha256": "9be6c14e6c66168608e46166bc92053f95db74dfd904876bbe192bda465ea8d4",
+  "sourceFingerprint": "10ddbf788d9335cc103c0d21054d256cac5db5fddd8b10685a5aaad41fa6d258",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:57.272492+00:00"
+}

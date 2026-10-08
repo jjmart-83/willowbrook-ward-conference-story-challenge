@@ -1,0 +1,756 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | CUDA : ARCHS = 500,610,700,750,800,860,890,900 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": false,
+		"vocab": 51864,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,420"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4420
+			},
+			"text": " \"We love missionaries of all ages.",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 0
+					},
+					"id": 50363,
+					"p": 0.857706,
+					"t_dtw": -1
+				},
+				{
+					"text": " \"",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,140"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 140
+					},
+					"id": 366,
+					"p": 0.0288766,
+					"t_dtw": -1
+				},
+				{
+					"text": "We",
+					"timestamps": {
+						"from": "00:00:00,140",
+						"to": "00:00:00,420"
+					},
+					"offsets": {
+						"from": 140,
+						"to": 420
+					},
+					"id": 1135,
+					"p": 0.945103,
+					"t_dtw": -1
+				},
+				{
+					"text": " love",
+					"timestamps": {
+						"from": "00:00:00,710",
+						"to": "00:00:00,990"
+					},
+					"offsets": {
+						"from": 710,
+						"to": 990
+					},
+					"id": 1842,
+					"p": 0.973766,
+					"t_dtw": -1
+				},
+				{
+					"text": " missionaries",
+					"timestamps": {
+						"from": "00:00:00,990",
+						"to": "00:00:02,690"
+					},
+					"offsets": {
+						"from": 990,
+						"to": 2690
+					},
+					"id": 37458,
+					"p": 0.992665,
+					"t_dtw": -1
+				},
+				{
+					"text": " of",
+					"timestamps": {
+						"from": "00:00:02,690",
+						"to": "00:00:02,970"
+					},
+					"offsets": {
+						"from": 2690,
+						"to": 2970
+					},
+					"id": 286,
+					"p": 0.988284,
+					"t_dtw": -1
+				},
+				{
+					"text": " all",
+					"timestamps": {
+						"from": "00:00:02,970",
+						"to": "00:00:03,390"
+					},
+					"offsets": {
+						"from": 2970,
+						"to": 3390
+					},
+					"id": 477,
+					"p": 0.996213,
+					"t_dtw": -1
+				},
+				{
+					"text": " ages",
+					"timestamps": {
+						"from": "00:00:03,390",
+						"to": "00:00:03,640"
+					},
+					"offsets": {
+						"from": 3390,
+						"to": 3640
+					},
+					"id": 9337,
+					"p": 0.998928,
+					"t_dtw": -1
+				},
+				{
+					"text": ".",
+					"timestamps": {
+						"from": "00:00:04,340",
+						"to": "00:00:04,420"
+					},
+					"offsets": {
+						"from": 4340,
+						"to": 4420
+					},
+					"id": 13,
+					"p": 0.703754,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_221]",
+					"timestamps": {
+						"from": "00:00:04,420",
+						"to": "00:00:04,420"
+					},
+					"offsets": {
+						"from": 4420,
+						"to": 4420
+					},
+					"id": 50584,
+					"p": 0.163229,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,420",
+				"to": "00:00:09,640"
+			},
+			"offsets": {
+				"from": 4420,
+				"to": 9640
+			},
+			"text": " You are an army of righteousness with the doctrine of Christ as your purpose.",
+			"tokens": [
+				{
+					"text": " You",
+					"timestamps": {
+						"from": "00:00:04,420",
+						"to": "00:00:04,630"
+					},
+					"offsets": {
+						"from": 4420,
+						"to": 4630
+					},
+					"id": 921,
+					"p": 0.99663,
+					"t_dtw": -1
+				},
+				{
+					"text": " are",
+					"timestamps": {
+						"from": "00:00:04,630",
+						"to": "00:00:04,840"
+					},
+					"offsets": {
+						"from": 4630,
+						"to": 4840
+					},
+					"id": 389,
+					"p": 0.997777,
+					"t_dtw": -1
+				},
+				{
+					"text": " an",
+					"timestamps": {
+						"from": "00:00:04,840",
+						"to": "00:00:04,970"
+					},
+					"offsets": {
+						"from": 4840,
+						"to": 4970
+					},
+					"id": 281,
+					"p": 0.992551,
+					"t_dtw": -1
+				},
+				{
+					"text": " army",
+					"timestamps": {
+						"from": "00:00:05,130",
+						"to": "00:00:05,260"
+					},
+					"offsets": {
+						"from": 5130,
+						"to": 5260
+					},
+					"id": 5428,
+					"p": 0.938201,
+					"t_dtw": -1
+				},
+				{
+					"text": " of",
+					"timestamps": {
+						"from": "00:00:05,260",
+						"to": "00:00:05,400"
+					},
+					"offsets": {
+						"from": 5260,
+						"to": 5400
+					},
+					"id": 286,
+					"p": 0.998239,
+					"t_dtw": -1
+				},
+				{
+					"text": " righteousness",
+					"timestamps": {
+						"from": "00:00:05,400",
+						"to": "00:00:06,360"
+					},
+					"offsets": {
+						"from": 5400,
+						"to": 6360
+					},
+					"id": 33738,
+					"p": 0.99867,
+					"t_dtw": -1
+				},
+				{
+					"text": " with",
+					"timestamps": {
+						"from": "00:00:06,360",
+						"to": "00:00:06,690"
+					},
+					"offsets": {
+						"from": 6360,
+						"to": 6690
+					},
+					"id": 351,
+					"p": 0.698115,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:06,690",
+						"to": "00:00:06,930"
+					},
+					"offsets": {
+						"from": 6690,
+						"to": 6930
+					},
+					"id": 262,
+					"p": 0.958965,
+					"t_dtw": -1
+				},
+				{
+					"text": " doctrine",
+					"timestamps": {
+						"from": "00:00:07,070",
+						"to": "00:00:07,610"
+					},
+					"offsets": {
+						"from": 7070,
+						"to": 7610
+					},
+					"id": 13115,
+					"p": 0.980111,
+					"t_dtw": -1
+				},
+				{
+					"text": " of",
+					"timestamps": {
+						"from": "00:00:07,610",
+						"to": "00:00:07,740"
+					},
+					"offsets": {
+						"from": 7610,
+						"to": 7740
+					},
+					"id": 286,
+					"p": 0.994518,
+					"t_dtw": -1
+				},
+				{
+					"text": " Christ",
+					"timestamps": {
+						"from": "00:00:07,740",
+						"to": "00:00:08,050"
+					},
+					"offsets": {
+						"from": 7740,
+						"to": 8050
+					},
+					"id": 1951,
+					"p": 0.997296,
+					"t_dtw": -1
+				},
+				{
+					"text": " as",
+					"timestamps": {
+						"from": "00:00:08,050",
+						"to": "00:00:08,430"
+					},
+					"offsets": {
+						"from": 8050,
+						"to": 8430
+					},
+					"id": 355,
+					"p": 0.958837,
+					"t_dtw": -1
+				},
+				{
+					"text": " your",
+					"timestamps": {
+						"from": "00:00:08,740",
+						"to": "00:00:08,760"
+					},
+					"offsets": {
+						"from": 8740,
+						"to": 8760
+					},
+					"id": 534,
+					"p": 0.94377,
+					"t_dtw": -1
+				},
+				{
+					"text": " purpose",
+					"timestamps": {
+						"from": "00:00:08,780",
+						"to": "00:00:09,340"
+					},
+					"offsets": {
+						"from": 8780,
+						"to": 9340
+					},
+					"id": 4007,
+					"p": 0.994915,
+					"t_dtw": -1
+				},
+				{
+					"text": ".",
+					"timestamps": {
+						"from": "00:00:09,340",
+						"to": "00:00:09,640"
+					},
+					"offsets": {
+						"from": 9340,
+						"to": 9640
+					},
+					"id": 13,
+					"p": 0.938097,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_482]",
+					"timestamps": {
+						"from": "00:00:09,640",
+						"to": "00:00:09,640"
+					},
+					"offsets": {
+						"from": 9640,
+						"to": 9640
+					},
+					"id": 50845,
+					"p": 0.370979,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,640",
+				"to": "00:00:14,360"
+			},
+			"offsets": {
+				"from": 9640,
+				"to": 14360
+			},
+			"text": " You are a force of faith, power, love, and joy.",
+			"tokens": [
+				{
+					"text": " You",
+					"timestamps": {
+						"from": "00:00:09,640",
+						"to": "00:00:09,960"
+					},
+					"offsets": {
+						"from": 9640,
+						"to": 9960
+					},
+					"id": 921,
+					"p": 0.998047,
+					"t_dtw": -1
+				},
+				{
+					"text": " are",
+					"timestamps": {
+						"from": "00:00:10,280",
+						"to": "00:00:10,280"
+					},
+					"offsets": {
+						"from": 10280,
+						"to": 10280
+					},
+					"id": 389,
+					"p": 0.997817,
+					"t_dtw": -1
+				},
+				{
+					"text": " a",
+					"timestamps": {
+						"from": "00:00:10,350",
+						"to": "00:00:10,390"
+					},
+					"offsets": {
+						"from": 10350,
+						"to": 10390
+					},
+					"id": 257,
+					"p": 0.99605,
+					"t_dtw": -1
+				},
+				{
+					"text": " force",
+					"timestamps": {
+						"from": "00:00:10,390",
+						"to": "00:00:10,930"
+					},
+					"offsets": {
+						"from": 10390,
+						"to": 10930
+					},
+					"id": 2700,
+					"p": 0.972272,
+					"t_dtw": -1
+				},
+				{
+					"text": " of",
+					"timestamps": {
+						"from": "00:00:10,930",
+						"to": "00:00:11,150"
+					},
+					"offsets": {
+						"from": 10930,
+						"to": 11150
+					},
+					"id": 286,
+					"p": 0.999228,
+					"t_dtw": -1
+				},
+				{
+					"text": " faith",
+					"timestamps": {
+						"from": "00:00:11,150",
+						"to": "00:00:11,690"
+					},
+					"offsets": {
+						"from": 11150,
+						"to": 11690
+					},
+					"id": 4562,
+					"p": 0.997733,
+					"t_dtw": -1
+				},
+				{
+					"text": ",",
+					"timestamps": {
+						"from": "00:00:11,690",
+						"to": "00:00:11,900"
+					},
+					"offsets": {
+						"from": 11690,
+						"to": 11900
+					},
+					"id": 11,
+					"p": 0.965681,
+					"t_dtw": -1
+				},
+				{
+					"text": " power",
+					"timestamps": {
+						"from": "00:00:11,900",
+						"to": "00:00:12,440"
+					},
+					"offsets": {
+						"from": 11900,
+						"to": 12440
+					},
+					"id": 1176,
+					"p": 0.990535,
+					"t_dtw": -1
+				},
+				{
+					"text": ",",
+					"timestamps": {
+						"from": "00:00:12,440",
+						"to": "00:00:12,650"
+					},
+					"offsets": {
+						"from": 12440,
+						"to": 12650
+					},
+					"id": 11,
+					"p": 0.994063,
+					"t_dtw": -1
+				},
+				{
+					"text": " love",
+					"timestamps": {
+						"from": "00:00:12,650",
+						"to": "00:00:13,070"
+					},
+					"offsets": {
+						"from": 12650,
+						"to": 13070
+					},
+					"id": 1842,
+					"p": 0.995564,
+					"t_dtw": -1
+				},
+				{
+					"text": ",",
+					"timestamps": {
+						"from": "00:00:13,070",
+						"to": "00:00:13,270"
+					},
+					"offsets": {
+						"from": 13070,
+						"to": 13270
+					},
+					"id": 11,
+					"p": 0.506571,
+					"t_dtw": -1
+				},
+				{
+					"text": " and",
+					"timestamps": {
+						"from": "00:00:13,270",
+						"to": "00:00:13,460"
+					},
+					"offsets": {
+						"from": 13270,
+						"to": 13460
+					},
+					"id": 290,
+					"p": 0.995887,
+					"t_dtw": -1
+				},
+				{
+					"text": " joy",
+					"timestamps": {
+						"from": "00:00:13,930",
+						"to": "00:00:13,930"
+					},
+					"offsets": {
+						"from": 13930,
+						"to": 13930
+					},
+					"id": 8716,
+					"p": 0.998424,
+					"t_dtw": -1
+				},
+				{
+					"text": ".",
+					"timestamps": {
+						"from": "00:00:14,000",
+						"to": "00:00:14,360"
+					},
+					"offsets": {
+						"from": 14000,
+						"to": 14360
+					},
+					"id": 13,
+					"p": 0.906495,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_718]",
+					"timestamps": {
+						"from": "00:00:14,360",
+						"to": "00:00:14,360"
+					},
+					"offsets": {
+						"from": 14360,
+						"to": 14360
+					},
+					"id": 51081,
+					"p": 0.473978,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,360",
+				"to": "00:00:15,960"
+			},
+			"offsets": {
+				"from": 14360,
+				"to": 15960
+			},
+			"text": " You are what you preach.\"",
+			"tokens": [
+				{
+					"text": " You",
+					"timestamps": {
+						"from": "00:00:14,360",
+						"to": "00:00:14,560"
+					},
+					"offsets": {
+						"from": 14360,
+						"to": 14560
+					},
+					"id": 921,
+					"p": 0.996909,
+					"t_dtw": -1
+				},
+				{
+					"text": " are",
+					"timestamps": {
+						"from": "00:00:14,560",
+						"to": "00:00:14,760"
+					},
+					"offsets": {
+						"from": 14560,
+						"to": 14760
+					},
+					"id": 389,
+					"p": 0.99636,
+					"t_dtw": -1
+				},
+				{
+					"text": " what",
+					"timestamps": {
+						"from": "00:00:15,030",
+						"to": "00:00:15,030"
+					},
+					"offsets": {
+						"from": 15030,
+						"to": 15030
+					},
+					"id": 644,
+					"p": 0.996831,
+					"t_dtw": -1
+				},
+				{
+					"text": " you",
+					"timestamps": {
+						"from": "00:00:15,070",
+						"to": "00:00:15,230"
+					},
+					"offsets": {
+						"from": 15070,
+						"to": 15230
+					},
+					"id": 345,
+					"p": 0.968729,
+					"t_dtw": -1
+				},
+				{
+					"text": " preach",
+					"timestamps": {
+						"from": "00:00:15,230",
+						"to": "00:00:15,640"
+					},
+					"offsets": {
+						"from": 15230,
+						"to": 15640
+					},
+					"id": 32950,
+					"p": 0.998361,
+					"t_dtw": -1
+				},
+				{
+					"text": ".\"",
+					"timestamps": {
+						"from": "00:00:15,640",
+						"to": "00:00:15,950"
+					},
+					"offsets": {
+						"from": 15640,
+						"to": 15950
+					},
+					"id": 526,
+					"p": 0.596943,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_798]",
+					"timestamps": {
+						"from": "00:00:15,960",
+						"to": "00:00:15,960"
+					},
+					"offsets": {
+						"from": 15960,
+						"to": 15960
+					},
+					"id": 51161,
+					"p": 0.216076,
+					"t_dtw": -1
+				}
+			]
+		}
+	]
+}

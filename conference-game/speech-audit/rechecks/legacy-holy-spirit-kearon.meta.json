@@ -1,0 +1,16 @@
+{
+  "clipId": "legacy-holy-spirit-kearon",
+  "clipSha256": "a4d2fb194e37abc0e66b719675c4109d7cdb9d92ba7609f831733cd38b9b16c4",
+  "sourceFingerprint": "a77a697967949ba09598e1d15cf0ad76321c4dd8ac6bcd2044c48f5334d370ba",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\.cache\\whisper\\ggml-large-v3.bin",
+  "modelSha256": "64d182b440b98d5203c4f9bd541544d84c605196c4f7b845dfa11fb23594d1e2",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cpu",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:49:12.550046+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "verifiedDate": "2026-10-05",
+  "sessions": [
+    {
+      "id": "saturday-morning",
+      "label": "Saturday Morning Session",
+      "date": "2026-10-03",
+      "sourceUrl": "https://newsroom.churchofjesuschrist.org/article/saturday-morning-session-october-2026-general-conference",
+      "verification": "Roster checked against official session summary, October 5, 2026. Entries sorted by speaker name, not speaking order.",
+      "talkIds": [
+        "d-todd-christofferson",
+        "gerrit-w-gong",
+        "gerald-causse",
+        "kevin-j-hathaway",
+        "sean-douglas",
+        "tamara-w-runia",
+        "ulisses-soares",
+        "vaiangina-sikahema"
+      ]
+    },
+    {
+      "id": "saturday-afternoon",
+      "label": "Saturday Afternoon Session",
+      "date": "2026-10-03",
+      "sourceUrl": "https://newsroom.churchofjesuschrist.org/article/saturday-afternoon-session-october-2026-general-conference",
+      "verification": "Roster checked against official session summary, October 5, 2026. Entries sorted by speaker name, not speaking order.",
+      "talkIds": [
+        "christian-c-chigbundu",
+        "dale-g-renlund",
+        "hutch-u-fale",
+        "jeremiah-j-morgan",
+        "matthew-j-eyring",
+        "michael-a-dunn",
+        "patricio-m-giuffra",
+        "patrick-kearon",
+        "ronald-a-rasband",
+        "timothy-l-farnes"
+      ]
+    },
+    {
+      "id": "sunday-morning",
+      "label": "Sunday Morning Session",
+      "date": "2026-10-04",
+      "sourceUrl": "https://newsroom.churchofjesuschrist.org/article/sunday-morning-session-october-2026-general-conference",
+      "verification": "Roster checked against official session summary, October 5, 2026. Entries sorted by speaker name, not speaking order.",
+      "talkIds": [
+        "alfred-kyungu",
+        "ciro-schmeil",
+        "dallin-h-oaks",
+        "edward-dube",
+        "henry-b-eyring",
+        "james-g-o-fantone",
+        "neil-l-andersen",
+        "quentin-l-cook",
+        "rosemary-k-chibota"
+      ]
+    },
+    {
+      "id": "sunday-afternoon",
+      "label": "Sunday Afternoon Session",
+      "date": "2026-10-04",
+      "sourceUrl": "https://newsroom.churchofjesuschrist.org/article/sunday-afternoon-session-october-2026-general-conference",
+      "verification": "Roster checked against official session summary, October 5, 2026. Entries sorted by speaker name, not speaking order.",
+      "talkIds": [
+        "andrea-munoz-spannaus",
+        "clark-g-gilbert",
+        "dallin-h-oaks-temples",
+        "david-a-bednar",
+        "dieter-f-uchtdorf",
+        "gabriel-w-reid",
+        "gary-e-stevenson",
+        "moises-villanueva",
+        "paul-h-sinclair",
+        "thabo-lebethoa"
+      ]
+    }
+  ]
+}

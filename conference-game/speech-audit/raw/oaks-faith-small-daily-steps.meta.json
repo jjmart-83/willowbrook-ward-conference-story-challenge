@@ -1,0 +1,16 @@
+{
+  "clipId": "oaks-faith-small-daily-steps",
+  "clipSha256": "2534a7db106d0461bb5535c0ef0868f52874ed257b1fc30d55f2dd99bdb499f4",
+  "sourceFingerprint": "48ddf671845f131f6c2693bbb315e6e20d0f15910c2ae8d073df7983fc7d5a8c",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:58.905223+00:00"
+}

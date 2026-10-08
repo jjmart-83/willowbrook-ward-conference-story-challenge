@@ -1,0 +1,16 @@
+{
+  "clipId": "sinclair-child-example-and-spirit",
+  "clipSha256": "fe6d84576c692829511e56d15895d81277fe76cc53a5b8ab037e0a2e39857937",
+  "sourceFingerprint": "d87a0057b3bebc8a56929df9e10092451ea674ff6a527c960c5708ac3c8b9936",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:47.706168+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "clipId": "cook-integrity-spirit-and-repentance",
+  "clipSha256": "8e0622a07d2927bb3039de43f2e0baddf087a05d85ad6ac52e878715b1102ffa",
+  "sourceFingerprint": "a51825ab797023efd4cd100ae35a1b2a60651f99a35cd15b6be89d18993deb6a",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:53.227324+00:00"
+}

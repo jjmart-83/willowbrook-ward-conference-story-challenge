@@ -1,0 +1,16 @@
+{
+  "clipId": "legacy-sacrament-chigbundu",
+  "clipSha256": "c67b4fc0f04312cc4bfc2eb2b66a1f54dfc0a8484f2f659f86d439aeaba3544d",
+  "sourceFingerprint": "cacad6f1e3889977e02ce132bf7aefa1a776923777c294d4dfcacd2bf2506b71",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\.cache\\whisper\\ggml-large-v3.bin",
+  "modelSha256": "64d182b440b98d5203c4f9bd541544d84c605196c4f7b845dfa11fb23594d1e2",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cpu",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:49:31.421785+00:00"
+}

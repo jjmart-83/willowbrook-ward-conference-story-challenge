@@ -1,0 +1,16 @@
+{
+  "clipId": "schmeil-sacrament-willingness",
+  "clipSha256": "f32e0a5bf7300a79cd2cdd667f793da0a0a5952256647403440b1199a539af73",
+  "sourceFingerprint": "21510c71c8b2cbb2150dcfe41a1f0bd428779168cdef8357598d106929c0b3c6",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:21:47.815863+00:00"
+}

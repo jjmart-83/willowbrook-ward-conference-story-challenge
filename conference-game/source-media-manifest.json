@@ -1,0 +1,1825 @@
+{
+  "schemaVersion": 1,
+  "conference": "October 2026",
+  "downloadTool": "JDownloader2",
+  "downloadToolEvidence": "Reported by the activity organizer on October 7, 2026.",
+  "repository": "jjmart-83/willowbrook-ward-conference-story-challenge",
+  "releaseTag": "october-2026-project-archive",
+  "talks": [
+    {
+      "id": "alfred-kyungu",
+      "speaker": "Alfred Kyungu",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Yw2eu4hblTs",
+      "files": [
+        {
+          "path": "talks/Alfred Kyungu ¦ October 2026 General Conference/Alfred Kyungu ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 9710,
+          "sha256": "4ccc10011a79f534ef016615f37989850b2e6f2002f0cb802aaf018d89893e35",
+          "mtimeNs": 1791152397845534300
+        },
+        {
+          "path": "talks/Alfred Kyungu ¦ October 2026 General Conference/Alfred Kyungu ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 91820340,
+          "sha256": "421c7e18e0941e5993a3771bf139b259fdbc35f0d7fed9cc9df69e6da599bc86",
+          "mtimeNs": 1791152404658911300
+        },
+        {
+          "path": "talks/Alfred Kyungu ¦ October 2026 General Conference/Alfred Kyungu ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 7564116,
+          "sha256": "d24da053079df8036e110e07cfea047e142eed1c9bfd224821c038d667c7ce83",
+          "mtimeNs": 1791152398128777300
+        },
+        {
+          "path": "talks/Alfred Kyungu ¦ October 2026 General Conference/Alfred Kyungu ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 237874,
+          "sha256": "d10e8f8f6cdf227d1a2539d020beba7b8889244135a1bdec6990a25cf6531379",
+          "mtimeNs": 1791152397497000000
+        },
+        {
+          "path": "talks/Alfred Kyungu ¦ October 2026 General Conference/Alfred Kyungu ¦ October 2026 General Conference (Description).txt",
+          "bytes": 103,
+          "sha256": "fb16f63ba68fcec868d36bc446beeb5973e00c2d40285f0000b4af009f871229",
+          "mtimeNs": 1791152397538000000
+        },
+        {
+          "path": "talks/Alfred Kyungu ¦ October 2026 General Conference/Alfred Kyungu ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 9710,
+          "sha256": "4ccc10011a79f534ef016615f37989850b2e6f2002f0cb802aaf018d89893e35",
+          "mtimeNs": 1791152397830000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-alfred-kyungu.zip",
+        "bytes": 99643969,
+        "sha256": "0453bd6821eae049bdf3a48279cefbd63a226c89031976d7ef3e8d703875fe39",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-alfred-kyungu.zip"
+      }
+    },
+    {
+      "id": "andrea-munoz-spannaus",
+      "speaker": "Andrea Muñoz Spannaus",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fnrbdcG073I",
+      "files": [
+        {
+          "path": "talks/Andrea Muñoz Spannaus ¦ October 2026 General Conference/Andrea Muñoz Spannaus ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 11472,
+          "sha256": "6d9bda1d65b93db451b3f7f0180972d91bd07123e8486cae56087a7c82b3d624",
+          "mtimeNs": 1791168619868318100
+        },
+        {
+          "path": "talks/Andrea Muñoz Spannaus ¦ October 2026 General Conference/Andrea Muñoz Spannaus ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 106292019,
+          "sha256": "d2ebb5642ff384d2ad029270764a5713208ffeb5a243d7b1b0fb9f8e1b426aae",
+          "mtimeNs": 1791168638729497700
+        },
+        {
+          "path": "talks/Andrea Muñoz Spannaus ¦ October 2026 General Conference/Andrea Muñoz Spannaus ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8018491,
+          "sha256": "f1fcc6932187772c6cd716c9b07292d7ad0b6d0f936a1a227fb4c489af16688a",
+          "mtimeNs": 1791168638422306400
+        },
+        {
+          "path": "talks/Andrea Muñoz Spannaus ¦ October 2026 General Conference/Andrea Muñoz Spannaus ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 200344,
+          "sha256": "aa351836d6f09bf5d2c23e607e324ddc1d7575ca4a29b77b9117dc8f614e6138",
+          "mtimeNs": 1791168619494000000
+        },
+        {
+          "path": "talks/Andrea Muñoz Spannaus ¦ October 2026 General Conference/Andrea Muñoz Spannaus ¦ October 2026 General Conference (Description).txt",
+          "bytes": 114,
+          "sha256": "6e6bd0d388c2554f488123ae6a123ee278394fb28b7e9b69186b938f9d185fe6",
+          "mtimeNs": 1791168619538000000
+        },
+        {
+          "path": "talks/Andrea Muñoz Spannaus ¦ October 2026 General Conference/Andrea Muñoz Spannaus ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 11472,
+          "sha256": "6d9bda1d65b93db451b3f7f0180972d91bd07123e8486cae56087a7c82b3d624",
+          "mtimeNs": 1791168619859000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-andrea-munoz-spannaus.zip",
+        "bytes": 114536244,
+        "sha256": "ec67f0e80df980a10b0ca1678eb015d4341ff71bf92ebe842dc0649ca8b75af3",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-andrea-munoz-spannaus.zip"
+      }
+    },
+    {
+      "id": "christian-c-chigbundu",
+      "speaker": "Christian C. Chigbundu",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yY4BXKnYkl4",
+      "files": [
+        {
+          "path": "talks/Christian C Chigbundu ¦ October 2026 General Conference/Christian C. Chigbundu ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 11599,
+          "sha256": "9299d6f5094b433cdcee38dd82c9502655c5ec21e5c8d64ff4f923b437939b6e",
+          "mtimeNs": 1791081600182502100
+        },
+        {
+          "path": "talks/Christian C Chigbundu ¦ October 2026 General Conference/Christian C. Chigbundu ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 108859184,
+          "sha256": "a3c3d33f66fd45d926a1a428aa6e5c5360f35813c8d2bd5f5843ac5006671648",
+          "mtimeNs": 1791081607758265400
+        },
+        {
+          "path": "talks/Christian C Chigbundu ¦ October 2026 General Conference/Christian C. Chigbundu ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8318894,
+          "sha256": "724177a0c96bb7eab3d73a5cf08c9bcd54641ce4dacc80eb2f4d1a1e480f529f",
+          "mtimeNs": 1791081600574916900
+        },
+        {
+          "path": "talks/Christian C Chigbundu ¦ October 2026 General Conference/Christian C. Chigbundu ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 197684,
+          "sha256": "c823e7a63c76435038abc40abaa096b86775c52c95c88aca77be495abec08035",
+          "mtimeNs": 1791081599857000000
+        },
+        {
+          "path": "talks/Christian C Chigbundu ¦ October 2026 General Conference/Christian C. Chigbundu ¦ October 2026 General Conference (Description).txt",
+          "bytes": 116,
+          "sha256": "80895a2f6d53410444f2020efaf6a8df99dea298c91a343b1b651d71a6792013",
+          "mtimeNs": 1791081599899000000
+        },
+        {
+          "path": "talks/Christian C Chigbundu ¦ October 2026 General Conference/Christian C. Chigbundu ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 11599,
+          "sha256": "9299d6f5094b433cdcee38dd82c9502655c5ec21e5c8d64ff4f923b437939b6e",
+          "mtimeNs": 1791081600174000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-christian-c-chigbundu.zip",
+        "bytes": 117401396,
+        "sha256": "e1ef0c013ff419981cc56435f1d4b33f365fd0bababbe1740a43cd817135ff2b",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-christian-c-chigbundu.zip"
+      }
+    },
+    {
+      "id": "ciro-schmeil",
+      "speaker": "Ciro Schmeil",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gX8IyrAjGnY",
+      "files": [
+        {
+          "path": "talks/Ciro Schmeil ¦ October 2026 General Conference/Ciro Schmeil ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 11966,
+          "sha256": "bb2a639cc33109d124d191d097f39c98816735cdd6e38e421f1d745995fb0157",
+          "mtimeNs": 1791152399273867100
+        },
+        {
+          "path": "talks/Ciro Schmeil ¦ October 2026 General Conference/Ciro Schmeil ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 96154840,
+          "sha256": "798ae24292903f43d5e27fcf177f924035c3e35771470d3acb2c83b1baed19dc",
+          "mtimeNs": 1791152404109413600
+        },
+        {
+          "path": "talks/Ciro Schmeil ¦ October 2026 General Conference/Ciro Schmeil ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8140197,
+          "sha256": "0398a3bc4ee6015e8aa8f621a4c85b2ad213179170e65ac519c506ec22599c9f",
+          "mtimeNs": 1791152398771135300
+        },
+        {
+          "path": "talks/Ciro Schmeil ¦ October 2026 General Conference/Ciro Schmeil ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 205755,
+          "sha256": "80c34391bb7b672bf735a7c38138ac787798515f1630296f607eab59f387fc7f",
+          "mtimeNs": 1791152398974000000
+        },
+        {
+          "path": "talks/Ciro Schmeil ¦ October 2026 General Conference/Ciro Schmeil ¦ October 2026 General Conference (Description).txt",
+          "bytes": 102,
+          "sha256": "14cf214d5368a3f622c61534d243f22743e680cc3d17204d1d16d99f08148f7c",
+          "mtimeNs": 1791152399015000000
+        },
+        {
+          "path": "talks/Ciro Schmeil ¦ October 2026 General Conference/Ciro Schmeil ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 11966,
+          "sha256": "bb2a639cc33109d124d191d097f39c98816735cdd6e38e421f1d745995fb0157",
+          "mtimeNs": 1791152399265000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-ciro-schmeil.zip",
+        "bytes": 104526918,
+        "sha256": "2e62b072c68814e9a52561fb3d174714ae80b3b6b99d3799f0442da0cab9ef99",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-ciro-schmeil.zip"
+      }
+    },
+    {
+      "id": "clark-g-gilbert",
+      "speaker": "Clark G. Gilbert",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ml566zFg82E",
+      "files": [
+        {
+          "path": "talks/Clark G Gilbert ¦ October 2026 General Conference/Clark G. Gilbert ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 16315,
+          "sha256": "f331cbb4d6124d5a17c6e5ff23eb288cbe79958e609692b3b39284c594c2c16a",
+          "mtimeNs": 1791165782038489200
+        },
+        {
+          "path": "talks/Clark G Gilbert ¦ October 2026 General Conference/Clark G. Gilbert ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 111101962,
+          "sha256": "6de79c7eb4477a79ff0664eba52daf595b439b42b909a9d6451decbae7ccaead",
+          "mtimeNs": 1791165790183422900
+        },
+        {
+          "path": "talks/Clark G Gilbert ¦ October 2026 General Conference/Clark G. Gilbert ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 11647915,
+          "sha256": "4af421fd6f462aa8ed690127095f81504d85c36efaadee74d557ae30dbb6c612",
+          "mtimeNs": 1791165783498587800
+        },
+        {
+          "path": "talks/Clark G Gilbert ¦ October 2026 General Conference/Clark G. Gilbert ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 179851,
+          "sha256": "67108fc14874ce2a6537285f5c20ac6227d5c1f49b74403e7377a7b2a4c3c552",
+          "mtimeNs": 1791165781996000000
+        },
+        {
+          "path": "talks/Clark G Gilbert ¦ October 2026 General Conference/Clark G. Gilbert ¦ October 2026 General Conference (Description).txt",
+          "bytes": 108,
+          "sha256": "251ff77424ab0b4a6104e5dec8583774474b147870196b3bfa8143de1006983c",
+          "mtimeNs": 1791165781870000000
+        },
+        {
+          "path": "talks/Clark G Gilbert ¦ October 2026 General Conference/Clark G. Gilbert ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 16315,
+          "sha256": "f331cbb4d6124d5a17c6e5ff23eb288cbe79958e609692b3b39284c594c2c16a",
+          "mtimeNs": 1791165782005000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-clark-g-gilbert.zip",
+        "bytes": 122964642,
+        "sha256": "1cd678323660a8a27744ff18f31b8892c49e9c6d00c8c64b45c05bebbbedce2c",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-clark-g-gilbert.zip"
+      }
+    },
+    {
+      "id": "d-todd-christofferson",
+      "speaker": "D. Todd Christofferson",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iQptlrz_OAo",
+      "files": [
+        {
+          "path": "talks/D Todd Christofferson ¦ October 2026 General Conference/D. Todd Christofferson ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 19028,
+          "sha256": "cdd6d0e08c0f9112bb3a40dad619cf61804ebd8115f693950ee76a77b0302fd5",
+          "mtimeNs": 1791061273048618400
+        },
+        {
+          "path": "talks/D Todd Christofferson ¦ October 2026 General Conference/D. Todd Christofferson ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 128295615,
+          "sha256": "78b3f61c73038d102bc2540a0189a5723337beea575e6d1b05a5059e15969ad0",
+          "mtimeNs": 1791061279520401400
+        },
+        {
+          "path": "talks/D Todd Christofferson ¦ October 2026 General Conference/D. Todd Christofferson ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 12403470,
+          "sha256": "144469cf61a756c0bd597989ec357f4c5e5174fead136c0e204cf70e7d235f89",
+          "mtimeNs": 1791061273119428500
+        },
+        {
+          "path": "talks/D Todd Christofferson ¦ October 2026 General Conference/D. Todd Christofferson ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 178635,
+          "sha256": "5ba489c29f4ad45652d18d7f6a5c6fcf4e225ccb1dd088882b9eaad0584e8b29",
+          "mtimeNs": 1791061272735000000
+        },
+        {
+          "path": "talks/D Todd Christofferson ¦ October 2026 General Conference/D. Todd Christofferson ¦ October 2026 General Conference (Description).txt",
+          "bytes": 114,
+          "sha256": "c59e4ea665f1aba82c373a40ffcf0440d85675c0fbeb0d77b2f75323649dab39",
+          "mtimeNs": 1791061272780000000
+        },
+        {
+          "path": "talks/D Todd Christofferson ¦ October 2026 General Conference/D. Todd Christofferson ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 19028,
+          "sha256": "cdd6d0e08c0f9112bb3a40dad619cf61804ebd8115f693950ee76a77b0302fd5",
+          "mtimeNs": 1791061273039000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-d-todd-christofferson.zip",
+        "bytes": 140918210,
+        "sha256": "1533855bfd4136e494ddd121b580e9905a5a499e2703fc265940f4d38b399d8f",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-d-todd-christofferson.zip"
+      }
+    },
+    {
+      "id": "dale-g-renlund",
+      "speaker": "Dale G. Renlund",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bPdFlOra5Mo",
+      "files": [
+        {
+          "path": "talks/Dale G Renlund ¦ October 2026 General Conference/Dale G. Renlund ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 15560,
+          "sha256": "98dec2cd8f12957a30f74594623096780a0ad099e7ef896eed07f766381de6cd",
+          "mtimeNs": 1791075626067697400
+        },
+        {
+          "path": "talks/Dale G Renlund ¦ October 2026 General Conference/Dale G. Renlund ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 124345714,
+          "sha256": "00b6698e454ae4d7f56e06125e49dd852af7629b3a0f07cd915c9787a8ff68f7",
+          "mtimeNs": 1791075634444463700
+        },
+        {
+          "path": "talks/Dale G Renlund ¦ October 2026 General Conference/Dale G. Renlund ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 10150750,
+          "sha256": "4e8b3e2514c6ef6228da589c72d353d08da0d8abf648d25a7066ed48081341a3",
+          "mtimeNs": 1791075627019322200
+        },
+        {
+          "path": "talks/Dale G Renlund ¦ October 2026 General Conference/Dale G. Renlund ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 183828,
+          "sha256": "8682692a04d171d512c85210a6ab0cfe956a8e78a3744314383b5e17bce5a8fe",
+          "mtimeNs": 1791075626061000000
+        },
+        {
+          "path": "talks/Dale G Renlund ¦ October 2026 General Conference/Dale G. Renlund ¦ October 2026 General Conference (Description).txt",
+          "bytes": 109,
+          "sha256": "7eaca3198db9beae1442294a068afef2df99df16c96e10856a58de677d675134",
+          "mtimeNs": 1791075625826000000
+        },
+        {
+          "path": "talks/Dale G Renlund ¦ October 2026 General Conference/Dale G. Renlund ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 15560,
+          "sha256": "98dec2cd8f12957a30f74594623096780a0ad099e7ef896eed07f766381de6cd",
+          "mtimeNs": 1791075626058000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-dale-g-renlund.zip",
+        "bytes": 134713673,
+        "sha256": "1d19b4a837433b28f908cbab7c024dfe4123a45aeee154b02c3760143d878b4b",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-dale-g-renlund.zip"
+      }
+    },
+    {
+      "id": "dallin-h-oaks",
+      "speaker": "Dallin H. Oaks",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cgAm3n8DmI8",
+      "files": [
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference/Dallin H. Oaks ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 15363,
+          "sha256": "d8621496982586c0458630e4e7c900725015f129cf06ee0ce40f71ad276ef903",
+          "mtimeNs": 1791152393919491900
+        },
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference/Dallin H. Oaks ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 162476132,
+          "sha256": "8b9c3014dac25ceb398af2f36f202519b3239e6eb3f9bf251b67706b4f0d717f",
+          "mtimeNs": 1791152401989830900
+        },
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference/Dallin H. Oaks ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 12953661,
+          "sha256": "b3c67cb0bcebd51b83457d775e1b8673c3452ae51ebfecf869bca1202584a8b1",
+          "mtimeNs": 1791152393308649500
+        },
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference/Dallin H. Oaks ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 207572,
+          "sha256": "1d041bd4ba2f74101c9ade4e5e22744f3ad5b69ee9eeb84c243aad8ba510551f",
+          "mtimeNs": 1791152393616000000
+        },
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference/Dallin H. Oaks ¦ October 2026 General Conference (Description).txt",
+          "bytes": 104,
+          "sha256": "1fb9d91294628e1ea8deb5985c1c34e880082aad45d8d02ebe8df82687b36a0d",
+          "mtimeNs": 1791152393659000000
+        },
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference/Dallin H. Oaks ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 15363,
+          "sha256": "d8621496982586c0458630e4e7c900725015f129cf06ee0ce40f71ad276ef903",
+          "mtimeNs": 1791152393909000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-dallin-h-oaks.zip",
+        "bytes": 175670323,
+        "sha256": "5f7c9da4651603006ede7c0eebce303b2dc8b98d97e982d7a017205f66543268",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-dallin-h-oaks.zip"
+      }
+    },
+    {
+      "id": "dallin-h-oaks-temples",
+      "speaker": "Dallin H. Oaks",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_tPgVJKWbuE",
+      "files": [
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference ¦ Temples/Dallin H. Oaks ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 3486,
+          "sha256": "539fc3b37c4b333da8132b333d4737ca1bd66c51a95cb8c7286e4961b1eb98d9",
+          "mtimeNs": 1791165782588020400
+        },
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference ¦ Temples/Dallin H. Oaks ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 31052342,
+          "sha256": "b326dc8b20c5c3b1e72acfa348ff58f5aac7896147544d1f75bd9ac3d8575fbd",
+          "mtimeNs": 1791165786305200400
+        },
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference ¦ Temples/Dallin H. Oaks ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 3198677,
+          "sha256": "464cdbeb07952933b47cf57b8b4995b6f025637d97cd8a16799bfa4c59f1774a",
+          "mtimeNs": 1791165783293136200
+        },
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference ¦ Temples/Dallin H. Oaks ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 203946,
+          "sha256": "e99de31786bec831c5642bed613b2c7838b2e8afcc61e92cbdac8eb9d4d63dbf",
+          "mtimeNs": 1791165782263000000
+        },
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference ¦ Temples/Dallin H. Oaks ¦ October 2026 General Conference (Description).txt",
+          "bytes": 106,
+          "sha256": "2cd1b5f02731b45bb8326368a28f3b40cbb41a48fd0714a84466fcf2e0a091d8",
+          "mtimeNs": 1791165782307000000
+        },
+        {
+          "path": "talks/Dallin H Oaks ¦ October 2026 General Conference ¦ Temples/Dallin H. Oaks ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 3486,
+          "sha256": "539fc3b37c4b333da8132b333d4737ca1bd66c51a95cb8c7286e4961b1eb98d9",
+          "mtimeNs": 1791165782580000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-dallin-h-oaks-temples.zip",
+        "bytes": 34464303,
+        "sha256": "5b84c44ea55dce77ba90b3df78a6d44b5e187abd9a07f0977ea5f193b4257038",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-dallin-h-oaks-temples.zip"
+      }
+    },
+    {
+      "id": "david-a-bednar",
+      "speaker": "David A. Bednar",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_CocTUJuFX8",
+      "files": [
+        {
+          "path": "talks/David A Bednar ¦ October 2026 General Conference/David A. Bednar ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 17346,
+          "sha256": "8e93f14a803e0ed2b63c4121aa62ceeae6800ef8d291e4c089d339729d17cdb8",
+          "mtimeNs": 1791152404667887100
+        },
+        {
+          "path": "talks/David A Bednar ¦ October 2026 General Conference/David A. Bednar ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 144495802,
+          "sha256": "3cb4eb90f872c61edf414217cc0436e0c29f82f8c9bddb843f4d4ca4e2dceff5",
+          "mtimeNs": 1791152410903151700
+        },
+        {
+          "path": "talks/David A Bednar ¦ October 2026 General Conference/David A. Bednar ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 12031347,
+          "sha256": "e6b70e38ae2206d7397c6953b5e81164b0212b068ccbc949ec345b3770b8cdda",
+          "mtimeNs": 1791152403762336300
+        },
+        {
+          "path": "talks/David A Bednar ¦ October 2026 General Conference/David A. Bednar ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 198519,
+          "sha256": "672ecf745fa7c6a882a7b168a30f5968b4a6240f49825e79b77e2b6ba74bfd54",
+          "mtimeNs": 1791152404350000000
+        },
+        {
+          "path": "talks/David A Bednar ¦ October 2026 General Conference/David A. Bednar ¦ October 2026 General Conference (Description).txt",
+          "bytes": 107,
+          "sha256": "3f8238e8878f55fe3b872733bf811d1033d03488d79c6754eaba8a6bee71fb1c",
+          "mtimeNs": 1791152404390000000
+        },
+        {
+          "path": "talks/David A Bednar ¦ October 2026 General Conference/David A. Bednar ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 17346,
+          "sha256": "8e93f14a803e0ed2b63c4121aa62ceeae6800ef8d291e4c089d339729d17cdb8",
+          "mtimeNs": 1791152404660000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-david-a-bednar.zip",
+        "bytes": 156762619,
+        "sha256": "25c785dda4aacbc138b2d1ca1c1a249ffe83f143850215216f870692933f27a4",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-david-a-bednar.zip"
+      }
+    },
+    {
+      "id": "dieter-f-uchtdorf",
+      "speaker": "Dieter F. Uchtdorf",
+      "youtubeUrl": "https://www.youtube.com/watch?v=I2ClzD-jlgg",
+      "files": [
+        {
+          "path": "talks/Dieter F Uchtdorf ¦ October 2026 General Conference/Dieter F. Uchtdorf ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 16177,
+          "sha256": "921ceec084c4a992866a9e112ab7e9e3f92cc450c7308ed0baff3764fab5fc02",
+          "mtimeNs": 1791152406391680700
+        },
+        {
+          "path": "talks/Dieter F Uchtdorf ¦ October 2026 General Conference/Dieter F. Uchtdorf ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 160434603,
+          "sha256": "cb60636861f7e21cffb5c61b3aac090a9a78145071cd4a9d76337f42862b0897",
+          "mtimeNs": 1791152412625028800
+        },
+        {
+          "path": "talks/Dieter F Uchtdorf ¦ October 2026 General Conference/Dieter F. Uchtdorf ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 12078230,
+          "sha256": "816f9c518bdfe9a00dd87bf73dbf7d27dc10e09df9e5fca04d190a2f8a6e3594",
+          "mtimeNs": 1791152405791114200
+        },
+        {
+          "path": "talks/Dieter F Uchtdorf ¦ October 2026 General Conference/Dieter F. Uchtdorf ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 184200,
+          "sha256": "4f5c93c80f002844435f0ce11e22135e5925f1c1a6127e7a4ef5ac4618afe97b",
+          "mtimeNs": 1791152406078000000
+        },
+        {
+          "path": "talks/Dieter F Uchtdorf ¦ October 2026 General Conference/Dieter F. Uchtdorf ¦ October 2026 General Conference (Description).txt",
+          "bytes": 110,
+          "sha256": "266c7aecee7d38d1dd004a90737f1792b9e5990f2516357ac88ac479a063939a",
+          "mtimeNs": 1791152406121000000
+        },
+        {
+          "path": "talks/Dieter F Uchtdorf ¦ October 2026 General Conference/Dieter F. Uchtdorf ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 16177,
+          "sha256": "921ceec084c4a992866a9e112ab7e9e3f92cc450c7308ed0baff3764fab5fc02",
+          "mtimeNs": 1791152406379000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-dieter-f-uchtdorf.zip",
+        "bytes": 172731721,
+        "sha256": "bbf2ded7f6503a4327b0fa1c3e4207571ed13291ff07979cb33eb642126b8cbd",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-dieter-f-uchtdorf.zip"
+      }
+    },
+    {
+      "id": "edward-dube",
+      "speaker": "Edward Dube",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vdFSXXe9_fo",
+      "files": [
+        {
+          "path": "talks/Edward Dube ¦ October 2026 General Conference/Edward Dube ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 9987,
+          "sha256": "dc7d15169347c4d0c1f6185a6a9999dbc0e35d904911af00b4121e16d522049a",
+          "mtimeNs": 1791152402619996000
+        },
+        {
+          "path": "talks/Edward Dube ¦ October 2026 General Conference/Edward Dube ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 86058647,
+          "sha256": "943196d014ff035aa343280cdaeb58e70d46f8d04fa83e021a61443e83975be7",
+          "mtimeNs": 1791152418495345700
+        },
+        {
+          "path": "talks/Edward Dube ¦ October 2026 General Conference/Edward Dube ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8747039,
+          "sha256": "0e949b67219e9020203b7e1b85b1d481dfd9aad5cde5229a00ce2079e6a52c7b",
+          "mtimeNs": 1791152402137435700
+        },
+        {
+          "path": "talks/Edward Dube ¦ October 2026 General Conference/Edward Dube ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 235937,
+          "sha256": "de3fd01b337d94ee626582f367254f3f5b8cf2a7cf8e0e46eb430bf2dfa04c35",
+          "mtimeNs": 1791152402331000000
+        },
+        {
+          "path": "talks/Edward Dube ¦ October 2026 General Conference/Edward Dube ¦ October 2026 General Conference (Description).txt",
+          "bytes": 101,
+          "sha256": "a29650b34ff5397ed753b349977c30ed6096b94aba82649f9147ecdc7e9e20e2",
+          "mtimeNs": 1791152402369000000
+        },
+        {
+          "path": "talks/Edward Dube ¦ October 2026 General Conference/Edward Dube ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 9987,
+          "sha256": "dc7d15169347c4d0c1f6185a6a9999dbc0e35d904911af00b4121e16d522049a",
+          "mtimeNs": 1791152402611000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-edward-dube.zip",
+        "bytes": 95063766,
+        "sha256": "a31e1202d9dfcf36384ebff293c547add508479d12c657ee833cd69b23561a22",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-edward-dube.zip"
+      }
+    },
+    {
+      "id": "gabriel-w-reid",
+      "speaker": "Gabriel W. Reid",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ndRD5Vzq0Dk",
+      "files": [
+        {
+          "path": "talks/Gabriel W Reid ¦ October 2026 General Conference/Gabriel W. Reid ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 13637,
+          "sha256": "888c86299b0c9795b800f1ae7be379f26b3a6c8e19c7b50fee6548ec86a7e9e4",
+          "mtimeNs": 1791168623844518100
+        },
+        {
+          "path": "talks/Gabriel W Reid ¦ October 2026 General Conference/Gabriel W. Reid ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 97986931,
+          "sha256": "233da86c4d924db69f6c2f9c50cf12b0575df76b90d1905e8b746f6fe472dbb9",
+          "mtimeNs": 1791168629587263800
+        },
+        {
+          "path": "talks/Gabriel W Reid ¦ October 2026 General Conference/Gabriel W. Reid ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8410514,
+          "sha256": "f5169612ef29b1ca943df8d3e44f91c187065b6e9e2bbf5626d714414ac86391",
+          "mtimeNs": 1791168623272890300
+        },
+        {
+          "path": "talks/Gabriel W Reid ¦ October 2026 General Conference/Gabriel W. Reid ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 83199,
+          "sha256": "c2e96b1246facc20a1cf9268cbfe7be2e8ddf111a96d16b9380e8f7b62f1bd02",
+          "mtimeNs": 1791168623540000000
+        },
+        {
+          "path": "talks/Gabriel W Reid ¦ October 2026 General Conference/Gabriel W. Reid ¦ October 2026 General Conference (Description).txt",
+          "bytes": 107,
+          "sha256": "37ceebbd56954040fe0130da9a6bf847d13d91207940293ca9f352b262be6b90",
+          "mtimeNs": 1791168623580000000
+        },
+        {
+          "path": "talks/Gabriel W Reid ¦ October 2026 General Conference/Gabriel W. Reid ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 13637,
+          "sha256": "888c86299b0c9795b800f1ae7be379f26b3a6c8e19c7b50fee6548ec86a7e9e4",
+          "mtimeNs": 1791168623835000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-gabriel-w-reid.zip",
+        "bytes": 106510177,
+        "sha256": "9119aebfac4503bcfd0d46dda26868aebd38cb9b77d121d9982c5877d3230315",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-gabriel-w-reid.zip"
+      }
+    },
+    {
+      "id": "gary-e-stevenson",
+      "speaker": "Gary E. Stevenson",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ftEF9oeJvEw",
+      "files": [
+        {
+          "path": "talks/Gary E Stevenson ¦ October 2026 General Conference/Gary E. Stevenson ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 15890,
+          "sha256": "bbdebcb79eb9bced4bcc4aebd76fbc5cc2691bd524a0990bd7bd11be4983bce3",
+          "mtimeNs": 1791152411360235300
+        },
+        {
+          "path": "talks/Gary E Stevenson ¦ October 2026 General Conference/Gary E. Stevenson ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 150297107,
+          "sha256": "f362a4fb5c20f61b84dd5e2fc86e04c044848ae3a4c3e014e63fd997f1e0f631",
+          "mtimeNs": 1791152425525774000
+        },
+        {
+          "path": "talks/Gary E Stevenson ¦ October 2026 General Conference/Gary E. Stevenson ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 10938548,
+          "sha256": "a00c4de4bcff1a8cfd4da02a8387f4790c25f294150b6e3da88eb1d43737d53a",
+          "mtimeNs": 1791152412796571300
+        },
+        {
+          "path": "talks/Gary E Stevenson ¦ October 2026 General Conference/Gary E. Stevenson ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 206683,
+          "sha256": "aab5df8572d2cc06f35f47e087373c2fdb4afab10850133a6228679f222439c3",
+          "mtimeNs": 1791152411130000000
+        },
+        {
+          "path": "talks/Gary E Stevenson ¦ October 2026 General Conference/Gary E. Stevenson ¦ October 2026 General Conference (Description).txt",
+          "bytes": 109,
+          "sha256": "c158d0eb1d037ee0d36a2cb00ad7cc6674cc914ef248678fda817b8881b5302a",
+          "mtimeNs": 1791152411172000000
+        },
+        {
+          "path": "talks/Gary E Stevenson ¦ October 2026 General Conference/Gary E. Stevenson ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 15890,
+          "sha256": "bbdebcb79eb9bced4bcc4aebd76fbc5cc2691bd524a0990bd7bd11be4983bce3",
+          "mtimeNs": 1791152411354000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-gary-e-stevenson.zip",
+        "bytes": 161476427,
+        "sha256": "bee2bb373a98dbac3ea035df3c805f7e0048bf64b60abaa4bf979edaa58e0078",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-gary-e-stevenson.zip"
+      }
+    },
+    {
+      "id": "gerrit-w-gong",
+      "speaker": "Gerrit W. Gong",
+      "youtubeUrl": "https://www.youtube.com/watch?v=olb0IU-WFR4",
+      "files": [
+        {
+          "path": "talks/Gerrit W Gong ¦ October 2026 General Conference/Gerrit W. Gong  ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 15773,
+          "sha256": "e64bd3921a8e46cd8a5363034f3ed166e70dddbabdf2168f1e9d60d93819cc6c",
+          "mtimeNs": 1791061279370801000
+        },
+        {
+          "path": "talks/Gerrit W Gong ¦ October 2026 General Conference/Gerrit W. Gong  ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 139535198,
+          "sha256": "1a047a1248f5ae1821f0feaf06c5d03a32a92bbf558a443828a3b2e5f345a1b7",
+          "mtimeNs": 1791061283784450200
+        },
+        {
+          "path": "talks/Gerrit W Gong ¦ October 2026 General Conference/Gerrit W. Gong  ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 11054969,
+          "sha256": "6295b0e06dab17b2436c2fa5506d40d02c4192815c370a3b0e4dd787074486fb",
+          "mtimeNs": 1791061276136040600
+        },
+        {
+          "path": "talks/Gerrit W Gong ¦ October 2026 General Conference/Gerrit W. Gong  ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 193033,
+          "sha256": "64b9c35c4f710db3cd25793dd3f01959a326a80b3788d437743ced640bfb87b4",
+          "mtimeNs": 1791061279075000000
+        },
+        {
+          "path": "talks/Gerrit W Gong ¦ October 2026 General Conference/Gerrit W. Gong  ¦ October 2026 General Conference (Description).txt",
+          "bytes": 106,
+          "sha256": "0b1e435fc6070fd7f2c3f0b1564d1b921e4ad4fe74414d84cf24dece250ddfc0",
+          "mtimeNs": 1791061279117000000
+        },
+        {
+          "path": "talks/Gerrit W Gong ¦ October 2026 General Conference/Gerrit W. Gong  ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 15773,
+          "sha256": "e64bd3921a8e46cd8a5363034f3ed166e70dddbabdf2168f1e9d60d93819cc6c",
+          "mtimeNs": 1791061279362000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-gerrit-w-gong.zip",
+        "bytes": 150816992,
+        "sha256": "ac0a780d60857a452b5e3a69c1b7a2485cc124afcc793c3c4379604ad677247e",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-gerrit-w-gong.zip"
+      }
+    },
+    {
+      "id": "gerald-causse",
+      "speaker": "Gérald Caussé",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Lx08Q3qwhk0",
+      "files": [
+        {
+          "path": "talks/Gérald Caussé ¦ October 2026 General Conference/Gérald Caussé  ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 16711,
+          "sha256": "6007d76c3c209525a172dc05b7373b3d29bdce0476ebfc21fff00dffae25683e",
+          "mtimeNs": 1791061271622428200
+        },
+        {
+          "path": "talks/Gérald Caussé ¦ October 2026 General Conference/Gérald Caussé  ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 147154335,
+          "sha256": "b5630be419ac69e02de4c5eb61ca53c3d2844d4316be0be51e4777b8becb0ea6",
+          "mtimeNs": 1791061278823266300
+        },
+        {
+          "path": "talks/Gérald Caussé ¦ October 2026 General Conference/Gérald Caussé  ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 11386893,
+          "sha256": "69b1db60a4583866ca9809d2a3f46ca5ce513b85c4cd843868221fca765695c6",
+          "mtimeNs": 1791061272124092500
+        },
+        {
+          "path": "talks/Gérald Caussé ¦ October 2026 General Conference/Gérald Caussé  ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 178892,
+          "sha256": "34235b9b973caa5f787048fceedc989c34947dee4477d6ab00ebe19ee08565c6",
+          "mtimeNs": 1791061271610000000
+        },
+        {
+          "path": "talks/Gérald Caussé ¦ October 2026 General Conference/Gérald Caussé  ¦ October 2026 General Conference (Description).txt",
+          "bytes": 107,
+          "sha256": "2d344ca2f4f55290380f76df525b2fdec648be89be2851b91a13f51481f5a965",
+          "mtimeNs": 1791061271356000000
+        },
+        {
+          "path": "talks/Gérald Caussé ¦ October 2026 General Conference/Gérald Caussé  ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 16711,
+          "sha256": "6007d76c3c209525a172dc05b7373b3d29bdce0476ebfc21fff00dffae25683e",
+          "mtimeNs": 1791061271604000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-gerald-causse.zip",
+        "bytes": 158755825,
+        "sha256": "28cc517312ed4b69d3a7b4ca014b6644bb55dd4267f72d8034ceda5f9e8f5a4e",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-gerald-causse.zip"
+      }
+    },
+    {
+      "id": "henry-b-eyring",
+      "speaker": "Henry B. Eyring",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5pKSgknibMo",
+      "files": [
+        {
+          "path": "talks/Henry B Eyring ¦ October 2026 General Conference/Henry B. Eyring ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 12872,
+          "sha256": "cc0e1ee61f239cf4c649b2bd6cb231adbf70dea9e1063220e48dfe3ffb7d6116",
+          "mtimeNs": 1791152389037501300
+        },
+        {
+          "path": "talks/Henry B Eyring ¦ October 2026 General Conference/Henry B. Eyring ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 152627728,
+          "sha256": "0903c8acc1d4c2da31ec4cda46b58cc89df3786aab676a75346eeab75024db6a",
+          "mtimeNs": 1791152396521063400
+        },
+        {
+          "path": "talks/Henry B Eyring ¦ October 2026 General Conference/Henry B. Eyring ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 11096687,
+          "sha256": "eb7501928ef509355c57a188491612098c8a087ba20e0a986b85fb8b37e573c4",
+          "mtimeNs": 1791152389659837700
+        },
+        {
+          "path": "talks/Henry B Eyring ¦ October 2026 General Conference/Henry B. Eyring ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 204185,
+          "sha256": "72fcb7286b85ac79b613ffdf3f3a17f4bd49e36cc4cb866333885ff7bbfe724c",
+          "mtimeNs": 1791152389104000000
+        },
+        {
+          "path": "talks/Henry B Eyring ¦ October 2026 General Conference/Henry B. Eyring ¦ October 2026 General Conference (Description).txt",
+          "bytes": 105,
+          "sha256": "7b98f77b068ebef97f9e1bde417287acb5645eb890c7ef5f573288799c36fbff",
+          "mtimeNs": 1791152388799000000
+        },
+        {
+          "path": "talks/Henry B Eyring ¦ October 2026 General Conference/Henry B. Eyring ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 12872,
+          "sha256": "cc0e1ee61f239cf4c649b2bd6cb231adbf70dea9e1063220e48dfe3ffb7d6116",
+          "mtimeNs": 1791152389017000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-henry-b-eyring.zip",
+        "bytes": 163956601,
+        "sha256": "58b66eaacbfdcc40a6f0f7cd4746e40b6355ee8f4299caef80ff26db3ff428c3",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-henry-b-eyring.zip"
+      }
+    },
+    {
+      "id": "hutch-u-fale",
+      "speaker": "Hutch U. Fale",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RC-IJYeKKfg",
+      "files": [
+        {
+          "path": "talks/Hutch U Fale ¦ October 2026 General Conference/Hutch U. Fale ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 13684,
+          "sha256": "bd8be192d051f40f706db756fcb53b0ef0e0332bc0f4417dc58fdbfd2cd4373c",
+          "mtimeNs": 1791081598555350100
+        },
+        {
+          "path": "talks/Hutch U Fale ¦ October 2026 General Conference/Hutch U. Fale ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 103948326,
+          "sha256": "3ea7d418600b6d86200db085075bf512c575f535334509273e832fc69931b8d4",
+          "mtimeNs": 1791081605193300400
+        },
+        {
+          "path": "talks/Hutch U Fale ¦ October 2026 General Conference/Hutch U. Fale ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8528453,
+          "sha256": "ea2a123b1c6540c002f645cba1908ee995c19fc67510fdf4a946916691ed701d",
+          "mtimeNs": 1791081597015916800
+        },
+        {
+          "path": "talks/Hutch U Fale ¦ October 2026 General Conference/Hutch U. Fale ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 183977,
+          "sha256": "342f55c18e19290ea3a5e83537036b6ff23363d04e120636db18d53ca97b2c89",
+          "mtimeNs": 1791081598225000000
+        },
+        {
+          "path": "talks/Hutch U Fale ¦ October 2026 General Conference/Hutch U. Fale ¦ October 2026 General Conference (Description).txt",
+          "bytes": 107,
+          "sha256": "da458120d9e7dc4436fcaa9a34dbeb2762453ec74483a3ca0b3a37580a6b4c94",
+          "mtimeNs": 1791081598268000000
+        },
+        {
+          "path": "talks/Hutch U Fale ¦ October 2026 General Conference/Hutch U. Fale ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 13684,
+          "sha256": "bd8be192d051f40f706db756fcb53b0ef0e0332bc0f4417dc58fdbfd2cd4373c",
+          "mtimeNs": 1791081598546000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-hutch-u-fale.zip",
+        "bytes": 112690335,
+        "sha256": "9bd01bd5af605ea0e0836f56ea9750988e826e4a3601f1664203a943c480b415",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-hutch-u-fale.zip"
+      }
+    },
+    {
+      "id": "james-g-o-fantone",
+      "speaker": "James G. O. Fantone",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FdnalKjgGyY",
+      "files": [
+        {
+          "path": "talks/James G O Fantone ¦ October 2026 General Conference/James G. O. Fantone ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 11584,
+          "sha256": "87f969e6f915d6ce7f75c94c154dc3e3e9f92af9f08393a31ca77fc37fc383c0",
+          "mtimeNs": 1791152397116482600
+        },
+        {
+          "path": "talks/James G O Fantone ¦ October 2026 General Conference/James G. O. Fantone ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 77188450,
+          "sha256": "ce466a0a6edc53f640fc498c0891697bc31cc492fbd064b4048c35106bcbb52d",
+          "mtimeNs": 1791152400333503100
+        },
+        {
+          "path": "talks/James G O Fantone ¦ October 2026 General Conference/James G. O. Fantone ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8150331,
+          "sha256": "95ea928f085f29d87a4668bf7095363dbb7370a6757df04a833293b39ab3c550",
+          "mtimeNs": 1791152395119808600
+        },
+        {
+          "path": "talks/James G O Fantone ¦ October 2026 General Conference/James G. O. Fantone ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 207736,
+          "sha256": "6ee26ef9254d6e245e912c7ec7bac270595ec2d18e20299b357ee1a9abe1cd8c",
+          "mtimeNs": 1791152396822000000
+        },
+        {
+          "path": "talks/James G O Fantone ¦ October 2026 General Conference/James G. O. Fantone ¦ October 2026 General Conference (Description).txt",
+          "bytes": 109,
+          "sha256": "3ada4c780059773f465231dc0c42fb95faed485208c4e3127c93233de4fead4f",
+          "mtimeNs": 1791152396868000000
+        },
+        {
+          "path": "talks/James G O Fantone ¦ October 2026 General Conference/James G. O. Fantone ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 11584,
+          "sha256": "87f969e6f915d6ce7f75c94c154dc3e3e9f92af9f08393a31ca77fc37fc383c0",
+          "mtimeNs": 1791152397108000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-james-g-o-fantone.zip",
+        "bytes": 85572030,
+        "sha256": "51eb06236c7c186534956163d4cb1e14ef170ab5190b0599d9e16bf99dd6793d",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-james-g-o-fantone.zip"
+      }
+    },
+    {
+      "id": "jeremiah-j-morgan",
+      "speaker": "Jeremiah J. Morgan",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-DOw57ztmy8",
+      "files": [
+        {
+          "path": "talks/Jeremiah J Morgan ¦ October 2026 General Conference/Jeremiah J. Morgan ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 12669,
+          "sha256": "fa7243199a7d3cf7cf619b6e6e8bd6bbf449d26040a1c41f1f8b3ac229e77d9b",
+          "mtimeNs": 1791081591964804000
+        },
+        {
+          "path": "talks/Jeremiah J Morgan ¦ October 2026 General Conference/Jeremiah J. Morgan ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 100782607,
+          "sha256": "a35824f9540a8370ba067f98f5bc95233e915e0ff950d88bba61a023d81114f3",
+          "mtimeNs": 1791081597959887400
+        },
+        {
+          "path": "talks/Jeremiah J Morgan ¦ October 2026 General Conference/Jeremiah J. Morgan ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 7870968,
+          "sha256": "10218dce00ed646888f5f0ddf8288f090cbb2ea4c6ccff43e4c0a538bb73e341",
+          "mtimeNs": 1791081592973106700
+        },
+        {
+          "path": "talks/Jeremiah J Morgan ¦ October 2026 General Conference/Jeremiah J. Morgan ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 167900,
+          "sha256": "9bbb481acc6c5228e9238ec1381fa5a491016e959f356f2fb44e7f1b5ccd96cb",
+          "mtimeNs": 1791081591841000000
+        },
+        {
+          "path": "talks/Jeremiah J Morgan ¦ October 2026 General Conference/Jeremiah J. Morgan ¦ October 2026 General Conference (Description).txt",
+          "bytes": 112,
+          "sha256": "5a39e727e208b3f12787e33f99238727a728e0e4eebb89325ab53e619e49bdb8",
+          "mtimeNs": 1791081591688000000
+        },
+        {
+          "path": "talks/Jeremiah J Morgan ¦ October 2026 General Conference/Jeremiah J. Morgan ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 12669,
+          "sha256": "fa7243199a7d3cf7cf619b6e6e8bd6bbf449d26040a1c41f1f8b3ac229e77d9b",
+          "mtimeNs": 1791081591955000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-jeremiah-j-morgan.zip",
+        "bytes": 108849149,
+        "sha256": "4c2c9fd64fa43291be60ba57261532b91d33eabe27b34a5292c52b72ee2be1a7",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-jeremiah-j-morgan.zip"
+      }
+    },
+    {
+      "id": "kevin-j-hathaway",
+      "speaker": "Kevin J. Hathaway",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8pZhaGrPmmM",
+      "files": [
+        {
+          "path": "talks/Kevin J Hathaway ¦ October 2026 General Conference/Kevin J. Hathaway ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 12395,
+          "sha256": "bc1c1761e6a296a2af859b624208aa7e82ef4eb5162a567cd8763db8a9041f7e",
+          "mtimeNs": 1791061280078110800
+        },
+        {
+          "path": "talks/Kevin J Hathaway ¦ October 2026 General Conference/Kevin J. Hathaway ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 70769399,
+          "sha256": "a82e040294bb3a827b47fe62040dbd0e9fc6f9f57a6b84ca7769a767e600d43c",
+          "mtimeNs": 1791061316219645300
+        },
+        {
+          "path": "talks/Kevin J Hathaway ¦ October 2026 General Conference/Kevin J. Hathaway ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 7947912,
+          "sha256": "64a5e2688da02024be605e864c35a9bc9e231b5e13d9f52f5ef98642819243f6",
+          "mtimeNs": 1791061296719051800
+        },
+        {
+          "path": "talks/Kevin J Hathaway ¦ October 2026 General Conference/Kevin J. Hathaway ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 174852,
+          "sha256": "31b0060aa61befdca737dd5fde490cc142c2b20408ab44a63756fd956d1d485d",
+          "mtimeNs": 1791061279790000000
+        },
+        {
+          "path": "talks/Kevin J Hathaway ¦ October 2026 General Conference/Kevin J. Hathaway ¦ October 2026 General Conference (Description).txt",
+          "bytes": 109,
+          "sha256": "f75288cfd57f21539edd50a2ce9136e54e6275c0b080a23efd51452816237039",
+          "mtimeNs": 1791061279835000000
+        },
+        {
+          "path": "talks/Kevin J Hathaway ¦ October 2026 General Conference/Kevin J. Hathaway ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 12395,
+          "sha256": "bc1c1761e6a296a2af859b624208aa7e82ef4eb5162a567cd8763db8a9041f7e",
+          "mtimeNs": 1791061280071000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-kevin-j-hathaway.zip",
+        "bytes": 78919262,
+        "sha256": "ce7b05de7669bb44a273650418f6015f1e197f611a4fb31e0e85fd65d3fd4741",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-kevin-j-hathaway.zip"
+      }
+    },
+    {
+      "id": "matthew-j-eyring",
+      "speaker": "Matthew J. Eyring",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PUE-OC8OZT0",
+      "files": [
+        {
+          "path": "talks/Matthew J Eyring ¦ October 2026 General Conference/Matthew J. Eyring ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 11617,
+          "sha256": "d94f165e67a4d28ba9115a7f68ee22fc131512018f591ae52b8d7cd6b9b30025",
+          "mtimeNs": 1791081594999832200
+        },
+        {
+          "path": "talks/Matthew J Eyring ¦ October 2026 General Conference/Matthew J. Eyring ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 72473940,
+          "sha256": "a23f2ce517d6be0898580e1668088d72fc36ef004c029c1f76d213b1efbb941b",
+          "mtimeNs": 1791081599623492300
+        },
+        {
+          "path": "talks/Matthew J Eyring ¦ October 2026 General Conference/Matthew J. Eyring ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 7875050,
+          "sha256": "c6b3a877b6b21278ef264f51f58df06a293716d6729ef9675d43603a2d1b122d",
+          "mtimeNs": 1791081594452211800
+        },
+        {
+          "path": "talks/Matthew J Eyring ¦ October 2026 General Conference/Matthew J. Eyring ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 170562,
+          "sha256": "a001ee96e5f868a47a5e4b57786c5d31806c369b0b9fa7953efd67d336750c9e",
+          "mtimeNs": 1791081594696000000
+        },
+        {
+          "path": "talks/Matthew J Eyring ¦ October 2026 General Conference/Matthew J. Eyring ¦ October 2026 General Conference (Description).txt",
+          "bytes": 111,
+          "sha256": "971ceb347bfc2ad241d4c1d3aa1130e494652c0d6e2e4682e6595333e044252a",
+          "mtimeNs": 1791081594739000000
+        },
+        {
+          "path": "talks/Matthew J Eyring ¦ October 2026 General Conference/Matthew J. Eyring ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 11617,
+          "sha256": "d94f165e67a4d28ba9115a7f68ee22fc131512018f591ae52b8d7cd6b9b30025",
+          "mtimeNs": 1791081594990000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-matthew-j-eyring.zip",
+        "bytes": 80545097,
+        "sha256": "6e275d1efdcd231241011462ace064ccb49c875cfdd686bc418f35288f0a8c7c",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-matthew-j-eyring.zip"
+      }
+    },
+    {
+      "id": "michael-a-dunn",
+      "speaker": "Michael A. Dunn",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CVhMqwcTfnU",
+      "files": [
+        {
+          "path": "talks/Michael A Dunn ¦ October 2026 General Conference/Michael A. Dunn ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 12658,
+          "sha256": "4f77a51458694eb879a326380432e69b81b8a507e864f08f5e47a421182c37f0",
+          "mtimeNs": 1791081592524306500
+        },
+        {
+          "path": "talks/Michael A Dunn ¦ October 2026 General Conference/Michael A. Dunn ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 112686653,
+          "sha256": "2032567cece9f02f0ec35be18703614a095ba95d8aab29c3570db5cf7a651f52",
+          "mtimeNs": 1791081598270057000
+        },
+        {
+          "path": "talks/Michael A Dunn ¦ October 2026 General Conference/Michael A. Dunn ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8327548,
+          "sha256": "66c91b2c36bc85d7576264fde2fb8f58c36a61a514a9668af85e9a72de56dbe2",
+          "mtimeNs": 1791081592872375100
+        },
+        {
+          "path": "talks/Michael A Dunn ¦ October 2026 General Conference/Michael A. Dunn ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 191281,
+          "sha256": "41250ef81e22dd3c81a16b25b593189c4011e3517d7c4a42928b38e82e650651",
+          "mtimeNs": 1791081592173000000
+        },
+        {
+          "path": "talks/Michael A Dunn ¦ October 2026 General Conference/Michael A. Dunn ¦ October 2026 General Conference (Description).txt",
+          "bytes": 109,
+          "sha256": "204fadc5ca9bc00e8c145f7d6c123121cbcb2d43a7b5568332cc0e477e76e3dc",
+          "mtimeNs": 1791081592221000000
+        },
+        {
+          "path": "talks/Michael A Dunn ¦ October 2026 General Conference/Michael A. Dunn ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 12658,
+          "sha256": "4f77a51458694eb879a326380432e69b81b8a507e864f08f5e47a421182c37f0",
+          "mtimeNs": 1791081592517000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-michael-a-dunn.zip",
+        "bytes": 121233059,
+        "sha256": "be1c65a08df720418b506815c15c4ef1d8727a0efbacec2920b0378422051c58",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-michael-a-dunn.zip"
+      }
+    },
+    {
+      "id": "moises-villanueva",
+      "speaker": "Moisés Villanueva",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8nQGpyAI5kU",
+      "files": [
+        {
+          "path": "talks/Moisés Villanueva ¦ October 2026 General Conference/Moisés Villanueva ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 10861,
+          "sha256": "10630b17f2ec43dcc2687d4aee21edd9c1d449720f6958ea58b3832fa93da154",
+          "mtimeNs": 1791168611987908200
+        },
+        {
+          "path": "talks/Moisés Villanueva ¦ October 2026 General Conference/Moisés Villanueva ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 83697218,
+          "sha256": "b89186e5c5594bbe22ba02370cf22201861a73d8860e00101be4d151d9c5a993",
+          "mtimeNs": 1791168621466444100
+        },
+        {
+          "path": "talks/Moisés Villanueva ¦ October 2026 General Conference/Moisés Villanueva ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 7782297,
+          "sha256": "77c3bb7c860f80e1c35ae362f99765cd7233f9ea52019a4904b1c3d95b910ca8",
+          "mtimeNs": 1791168612089636000
+        },
+        {
+          "path": "talks/Moisés Villanueva ¦ October 2026 General Conference/Moisés Villanueva ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 205503,
+          "sha256": "2ae54c8b8e83083b2d4981dd95567078c5a96eeb2aaddd69bfd28ef52f1445ed",
+          "mtimeNs": 1791168611647000000
+        },
+        {
+          "path": "talks/Moisés Villanueva ¦ October 2026 General Conference/Moisés Villanueva ¦ October 2026 General Conference (Description).txt",
+          "bytes": 110,
+          "sha256": "86a5ab974276c4ee0fe89c944c88cc4711e26fa17eafb02275d7d20f208ed3fe",
+          "mtimeNs": 1791168611691000000
+        },
+        {
+          "path": "talks/Moisés Villanueva ¦ October 2026 General Conference/Moisés Villanueva ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 10861,
+          "sha256": "10630b17f2ec43dcc2687d4aee21edd9c1d449720f6958ea58b3832fa93da154",
+          "mtimeNs": 1791168611974000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-moises-villanueva.zip",
+        "bytes": 91709086,
+        "sha256": "18de7d359e305033db515fba4d3e5d2356e96c750dd5c3493882d823cb2f3568",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-moises-villanueva.zip"
+      }
+    },
+    {
+      "id": "neil-l-andersen",
+      "speaker": "Neil L. Andersen",
+      "youtubeUrl": "https://www.youtube.com/watch?v=u84KGIYVEFE",
+      "files": [
+        {
+          "path": "talks/Neil L Andersen ¦ October 2026 General Conference/Neil L. Andersen ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 15309,
+          "sha256": "afba4e7be1c61e8b2f9702ae0e64439910ef6185dde8e1939d3724583bbd7910",
+          "mtimeNs": 1791152389596007800
+        },
+        {
+          "path": "talks/Neil L Andersen ¦ October 2026 General Conference/Neil L. Andersen ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 123221288,
+          "sha256": "ae90b27f9155561141ec34ae3677b89edb18d455792fc948c9041e20a0070c02",
+          "mtimeNs": 1791152396930968300
+        },
+        {
+          "path": "talks/Neil L Andersen ¦ October 2026 General Conference/Neil L. Andersen ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 10874357,
+          "sha256": "83d94b657f5d3b443af9928966d0ac3d0a895a935a6ba526d6f06525f104542d",
+          "mtimeNs": 1791152389984004700
+        },
+        {
+          "path": "talks/Neil L Andersen ¦ October 2026 General Conference/Neil L. Andersen ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 209579,
+          "sha256": "29debea5afecb591610530293b002189e8380a4a7f45a42f7be50622f2da088c",
+          "mtimeNs": 1791152389277000000
+        },
+        {
+          "path": "talks/Neil L Andersen ¦ October 2026 General Conference/Neil L. Andersen ¦ October 2026 General Conference (Description).txt",
+          "bytes": 106,
+          "sha256": "8a76fc98792d1c777ac287b2fd1ad7d279408dc14eb71ee52fb6c8a392d12c33",
+          "mtimeNs": 1791152389329000000
+        },
+        {
+          "path": "talks/Neil L Andersen ¦ October 2026 General Conference/Neil L. Andersen ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 15309,
+          "sha256": "afba4e7be1c61e8b2f9702ae0e64439910ef6185dde8e1939d3724583bbd7910",
+          "mtimeNs": 1791152389588000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-neil-l-andersen.zip",
+        "bytes": 134338124,
+        "sha256": "d9edb11b58e240ed4956370af0f529cb0288eee88c02e558508e930db98f6998",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-neil-l-andersen.zip"
+      }
+    },
+    {
+      "id": "patricio-m-giuffra",
+      "speaker": "Patricio M. Giuffra",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qiYDdctzSns",
+      "files": [
+        {
+          "path": "talks/Patricio M Giuffra ¦ October 2026 General Conference/Patricio M. Giuffra ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 10922,
+          "sha256": "68bc7d382e83bc09ba43bf03a095b6afe460b277eb62a9b2b22069ae028fd0c1",
+          "mtimeNs": 1791081599594570800
+        },
+        {
+          "path": "talks/Patricio M Giuffra ¦ October 2026 General Conference/Patricio M. Giuffra ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 99329139,
+          "sha256": "97a560d902799b7ee81ef20afd828473f2db13e6290a74854fc194d776fb8934",
+          "mtimeNs": 1791081604247768100
+        },
+        {
+          "path": "talks/Patricio M Giuffra ¦ October 2026 General Conference/Patricio M. Giuffra ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 7345178,
+          "sha256": "9f30822787afbc343f2d7f03be68c9a4829e44c1d64968760343d9a95ebf9ab2",
+          "mtimeNs": 1791081599320323000
+        },
+        {
+          "path": "talks/Patricio M Giuffra ¦ October 2026 General Conference/Patricio M. Giuffra ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 208184,
+          "sha256": "7f286de121998cff2c453b8d114b12afabf1a1d407ff98cca149042cb66b058c",
+          "mtimeNs": 1791081599051000000
+        },
+        {
+          "path": "talks/Patricio M Giuffra ¦ October 2026 General Conference/Patricio M. Giuffra ¦ October 2026 General Conference (Description).txt",
+          "bytes": 113,
+          "sha256": "fb72fb203615a87cdf5d016f01786ae68522f41510ddae8d07b0dbc5c12de791",
+          "mtimeNs": 1791081599097000000
+        },
+        {
+          "path": "talks/Patricio M Giuffra ¦ October 2026 General Conference/Patricio M. Giuffra ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 10922,
+          "sha256": "68bc7d382e83bc09ba43bf03a095b6afe460b277eb62a9b2b22069ae028fd0c1",
+          "mtimeNs": 1791081599585000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-patricio-m-giuffra.zip",
+        "bytes": 106906706,
+        "sha256": "2aea8c6e0444a38e63433de0890308fc1877839f6ce5fcde4169456fe7232083",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-patricio-m-giuffra.zip"
+      }
+    },
+    {
+      "id": "patrick-kearon",
+      "speaker": "Patrick Kearon",
+      "youtubeUrl": "https://www.youtube.com/watch?v=diU4jlpvFvU",
+      "files": [
+        {
+          "path": "talks/Patrick Kearon ¦ October 2026 General Conference/Patrick Kearon ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 14842,
+          "sha256": "c8ec13d2b75a31f336f433020e79450f78e4008d532d08740cb6c045845abc5b",
+          "mtimeNs": 1791075627834326300
+        },
+        {
+          "path": "talks/Patrick Kearon ¦ October 2026 General Conference/Patrick Kearon ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 128057280,
+          "sha256": "8ff78b13404c3296f8370593c014c09221109b9da3d70c339998805b9511c12c",
+          "mtimeNs": 1791075633178106600
+        },
+        {
+          "path": "talks/Patrick Kearon ¦ October 2026 General Conference/Patrick Kearon ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 10990766,
+          "sha256": "40faf4e7a98b6b1ecb8b34bbcae99c8b92ffde2801934c2523f89db688e98599",
+          "mtimeNs": 1791075627497044100
+        },
+        {
+          "path": "talks/Patrick Kearon ¦ October 2026 General Conference/Patrick Kearon ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 185708,
+          "sha256": "f0574b2c60a0c30c626300f24fd7caf2b1971522f40276e4f7d931d42e123a30",
+          "mtimeNs": 1791075627546000000
+        },
+        {
+          "path": "talks/Patrick Kearon ¦ October 2026 General Conference/Patrick Kearon ¦ October 2026 General Conference (Description).txt",
+          "bytes": 108,
+          "sha256": "c91cd3e04f53e9855f9b61afbd89a7f03b7e116bfa0fd5b09d6bc53888623efa",
+          "mtimeNs": 1791075627589000000
+        },
+        {
+          "path": "talks/Patrick Kearon ¦ October 2026 General Conference/Patrick Kearon ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 14842,
+          "sha256": "c8ec13d2b75a31f336f433020e79450f78e4008d532d08740cb6c045845abc5b",
+          "mtimeNs": 1791075627825000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-patrick-kearon.zip",
+        "bytes": 139265686,
+        "sha256": "b30737882e6b4975afe05768b0d8b70e92882840808ffc62169cf36ca9f2111a",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-patrick-kearon.zip"
+      }
+    },
+    {
+      "id": "paul-h-sinclair",
+      "speaker": "Paul H. Sinclair",
+      "youtubeUrl": "https://www.youtube.com/watch?v=B9ws7O0ZqQg",
+      "files": [
+        {
+          "path": "talks/Paul H Sinclair ¦ October 2026 General Conference/Paul H. Sinclair ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 10799,
+          "sha256": "c06b7e82052a9c8544ec0106406c2da4bab983306ff145e6915b24ae84e01a88",
+          "mtimeNs": 1791168613145714700
+        },
+        {
+          "path": "talks/Paul H Sinclair ¦ October 2026 General Conference/Paul H. Sinclair ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 96047516,
+          "sha256": "d9d61bd96a93e5825dbbee79f493da874d1c5959f26bb7056123391ab264ed7d",
+          "mtimeNs": 1791168624340547600
+        },
+        {
+          "path": "talks/Paul H Sinclair ¦ October 2026 General Conference/Paul H. Sinclair ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8019236,
+          "sha256": "0eeada1125dbfdf909d8095c5ba25f145a262e7fbd993cfd1a6ae9f1b2d6f9ea",
+          "mtimeNs": 1791168613413850900
+        },
+        {
+          "path": "talks/Paul H Sinclair ¦ October 2026 General Conference/Paul H. Sinclair ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 178643,
+          "sha256": "30c7d3bd086d02529937ae84e86c53dede21da970aaa2a67d2bf9f07b63bff5a",
+          "mtimeNs": 1791168612797000000
+        },
+        {
+          "path": "talks/Paul H Sinclair ¦ October 2026 General Conference/Paul H. Sinclair ¦ October 2026 General Conference (Description).txt",
+          "bytes": 108,
+          "sha256": "e035ae364f246dec0f449a12f485705c5b75fe620b99ec244c9975da3c1db522",
+          "mtimeNs": 1791168612839000000
+        },
+        {
+          "path": "talks/Paul H Sinclair ¦ October 2026 General Conference/Paul H. Sinclair ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 10799,
+          "sha256": "c06b7e82052a9c8544ec0106406c2da4bab983306ff145e6915b24ae84e01a88",
+          "mtimeNs": 1791168613135000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-paul-h-sinclair.zip",
+        "bytes": 104269277,
+        "sha256": "f760ea60ce04f0d1275923576772d3a650bd9c1c5ec5692c8d1b02c1e067d7cc",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-paul-h-sinclair.zip"
+      }
+    },
+    {
+      "id": "quentin-l-cook",
+      "speaker": "Quentin L. Cook",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sGeHnJopiWM",
+      "files": [
+        {
+          "path": "talks/Quentin L Cook ¦ October 2026 General Conference/Quentin L. Cook ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 17616,
+          "sha256": "9850a4c97f1748c5e2e30ef43b966b9ea6e2e10a0933ceec464ae8b3da7584c4",
+          "mtimeNs": 1791152390604314900
+        },
+        {
+          "path": "talks/Quentin L Cook ¦ October 2026 General Conference/Quentin L. Cook ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 103559931,
+          "sha256": "20a1657c4cf9136d22f69a08c1948649a8eb8a734f8421d8d1a762ab8c332b2a",
+          "mtimeNs": 1791152397296999600
+        },
+        {
+          "path": "talks/Quentin L Cook ¦ October 2026 General Conference/Quentin L. Cook ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 11462056,
+          "sha256": "1489bdfb091ce63bd382cb0bff94ca169313e03218497d72986a335fcaa60011",
+          "mtimeNs": 1791152390931439000
+        },
+        {
+          "path": "talks/Quentin L Cook ¦ October 2026 General Conference/Quentin L. Cook ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 216765,
+          "sha256": "95abc2a1b2bd7d88c29d5f3c77e9b6d42c7b954ea0f567243c52e0073794f705",
+          "mtimeNs": 1791152390287000000
+        },
+        {
+          "path": "talks/Quentin L Cook ¦ October 2026 General Conference/Quentin L. Cook ¦ October 2026 General Conference (Description).txt",
+          "bytes": 105,
+          "sha256": "4eb70e9119332bdc4a65335f56396436b28534160d8a6b9ae1beaf526251b833",
+          "mtimeNs": 1791152390330000000
+        },
+        {
+          "path": "talks/Quentin L Cook ¦ October 2026 General Conference/Quentin L. Cook ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 17616,
+          "sha256": "9850a4c97f1748c5e2e30ef43b966b9ea6e2e10a0933ceec464ae8b3da7584c4",
+          "mtimeNs": 1791152390595000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-quentin-l-cook.zip",
+        "bytes": 115276241,
+        "sha256": "91d92be52420dd261a91577910c942f5b376db4f829f7c7fb73ece78464d4b87",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-quentin-l-cook.zip"
+      }
+    },
+    {
+      "id": "ronald-a-rasband",
+      "speaker": "Ronald A. Rasband",
+      "youtubeUrl": "https://www.youtube.com/watch?v=O_wXx6Ns9fA",
+      "files": [
+        {
+          "path": "talks/Ronald A Rasband ¦ October 2026 General Conference/Ronald A. Rasband ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 14371,
+          "sha256": "ad1ec2d125a2da1bba44ba6b2a46a37a0bb1e36b4f6234f3a3f24fdbf972e863",
+          "mtimeNs": 1791075626616399600
+        },
+        {
+          "path": "talks/Ronald A Rasband ¦ October 2026 General Conference/Ronald A. Rasband ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 123469160,
+          "sha256": "4d351249a4cab0d04a6d3d208126de0bb029c854a0ba03df9f120be9c9e7a1b3",
+          "mtimeNs": 1791075632262318200
+        },
+        {
+          "path": "talks/Ronald A Rasband ¦ October 2026 General Conference/Ronald A. Rasband ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 10868326,
+          "sha256": "c8e0ffaabaf161cd58933da06974ee758083e71443f0aec5cc0d7b4cffd89bdc",
+          "mtimeNs": 1791075627248708600
+        },
+        {
+          "path": "talks/Ronald A Rasband ¦ October 2026 General Conference/Ronald A. Rasband ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 191561,
+          "sha256": "b18264dc4033ddd918e3c1533bf567a1c3088e85fe49b0c302ba2113b38bfb32",
+          "mtimeNs": 1791075626312000000
+        },
+        {
+          "path": "talks/Ronald A Rasband ¦ October 2026 General Conference/Ronald A. Rasband ¦ October 2026 General Conference (Description).txt",
+          "bytes": 111,
+          "sha256": "d53038b27e362e6838cad181bc12f2cfe702341fe737af1dcf174528bd4ee407",
+          "mtimeNs": 1791075626376000000
+        },
+        {
+          "path": "talks/Ronald A Rasband ¦ October 2026 General Conference/Ronald A. Rasband ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 14371,
+          "sha256": "ad1ec2d125a2da1bba44ba6b2a46a37a0bb1e36b4f6234f3a3f24fdbf972e863",
+          "mtimeNs": 1791075626609000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-ronald-a-rasband.zip",
+        "bytes": 134560100,
+        "sha256": "97cd9b96355b35c51a620d7e06ecc720e579c8add065aaf9bd4c6b52d9e68f46",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-ronald-a-rasband.zip"
+      }
+    },
+    {
+      "id": "rosemary-k-chibota",
+      "speaker": "Rosemary K. Chibota",
+      "youtubeUrl": "https://www.youtube.com/watch?v=w3EBsnVmftE",
+      "files": [
+        {
+          "path": "talks/Rosemary K Chibota ¦ October 2026 General Conference/Rosemary K. Chibota ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 10644,
+          "sha256": "59e05ccfde4836ad3c3e83ebdf8a0833fcc942a523900a966dd08d09d6ef7bda",
+          "mtimeNs": 1791152400959215400
+        },
+        {
+          "path": "talks/Rosemary K Chibota ¦ October 2026 General Conference/Rosemary K. Chibota ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 113345661,
+          "sha256": "c4d1d338f4d459c14b8108ea55482374c26f66761df44fe3388aba5d3182e67c",
+          "mtimeNs": 1791152406185127900
+        },
+        {
+          "path": "talks/Rosemary K Chibota ¦ October 2026 General Conference/Rosemary K. Chibota ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 7959895,
+          "sha256": "a00e9587ef5399ff1af37e41f298aaa10dbb28242f9a23b5cee6cb49bf738b76",
+          "mtimeNs": 1791152400481108600
+        },
+        {
+          "path": "talks/Rosemary K Chibota ¦ October 2026 General Conference/Rosemary K. Chibota ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 231042,
+          "sha256": "789ab617c1976125bdccae8ad250d9dcfab02534acb837adc5622679d36bf2a9",
+          "mtimeNs": 1791152400674000000
+        },
+        {
+          "path": "talks/Rosemary K Chibota ¦ October 2026 General Conference/Rosemary K. Chibota ¦ October 2026 General Conference (Description).txt",
+          "bytes": 109,
+          "sha256": "4a4485bef6095cf08c1dde83447e30408589faeb0a23852b9e26727006d931c9",
+          "mtimeNs": 1791152400714000000
+        },
+        {
+          "path": "talks/Rosemary K Chibota ¦ October 2026 General Conference/Rosemary K. Chibota ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 10644,
+          "sha256": "59e05ccfde4836ad3c3e83ebdf8a0833fcc942a523900a966dd08d09d6ef7bda",
+          "mtimeNs": 1791152400951000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-rosemary-k-chibota.zip",
+        "bytes": 121560243,
+        "sha256": "45e766ba3c818c84956f633351da2717eabf24af467a5a1dd51136e6bfea94a8",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-rosemary-k-chibota.zip"
+      }
+    },
+    {
+      "id": "sean-douglas",
+      "speaker": "Sean Douglas",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QMmBTd0sIJk",
+      "files": [
+        {
+          "path": "talks/Sean Douglas ¦ October 2026 General Conference/Sean Douglas ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 12371,
+          "sha256": "3b1b3af90040b32618220762b9a043a28fadd941407e3928e99d19ac9575199e",
+          "mtimeNs": 1791061284351210200
+        },
+        {
+          "path": "talks/Sean Douglas ¦ October 2026 General Conference/Sean Douglas ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 100151990,
+          "sha256": "f75f13bb7c74efa97cdd31acddc0ed9e31f658688bf94d6708b96ee3d803cfc9",
+          "mtimeNs": 1791061287564595700
+        },
+        {
+          "path": "talks/Sean Douglas ¦ October 2026 General Conference/Sean Douglas ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8004950,
+          "sha256": "bdb6c2d0b430fc761329acbef46533607222332d2227ba5886940f6e2dbfc8c4",
+          "mtimeNs": 1791061282775149900
+        },
+        {
+          "path": "talks/Sean Douglas ¦ October 2026 General Conference/Sean Douglas ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 191609,
+          "sha256": "4a80fe6973ba8d4bc94ee53511db07851884f38009f466273ea900200c07d5a7",
+          "mtimeNs": 1791061284047000000
+        },
+        {
+          "path": "talks/Sean Douglas ¦ October 2026 General Conference/Sean Douglas ¦ October 2026 General Conference (Description).txt",
+          "bytes": 104,
+          "sha256": "158bf636fa941abd023c628025d0024ebd8cfb1ded1f3f1958ec2c7b34f14bca",
+          "mtimeNs": 1791061284090000000
+        },
+        {
+          "path": "talks/Sean Douglas ¦ October 2026 General Conference/Sean Douglas ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 12371,
+          "sha256": "3b1b3af90040b32618220762b9a043a28fadd941407e3928e99d19ac9575199e",
+          "mtimeNs": 1791061284342000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-sean-douglas.zip",
+        "bytes": 108375487,
+        "sha256": "886b7c26e40f2626a62aa62ce31e9acabe9d9aa6f79b431255eedb96ca1d3b7b",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-sean-douglas.zip"
+      }
+    },
+    {
+      "id": "tamara-w-runia",
+      "speaker": "Tamara W. Runia",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WoEEIwMmITY",
+      "files": [
+        {
+          "path": "talks/Tamara W Runia ¦ October 2026 General Conference/Tamara W. Runia ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 15940,
+          "sha256": "2909b3ecf9d4edda0bad04808093c3f097cf383441fe1ba6a28eb0f0b693b781",
+          "mtimeNs": 1791061274539058900
+        },
+        {
+          "path": "talks/Tamara W Runia ¦ October 2026 General Conference/Tamara W. Runia ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 98133069,
+          "sha256": "58cfff972dba7efeb9ee6b274ac3f36adb7e8982ae01c98a874ffb534d45804d",
+          "mtimeNs": 1791061279878442800
+        },
+        {
+          "path": "talks/Tamara W Runia ¦ October 2026 General Conference/Tamara W. Runia ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8476242,
+          "sha256": "52ab735faeffa8359b00898ce0fcf76f8fdd573a10599fd39001ba5bb5f32b6f",
+          "mtimeNs": 1791061274044252600
+        },
+        {
+          "path": "talks/Tamara W Runia ¦ October 2026 General Conference/Tamara W. Runia ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 221230,
+          "sha256": "e772a090eb8834bff5d9062be278095455ee83748e1378c3dff0c907637d44f0",
+          "mtimeNs": 1791061274240000000
+        },
+        {
+          "path": "talks/Tamara W Runia ¦ October 2026 General Conference/Tamara W. Runia ¦ October 2026 General Conference (Description).txt",
+          "bytes": 107,
+          "sha256": "c2297f507dfdc689163670f7183f8bdffd1508898f5b07f92c53ea363621310e",
+          "mtimeNs": 1791061274282000000
+        },
+        {
+          "path": "talks/Tamara W Runia ¦ October 2026 General Conference/Tamara W. Runia ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 15940,
+          "sha256": "2909b3ecf9d4edda0bad04808093c3f097cf383441fe1ba6a28eb0f0b693b781",
+          "mtimeNs": 1791061274530000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-tamara-w-runia.zip",
+        "bytes": 106864680,
+        "sha256": "9622a53c0e69210cd1505b7015e89d06ef92ed49cba1f43c9757ab280c9b1e73",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-tamara-w-runia.zip"
+      }
+    },
+    {
+      "id": "thabo-lebethoa",
+      "speaker": "Thabo Lebethoa",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QW2Mq7NN9q4",
+      "files": [
+        {
+          "path": "talks/Thabo Lebethoa ¦ October 2026 General Conference/Thabo Lebethoa ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 11247,
+          "sha256": "9203ed11287962910ec50305ff61ae6a64ff51675832f17ad9af4f35a2d92e4a",
+          "mtimeNs": 1791168611438237700
+        },
+        {
+          "path": "talks/Thabo Lebethoa ¦ October 2026 General Conference/Thabo Lebethoa ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 78316147,
+          "sha256": "43d6fee2fd1e2a5c80cb3d258aebf151a45989f615d73ae0adc24cb722abe4bd",
+          "mtimeNs": 1791168619193971700
+        },
+        {
+          "path": "talks/Thabo Lebethoa ¦ October 2026 General Conference/Thabo Lebethoa ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 7954281,
+          "sha256": "ad26cd7399f67d76fc19341cc3414d7f2fa8edba93e3b0b2ddfa6744f868d740",
+          "mtimeNs": 1791168612570475300
+        },
+        {
+          "path": "talks/Thabo Lebethoa ¦ October 2026 General Conference/Thabo Lebethoa ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 205899,
+          "sha256": "17b8db0fd81e28935941dca280970fbef8b44ef263265946cbb5b31113e48540",
+          "mtimeNs": 1791168611322000000
+        },
+        {
+          "path": "talks/Thabo Lebethoa ¦ October 2026 General Conference/Thabo Lebethoa ¦ October 2026 General Conference (Description).txt",
+          "bytes": 106,
+          "sha256": "aef9bd855f02a4d25787a0dff4ad9c688ae90f4cbfae892bf61082952b442f90",
+          "mtimeNs": 1791168611160000000
+        },
+        {
+          "path": "talks/Thabo Lebethoa ¦ October 2026 General Conference/Thabo Lebethoa ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 11247,
+          "sha256": "9203ed11287962910ec50305ff61ae6a64ff51675832f17ad9af4f35a2d92e4a",
+          "mtimeNs": 1791168611426000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-thabo-lebethoa.zip",
+        "bytes": 86501067,
+        "sha256": "12a58a76180cf89e3dec4316660bcad4d5446c9a7f1b7c47a24f1d13dd271ae4",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-thabo-lebethoa.zip"
+      }
+    },
+    {
+      "id": "timothy-l-farnes",
+      "speaker": "Timothy L. Farnes",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gh8xnmsiCuE",
+      "files": [
+        {
+          "path": "talks/Timothy L Farnes ¦ October 2026 General Conference/Timothy L. Farnes ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 15060,
+          "sha256": "609adfcc4041951736aaac359fd9d059d7f38fa1e980021bce11561b99b6d1fe",
+          "mtimeNs": 1791081593545575100
+        },
+        {
+          "path": "talks/Timothy L Farnes ¦ October 2026 General Conference/Timothy L. Farnes ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 85021515,
+          "sha256": "92111426e50eabec6afa3468ccfe0cabc387e8fd4a91b6aef6d566b06d233fb6",
+          "mtimeNs": 1791081598772767800
+        },
+        {
+          "path": "talks/Timothy L Farnes ¦ October 2026 General Conference/Timothy L. Farnes ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8904340,
+          "sha256": "a3d54804e2dfd6d8fc482c97187877e9f6a4bfa1416c76828b5a330d9a900796",
+          "mtimeNs": 1791081593401987800
+        },
+        {
+          "path": "talks/Timothy L Farnes ¦ October 2026 General Conference/Timothy L. Farnes ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 183608,
+          "sha256": "1cab76642d636c023311eef15a75bbcd38dfaf36dd1a93050e5aca379e74aa5c",
+          "mtimeNs": 1791081593210000000
+        },
+        {
+          "path": "talks/Timothy L Farnes ¦ October 2026 General Conference/Timothy L. Farnes ¦ October 2026 General Conference (Description).txt",
+          "bytes": 111,
+          "sha256": "0003f1da17a03f88e161092df3711113358cc23c41910f92918518e57288ba73",
+          "mtimeNs": 1791081593262000000
+        },
+        {
+          "path": "talks/Timothy L Farnes ¦ October 2026 General Conference/Timothy L. Farnes ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 15060,
+          "sha256": "609adfcc4041951736aaac359fd9d059d7f38fa1e980021bce11561b99b6d1fe",
+          "mtimeNs": 1791081593537000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-timothy-l-farnes.zip",
+        "bytes": 94141894,
+        "sha256": "157ad906dd58401009ad7fc60726e62f1f4b2c7942597977d912109244b5c148",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-timothy-l-farnes.zip"
+      }
+    },
+    {
+      "id": "ulisses-soares",
+      "speaker": "Ulisses Soares",
+      "youtubeUrl": "https://www.youtube.com/watch?v=aJ5MEFXRg1I",
+      "files": [
+        {
+          "path": "talks/Ulisses Soares ¦ October 2026 General Conference/Ulisses Soares ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 14677,
+          "sha256": "511f64a5dad653fc23634045c6660c9f3f249b8be07d19ac336ae60feadd72d4",
+          "mtimeNs": 1791061272132071200
+        },
+        {
+          "path": "talks/Ulisses Soares ¦ October 2026 General Conference/Ulisses Soares ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 132435292,
+          "sha256": "1eb3c60c3b3a4e3121c07407ebce0f7e4046b903387136a65c73faf18b2ce1fe",
+          "mtimeNs": 1791061279201254700
+        },
+        {
+          "path": "talks/Ulisses Soares ¦ October 2026 General Conference/Ulisses Soares ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 10382069,
+          "sha256": "7d140c227c1c18d5d114b0183512725302aea797e43db567544d01e72b6e18c2",
+          "mtimeNs": 1791061272485126200
+        },
+        {
+          "path": "talks/Ulisses Soares ¦ October 2026 General Conference/Ulisses Soares ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 201719,
+          "sha256": "68b6bd031af2c3f74e5ed56d3661d365333b9ca3990caedf915dd51562b7dc16",
+          "mtimeNs": 1791061271826000000
+        },
+        {
+          "path": "talks/Ulisses Soares ¦ October 2026 General Conference/Ulisses Soares ¦ October 2026 General Conference (Description).txt",
+          "bytes": 106,
+          "sha256": "1c9c9fbab252df01c80fe320d8fd3029baf1574fdca53ef825682896c0b52dcf",
+          "mtimeNs": 1791061271876000000
+        },
+        {
+          "path": "talks/Ulisses Soares ¦ October 2026 General Conference/Ulisses Soares ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 14677,
+          "sha256": "511f64a5dad653fc23634045c6660c9f3f249b8be07d19ac336ae60feadd72d4",
+          "mtimeNs": 1791061272124000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-ulisses-soares.zip",
+        "bytes": 143050680,
+        "sha256": "26fc5a96efeeec117a0f5b710bb758f5857469d278c35363a959c00c655d62ab",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-ulisses-soares.zip"
+      }
+    },
+    {
+      "id": "vaiangina-sikahema",
+      "speaker": "Vaiangina Sikahema",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iQM2PtE2qaY",
+      "files": [
+        {
+          "path": "talks/Vaiangina Sikahema ¦ October 2026 General Conference/Vaiangina Sikahema ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).English.srt",
+          "bytes": 13880,
+          "sha256": "c59b0f4e91bcf4438123178c8a3ce891196a2c403b19e36205d0e98636f0648d",
+          "mtimeNs": 1791061281380931100
+        },
+        {
+          "path": "talks/Vaiangina Sikahema ¦ October 2026 General Conference/Vaiangina Sikahema ¦ October 2026 General Conference (1080p_30fps_H264-128kbit_AAC).mp4",
+          "bytes": 101590079,
+          "sha256": "6f3d8657a603ef1cb3147b984c4e098ccecc9ec201de0751651c02f5dbb726ee",
+          "mtimeNs": 1791061285292545100
+        },
+        {
+          "path": "talks/Vaiangina Sikahema ¦ October 2026 General Conference/Vaiangina Sikahema ¦ October 2026 General Conference (128kbit_AAC).m4a",
+          "bytes": 8664045,
+          "sha256": "24b42761a38f5cc11234a627d7ffe3b7ceee5d6823cf5c236493072a7096c1d3",
+          "mtimeNs": 1791061280877969900
+        },
+        {
+          "path": "talks/Vaiangina Sikahema ¦ October 2026 General Conference/Vaiangina Sikahema ¦ October 2026 General Conference (BQ).jpg",
+          "bytes": 197124,
+          "sha256": "fff218696d8e8840f2052289b32de28c8e5d4bff319fc7ebf453fef32f19f07c",
+          "mtimeNs": 1791061281103000000
+        },
+        {
+          "path": "talks/Vaiangina Sikahema ¦ October 2026 General Conference/Vaiangina Sikahema ¦ October 2026 General Conference (Description).txt",
+          "bytes": 110,
+          "sha256": "3e58047f00b2b2d8b953ce18434450689b7c2367c19e2db54c768061121bc586",
+          "mtimeNs": 1791061281142000000
+        },
+        {
+          "path": "talks/Vaiangina Sikahema ¦ October 2026 General Conference/Vaiangina Sikahema ¦ October 2026 General Conference (English_ASR).srt",
+          "bytes": 13880,
+          "sha256": "c59b0f4e91bcf4438123178c8a3ce891196a2c403b19e36205d0e98636f0648d",
+          "mtimeNs": 1791061281373000000
+        }
+      ],
+      "archive": {
+        "assetName": "source-vaiangina-sikahema.zip",
+        "bytes": 110481354,
+        "sha256": "c5a59df724763a5555d32207aead8c5f82b7356caf19fb805f0a651d81fe8fe1",
+        "url": "https://github.com/jjmart-83/willowbrook-ward-conference-story-challenge/releases/download/october-2026-project-archive/source-vaiangina-sikahema.zip"
+      }
+    }
+  ],
+  "totalFiles": 222,
+  "totalBytes": 4395942551
+}

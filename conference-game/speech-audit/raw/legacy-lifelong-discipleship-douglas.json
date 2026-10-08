@@ -1,0 +1,1008 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | CUDA : ARCHS = 500,610,700,750,800,860,890,900 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": false,
+		"vocab": 51864,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:07,840"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 7840
+			},
+			"text": " to be diminished. After all, serving missions are just one of many significant steps on the path",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 0
+					},
+					"id": 50363,
+					"p": 0.963381,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,150"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 150
+					},
+					"id": 284,
+					"p": 0.152365,
+					"t_dtw": -1
+				},
+				{
+					"text": " be",
+					"timestamps": {
+						"from": "00:00:00,280",
+						"to": "00:00:00,460"
+					},
+					"offsets": {
+						"from": 280,
+						"to": 460
+					},
+					"id": 307,
+					"p": 0.98957,
+					"t_dtw": -1
+				},
+				{
+					"text": " diminished",
+					"timestamps": {
+						"from": "00:00:00,460",
+						"to": "00:00:00,900"
+					},
+					"offsets": {
+						"from": 460,
+						"to": 900
+					},
+					"id": 23476,
+					"p": 0.988076,
+					"t_dtw": -1
+				},
+				{
+					"text": ".",
+					"timestamps": {
+						"from": "00:00:01,650",
+						"to": "00:00:02,000"
+					},
+					"offsets": {
+						"from": 1650,
+						"to": 2000
+					},
+					"id": 13,
+					"p": 0.745098,
+					"t_dtw": -1
+				},
+				{
+					"text": " After",
+					"timestamps": {
+						"from": "00:00:02,000",
+						"to": "00:00:02,310"
+					},
+					"offsets": {
+						"from": 2000,
+						"to": 2310
+					},
+					"id": 2293,
+					"p": 0.835109,
+					"t_dtw": -1
+				},
+				{
+					"text": " all",
+					"timestamps": {
+						"from": "00:00:02,310",
+						"to": "00:00:02,450"
+					},
+					"offsets": {
+						"from": 2310,
+						"to": 2450
+					},
+					"id": 477,
+					"p": 0.959514,
+					"t_dtw": -1
+				},
+				{
+					"text": ",",
+					"timestamps": {
+						"from": "00:00:02,510",
+						"to": "00:00:02,630"
+					},
+					"offsets": {
+						"from": 2510,
+						"to": 2630
+					},
+					"id": 11,
+					"p": 0.959648,
+					"t_dtw": -1
+				},
+				{
+					"text": " serving",
+					"timestamps": {
+						"from": "00:00:02,640",
+						"to": "00:00:03,100"
+					},
+					"offsets": {
+						"from": 2640,
+						"to": 3100
+					},
+					"id": 7351,
+					"p": 0.974111,
+					"t_dtw": -1
+				},
+				{
+					"text": " missions",
+					"timestamps": {
+						"from": "00:00:03,100",
+						"to": "00:00:03,560"
+					},
+					"offsets": {
+						"from": 3100,
+						"to": 3560
+					},
+					"id": 10566,
+					"p": 0.951879,
+					"t_dtw": -1
+				},
+				{
+					"text": " are",
+					"timestamps": {
+						"from": "00:00:03,670",
+						"to": "00:00:03,760"
+					},
+					"offsets": {
+						"from": 3670,
+						"to": 3760
+					},
+					"id": 389,
+					"p": 0.969903,
+					"t_dtw": -1
+				},
+				{
+					"text": " just",
+					"timestamps": {
+						"from": "00:00:03,760",
+						"to": "00:00:04,030"
+					},
+					"offsets": {
+						"from": 3760,
+						"to": 4030
+					},
+					"id": 655,
+					"p": 0.959369,
+					"t_dtw": -1
+				},
+				{
+					"text": " one",
+					"timestamps": {
+						"from": "00:00:04,220",
+						"to": "00:00:04,720"
+					},
+					"offsets": {
+						"from": 4220,
+						"to": 4720
+					},
+					"id": 530,
+					"p": 0.978539,
+					"t_dtw": -1
+				},
+				{
+					"text": " of",
+					"timestamps": {
+						"from": "00:00:04,830",
+						"to": "00:00:04,960"
+					},
+					"offsets": {
+						"from": 4830,
+						"to": 4960
+					},
+					"id": 286,
+					"p": 0.938724,
+					"t_dtw": -1
+				},
+				{
+					"text": " many",
+					"timestamps": {
+						"from": "00:00:04,960",
+						"to": "00:00:05,320"
+					},
+					"offsets": {
+						"from": 4960,
+						"to": 5320
+					},
+					"id": 867,
+					"p": 0.983791,
+					"t_dtw": -1
+				},
+				{
+					"text": " significant",
+					"timestamps": {
+						"from": "00:00:05,320",
+						"to": "00:00:06,120"
+					},
+					"offsets": {
+						"from": 5320,
+						"to": 6120
+					},
+					"id": 2383,
+					"p": 0.960296,
+					"t_dtw": -1
+				},
+				{
+					"text": " steps",
+					"timestamps": {
+						"from": "00:00:06,120",
+						"to": "00:00:06,610"
+					},
+					"offsets": {
+						"from": 6120,
+						"to": 6610
+					},
+					"id": 4831,
+					"p": 0.936011,
+					"t_dtw": -1
+				},
+				{
+					"text": " on",
+					"timestamps": {
+						"from": "00:00:07,100",
+						"to": "00:00:07,200"
+					},
+					"offsets": {
+						"from": 7100,
+						"to": 7200
+					},
+					"id": 319,
+					"p": 0.853965,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:07,200",
+						"to": "00:00:07,270"
+					},
+					"offsets": {
+						"from": 7200,
+						"to": 7270
+					},
+					"id": 262,
+					"p": 0.518605,
+					"t_dtw": -1
+				},
+				{
+					"text": " path",
+					"timestamps": {
+						"from": "00:00:07,280",
+						"to": "00:00:07,680"
+					},
+					"offsets": {
+						"from": 7280,
+						"to": 7680
+					},
+					"id": 3108,
+					"p": 0.556652,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_392]",
+					"timestamps": {
+						"from": "00:00:07,840",
+						"to": "00:00:07,840"
+					},
+					"offsets": {
+						"from": 7840,
+						"to": 7840
+					},
+					"id": 50755,
+					"p": 0.223908,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,840",
+				"to": "00:00:14,160"
+			},
+			"offsets": {
+				"from": 7840,
+				"to": 14160
+			},
+			"text": " of lifelong discipleship. Merlin and Galli today have a beautiful family with three children",
+			"tokens": [
+				{
+					"text": " of",
+					"timestamps": {
+						"from": "00:00:07,840",
+						"to": "00:00:07,990"
+					},
+					"offsets": {
+						"from": 7840,
+						"to": 7990
+					},
+					"id": 286,
+					"p": 0.996698,
+					"t_dtw": -1
+				},
+				{
+					"text": " lifelong",
+					"timestamps": {
+						"from": "00:00:07,990",
+						"to": "00:00:08,630"
+					},
+					"offsets": {
+						"from": 7990,
+						"to": 8630
+					},
+					"id": 25837,
+					"p": 0.927722,
+					"t_dtw": -1
+				},
+				{
+					"text": " disciples",
+					"timestamps": {
+						"from": "00:00:08,630",
+						"to": "00:00:09,010"
+					},
+					"offsets": {
+						"from": 8630,
+						"to": 9010
+					},
+					"id": 23351,
+					"p": 0.985551,
+					"t_dtw": -1
+				},
+				{
+					"text": "hip",
+					"timestamps": {
+						"from": "00:00:09,480",
+						"to": "00:00:09,570"
+					},
+					"offsets": {
+						"from": 9480,
+						"to": 9570
+					},
+					"id": 1056,
+					"p": 0.99958,
+					"t_dtw": -1
+				},
+				{
+					"text": ".",
+					"timestamps": {
+						"from": "00:00:09,570",
+						"to": "00:00:09,800"
+					},
+					"offsets": {
+						"from": 9570,
+						"to": 9800
+					},
+					"id": 13,
+					"p": 0.988759,
+					"t_dtw": -1
+				},
+				{
+					"text": " Merlin",
+					"timestamps": {
+						"from": "00:00:09,800",
+						"to": "00:00:10,180"
+					},
+					"offsets": {
+						"from": 9800,
+						"to": 10180
+					},
+					"id": 32918,
+					"p": 0.57022,
+					"t_dtw": -1
+				},
+				{
+					"text": " and",
+					"timestamps": {
+						"from": "00:00:10,260",
+						"to": "00:00:10,510"
+					},
+					"offsets": {
+						"from": 10260,
+						"to": 10510
+					},
+					"id": 290,
+					"p": 0.977143,
+					"t_dtw": -1
+				},
+				{
+					"text": " Gall",
+					"timestamps": {
+						"from": "00:00:10,510",
+						"to": "00:00:10,830"
+					},
+					"offsets": {
+						"from": 10510,
+						"to": 10830
+					},
+					"id": 7096,
+					"p": 0.408166,
+					"t_dtw": -1
+				},
+				{
+					"text": "i",
+					"timestamps": {
+						"from": "00:00:10,830",
+						"to": "00:00:10,900"
+					},
+					"offsets": {
+						"from": 10830,
+						"to": 10900
+					},
+					"id": 72,
+					"p": 0.599215,
+					"t_dtw": -1
+				},
+				{
+					"text": " today",
+					"timestamps": {
+						"from": "00:00:10,900",
+						"to": "00:00:11,300"
+					},
+					"offsets": {
+						"from": 10900,
+						"to": 11300
+					},
+					"id": 1909,
+					"p": 0.959737,
+					"t_dtw": -1
+				},
+				{
+					"text": " have",
+					"timestamps": {
+						"from": "00:00:11,300",
+						"to": "00:00:11,620"
+					},
+					"offsets": {
+						"from": 11300,
+						"to": 11620
+					},
+					"id": 423,
+					"p": 0.988889,
+					"t_dtw": -1
+				},
+				{
+					"text": " a",
+					"timestamps": {
+						"from": "00:00:11,620",
+						"to": "00:00:11,700"
+					},
+					"offsets": {
+						"from": 11620,
+						"to": 11700
+					},
+					"id": 257,
+					"p": 0.997912,
+					"t_dtw": -1
+				},
+				{
+					"text": " beautiful",
+					"timestamps": {
+						"from": "00:00:11,700",
+						"to": "00:00:12,410"
+					},
+					"offsets": {
+						"from": 11700,
+						"to": 12410
+					},
+					"id": 4950,
+					"p": 0.994006,
+					"t_dtw": -1
+				},
+				{
+					"text": " family",
+					"timestamps": {
+						"from": "00:00:12,410",
+						"to": "00:00:12,960"
+					},
+					"offsets": {
+						"from": 12410,
+						"to": 12960
+					},
+					"id": 1641,
+					"p": 0.993377,
+					"t_dtw": -1
+				},
+				{
+					"text": " with",
+					"timestamps": {
+						"from": "00:00:12,960",
+						"to": "00:00:13,200"
+					},
+					"offsets": {
+						"from": 12960,
+						"to": 13200
+					},
+					"id": 351,
+					"p": 0.982444,
+					"t_dtw": -1
+				},
+				{
+					"text": " three",
+					"timestamps": {
+						"from": "00:00:13,200",
+						"to": "00:00:13,460"
+					},
+					"offsets": {
+						"from": 13200,
+						"to": 13460
+					},
+					"id": 1115,
+					"p": 0.972732,
+					"t_dtw": -1
+				},
+				{
+					"text": " children",
+					"timestamps": {
+						"from": "00:00:13,530",
+						"to": "00:00:14,160"
+					},
+					"offsets": {
+						"from": 13530,
+						"to": 14160
+					},
+					"id": 1751,
+					"p": 0.982121,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_708]",
+					"timestamps": {
+						"from": "00:00:14,160",
+						"to": "00:00:14,160"
+					},
+					"offsets": {
+						"from": 14160,
+						"to": 14160
+					},
+					"id": 51071,
+					"p": 0.299916,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,160",
+				"to": "00:00:20,640"
+			},
+			"offsets": {
+				"from": 14160,
+				"to": 20640
+			},
+			"text": " while Merlin serves as a state president. They cannot fathom what their lives would be if Merlin",
+			"tokens": [
+				{
+					"text": " while",
+					"timestamps": {
+						"from": "00:00:14,160",
+						"to": "00:00:14,550"
+					},
+					"offsets": {
+						"from": 14160,
+						"to": 14550
+					},
+					"id": 981,
+					"p": 0.995537,
+					"t_dtw": -1
+				},
+				{
+					"text": " Merlin",
+					"timestamps": {
+						"from": "00:00:14,550",
+						"to": "00:00:15,020"
+					},
+					"offsets": {
+						"from": 14550,
+						"to": 15020
+					},
+					"id": 32918,
+					"p": 0.938685,
+					"t_dtw": -1
+				},
+				{
+					"text": " serves",
+					"timestamps": {
+						"from": "00:00:15,020",
+						"to": "00:00:15,330"
+					},
+					"offsets": {
+						"from": 15020,
+						"to": 15330
+					},
+					"id": 9179,
+					"p": 0.996023,
+					"t_dtw": -1
+				},
+				{
+					"text": " as",
+					"timestamps": {
+						"from": "00:00:15,470",
+						"to": "00:00:15,640"
+					},
+					"offsets": {
+						"from": 15470,
+						"to": 15640
+					},
+					"id": 355,
+					"p": 0.99541,
+					"t_dtw": -1
+				},
+				{
+					"text": " a",
+					"timestamps": {
+						"from": "00:00:15,710",
+						"to": "00:00:15,710"
+					},
+					"offsets": {
+						"from": 15710,
+						"to": 15710
+					},
+					"id": 257,
+					"p": 0.988487,
+					"t_dtw": -1
+				},
+				{
+					"text": " state",
+					"timestamps": {
+						"from": "00:00:15,800",
+						"to": "00:00:16,100"
+					},
+					"offsets": {
+						"from": 15800,
+						"to": 16100
+					},
+					"id": 1181,
+					"p": 0.684621,
+					"t_dtw": -1
+				},
+				{
+					"text": " president",
+					"timestamps": {
+						"from": "00:00:16,100",
+						"to": "00:00:16,500"
+					},
+					"offsets": {
+						"from": 16100,
+						"to": 16500
+					},
+					"id": 1893,
+					"p": 0.94997,
+					"t_dtw": -1
+				},
+				{
+					"text": ".",
+					"timestamps": {
+						"from": "00:00:16,800",
+						"to": "00:00:17,030"
+					},
+					"offsets": {
+						"from": 16800,
+						"to": 17030
+					},
+					"id": 13,
+					"p": 0.932421,
+					"t_dtw": -1
+				},
+				{
+					"text": " They",
+					"timestamps": {
+						"from": "00:00:17,030",
+						"to": "00:00:17,340"
+					},
+					"offsets": {
+						"from": 17030,
+						"to": 17340
+					},
+					"id": 1119,
+					"p": 0.995777,
+					"t_dtw": -1
+				},
+				{
+					"text": " cannot",
+					"timestamps": {
+						"from": "00:00:17,340",
+						"to": "00:00:17,720"
+					},
+					"offsets": {
+						"from": 17340,
+						"to": 17720
+					},
+					"id": 2314,
+					"p": 0.989495,
+					"t_dtw": -1
+				},
+				{
+					"text": " f",
+					"timestamps": {
+						"from": "00:00:17,830",
+						"to": "00:00:17,880"
+					},
+					"offsets": {
+						"from": 17830,
+						"to": 17880
+					},
+					"id": 277,
+					"p": 0.991159,
+					"t_dtw": -1
+				},
+				{
+					"text": "athom",
+					"timestamps": {
+						"from": "00:00:17,880",
+						"to": "00:00:18,190"
+					},
+					"offsets": {
+						"from": 17880,
+						"to": 18190
+					},
+					"id": 32910,
+					"p": 0.999666,
+					"t_dtw": -1
+				},
+				{
+					"text": " what",
+					"timestamps": {
+						"from": "00:00:18,390",
+						"to": "00:00:18,580"
+					},
+					"offsets": {
+						"from": 18390,
+						"to": 18580
+					},
+					"id": 644,
+					"p": 0.993576,
+					"t_dtw": -1
+				},
+				{
+					"text": " their",
+					"timestamps": {
+						"from": "00:00:18,580",
+						"to": "00:00:18,860"
+					},
+					"offsets": {
+						"from": 18580,
+						"to": 18860
+					},
+					"id": 511,
+					"p": 0.998439,
+					"t_dtw": -1
+				},
+				{
+					"text": " lives",
+					"timestamps": {
+						"from": "00:00:19,050",
+						"to": "00:00:19,440"
+					},
+					"offsets": {
+						"from": 19050,
+						"to": 19440
+					},
+					"id": 3160,
+					"p": 0.983635,
+					"t_dtw": -1
+				},
+				{
+					"text": " would",
+					"timestamps": {
+						"from": "00:00:19,440",
+						"to": "00:00:19,600"
+					},
+					"offsets": {
+						"from": 19440,
+						"to": 19600
+					},
+					"id": 561,
+					"p": 0.986912,
+					"t_dtw": -1
+				},
+				{
+					"text": " be",
+					"timestamps": {
+						"from": "00:00:19,600",
+						"to": "00:00:19,780"
+					},
+					"offsets": {
+						"from": 19600,
+						"to": 19780
+					},
+					"id": 307,
+					"p": 0.940419,
+					"t_dtw": -1
+				},
+				{
+					"text": " if",
+					"timestamps": {
+						"from": "00:00:19,850",
+						"to": "00:00:20,080"
+					},
+					"offsets": {
+						"from": 19850,
+						"to": 20080
+					},
+					"id": 611,
+					"p": 0.907814,
+					"t_dtw": -1
+				},
+				{
+					"text": " Merlin",
+					"timestamps": {
+						"from": "00:00:20,080",
+						"to": "00:00:20,580"
+					},
+					"offsets": {
+						"from": 20080,
+						"to": 20580
+					},
+					"id": 32918,
+					"p": 0.732838,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1032]",
+					"timestamps": {
+						"from": "00:00:20,640",
+						"to": "00:00:20,640"
+					},
+					"offsets": {
+						"from": 20640,
+						"to": 20640
+					},
+					"id": 51395,
+					"p": 0.659646,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,640",
+				"to": "00:00:25,920"
+			},
+			"offsets": {
+				"from": 20640,
+				"to": 25920
+			},
+			"text": " had not served a mission.",
+			"tokens": [
+				{
+					"text": " had",
+					"timestamps": {
+						"from": "00:00:20,640",
+						"to": "00:00:21,320"
+					},
+					"offsets": {
+						"from": 20640,
+						"to": 21320
+					},
+					"id": 550,
+					"p": 0.955992,
+					"t_dtw": -1
+				},
+				{
+					"text": " not",
+					"timestamps": {
+						"from": "00:00:21,320",
+						"to": "00:00:21,650"
+					},
+					"offsets": {
+						"from": 21320,
+						"to": 21650
+					},
+					"id": 407,
+					"p": 0.998776,
+					"t_dtw": -1
+				},
+				{
+					"text": " served",
+					"timestamps": {
+						"from": "00:00:22,280",
+						"to": "00:00:23,370"
+					},
+					"offsets": {
+						"from": 22280,
+						"to": 23370
+					},
+					"id": 4983,
+					"p": 0.999176,
+					"t_dtw": -1
+				},
+				{
+					"text": " a",
+					"timestamps": {
+						"from": "00:00:23,370",
+						"to": "00:00:23,560"
+					},
+					"offsets": {
+						"from": 23370,
+						"to": 23560
+					},
+					"id": 257,
+					"p": 0.917659,
+					"t_dtw": -1
+				},
+				{
+					"text": " mission",
+					"timestamps": {
+						"from": "00:00:23,590",
+						"to": "00:00:25,200"
+					},
+					"offsets": {
+						"from": 23590,
+						"to": 25200
+					},
+					"id": 4365,
+					"p": 0.982482,
+					"t_dtw": -1
+				},
+				{
+					"text": ".",
+					"timestamps": {
+						"from": "00:00:25,200",
+						"to": "00:00:25,920"
+					},
+					"offsets": {
+						"from": 25200,
+						"to": 25920
+					},
+					"id": 13,
+					"p": 0.96207,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1296]",
+					"timestamps": {
+						"from": "00:00:25,920",
+						"to": "00:00:25,920"
+					},
+					"offsets": {
+						"from": 25920,
+						"to": 25920
+					},
+					"id": 51659,
+					"p": 0.0324388,
+					"t_dtw": -1
+				}
+			]
+		}
+	]
+}

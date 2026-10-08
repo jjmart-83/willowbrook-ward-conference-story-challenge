@@ -1,0 +1,681 @@
+{
+  "schemaVersion": 1,
+  "clips": [
+    {
+      "id": "fantone-service-changes-the-heart",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The service, heart-change, covenant, and lifting/loving/serving teaching is complete; the added witness of Christ also forms a complete sentence in this transcript.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "When we genuinely take upon ourselves the name of Jesus Christ, by loosing ourselves in the service of others, something miraculous happens, we experience what Alma the young refer",
+        "ending": " for us to take upon us His name by covenant and to serve Him with all of our heart might, mind, and strength by lifting, loving, and serving our fellow men. I stand before you today as the witness of His living reality."
+      },
+      "baseTranscriptSha256": "9ba0bd15d9d3e26c270124bfb829c4bda640098af6f9ee1b4a8599730c93d03c"
+    },
+    {
+      "id": "morgan-covenants-influence-without-removing-agency",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The influence of ancestral covenants and explicit agency limit are both present; the short Joseph Smith bridge is grammatical, although the quotation itself is outside this excerpt.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "President Dowland H. Oaks has said that covenants do not take a day off, though the covenant faithfulness of parents and grandparents does not alter the agency of children or grand",
+        "ending": "e. The power of God in those covenants reached out after me, and as Elder Patrick Kieran has taught, he employs every possible measure to bring us back. It is exactly how the Lord revealed it to the Prophet Joseph Smith."
+      },
+      "baseTranscriptSha256": "7804276879587aab300040edea6c12c7ecb0b9198b3ede5bc13bdfadc2744ea1"
+    },
+    {
+      "id": "morgan-worried-family-keep-covenants",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Counsel to the worried parent, God's own time and way, covenant keeping, and faithful action are complete; the added testimony ends on garbled \"in our comfort,\" so inspect that extra tail rather than infer a missing core qualification.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Some may be crying out right now with words like, \"Oh God, where art thou? My child is struggling. Take comfort. God hears you and will answer your prayers in his own time and in h",
+        "ending": " cheerfully do all things lie in your power. And then may you stand still with the utmost assurance to see the salvation of God, and for his arm to be revealed. I testify that the infinite power of God is in our comfort."
+      },
+      "baseTranscriptSha256": "5ce82a3568f0caa04a8ccad6b8ac9b54466e769f7235ce83d24be0465718f12a"
+    },
+    {
+      "id": "hathaway-cars-peace-and-practical-help",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The tire accident, spiritual peace before deliverance, practical human help, and no serious injury are all present; the tail begins the next deliverance-pattern introduction without the pattern.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "So our family experienced a sudden trial in the Lord's deliverance as we drove in two cars to begin our service as mission leaders. While driving in a construction zone, two large ",
+        "ending": "deliverance that would come. With the help of many wonderful people, we arrived on time and began our mission without serious injury. The experience on that freeway illustrates a scriptural pattern of divine deliverance."
+      },
+      "baseTranscriptSha256": "88bad93af2baeb2d55a40d13b2bbdfa1d8d1c4002436433384d866b4f96c1bb4"
+    },
+    {
+      "id": "hathaway-questions-are-not-weakness",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Questions and emotions are explicitly not sin or weakness, and turning toward Christ is present; the tail enters the next seeking definition before its methods.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Opposition comes to all, even the righteous. It can stir heart-rending questions in deep emotions like Joseph Smith's cry from Liberty Jail, \"O God, where art thou?\" or the grief a",
+        "ending": "ons and emotions are not sin or weakness. They can create a sacred space where agency is activated and we choose whether to turn toward Jesus Christ. Sincere seeking means turning toward Heavenly Father and Jesus Christ."
+      },
+      "baseTranscriptSha256": "bd1c0d3e0a128a4eb980c983bcc3832f00cc60fe8d92dc18ba9ed89bb8015ab3"
+    },
+    {
+      "id": "hathaway-sincere-seeking-assurances",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Prayer, fasting, scripture study, patient covenant keeping, and assurances are complete; the tail introduces the missionary's affliction without her story.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Sincere seeking means turning toward Heavenly Father in Jesus Christ through heartfelt prayer, purposeful fasting, and scripture study. Alma's people, in bondage, began to cry migh",
+        "ending": "t us in our afflictions and bring assurances of deliverance. Many in the Scriptures received assurances of peace, faith, and hope for deliverance in Jesus Christ. Sister Kenzie Brinkerhoff was visited in her afflictions."
+      },
+      "baseTranscriptSha256": "d58d0e4e37517a9a12d83e10dc90264d4fdde6b119b86388aad693316beece66"
+    },
+    {
+      "id": "hathaway-grace-strength-without-erasing-pain",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Grace explicitly does not remove pain and provides strength to endure; the tail stops in the conditional clause \"As we wait ... and exercise faith in Him.\"",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "\"This grace does not remove the pain and difficulty of affliction. It is an enabling power that allows us, after all we can do, to receive divine strength beyond our own, and lay h",
+        "ending": "rist in prayer, obedience, and covenant keeping, they help her endure what she cannot bear alone. That same enabling grace is available to all who turn to Jesus Christ. As we wait upon the Lord and exercise faith in Him."
+      },
+      "baseTranscriptSha256": "d44d60f49b369780fcd93abeafc94abd5448c16e557dfe7e9eaefbb602ae65f3"
+    },
+    {
+      "id": "hathaway-deliverance-timing",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Immediate miracles, long waiting, and resurrection are all stated under His time and way; the next closing invitation stops before the quoted reassuring words.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "To all who continue to face the pain, fear, and loneliness of life, I echo the Savior's words, \"Be not afraid, only believe.\" In His time and way, Jesus Christ will deliver you. So",
+        "ending": "\" In His time and way, Jesus Christ will deliver you. Some miracles are immediate, some come after long waiting, and some await the resurrection. Today we hear, believe, and act on our great deliverers reassuring voices."
+      },
+      "baseTranscriptSha256": "8eac19f6d468d4f694ddd84dde3f4792d7f7bbf737c4eb9881597f1c38aacc4c"
+    },
+    {
+      "id": "m-eyring-resources-and-human-help",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Christ's understanding, His timetable, and tools/resources/other people are present; the next Comforter quotation begins but is not completed.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Our Savior Jesus Christ suffered for us. He knows exactly how we feel, especially in our darkest and most trying times. As you humbly turn to the Lord and cast your burdens on Him,",
+        "ending": "nswers will come by various means as guided by the Spirit, sometimes in the form of tools, resources, and help from other people. The Lord is promised, and I will pray the Father, and He shall give you another comforter."
+      },
+      "baseTranscriptSha256": "f0251384d5b0ad68589d270774f8015d2f2d049c872f3dce20f0e52283a143db"
+    },
+    {
+      "id": "m-eyring-comfort-of-holy-ghost",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Comfort through the Holy Ghost during hardships and priority for His companionship are complete; the added witness that Christ lives is also complete in the transcript.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "The Savior's Peace is made manifest through the comforting power of the Holy Ghost. That comfort will help us when we go through the inevitable hardships of life and times when we ",
+        "ending": "nevitable hardships of life and times when we can't fix things on our own. Living worthy of the constant companionship of the Holy Ghost should be one of our highest priorities. I bear my witness that Jesus Christ lives."
+      },
+      "baseTranscriptSha256": "f5583aa466a6d169ee773dd4cd1982f7026ad6806f2f0bdffc97bee25e717d93"
+    },
+    {
+      "id": "dunn-full-race-and-photo-reveal",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Ted's encouragement, patient accompaniment, photo reveal, water bottles, pack, and final ten miles are complete; the opening carries a preceding \"than ... possible\" fragment and the ending starts the next analogy mid-thought.",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "\"than I ever thought possible.\" That realization came in 1998, when in a very weak moment, my running partner, Ted, somehow talked me into entering a 100-mile ultra-marathon race. ",
+        "ending": "p despair and ready to quit, he quietly lightened my load, strapping my hydration pack to his own waist. And without fanfare or fuss, he simply shouldered my heaviest burden. Well, marveling at his benevolence, my thing."
+      },
+      "baseTranscriptSha256": "66d2727ff99ec0cf6a49e07fd423142efcb98bf2d3f320a91189d02948ab6e57"
+    },
+    {
+      "id": "dunn-christ-lengthens-the-stride",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Christ carrying griefs and helping lengthen the stride instead of shortening the course is complete; the tail stops at \"because God knows our prayers ...\" without the consequence.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Well, marveling at his benevolence, my thoughts immediately turn to an infinitely more amazing load-bearing friend, our Savior, Jesus Christ, of whom Isaiah unequivocally assured h",
+        "ending": "ening our course, but by helping us lengthen our stride. Any time we turn to Christ, we turn a corner. By his grace, we can trust and expect in his constant care. And because God knows our prayers even before we ask him."
+      },
+      "baseTranscriptSha256": "3ced111cf167f70014b8f9c4eb8001222ae5784e421496c61b7c7b13c93b56f4"
+    },
+    {
+      "id": "dunn-broken-does-not-mean-abandoned",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Changed outcomes/timing, no abandonment, strength, and peace without hoped-for outcomes are explicit; the next reflection on the photo ends mid-clause.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Well, to those who are nearing their mile 90, ferrying the unimaginable, or if you feel like I did, both depleted and defeated, I promise that as you expand even your last drop of ",
+        "ending": " the perceived invisibility of the Lord's hand with the inveterate nature of the Lord's heart. Peace will come even when hope for outcomes do not. You know, all these years later, when I glanced at that photo, and pawned"
+      },
+      "baseTranscriptSha256": "e67bdc6a26ca298fc2d4dc1f8bfc44cb8ce5866b48cfa50dae66e007ce958f5f"
+    },
+    {
+      "id": "villanueva-promotion-expectations-and-blessings",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The absent promotion/salary increase, different timing, subtle blessings, and actual list invitation are present, with no invented later outcome; the next woman's story starts at the tail.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Sometimes, we expect the Lord's places to come the way we would wish, rather than in his own way and timing. After a sacrament meeting, a faithful sister shared that her testimony ",
+        "ending": "n abundance. I invited that sister to write her own list of the significant yet subtle places the Lord had given her blessings that are often easy to overlook. Later, I heard another faithful sister share in a sacrament."
+      },
+      "baseTranscriptSha256": "6033f36a12bbfa26048b195736b450626e4ef2d134cd510b48174869387bb855"
+    },
+    {
+      "id": "villanueva-mother-faith-and-sacrifice",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The mother's financial strain, eight children, decision to trust, and Malachi quotation are present; the tail starts a different law-and-blessings quotation and stops after its first words.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "perhaps the change that required the greatest faith and sacrifice was to honorably pay a full tide. Those were difficult years financially. My mother had separated from my father a",
+        "ending": " now here with said the Lord of Host, if I will not open you the windows of heaven, and pour you out a blessing that there should not be room enough to receive it. The Lord taught this important principle. There is a lot"
+      },
+      "baseTranscriptSha256": "c7efdf55a13201185c8957343d15f8343ed40c42d63f69424c222261d27a35b8"
+    },
+    {
+      "id": "andersen-faith-gives-courage",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Stillness and both directions of the faith/courage relationship are complete; the next rejoicing statement stops before identifying whose courage is being described.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "times have changed, but our spirits have not changed. We need stillness to nourish our faith in Christ. As we choose faith in Christ, He blesses us with the courage, sometimes in v",
+        "ending": "ometimes in very difficult situations, to choose the right. And as we manifest our courage to choose the right, our faith in Christ strengthens. We rejoice in the faith in Jesus Christ and the Spirit's spiritual courage."
+      },
+      "baseTranscriptSha256": "1c6d59c8e3139e9ac979d67d16cb079f2189574ff566eb2df0745556941d4f42"
+    },
+    {
+      "id": "andersen-sacrament-promises-and-faith",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Taking Christ's name, remembering Him, keeping commandments, and increased faith are complete; the next courage-to-accept-a-calling sentence stops before its specific action.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Each week, we prayerfully receive the sacrament and witness before God and in the presence of others that we are willing to take upon ourselves the name of Jesus Christ and always ",
+        "ending": "Christ and always remember Him and keep His commandments. Then, with courage, we are true to our covenants and in turn, the Lord blesses us with increased faith. It is our faith in Jesus Christ that gives us the courage."
+      },
+      "baseTranscriptSha256": "9ff8e4ea595d96129d99dc0129b280c65fac41341b298dff04b0f414b70a35dc"
+    },
+    {
+      "id": "giuffra-commandments-love-and-trials",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Love-motivated obedience, continuing trials, and God's time and way are clear; \"does no mean\" is recognition noise. The opening is a preceding-sentence fragment and the anomalous final \"end of the day\" needs inspection.",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "A principle that has become very meaningful in our family. We keep the commandments because we love God, not merely because we hope to receive the blessings that come from obedienc",
+        "ending": ". Yet even when we don't understand the purpose of our trials, we can have the assurance that the Lord knows our circumstances, honors our obedience, and fulfills his promises in his own time and way. the end of the day."
+      },
+      "baseTranscriptSha256": "cb09f60ac1e59dc2e2f532f2fc5752b89b91381501822d876e6bf29df9c4b96e"
+    },
+    {
+      "id": "giuffra-woman-prayer-and-faithfulness",
+      "contentAssessment": "uncertain",
+      "inspectionRecommended": true,
+      "reason": "Prayer, baptism, envelopes, and fast offerings are present, but \"typing\"/\"titan\" garble the tithing detail rather than prove its absence; the added personal testimony ends mid-thought.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "When we arrived at her home and began reviewing the lessons, we came once again to allow typing. She said to us, \"Last night, I knelt in prayer and told a Heavenly Father that I tr",
+        "ending": " me she arrived every week with her titan envelope. And then on the first Sunday of every month, she also brought her fast offering. Throughout my life, I have learned to trust in the Lord. I have seen in numerous years."
+      },
+      "baseTranscriptSha256": "d7ab7dcb2c85480f68558e30f25aecabed01e3c39b735458836bdb6e6acb6079"
+    },
+    {
+      "id": "kearon-grace-and-spirit-lift",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Grace, acting on Holy Spirit impressions, and unseen lift are present; \"sync\" is a homophone substitution. The final question stops at \"when you have felt\" without its object.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Through the amazing grace of Jesus Christ, we can avoid spiritual sync and find spiritual lift. Spiritual lift cannot be seen, but as we learn to discern and act upon the sensitive",
+        "ending": "cannot be seen, but as we learn to discern and act upon the sensitive impressions of the Holy Spirit, we can feel it as surely as I felt the rising air lift a wing beneath me. Can you identify moments when you have felt?"
+      },
+      "baseTranscriptSha256": "74c75f48eaac08f41fbb8a3099a8ac8c527db1f03a950f4331d34681e49c15ca"
+    },
+    {
+      "id": "kearon-practical-living-in-lift",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Faithful guide, Spirit, companions, turning away, and helping others rise are complete despite \"sync\" for sink; the opening starts \"us up\" mid-clause and the tail stops \"keep turning to.\"",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "us up as we turn to Him. Jesus Christ loves to lift. What does living in lift actually look like? A few simple things. Find a faithful guide and learn from them where lift is found",
+        "ending": " how to rise. Then saw in the joy of the Lord. The Savior's promise is, if you do these things, blessed are ye, for ye shall be lifted up at the last day. None of this is complicated. We simply need to keep turning to..."
+      },
+      "baseTranscriptSha256": "18116ca9716b55ef9798b5fcd5d77963e5a744fb932580e49e9b73539aa46472"
+    },
+    {
+      "id": "kearon-glider-training-complete",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Cloud cues, felt unseen lift, turning into/staying in lift, and avoiding sink are all present; the next doctrine section begins only \"At the heart.\"",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "A few weeks ago, President Ochtdorf took me aside and said, \"Patrick, your talks, they're okay, but where's the aviation?\" So here's just a little aviation. I spent much of my chil",
+        "ending": "liding days and not far into my journey of faith, I recognized that principles of gliding I had learned in my teens have significant similarities with spiritual principles. We must avoid sync and find lift. At the heart."
+      },
+      "baseTranscriptSha256": "a46c453b6023a4aa461481addc494cc6e6532b0f72c2f933fcf975461bead053"
+    },
+    {
+      "id": "kearon-lift-sink-and-continuing-practices",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Noticing lift/sink, turning away, and avoiding neglected practices and communion are complete; a lone \"When\" begins the next section at the tail.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Can you identify moments when you have felt undeniable spiritual lift? Where were you? How did it feel? Isn't it magnificent to feel like you're being drawn upward, rising higher a",
+        "ending": "that brought us there. We rarely intend to sink. We want to lift. We want to lift its joy and blessings, but we may not recognize the quiet cost of neglecting vital communion with our Father, Savior, Holy Spirit. When..."
+      },
+      "baseTranscriptSha256": "65d4d1a5ac5bddb7d3785041ed08b28c9e3cc452a1f07de9d14b9991329dcbc5"
+    },
+    {
+      "id": "sinclair-child-example-and-spirit",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The child's example, Holy Ghost realignment, and quick-to-help/slow-to-judge lesson are complete with host-supplied story context; the next scriptural teaching begins and cuts off.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "I felt relieved in that moment, but also humbled. I recognized the quiet rebuke of misplaced buttons and tiny fingers, reminding me that I should be trying to be more like Jesus. T",
+        "ending": "through the Holy Ghost prompted a spiritual realignment. A little child led me to learn this. That a true disciple of Jesus Christ is quick to help and slow to judge. The Savior taught this loving principle of disciples,"
+      },
+      "baseTranscriptSha256": "2ad6f01360ac332d259d0ee13d1e36f0e880681cfc257780569e6ba886be3185"
+    },
+    {
+      "id": "sinclair-dignity-and-possible-future",
+      "contentAssessment": "uncertain",
+      "inspectionRecommended": true,
+      "reason": "Dignity, listening, teaching without ridicule, and change are clear; the important \"possible future\" phrase is rendered only \"possible,\" suggesting recognition uncertainty. The next modern-day-wells application is cut off.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "The great Redeemer of all knows absolutely everything about this unnamed woman. And he comes to her to be a living witness of living water. He offers her grace and transformative h",
+        "ending": "ir possible. She walked to the well that day as a pariah. She walked away from the well with a purpose. That is precisely what quick to help and slow to judge looks like. Every day missionaries meet people at modern day."
+      },
+      "baseTranscriptSha256": "7b276bd77e593b55c9d4d0e9b11105f1a74487ccd3c727eee9c5595c0a1fe5f4"
+    },
+    {
+      "id": "sinclair-buttons-complete",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The sleeve/lapel predicament, girl freeing the button, Spirit lesson, and quick-to-help/slow-to-judge answer are complete; the next scriptural section begins at the tail and stops mid-sentence.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "\"And a little child shall lead them.\" Some years ago, this scripture truly came alive to me. It happened during a ward primary program. That Sabbath morning, my young friend James ",
+        "ending": "through the Holy Ghost prompted a spiritual realignment. A little child led me to learn this, that a true disciple of Jesus Christ is quick to help and slow to judge. The Savior taught this loving principle of disciples,"
+      },
+      "baseTranscriptSha256": "6b9b7fa8973ad895d2d6006daae672ec302681546f243299a9dea1bdb2855c89"
+    },
+    {
+      "id": "cook-integrity-beliefs-character-happiness",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Honesty, living beliefs/commitments, character, God's will, and happiness are present; the tail stops in the next virtue definition after \"includes not only a strong.\"",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "We need to live our lives with integrity and follow His example. The Lord speaking of one servant in Nauvoo declared, \"He may be trusted because of the integrity of His heart.\" Pri",
+        "ending": "e intrinsically linked. Living a virtuous life with integrity aligns us with God's will. True happiness, often translated as blessedness, is the actual outcome of integrity and being virtuous. includes not only a strong."
+      },
+      "baseTranscriptSha256": "191ce820c88db2e9d06b889c2f6d334b3adf125903b2b5b40e1d3815c61dd947"
+    },
+    {
+      "id": "cook-integrity-spirit-and-repentance",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Service, Holy Ghost companionship, acknowledging faults, and daily repentance are complete; the tail introduces a new young-missionary account without its event.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "We show our integrity by living virtuous lives and caring for and serving others. The ultimate reward of integrity and virtue is the constant companionship of the Holy Ghost. The H",
+        "ending": "repenting of transgressions. When we make repentance a constant day-to-day part of our lives, we can approach the Lord with integrity and receive His saving blessings. And I was a young missionary in the British mission."
+      },
+      "baseTranscriptSha256": "0f4b63d48e015fbe4ad2f1b85583ebc40bb1bb902b8b8e3f1844aed5d30ae4b5"
+    },
+    {
+      "id": "cook-mckay-inscription-and-resolve",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The inscription, doing one's best in every responsibility, and distraction from spiritual matters are present; the next present-day application stops before its predicate.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Marian and I recently had the privilege of meeting with the missionaries in the Scotland Ireland Mission. On the grounds of one building, there is a replica of a message that signi",
+        "ending": "ng this incident was to teach that some conduct, which is not inherently evil, can keep us from engaging in spiritual matters that will bless us now and throughout eternity. In our day, the application of this principle,"
+      },
+      "baseTranscriptSha256": "f912ae4924f8fdb6fdbddd63ae174e5c020af9036e221ce23e79686116e88a84"
+    },
+    {
+      "id": "rasband-pressure-and-personal-choice",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Pressure causing a greater rift and each person choosing to follow Christ are explicit; the next Lehi dream starts without its object or account.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "In our grief, we continuously ponder the wise, hows, and what is. We feel we have failed. We spend sleepless nights going over how we tried to draw our loved ones close to Jesus Ch",
+        "ending": "ghing) But to no avail, if any things these efforts can cause a greater rift. By design brothers and sisters, everyone must choose for themselves to follow Jesus Christ. The Book of Mormon Prophet, Lehi viewed in a dream"
+      },
+      "baseTranscriptSha256": "090e52a57e6b474b42e18fa07f2c6ebc8331beef709d276afad0683aa0af59a8"
+    },
+    {
+      "id": "rasband-positive-practices-of-love",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Love without sanctioning choices, interest, open arms, trust, Spirit, and patient/forgiving/kind peacemaking are present; the final \"in the Book of Mormon\" begins the next story without its subject.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Love is not stepping back or sanctioning others decisions and actions. Love is being interested in their lives, their successes, and their challenges. Love is being there with arms",
+        "ending": "id what is harsh and hateful. Let us seek to be holy like our Savior.\" That holiness comes when we are peacemakers, when we are charitable, patient, forgiving and kind, love is expressed in prayer, in the Book of Mormon."
+      },
+      "baseTranscriptSha256": "53739bda2ade8a0e70f449789993c34305b7fe417643be0bac9529c99204265f"
+    },
+    {
+      "id": "chibota-identity-above-labels",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Spirit-child identity before roles, identity persisting through changes/mistakes, and Christ-centered love/plan are clear; the next Nelson quotation stops at \"embrace.\"",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Whatever labels may weigh heavily upon you today, Jesus Christ can raise you above them. His grace is sufficient to live to above every label and limitation. Before we were student",
+        "ending": "s misunderstand us, he loves you. He knows you. He sees you as you are now and who you will become. He has a plan for your life and Jesus Christ is at the center of that plan. and Russell M. Nelson taught us that embrace"
+      },
+      "baseTranscriptSha256": "22ed0ee0f5283ffbd3feea87af49d887557fa415c911e4794beed626af65d8a2"
+    },
+    {
+      "id": "chibota-prayer-promptings-coworker",
+      "contentAssessment": "uncertain",
+      "inspectionRecommended": true,
+      "reason": "Prayer, isolated coworker, promptings, and inclusion are clear; the friendship outcome is garbled as \"friendship room,\" not evidence of a cut. The added invitation stops before its specific seeing/acknowledging action.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "As we seek the serious perspective, he will often guide us to those who need to be seen. Years ago, I prayed to know how I could help a co-worker who seemed isolated as I acted on ",
+        "ending": " acted on simple promptings to include him, our friendship room. I learned that when we asked Heavenly Father to help us see others, he guides us to those who feel unseen. You too can make a difference in someone's life."
+      },
+      "baseTranscriptSha256": "ee91a8130805f671580d51ed2f4f6ecc6a9175905a0e01fb90214e62ffb3f855"
+    },
+    {
+      "id": "chibota-greeting-meaning",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The greeting's I-see-you meaning, respect, worth, humanity, and belonging are present despite a garbled greeting name; the added Christ-example sentence lacks its object.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "As a child, I learned that greetings in my cultural communicate love, concern, respect, and belonging. My daughter recently reminded me of the significance of the Southern African ",
+        "ending": "is greeting is much more than a simple hello. It is an acknowledgement of another person's worth and humanity. It communicates, \"I recognize you, I respect you, you matter.\" The Savior Jesus Christ perfectly exemplifies."
+      },
+      "baseTranscriptSha256": "50eaba4685aee1610ac7fed0b8211eb93581477bb4e371b5c57cc4086d2c1571"
+    },
+    {
+      "id": "chibota-school-janitor",
+      "contentAssessment": "uncertain",
+      "inspectionRecommended": true,
+      "reason": "Knowing the name and helping clean after lunch are clear; \"created him\" likely garbles greeted, so the third detail needs recognition inspection. The next mission-leader account ends at a garbled \"machinery.\"",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "The saviour's example and the good Samaritan's compassion are not beyond our reach. Often helping others feel seen as children of God begins with something as simple as learning th",
+        "ending": "m clean up after lunch. He told us, \"Very few students know my name. Your daughter sees me.\" President Alan H. Oakes reminded us that all models are beloved children of God. As mission leaders, we've found that machinery"
+      },
+      "baseTranscriptSha256": "127a36025620698038f85c0d0bed3dccded8f0be1733498a725037f779f654c6"
+    },
+    {
+      "id": "douglas-living-example-message",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Missionaries of all ages as living examples of their message and builders of the kingdom are explicit; the tail begins the next sacrament-meeting account without its actual event.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "\"We love missionaries of all ages. You are an army of righteousness with the doctrine of Christ as your purpose. You are a force of faith, power, love, and joy. You are what you pr",
+        "ending": "gers, but also living examples of the message. Make no mistake, you are doing the most important work you could be doing. We thank you for building up the kingdom of God on earth. A few months ago, I attended a ceremony."
+      },
+      "baseTranscriptSha256": "c47d39df0ccecaf0b84163906704c35af39924dccc9ddfc3b5ab992f479ebb19"
+    },
+    {
+      "id": "douglas-merlin-return-and-choice",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Friends/leaders, return to church, mission choice, closeness to Christ, and obstacles are present; the next repeated-companion biography stops after \"served with the.\"",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Sister Douglas and I served as mission leaders in Lima, Peru. One of our amazing missionaries was Elder Merlin Sanchez. Merlin was baptized when he was nearly 24 years old. As some",
+        "ending": "and to follow Him.\" He became a wonderful missionary, converted to Jesus Christ in His doctrine. His every experience, trial and companion was consecrated for His gain. Interestingly, Elder Merlin Sanchez served with the"
+      },
+      "baseTranscriptSha256": "898f911071eb3e95c7c40a173fe5789937be920b0d5f263d727e5b1f8e4bef5f"
+    },
+    {
+      "id": "runia-rock-during-storms",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Universal rain and the gospel as solid rock rather than a protective umbrella are clear; the tail begins Nephi's question without the answer or full new example.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Maybe it's because I grew up hearing things like, \"If you keep the commandments, you'll be blessed. Pay your tithing and the windows of heaven will open. Follow the word of wisdom ",
+        "ending": "ted. The gospel isn't the umbrella. It's the solid rock we're standing on during the storm. that sure foundation were on if men build, they cannot fall. When an angel asked Nephi, \"Knowest thou the condescension of God?\""
+      },
+      "baseTranscriptSha256": "bea3c9bbb0963b03a4115d2a20953a9797365851995b68b26910e2dd52eac2df"
+    },
+    {
+      "id": "runia-understanding-and-believing",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "The funeral setting, honest lack of understanding, distinction from lack of belief, and God seeing/loving/knowing are complete; the personal-and-purposeful phrase closes the thought.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "Still, like Nephi, I do not know the meaning of all things. When I spoke at Ryan's funeral, I looked at his wife, Carrie, and their four children with such a heavy heart and said, ",
+        "ending": " let me be clear, not understanding is not the same as not believing. I may not understand everything, but I absolutely believe God sees you, loves you, and knows your story. A story that is both personal and purposeful."
+      },
+      "baseTranscriptSha256": "eb514997447c5306b91bb1ce9b56a81c9dd1a0665506561786e2917beca89844"
+    },
+    {
+      "id": "runia-lego-instructions-trust",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "The hypothetical absent box picture, following instructions, trust in the designer, and faith while surrendering an imagined story are clear; the opening is a preceding plan sentence fragment and the tail cuts Christ's-work statement.",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "of your experience and has a plan for all of it for each one of us even if we can't see it right now. At Ryan's funeral his oldest son seven-year-old Jack shared a primary talk he ",
+        "ending": "hat sting is real and that wound is wide. It will take your finest faith in Christ to keep putting together the pieces, the ones it makes sense, but also the ones that don't. Consider this. Christ's work in your life and"
+      },
+      "baseTranscriptSha256": "f56b589e4fc039eea693b70adaeeb40a4603277dad5e00f0b86707b6d93bb606"
+    },
+    {
+      "id": "runia-sculpture-help-and-christ",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Lifelike-eye problem, asking the instructor, master's hand, uniquely his likeness, and explicit Savior shaping analogy are complete; the next future-suffering sentence stops in its when-clause.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "I don't pretend to know how it works, but it feels like a sort of divine mending that changes what's happening to you into something happening for you. Let me leave this last visua",
+        "ending": " how abrupt and aggressive the work feels. But as time goes on, we'll begin to see the work of His hand. God is shaping us into something only He knows we can become. And one day, when all of the suffering and loneliness"
+      },
+      "baseTranscriptSha256": "69e950c347264a071cb8717cc7daf13baef005a5025c64329d502bd1d32f3ed9"
+    },
+    {
+      "id": "lebethoa-consistent-sincere-scripture-study",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Daily study, knowing Christ, flexible method/time/length, and consistency/sincerity are present; the next mission-leader coffee account starts at the tail and is unfinished.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Second, study the scriptures daily, especially the Book of Mormon. In preach my gospel we learn. As people read and pray about the Book of Mormon, they will come to know the Savior",
+        "ending": " time that best fits our circumstances. Ultimately, the method, timing, and length of our scripture study matter less than the consistency and sincerity of our effort. While saving as mission leaders in our home country,"
+      },
+      "baseTranscriptSha256": "0622a452fa28165838aa077c629f04ab4d2863679279fbdd894dcaeddc88add9"
+    },
+    {
+      "id": "lebethoa-daily-repentance-and-help",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Daily repentance, concrete changes, not doing it alone, and the Savior's help are complete; the next quoted invitation-to-repent teaching is cut off after its introduction.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Third, practice repentance daily. Repentance means a change of mind and attaining of the heart to God. Let us ponder about the changes that we need to make in our lives, and these ",
+        "ending": " always ready to help because He sees the end from the beginning and understands our weaknesses perfectly. He is always ready to Saka His people according to their infirmities. Sister Tamara W. Rina taught the invitation"
+      },
+      "baseTranscriptSha256": "30ebd195e92af9f8ecaec815093a68ff124008f7974d5e1028d4a7eef3a0fa32"
+    },
+    {
+      "id": "lebethoa-argument-remembered-scripture",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Argument, remembered anti-contention scripture, enlightened mind, and help resolving the challenge are complete, without invented reconciliation actions; the tail begins a new question and stops after \"more of.\"",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "In my home country of South Africa, it is customary for parents to give their children names with special meaning. My name is Tabo, it means joy. My beloved wife's middle name is H",
+        "ending": "nds. His light is also revealed through His perfect life and teachings. He did let, \"I am the light. I have set an example for you and His words are a light unto our path. Many of us may wonder how we can receive more of"
+      },
+      "baseTranscriptSha256": "6b81f9c6af70ebf258cd42fcf43899538d240fe760de1147918ab9ac695003ce"
+    },
+    {
+      "id": "farnes-sacrament-to-daily-ministering",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Taking Christ's name, reflecting His qualities, promised Spirit, and Sunday-to-daily ministering are complete; the opening carries \"follow Him\" and the next divine-appointments sentence stops with a garbled path/pocket word.",
+      "openingConcern": true,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "follow Him. Each Sabbath day, when you and I partake of the sacrament, we witness to our Father in heaven our willingness to take upon ourselves the name of His Son, Jesus Christ. ",
+        "ending": " and His loving kindness. We make the covenant during sacred time with God every Sunday. A way we keep the covenant is by ministering to God's children every day. Often this happens when God places someone in our pocket."
+      },
+      "baseTranscriptSha256": "561485de74ed2af189ca8ed4a4b717f38a484978a639c8da7c7df3b583e5c36b"
+    },
+    {
+      "id": "farnes-see-compassion-act-closing",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Seeing, compassion rather than judgment, action, daily prayer, ministering, covenant name, and the closing Amen are all complete.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "All we had to do was see the person God had placed in our path. Look with compassion rather than judgment and then act. Brothers and sisters, let us pray every day for eyes to see ",
+        "ending": "God places before us. Let us put compassion into action and minister to the person in front of us. It's what Jesus did, and it's what we do. In the sacred name we take upon ourselves by covenant, even Jesus Christ. Amen."
+      },
+      "baseTranscriptSha256": "3e0d2485f3c0ef1737127441bf48b99ab1ce77687600603d0541ded8c2424cf7"
+    },
+    {
+      "id": "farnes-oaks-care-complete",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Oaks' second sincere question, listening, gratitude, encouragement, answer, hug, and later ordinary-disciple lesson are present; the next sacrament sentence stops in its when-clause.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "I'll never forget a Saturday almost 20 years ago. I had just been called into a stake presidency, and I hadn't yet been released as bishop. We had five young children, a business t",
+        "ending": "Christ, we minister with compassion to whomever God places in our path. We do it because that's what the Savior did. And we've made a covenant to follow Him. Each Sabbath day, when you and and I partake of the sacrament."
+      },
+      "baseTranscriptSha256": "d2465935c93edaa50ab741a102eb36c02ac54de548ec9a6aa91e44c52d56d39e"
+    },
+    {
+      "id": "farnes-airport-complete-and-application",
+      "contentAssessment": "supported",
+      "inspectionRecommended": false,
+      "reason": "Spirit-prompted second look, question, helping, clock concern, journey assistance, and full compassion/action application through Amen are complete; \"Were you okay\" is a harmless ASR tense difference.",
+      "openingConcern": false,
+      "endingConcern": false,
+      "evidence": {
+        "opening": "That's what the Savior did, it's what His prophet does, and it's what we do, isn't it? A few years ago, my wife and I were waiting to board a fight for a much-needed vacation. We a",
+        "ending": " God places before us. Let us put compassion into action and minister to the person in front of us. It's what Jesus did and it's what we do. In the sacred name we take upon ourselves by covenant, even Jesus Christ. Amen."
+      },
+      "baseTranscriptSha256": "27c9bf4e2e3181e0e00ce0b6b0ef25d01179aea7580ed7e4efb10348d97536b5"
+    },
+    {
+      "id": "soares-fasting-prayer-personal-revelation",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Prayer, humility, softened/receptive hearts, Holy Ghost, personal revelation, and covenant path are present; the next Christ-example introduction stops after \"highest and holier.\"",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "President Joseph F. Smith thought that the proper fasting would place the body in subjection to the spirit and so promote communion with the Holy Ghost and that this law would brin",
+        "ending": "ed, our souls become more receptive to the influence of the Holy Ghost. And we are better prepared to receive personal revelation and move forward along the covenant path. This divine pattern finds its highest and holier"
+      },
+      "baseTranscriptSha256": "8c9a8d9bdda76f199c58e1886a7d3b66c123e99e69e55d5d8493ee2b0d8de3c5"
+    },
+    {
+      "id": "soares-align-desires-accept-answers",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Aligning desires/purposes and expectations/wisdom, plus accepting different answers and His will, are complete; the next outward-charity statement stops after \"the Lord.\"",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "Adopting this holy pattern of fasting is more than a physical test of restraint or a petition for specific blessings. It is an elevating expression of faith and trust in the Lord, ",
+        "ending": "y we expect, fasting and prayer helps us develop greater confidence in the Lord, in our confidence with Him, and His plan for our lives, as well as a deeper willingness to accept His will. Through this holy law, the Lord"
+      },
+      "baseTranscriptSha256": "9c24a223a516adb459e49bf5ee121d4c5351d4c3cb66f1ac1e14ef6697c2e9e7"
+    },
+    {
+      "id": "sikahema-value-access-to-prophetic-words",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Valuing God's oracles and avoiding taking accessible prophetic words for granted are clear; the next old conference quotation is introduced without its speaker or content.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "The Lord gave Joseph Smith this counsel, \"In all they who receive the oracles of God, let them beware how they hold them lest they are accounted as a light thing.\" I suspect the Lo",
+        "ending": "hing.\" I suspect the Lord knew that even when we would have these devices, to easily see and hear His anointed servants that many of us would still take them for granted. the general conference address over 20 years ago."
+      },
+      "baseTranscriptSha256": "2208d7fff20afb79944db3c8e60973fe21e0521d75c0bff1ee7adbf29a0c0fde"
+    },
+    {
+      "id": "sikahema-writing-and-the-lords-words",
+      "contentAssessment": "supported",
+      "inspectionRecommended": true,
+      "reason": "Publication opposition, writing concerns, tentative \"Maybe,\" and the complete same-voice quotation are present; the next gratitude-to-progenitors statement stops before its legacy explanation.",
+      "openingConcern": false,
+      "endingConcern": true,
+      "evidence": {
+        "opening": "It's interesting to note that when the church was only about one and a half years old, some early church leaders opposed the idea of publishing the Lord's revelations through the P",
+        "ending": ".\" Though the heavens and the earth shall pass away, my words shall not pass away, but shall all be fulfilled, whether by my own voice or the voice of my servants, it is the same. How grateful I am for noble progenitors."
+      },
+      "baseTranscriptSha256": "11cc77014e7d769156b49cb71998f6af427ec02ca4de6de803dd4584f5850eae"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "clipId": "uchtdorf-baptism-covenant-people",
+  "clipSha256": "696ac7a4dba321709d6f1e1220ab2e99f8abe4f6ea452b63938e9943cb98e7b9",
+  "sourceFingerprint": "69777270cc675df5f36163dafa455331fb1a1d191bde91e85e2ac617e64a5ee7",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:03.933076+00:00"
+}

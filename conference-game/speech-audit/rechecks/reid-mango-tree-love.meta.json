@@ -1,0 +1,16 @@
+{
+  "clipId": "reid-mango-tree-love",
+  "clipSha256": "60153cf9971c058619e2d3f657d299f71c0e1aa91ea2d632715309adfa9dba3a",
+  "sourceFingerprint": "96a677ab9bfa9bf85e4e47cde0a54cdfe69646c920c2a84692e68d309460e814",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\.cache\\whisper\\ggml-large-v3.bin",
+  "modelSha256": "64d182b440b98d5203c4f9bd541544d84c605196c4f7b845dfa11fb23594d1e2",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cpu",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:39:32.363869+00:00"
+}

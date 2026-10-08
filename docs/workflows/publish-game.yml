@@ -1,0 +1,52 @@
+# Optional template. Current publishing uses publish_game.py and gh-pages.
+# Adding this under .github/workflows needs a GitHub login with workflow scope
+# and changing the repository's Pages source to GitHub Actions.
+name: Build and publish conference game
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'conference-game/**'
+      - '.github/workflows/publish-game.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Install preview tooling
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes ffmpeg
+      - name: Build the standalone game
+        run: python3 conference-game/build_game.py
+      - name: Verify rules and content
+        run: node conference-game/tests/game-rules.cjs
+      - name: Verify source archive tooling
+        run: python3 -m unittest discover -s conference-game/tests -p 'test_source_archive.py'
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: github-pages
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish
+        id: deployment
+        uses: actions/deploy-pages@v4

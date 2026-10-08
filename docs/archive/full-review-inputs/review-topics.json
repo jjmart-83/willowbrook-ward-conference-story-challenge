@@ -1,0 +1,62 @@
+[
+  {
+    "id": "following",
+    "group": "Deacons",
+    "label": "Follow Christ",
+    "question": "What blessings or results can we expect by following Him every day?",
+    "foundation": "Daily discipleship changes choices, character, closeness to Christ, and willingness to help. Obedience expresses love and trust; the talks do not promise a particular promotion, wealth, popularity, or an easy life. Build questions around a concrete choice and the result that can reasonably follow even when circumstances remain hard.",
+    "applicationQuestion": "What could following Jesus change in a decision at school or home, and what result could you hope for without assuming the problem disappears?",
+    "qualification": "Distinguish spiritual help and growth from a guaranteed outcome or timetable. Preserve the actual subject of a tithing or integrity passage instead of turning it into a universal reward formula.",
+    "leadTalkIds": ["patricio-m-giuffra", "moises-villanueva", "quentin-l-cook", "alfred-kyungu", "neil-l-andersen"]
+  },
+  {
+    "id": "identity",
+    "group": "Builders of Faith",
+    "label": "Know Your Worth",
+    "question": "How does knowing who we are change how we see ourselves and treat others?",
+    "foundation": "Divine identity is deeper than achievement, social labels, or a mistake. The practical test is how that belief changes the way we see ourselves and recognize, include, and help others. Pair the teaching of enduring love with a story showing respectful treatment; identity should lead to both reassurance and constructive growth.",
+    "applicationQuestion": "How would you respond to a friend calling themself worthless after a mistake, and how would that same teaching change the way you treat a classmate?",
+    "qualification": "Enduring worth does not make choices inconsequential. Do not presume every participant has experienced a loving home. Preserve Spannaus's address to young women when using exact wording.",
+    "leadTalkIds": ["hutch-u-fale", "rosemary-k-chibota", "gary-e-stevenson", "andrea-munoz-spannaus"]
+  },
+  {
+    "id": "revelation",
+    "group": "Teachers",
+    "label": "Find Guidance",
+    "question": "How can we seek, recognize, and act on guidance from the Spirit?",
+    "foundation": "The strongest examples show preparation, recognition, and a response: prayer with fasting or scripture study; an enlightening thought, prompting, warning, comfort, or testimony; then a faithful action. Gilbert's instruction to wait is a useful reminder that responding can mean restraint and careful listening. Use several sources if one excerpt does not demonstrate all three steps.",
+    "applicationQuestion": "Use one story detail for seeking, recognizing, and acting, then propose a realistic response in a disagreement or opportunity to help.",
+    "qualification": "A pleasant feeling alone is not a universal test of revelation. Prophetic teaching, the Holy Spirit of Promise, and ordinary personal guidance are related but distinct. A talk about teaching a lesson does not automatically answer this assignment.",
+    "leadTalkIds": ["ulisses-soares", "patrick-kearon", "thabo-lebethoa", "rosemary-k-chibota", "clark-g-gilbert"]
+  },
+  {
+    "id": "hope",
+    "group": "Messengers of Hope",
+    "label": "Find Strength",
+    "question": "What can we do when life is hard or our faith is strained?",
+    "foundation": "Christ can give peace, companionship, practical help through others, and strength to continue while a challenge remains. Hathaway, Runia, and Dunn offer memorable illustrations; Oaks directly addresses questions and strained faith. Ask what faithful progress or compassionate support can look like without demanding an immediate resolution.",
+    "applicationQuestion": "What emotional support and practical help could you offer someone who has prayed and tried but is still struggling?",
+    "qualification": "Do not equate pain, doubt, or delayed relief with weak faith. A shaping analogy does not establish that every harmful act was caused or approved by God. Avoid making tragic details into trivia or promising a quick cure.",
+    "leadTalkIds": ["kevin-j-hathaway", "tamara-w-runia", "michael-a-dunn", "dallin-h-oaks", "henry-b-eyring"]
+  },
+  {
+    "id": "covenants",
+    "group": "Priests",
+    "label": "Keep Promises",
+    "question": "How do our covenants connect us to Jesus Christ and help us become more like Him?",
+    "foundation": "Covenants describe a continuing relationship with Christ, expressed in willingness, remembrance, obedience, worship, and service. The sacrament connects those commitments with the promised companionship of the Spirit. Temple stories show practical preparation and support; baptism and shared discipleship show belonging and bearing burdens.",
+    "applicationQuestion": "Choose one sacrament promise and a specific way to live it on Monday. What can a youth do now to prepare for temple worship?",
+    "qualification": "Keep Bednar's explicit limit: hardship or injury through no fault of our own does not invalidate covenants. Covenant influence does not remove another person's agency. Do not test personal worthiness or private temple details.",
+    "leadTalkIds": ["ciro-schmeil", "gerrit-w-gong", "david-a-bednar", "dieter-f-uchtdorf", "james-g-o-fantone"]
+  },
+  {
+    "id": "serving",
+    "group": "Gatherers of Light",
+    "label": "Help Others",
+    "question": "How can we help others feel the Savior's love?",
+    "foundation": "Seeing a person, learning their name, listening honestly, and giving practical help make love concrete. Farnes, Chibota, Sinclair, and Reid supply ordinary examples. Rasband preserves love and personal choice; Gilbert connects conviction with patience and charity. Invitations should grow out of care rather than making friendship conditional on a response.",
+    "applicationQuestion": "Who might be overlooked in an ordinary day, and what specific action would help them feel known and cared for while respecting their choice?",
+    "qualification": "Do not pressure participation, override agency, or treat winning an argument as successful ministry. Suggested present-day actions should be identified as applications when the source story does not report those exact steps.",
+    "leadTalkIds": ["timothy-l-farnes", "ronald-a-rasband", "paul-h-sinclair", "rosemary-k-chibota", "gabriel-w-reid", "clark-g-gilbert"]
+  }
+]

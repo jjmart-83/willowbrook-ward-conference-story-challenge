@@ -1,0 +1,16 @@
+{
+  "clipId": "fantone-school-form-name-mistake",
+  "clipSha256": "348adffb1013fb2fa39fc527cff4f9029d75336e34d99914eb086b12a2c8565a",
+  "sourceFingerprint": "02a48dab1c52fe6cc3010a7d911fe28937deacb2e673e8cde1ec9e711484ef72",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:22.082370+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "clipId": "chibota-greeting-meaning",
+  "clipSha256": "4f4a9542d8e96eecbcdcb5130f8805c76a06c416a184bb2f2e2bcc5fd0807b6d",
+  "sourceFingerprint": "ac84c0c0692e6ac6406a45429deeba5fba4e5b6a4dfdb1d2a63ecbd6adfc689c",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:58.278030+00:00"
+}

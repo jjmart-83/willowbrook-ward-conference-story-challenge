@@ -1,0 +1,16 @@
+{
+  "clipId": "stevenson-spirit-warns-comforts-testifies",
+  "clipSha256": "2d7eb38792c66cd3d19f25a5f671c761952f41d63bff0e5c8656dbe0401e70ca",
+  "sourceFingerprint": "0fd542e7ca2c1a2dc0c8ee1fec00d30c00a5016f378844b5f499238298e40147",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:12.513205+00:00"
+}

@@ -1,0 +1,1096 @@
+{
+  "schemaVersion": 1,
+  "clips": [
+    {
+      "id": "legacy-identity-bridge-hathaway",
+      "legacyId": "identity-bridge-hathaway",
+      "collection": "prototype",
+      "title": "Identity bridge hathaway",
+      "kind": "prototype",
+      "talkId": "kevin-j-hathaway",
+      "speaker": "Kevin J. Hathaway",
+      "label": "Kevin J. Hathaway",
+      "start": 0,
+      "end": 24,
+      "duration": 24.0,
+      "path": "assets/clips/identity-bridge-hathaway.mp4",
+      "sourceCaptions": "../talks/Kevin%20J%20Hathaway%20%C2%A6%20October%202026%20General%20Conference/Kevin%20J.%20Hathaway%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Kevin%20J%20Hathaway%20%C2%A6%20October%202026%20General%20Conference/Kevin%20J.%20Hathaway%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "e648898a640f75f31b54c3b441869ad09db0e40ffbc7ed7bd41742b08128f2a7",
+      "leadCueText": "Jesus Christ is the great deliverer.",
+      "tailCueText": "every other affliction of mortality.",
+      "sourceCueNumbers": [
+        1,
+        9
+      ],
+      "expectedQuote": "Jesus Christ is the great deliverer. Have you ever felt left out? Wondered if you were enough, lost someone you loved, faced illness, experienced family difficulties, or carried a burden no one else could see?",
+      "rationale": "This is a bridge into the group's topic, not a direct teaching about divine identity. What might remembering that we are children of God add to this message?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-daily-discipleship-causse",
+      "legacyId": "daily-discipleship-causse",
+      "collection": "prototype",
+      "title": "Daily discipleship causse",
+      "kind": "prototype",
+      "talkId": "gerald-causse",
+      "speaker": "Gérald Caussé",
+      "label": "Gérald Caussé",
+      "start": 176,
+      "end": 207,
+      "duration": 31.0,
+      "path": "assets/clips/daily-discipleship-causse.mp4",
+      "sourceCaptions": "../talks/G%C3%A9rald%20Causs%C3%A9%20%C2%A6%20October%202026%20General%20Conference/G%C3%A9rald%20Causs%C3%A9%20%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/G%C3%A9rald%20Causs%C3%A9%20%C2%A6%20October%202026%20General%20Conference/G%C3%A9rald%20Causs%C3%A9%20%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "8dd3d19a6c49cfccde0d1b3fae68d9baf8f0e1b514b49fc0c80fe630e4dde480",
+      "leadCueText": "divinely empowered witness of the living",
+      "tailCueText": "and deed, you demonstrate the reality of",
+      "sourceCueNumbers": [
+        63,
+        74
+      ],
+      "expectedQuote": "The sacred responsibility to bear witness of Jesus Christ is not limited to prophets and apostles. It extends to all His disciples. ... Through your testimonies in word and deed, you demonstrate the reality of a loving Savior and of the blessings that come through His gospel.",
+      "rationale": "How might a person's everyday actions show that they are trying to follow Jesus?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-lifelong-discipleship-douglas",
+      "legacyId": "lifelong-discipleship-douglas",
+      "collection": "prototype",
+      "title": "Lifelong discipleship douglas",
+      "kind": "prototype",
+      "talkId": "sean-douglas",
+      "speaker": "Sean Douglas",
+      "label": "Sean Douglas",
+      "start": 304,
+      "end": 326,
+      "duration": 22.0,
+      "path": "assets/clips/lifelong-discipleship-douglas.mp4",
+      "sourceCaptions": "../talks/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "3a8a9a0c28eb613b5fd0529caca76c360ae30303f3d5900ae1e7798879409027",
+      "leadCueText": "disciplehip to be interrupted or his",
+      "tailCueText": "Merlin had not served a mission.",
+      "sourceCueNumbers": [
+        110,
+        119
+      ],
+      "expectedQuote": "Serving missions are just one of many significant steps on the path of lifelong discipleship.",
+      "rationale": "What are some steps of discipleship a teenager can take now, before serving a mission?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-revelation-soares",
+      "legacyId": "revelation-soares",
+      "collection": "prototype",
+      "title": "Revelation soares",
+      "kind": "prototype",
+      "talkId": "ulisses-soares",
+      "speaker": "Ulisses Soares",
+      "label": "Ulisses Soares",
+      "start": 178,
+      "end": 194,
+      "duration": 16.0,
+      "path": "assets/clips/revelation-soares.mp4",
+      "sourceCaptions": "../talks/Ulisses%20Soares%20%C2%A6%20October%202026%20General%20Conference/Ulisses%20Soares%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Ulisses%20Soares%20%C2%A6%20October%202026%20General%20Conference/Ulisses%20Soares%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "0f364f11cc0690a5af601b8e3650f5c8fc3c2a4625a40df72ba065bd4264589a",
+      "leadCueText": "more aware of our complete dependence",
+      "tailCueText": "This divine pattern finds its highest",
+      "sourceCueNumbers": [
+        59,
+        66
+      ],
+      "expectedQuote": "Our hearts are softened. Our souls become more receptive to the influence of the Holy Ghost. And we are better prepared to receive personal revelation and move forward along the covenant path.",
+      "rationale": "What practices in this talk help make our hearts more receptive?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-enduring-grace-hathaway",
+      "legacyId": "enduring-grace-hathaway",
+      "collection": "prototype",
+      "title": "Enduring grace hathaway",
+      "kind": "prototype",
+      "talkId": "kevin-j-hathaway",
+      "speaker": "Kevin J. Hathaway",
+      "label": "Kevin J. Hathaway",
+      "start": 289,
+      "end": 320,
+      "duration": 31.0,
+      "path": "assets/clips/enduring-grace-hathaway.mp4",
+      "sourceCaptions": "../talks/Kevin%20J%20Hathaway%20%C2%A6%20October%202026%20General%20Conference/Kevin%20J.%20Hathaway%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Kevin%20J%20Hathaway%20%C2%A6%20October%202026%20General%20Conference/Kevin%20J.%20Hathaway%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "63487220fd054c7173154b6cbdace017440842619018425b63017738e1415ff5",
+      "leadCueText": "utmost assurance to see the salvation of",
+      "tailCueText": "available to all who turn to Jesus",
+      "sourceCueNumbers": [
+        107,
+        120
+      ],
+      "expectedQuote": "This grace does not remove the pain and difficulty of affliction. It is an enabling power that allows us, after all we can do, to receive divine strength beyond our own and lay hold on eternal promises through Jesus Christ.",
+      "rationale": "What is the difference between a problem ending and receiving strength to endure it?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-shaped-by-christ-runia",
+      "legacyId": "shaped-by-christ-runia",
+      "collection": "prototype",
+      "title": "Shaped by christ runia",
+      "kind": "prototype",
+      "talkId": "tamara-w-runia",
+      "speaker": "Tamara W. Runia",
+      "label": "Tamara W. Runia",
+      "start": 444,
+      "end": 495,
+      "duration": 51.0,
+      "path": "assets/clips/shaped-by-christ-runia.mp4",
+      "sourceCaptions": "../talks/Tamara%20W%20Runia%20%C2%A6%20October%202026%20General%20Conference/Tamara%20W.%20Runia%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Tamara%20W%20Runia%20%C2%A6%20October%202026%20General%20Conference/Tamara%20W.%20Runia%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "8b44e8fde1d843e9505140170bb7363d33c251f3b57395296680a7423737e845",
+      "leadCueText": "without a doubt, a master's hand had",
+      "tailCueText": "more like him. For we shall see him as",
+      "sourceCueNumbers": [
+        194,
+        217
+      ],
+      "expectedQuote": "There is a sculpting taking place within each of our souls. ... God is shaping us into something only He knows we can become. ... The molding, the shaping, the pain and adversity have helped us become more like Him.",
+      "rationale": "What could it look like to invite the Savior's help while a challenge is still happening?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-covenants-gong",
+      "legacyId": "covenants-gong",
+      "collection": "prototype",
+      "title": "Covenants gong",
+      "kind": "prototype",
+      "talkId": "gerrit-w-gong",
+      "speaker": "Gerrit W. Gong",
+      "label": "Gerrit W. Gong",
+      "start": 238,
+      "end": 274,
+      "duration": 36.0,
+      "path": "assets/clips/covenants-gong.mp4",
+      "sourceCaptions": "../talks/Gerrit%20W%20Gong%20%C2%A6%20October%202026%20General%20Conference/Gerrit%20W.%20Gong%20%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Gerrit%20W%20Gong%20%C2%A6%20October%202026%20General%20Conference/Gerrit%20W.%20Gong%20%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "874def1d2967baa8926e1f58408528ef70cfd1b48f72455e861477b257cc7497",
+      "leadCueText": "you to have. Now,",
+      "tailCueText": "force. They are written in the Lamb's",
+      "sourceCueNumbers": [
+        79,
+        94
+      ],
+      "expectedQuote": "When the Holy Spirit of Promise witnesses and confirms the efficacy of ordinances and covenants, they become binding in time and eternity. ... As we honor our covenants, the Holy Spirit of Promise seals our relationships.",
+      "rationale": "How do covenants help connect us to Jesus Christ and to people we love?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-sharing-love-causse",
+      "legacyId": "sharing-love-causse",
+      "collection": "prototype",
+      "title": "Sharing love causse",
+      "kind": "prototype",
+      "talkId": "gerald-causse",
+      "speaker": "Gérald Caussé",
+      "label": "Gérald Caussé",
+      "start": 310,
+      "end": 351,
+      "duration": 41.0,
+      "path": "assets/clips/sharing-love-causse.mp4",
+      "sourceCaptions": "../talks/G%C3%A9rald%20Causs%C3%A9%20%C2%A6%20October%202026%20General%20Conference/G%C3%A9rald%20Causs%C3%A9%20%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/G%C3%A9rald%20Causs%C3%A9%20%C2%A6%20October%202026%20General%20Conference/G%C3%A9rald%20Causs%C3%A9%20%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "d7908a16a08edad177a2953d6204b55c3675902d97376407d8a8a6329612f537",
+      "leadCueText": "of a time. However, I came to ask a",
+      "tailCueText": "witness of Jesus Christ and his gospel.",
+      "sourceCueNumbers": [
+        110,
+        125
+      ],
+      "expectedQuote": "Because we love others, we naturally desire to share with them the most precious gift we have received, our witness of Jesus Christ and His gospel.",
+      "rationale": "How can we share what matters to us in a way that helps another person feel loved?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-missionary-example-douglas",
+      "legacyId": "missionary-example-douglas",
+      "collection": "prototype",
+      "title": "Missionary example douglas",
+      "kind": "prototype",
+      "talkId": "sean-douglas",
+      "speaker": "Sean Douglas",
+      "label": "Sean Douglas",
+      "start": 52,
+      "end": 68,
+      "duration": 16.0,
+      "path": "assets/clips/missionary-example-douglas.mp4",
+      "sourceCaptions": "../talks/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference/Sean%20Douglas%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "a61ae1be3943db9790cd72f7e6d7bc70dcf2afb7b9c6c94185f8486b3f4afd9f",
+      "leadCueText": "through baptism than ever before in this",
+      "tailCueText": "joy. You are what you preach. You're not",
+      "sourceCueNumbers": [
+        19,
+        25
+      ],
+      "expectedQuote": "We love missionaries of all ages. You are an army of righteousness with the doctrine of Christ as your purpose. You are a force of faith, power, love, and joy. You are what you preach.",
+      "rationale": "How can our example help someone feel the Savior's love and become more willing to hear an invitation?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-identity-kearon",
+      "legacyId": "identity-kearon",
+      "collection": "prototype",
+      "title": "Identity kearon",
+      "kind": "prototype",
+      "talkId": "patrick-kearon",
+      "speaker": "Patrick Kearon",
+      "label": "Patrick Kearon",
+      "start": 225,
+      "end": 238,
+      "duration": 13.0,
+      "path": "assets/clips/identity-kearon.mp4",
+      "sourceCaptions": "../talks/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "17aa3fd07ba159cbdc24d2125805d5d6cc8b8c7ada985988ebe5787a6c380b66",
+      "leadCueText": "similarities with spiritual principles.",
+      "tailCueText": "loves to lift.",
+      "sourceCueNumbers": [
+        72,
+        77
+      ],
+      "expectedQuote": "At the heart of our faith is the glorious truth that we have an adoring Father in Heaven whose Son, our Savior, loves to lift.",
+      "rationale": "How could knowing that Heavenly Father is adoring and that Jesus wants to lift us change how we see ourselves and others?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-holy-spirit-kearon",
+      "legacyId": "holy-spirit-kearon",
+      "collection": "prototype",
+      "title": "Holy spirit kearon",
+      "kind": "prototype",
+      "talkId": "patrick-kearon",
+      "speaker": "Patrick Kearon",
+      "label": "Patrick Kearon",
+      "start": 297,
+      "end": 313,
+      "duration": 16.0,
+      "path": "assets/clips/holy-spirit-kearon.mp4",
+      "sourceCaptions": "../talks/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference/Patrick%20Kearon%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "a77a697967949ba09598e1d15cf0ad76321c4dd8ac6bcd2044c48f5334d370ba",
+      "leadCueText": "Christ. We can avoid spiritual sink and",
+      "tailCueText": "air lift a wing beneath me.",
+      "sourceCueNumbers": [
+        94,
+        100
+      ],
+      "expectedQuote": "Spiritual lift cannot be seen. But as we learn to discern and act upon the sensitive impressions of the Holy Spirit, we can feel it as surely as I felt the rising air lift a wing beneath me.",
+      "rationale": "What helps you recognize a spiritual impression, and what might acting on it look like?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-trust-through-trials-renlund",
+      "legacyId": "trust-through-trials-renlund",
+      "collection": "prototype",
+      "title": "Trust through trials renlund",
+      "kind": "prototype",
+      "talkId": "dale-g-renlund",
+      "speaker": "Dale G. Renlund",
+      "label": "Dale G. Renlund",
+      "start": 297,
+      "end": 333,
+      "duration": 36.0,
+      "path": "assets/clips/trust-through-trials-renlund.mp4",
+      "sourceCaptions": "../talks/Dale%20G%20Renlund%20%C2%A6%20October%202026%20General%20Conference/Dale%20G.%20Renlund%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Dale%20G%20Renlund%20%C2%A6%20October%202026%20General%20Conference/Dale%20G.%20Renlund%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "512a75bc53ba7bd9ce04c5e02047d7d5347c1f13b21a7bb79e7d51aa69b8c38a",
+      "leadCueText": "willingness to sucker you, or his",
+      "tailCueText": "circumstances. We can experience joy in",
+      "sourceCueNumbers": [
+        111,
+        125
+      ],
+      "expectedQuote": "Yet, God invites us to trust Him and His promises. ... In the world you shall have tribulation, but be of good cheer. I have overcome the world. ... When our faith is centered on Jesus Christ, He promises spiritual peace no matter our circumstances.",
+      "rationale": "What could trusting Christ look like while a challenge is still present?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-love-as-care-rasband",
+      "legacyId": "love-as-care-rasband",
+      "collection": "prototype",
+      "title": "Love as care rasband",
+      "kind": "prototype",
+      "talkId": "ronald-a-rasband",
+      "speaker": "Ronald A. Rasband",
+      "label": "Ronald A. Rasband",
+      "start": 285,
+      "end": 312,
+      "duration": 27.0,
+      "path": "assets/clips/love-as-care-rasband.mp4",
+      "sourceCaptions": "../talks/Ronald%20A%20Rasband%20%C2%A6%20October%202026%20General%20Conference/Ronald%20A.%20Rasband%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Ronald%20A%20Rasband%20%C2%A6%20October%202026%20General%20Conference/Ronald%20A.%20Rasband%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "a33b4814d294e8485cc6a4ac20cb55b9e269aed9ae2ca366fec686c976b1f6b3",
+      "leadCueText": "As the primary song says, as I have",
+      "tailCueText": "the calming influence of the Holy Ghost.",
+      "sourceCueNumbers": [
+        89,
+        99
+      ],
+      "expectedQuote": "Love is not stepping back or sanctioning others' decisions and actions. Love is being interested in their lives, their successes, and their challenges. Love is being there with arms outstretched and a cheerful countenance. Love is lifting with faith and hope in our Lord and Savior.",
+      "rationale": "What are practical ways to show interest and keep our arms open while still honoring another person's agency?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-sacrament-chigbundu",
+      "legacyId": "sacrament-chigbundu",
+      "collection": "prototype",
+      "title": "Sacrament chigbundu",
+      "kind": "prototype",
+      "talkId": "christian-c-chigbundu",
+      "speaker": "Christian C. Chigbundu",
+      "label": "Christian C. Chigbundu",
+      "start": 358,
+      "end": 376,
+      "duration": 18.0,
+      "path": "assets/clips/sacrament-chigbundu.mp4",
+      "sourceCaptions": "../talks/Christian%20C%20Chigbundu%20%C2%A6%20October%202026%20General%20Conference/Christian%20C.%20Chigbundu%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Christian%20C%20Chigbundu%20%C2%A6%20October%202026%20General%20Conference/Christian%20C.%20Chigbundu%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "cacad6f1e3889977e02ce132bf7aefa1a776923777c294d4dfcacd2bf2506b71",
+      "leadCueText": "removed, but our backs will be built to",
+      "tailCueText": "to keep his commandment. As we partake",
+      "sourceCueNumbers": [
+        118,
+        126
+      ],
+      "expectedQuote": "The sacrament is a sacred ordinance that strengthens our relationship with the Savior. During the sacrament, we make promises to take upon us the name of Jesus Christ, to always remember Him, and to keep His commandments.",
+      "rationale": "What could remembering Jesus Christ during the week look like after taking the sacrament?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-identity-fale",
+      "legacyId": "identity-fale",
+      "collection": "prototype",
+      "title": "Identity fale",
+      "kind": "prototype",
+      "talkId": "hutch-u-fale",
+      "speaker": "Hutch U. Fale",
+      "label": "Hutch U. Fale",
+      "start": 1,
+      "end": 31,
+      "duration": 30.0,
+      "path": "assets/clips/identity-fale.mp4",
+      "sourceCaptions": "../talks/Hutch%20U%20Fale%20%C2%A6%20October%202026%20General%20Conference/Hutch%20U.%20Fale%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Hutch%20U%20Fale%20%C2%A6%20October%202026%20General%20Conference/Hutch%20U.%20Fale%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "fbfd37c118cd5007bf6a8daed408a68907695b3b297bb19a9928a26947021497",
+      "leadCueText": "I am a child of God and he loves me.",
+      "tailCueText": "a divine nature and destiny. In the",
+      "sourceCueNumbers": [
+        1,
+        9
+      ],
+      "expectedQuote": "I am a child of God and He loves me. ... Each is a beloved spirit son or daughter of heavenly parents and as such each has a divine nature and destiny.",
+      "rationale": "How should knowing this about ourselves shape how we see and treat someone else?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-covenant-reach-morgan",
+      "legacyId": "covenant-reach-morgan",
+      "collection": "prototype",
+      "title": "Covenant reach morgan",
+      "kind": "prototype",
+      "talkId": "jeremiah-j-morgan",
+      "speaker": "Jeremiah J. Morgan",
+      "label": "Jeremiah J. Morgan",
+      "start": 363,
+      "end": 381,
+      "duration": 18.0,
+      "path": "assets/clips/covenant-reach-morgan.mp4",
+      "sourceCaptions": "../talks/Jeremiah%20J%20Morgan%20%C2%A6%20October%202026%20General%20Conference/Jeremiah%20J.%20Morgan%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Jeremiah%20J%20Morgan%20%C2%A6%20October%202026%20General%20Conference/Jeremiah%20J.%20Morgan%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "8f6a3afb8418d3f41ec962ad11e4e10ede37cb7069252f3171d8824413351dba",
+      "leadCueText": "binding power of gravity that stretches",
+      "tailCueText": "not.",
+      "sourceCueNumbers": [
+        141,
+        148
+      ],
+      "expectedQuote": "Covenants with God stretch over all time and all space. If you are wondering whether you or a loved one has wandered so far away that the love of God and His covenantal power cannot reach you, I say to you, you have not.",
+      "rationale": "How can remembering the reach of God's covenantal love give hope to a family?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-holy-ghost-comfort-eyring",
+      "legacyId": "holy-ghost-comfort-eyring",
+      "collection": "prototype",
+      "title": "Holy ghost comfort eyring",
+      "kind": "prototype",
+      "talkId": "matthew-j-eyring",
+      "speaker": "Matthew J. Eyring",
+      "label": "Matthew J. Eyring",
+      "start": 428,
+      "end": 444,
+      "duration": 16.0,
+      "path": "assets/clips/holy-ghost-comfort-eyring.mp4",
+      "sourceCaptions": "../talks/Matthew%20J%20Eyring%20%C2%A6%20October%202026%20General%20Conference/Matthew%20J.%20Eyring%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Matthew%20J%20Eyring%20%C2%A6%20October%202026%20General%20Conference/Matthew%20J.%20Eyring%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "4b3939533916129852ad4e0c8f427e9798cc3134268772346d24d52f494b4689",
+      "leadCueText": "of the one in whom we must all put our",
+      "tailCueText": "our own.",
+      "sourceCueNumbers": [
+        153,
+        161
+      ],
+      "expectedQuote": "The Savior's peace is made manifest through the comforting power of the Holy Ghost. That comfort will help us when we go through the inevitable hardships of life and times when we can't fix things on our own.",
+      "rationale": "What are ways the Holy Ghost can comfort us when we cannot fix a problem right away?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-burden-bearer-dunn",
+      "legacyId": "burden-bearer-dunn",
+      "collection": "prototype",
+      "title": "Burden bearer dunn",
+      "kind": "prototype",
+      "talkId": "michael-a-dunn",
+      "speaker": "Michael A. Dunn",
+      "label": "Michael A. Dunn",
+      "start": 316,
+      "end": 328,
+      "duration": 12.0,
+      "path": "assets/clips/burden-bearer-dunn.mp4",
+      "sourceCaptions": "../talks/Michael%20A%20Dunn%20%C2%A6%20October%202026%20General%20Conference/Michael%20A.%20Dunn%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Michael%20A%20Dunn%20%C2%A6%20October%202026%20General%20Conference/Michael%20A.%20Dunn%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "c95b3213e7722aaf062b50ab1585c7aea733335da76bec639872ccc03bcdff2a",
+      "leadCueText": "and magnifying even our most minuscule",
+      "tailCueText": "Anytime we turn to Christ, we turn a",
+      "sourceCueNumbers": [
+        112,
+        117
+      ],
+      "expectedQuote": "The Redeemer rescues not by shortening our course, but by helping us lengthen our stride.",
+      "rationale": "How can Christ help us keep moving even when the challenge is still there?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-commandments-giuffra",
+      "legacyId": "commandments-giuffra",
+      "collection": "prototype",
+      "title": "Commandments giuffra",
+      "kind": "prototype",
+      "talkId": "patricio-m-giuffra",
+      "speaker": "Patricio M. Giuffra",
+      "label": "Patricio M. Giuffra",
+      "start": 238,
+      "end": 262,
+      "duration": 24.0,
+      "path": "assets/clips/commandments-giuffra.mp4",
+      "sourceCaptions": "../talks/Patricio%20M%20Giuffra%20%C2%A6%20October%202026%20General%20Conference/Patricio%20M.%20Giuffra%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Patricio%20M%20Giuffra%20%C2%A6%20October%202026%20General%20Conference/Patricio%20M.%20Giuffra%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "296ff219987060135b0a99c15cd1a0451fa6f09121aff4601cc77ef68b3787bc",
+      "leadCueText": "according to our obedience. My wife",
+      "tailCueText": "the challenges the world presents.",
+      "sourceCueNumbers": [
+        82,
+        92
+      ],
+      "expectedQuote": "We keep the commandments because we love God, not merely because we hope to receive the blessings that come from obedience. Commandments are given to draw us closer to the Savior, to protect us, and to help us remain free from sin and many of the challenges the world presents.",
+      "rationale": "How can obedience be an expression of love for Jesus Christ in everyday life?",
+      "qualifications": [],
+      "topics": []
+    },
+    {
+      "id": "legacy-divine-appointments-farnes",
+      "legacyId": "divine-appointments-farnes",
+      "collection": "prototype",
+      "title": "Divine appointments farnes",
+      "kind": "prototype",
+      "talkId": "timothy-l-farnes",
+      "speaker": "Timothy L. Farnes",
+      "label": "Timothy L. Farnes",
+      "start": 266,
+      "end": 286,
+      "duration": 20.0,
+      "path": "assets/clips/divine-appointments-farnes.mp4",
+      "sourceCaptions": "../talks/Timothy%20L%20Farnes%20%C2%A6%20October%202026%20General%20Conference/Timothy%20L.%20Farnes%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.English.srt",
+      "sourceVideo": "../talks/Timothy%20L%20Farnes%20%C2%A6%20October%202026%20General%20Conference/Timothy%20L.%20Farnes%20%C2%A6%20October%202026%20General%20Conference%20%281080p_30fps_H264-128kbit_AAC%29.mp4",
+      "sourceFingerprint": "04b4371918ca78d3e4418496280a1e6026ec4a34fd3d335dcde7145c3b82378d",
+      "leadCueText": "with a story about about a man who had",
+      "tailCueText": "This pattern defined the Savior's",
+      "sourceCueNumbers": [
+        106,
+        115
+      ],
+      "expectedQuote": "Where others saw an inconvenience or an interruption, one man saw an opportunity to minister, a divine appointment. Seeing awakened compassion. Compassion moved him to act, and his actions changed a life forever.",
+      "rationale": "Who might God have placed in our path this week, and what could compassionate action look like?",
+      "qualifications": [],
+      "topics": []
+    }
+  ],
+  "expectations": [
+    {
+      "id": "legacy-identity-bridge-hathaway",
+      "expectedMeaning": "Jesus Christ is the great deliverer. Have you ever felt left out? Wondered if you were enough, lost someone you loved, faced illness, experienced family difficulties, or carried a burden no one else could see?",
+      "expectedQuote": "Jesus Christ is the great deliverer. Have you ever felt left out? Wondered if you were enough, lost someone you loved, faced illness, experienced family difficulties, or carried a burden no one else could see?",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "christ"
+            ],
+            [
+              "deliver*"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-daily-discipleship-causse",
+      "expectedMeaning": "The sacred responsibility to bear witness of Jesus Christ is not limited to prophets and apostles. It extends to all His disciples. ... Through your testimonies in word and deed, you demonstrate the reality of a loving Savior and of the blessings that come through His gospel.",
+      "expectedQuote": "The sacred responsibility to bear witness of Jesus Christ is not limited to prophets and apostles. It extends to all His disciples. ... Through your testimonies in word and deed, you demonstrate the reality of a loving Savior and of the blessings that come through His gospel.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "witness",
+              "testimon*"
+            ],
+            [
+              "discipl*"
+            ],
+            [
+              "all",
+              "extends",
+              "not limited"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-lifelong-discipleship-douglas",
+      "expectedMeaning": "Serving missions are just one of many significant steps on the path of lifelong discipleship.",
+      "expectedQuote": "Serving missions are just one of many significant steps on the path of lifelong discipleship.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "mission*"
+            ],
+            [
+              "lifelong",
+              "life long"
+            ],
+            [
+              "discipl*"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-revelation-soares",
+      "expectedMeaning": "Our hearts are softened. Our souls become more receptive to the influence of the Holy Ghost. And we are better prepared to receive personal revelation and move forward along the covenant path.",
+      "expectedQuote": "Our hearts are softened. Our souls become more receptive to the influence of the Holy Ghost. And we are better prepared to receive personal revelation and move forward along the covenant path.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "receptive",
+              "soft*"
+            ],
+            [
+              "holy ghost",
+              "spirit"
+            ],
+            [
+              "revelation"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-enduring-grace-hathaway",
+      "expectedMeaning": "This grace does not remove the pain and difficulty of affliction. It is an enabling power that allows us, after all we can do, to receive divine strength beyond our own and lay hold on eternal promises through Jesus Christ.",
+      "expectedQuote": "This grace does not remove the pain and difficulty of affliction. It is an enabling power that allows us, after all we can do, to receive divine strength beyond our own and lay hold on eternal promises through Jesus Christ.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "does not remove",
+              "not remove",
+              "doesn t remove"
+            ],
+            [
+              "pain",
+              "affliction"
+            ],
+            [
+              "strength",
+              "power"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-shaped-by-christ-runia",
+      "expectedMeaning": "There is a sculpting taking place within each of our souls. ... God is shaping us into something only He knows we can become. ... The molding, the shaping, the pain and adversity have helped us become more like Him.",
+      "expectedQuote": "There is a sculpting taking place within each of our souls. ... God is shaping us into something only He knows we can become. ... The molding, the shaping, the pain and adversity have helped us become more like Him.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "sculpt*",
+              "shap*",
+              "mold*"
+            ],
+            [
+              "god",
+              "he"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-covenants-gong",
+      "expectedMeaning": "When the Holy Spirit of Promise witnesses and confirms the efficacy of ordinances and covenants, they become binding in time and eternity. ... As we honor our covenants, the Holy Spirit of Promise seals our relationships.",
+      "expectedQuote": "When the Holy Spirit of Promise witnesses and confirms the efficacy of ordinances and covenants, they become binding in time and eternity. ... As we honor our covenants, the Holy Spirit of Promise seals our relationships.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "holy spirit of promise",
+              "spirit of promise"
+            ],
+            [
+              "binding",
+              "eternity",
+              "eternal"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-sharing-love-causse",
+      "expectedMeaning": "Because we love others, we naturally desire to share with them the most precious gift we have received, our witness of Jesus Christ and His gospel.",
+      "expectedQuote": "Because we love others, we naturally desire to share with them the most precious gift we have received, our witness of Jesus Christ and His gospel.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "love"
+            ],
+            [
+              "share"
+            ],
+            [
+              "witness",
+              "testimon*"
+            ],
+            [
+              "christ"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-missionary-example-douglas",
+      "expectedMeaning": "We love missionaries of all ages. You are an army of righteousness with the doctrine of Christ as your purpose. You are a force of faith, power, love, and joy. You are what you preach.",
+      "expectedQuote": "We love missionaries of all ages. You are an army of righteousness with the doctrine of Christ as your purpose. You are a force of faith, power, love, and joy. You are what you preach.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "missionar*"
+            ],
+            [
+              "faith",
+              "righteous*"
+            ],
+            [
+              "preach"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-identity-kearon",
+      "expectedMeaning": "At the heart of our faith is the glorious truth that we have an adoring Father in Heaven whose Son, our Savior, loves to lift.",
+      "expectedQuote": "At the heart of our faith is the glorious truth that we have an adoring Father in Heaven whose Son, our Savior, loves to lift.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "father"
+            ],
+            [
+              "heaven"
+            ],
+            [
+              "love",
+              "ador*"
+            ],
+            [
+              "lift"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-holy-spirit-kearon",
+      "expectedMeaning": "Spiritual lift cannot be seen. But as we learn to discern and act upon the sensitive impressions of the Holy Spirit, we can feel it as surely as I felt the rising air lift a wing beneath me.",
+      "expectedQuote": "Spiritual lift cannot be seen. But as we learn to discern and act upon the sensitive impressions of the Holy Spirit, we can feel it as surely as I felt the rising air lift a wing beneath me.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "spirit*"
+            ],
+            [
+              "discern",
+              "impression*"
+            ],
+            [
+              "act"
+            ],
+            [
+              "lift"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-trust-through-trials-renlund",
+      "expectedMeaning": "Yet, God invites us to trust Him and His promises. ... In the world you shall have tribulation, but be of good cheer. I have overcome the world. ... When our faith is centered on Jesus Christ, He promises spiritual peace no matter our circumstances.",
+      "expectedQuote": "Yet, God invites us to trust Him and His promises. ... In the world you shall have tribulation, but be of good cheer. I have overcome the world. ... When our faith is centered on Jesus Christ, He promises spiritual peace no matter our circumstances.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "trust"
+            ],
+            [
+              "promis*"
+            ],
+            [
+              "peace"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-love-as-care-rasband",
+      "expectedMeaning": "Love is not stepping back or sanctioning others' decisions and actions. Love is being interested in their lives, their successes, and their challenges. Love is being there with arms outstretched and a cheerful countenance. Love is lifting with faith and hope in our Lord and Savior.",
+      "expectedQuote": "Love is not stepping back or sanctioning others' decisions and actions. Love is being interested in their lives, their successes, and their challenges. Love is being there with arms outstretched and a cheerful countenance. Love is lifting with faith and hope in our Lord and Savior.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "love"
+            ],
+            [
+              "interest*"
+            ],
+            [
+              "challenge*",
+              "success*"
+            ],
+            [
+              "there",
+              "lift*"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-sacrament-chigbundu",
+      "expectedMeaning": "The sacrament is a sacred ordinance that strengthens our relationship with the Savior. During the sacrament, we make promises to take upon us the name of Jesus Christ, to always remember Him, and to keep His commandments.",
+      "expectedQuote": "The sacrament is a sacred ordinance that strengthens our relationship with the Savior. During the sacrament, we make promises to take upon us the name of Jesus Christ, to always remember Him, and to keep His commandments.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "sacrament"
+            ],
+            [
+              "name"
+            ],
+            [
+              "remember"
+            ],
+            [
+              "commandment*"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-identity-fale",
+      "expectedMeaning": "I am a child of God and He loves me. ... Each is a beloved spirit son or daughter of heavenly parents and as such each has a divine nature and destiny.",
+      "expectedQuote": "I am a child of God and He loves me. ... Each is a beloved spirit son or daughter of heavenly parents and as such each has a divine nature and destiny.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "child",
+              "son",
+              "daughter"
+            ],
+            [
+              "god",
+              "heavenly"
+            ],
+            [
+              "love",
+              "beloved"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-covenant-reach-morgan",
+      "expectedMeaning": "Covenants with God stretch over all time and all space. If you are wondering whether you or a loved one has wandered so far away that the love of God and His covenantal power cannot reach you, I say to you, you have not.",
+      "expectedQuote": "Covenants with God stretch over all time and all space. If you are wondering whether you or a loved one has wandered so far away that the love of God and His covenantal power cannot reach you, I say to you, you have not.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "covenant*"
+            ],
+            [
+              "time"
+            ],
+            [
+              "space"
+            ],
+            [
+              "you have not",
+              "not wandered so far",
+              "never too far"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-holy-ghost-comfort-eyring",
+      "expectedMeaning": "The Savior's peace is made manifest through the comforting power of the Holy Ghost. That comfort will help us when we go through the inevitable hardships of life and times when we can't fix things on our own.",
+      "expectedQuote": "The Savior's peace is made manifest through the comforting power of the Holy Ghost. That comfort will help us when we go through the inevitable hardships of life and times when we can't fix things on our own.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "holy ghost",
+              "spirit"
+            ],
+            [
+              "comfort"
+            ],
+            [
+              "hardship*",
+              "can t fix",
+              "cannot fix"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-burden-bearer-dunn",
+      "expectedMeaning": "The Redeemer rescues not by shortening our course, but by helping us lengthen our stride.",
+      "expectedQuote": "The Redeemer rescues not by shortening our course, but by helping us lengthen our stride.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "not by shortening",
+              "not shortening",
+              "not by short*"
+            ],
+            [
+              "lengthen",
+              "longer"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-commandments-giuffra",
+      "expectedMeaning": "We keep the commandments because we love God, not merely because we hope to receive the blessings that come from obedience. Commandments are given to draw us closer to the Savior, to protect us, and to help us remain free from sin and many of the challenges the world presents.",
+      "expectedQuote": "We keep the commandments because we love God, not merely because we hope to receive the blessings that come from obedience. Commandments are given to draw us closer to the Savior, to protect us, and to help us remain free from sin and many of the challenges the world presents.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "love"
+            ],
+            [
+              "god"
+            ],
+            [
+              "not merely",
+              "not only",
+              "not just"
+            ],
+            [
+              "blessing*"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    },
+    {
+      "id": "legacy-divine-appointments-farnes",
+      "expectedMeaning": "Where others saw an inconvenience or an interruption, one man saw an opportunity to minister, a divine appointment. Seeing awakened compassion. Compassion moved him to act, and his actions changed a life forever.",
+      "expectedQuote": "Where others saw an inconvenience or an interruption, one man saw an opportunity to minister, a divine appointment. Seeing awakened compassion. Compassion moved him to act, and his actions changed a life forever.",
+      "checks": [
+        {
+          "id": "quote-main-content",
+          "label": "Core meaning of the displayed prototype quotation",
+          "importance": "essential",
+          "conceptGroups": [
+            [
+              "opportunity",
+              "divine appointment"
+            ],
+            [
+              "minister"
+            ],
+            [
+              "compassion"
+            ],
+            [
+              "act*"
+            ]
+          ]
+        }
+      ],
+      "companionIds": [],
+      "boundaryNote": "Compare against the displayed quotation as well as source captions. A quote difference can be recognition or paraphrase; exact spoken wording still requires human listening."
+    }
+  ]
+}

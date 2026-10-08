@@ -1,0 +1,16 @@
+{
+  "clipId": "rasband-positive-practices-of-love",
+  "clipSha256": "5ddb5f7332c4138bd6c7e1f64bd9d4a83193e93d0b59767a955bfede90935f1f",
+  "sourceFingerprint": "cc609ccda059b89e4c9576824a8ad513638e3b1dda64355ad8b9bff5bd77a7b9",
+  "model": "C:\\Users\\test.DESKTOP-C9LGDDI\\Desktop\\General_Conference_Activity_Planning\\conference-game\\speech-audit\\models\\ggml-base.en.bin",
+  "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+  "engine": "C:\\whisper-work\\cuda\\Release\\whisper-cli.exe",
+  "engineVersion": "whisper.cpp version: 1.9.3",
+  "backend": "cuda",
+  "language": "en",
+  "initialPrompt": null,
+  "maxContext": 0,
+  "threads": 8,
+  "status": "Independent machine transcription; not a human listening audit.",
+  "transcribedAt": "2026-10-05T14:22:56.761386+00:00"
+}
